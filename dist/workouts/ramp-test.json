@@ -1,0 +1,29 @@
+{
+  "name": "Ramp Test",
+  "note": "FTP estimator. Ride each step to completion; stop when you can't hold the power. FTP ≈ last completed step × 0.75.",
+  "intervals": [
+    { "duration": 300, "power": 100, "note": "warm-up easy" },
+    { "duration":  60, "power": 100, "note": "step 1  — 100 W" },
+    { "duration":  60, "power": 120, "note": "step 2  — 120 W" },
+    { "duration":  60, "power": 140, "note": "step 3  — 140 W" },
+    { "duration":  60, "power": 160, "note": "step 4  — 160 W" },
+    { "duration":  60, "power": 180, "note": "step 5  — 180 W" },
+    { "duration":  60, "power": 200, "note": "step 6  — 200 W" },
+    { "duration":  60, "power": 220, "note": "step 7  — 220 W" },
+    { "duration":  60, "power": 240, "note": "step 8  — 240 W" },
+    { "duration":  60, "power": 260, "note": "step 9  — 260 W" },
+    { "duration":  60, "power": 280, "note": "step 10 — 280 W" },
+    { "duration":  60, "power": 300, "note": "step 11 — 300 W" },
+    { "duration":  60, "power": 320, "note": "step 12 — 320 W" },
+    { "duration":  60, "power": 340, "note": "step 13 — 340 W" },
+    { "duration":  60, "power": 360, "note": "step 14 — 360 W" },
+    { "duration":  60, "power": 380, "note": "step 15 — 380 W" },
+    { "duration":  60, "power": 400, "note": "step 16 — 400 W" },
+    { "duration":  60, "power": 420, "note": "step 17 — 420 W" },
+    { "duration":  60, "power": 440, "note": "step 18 — 440 W" },
+    { "duration":  60, "power": 460, "note": "step 19 — 460 W" },
+    { "duration":  60, "power": 480, "note": "step 20 — 480 W" },
+    { "duration":  60, "power": 500, "note": "step 21 — 500 W (stop here or press Q)" },
+    { "duration": 300, "power": 100, "type": "ramp", "note": "cool-down" }
+  ]
+}

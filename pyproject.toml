@@ -1,0 +1,18 @@
+[project]
+name = "trainer-app"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "bleak>=3.0.1",
+    "rich>=14.3.3",
+    "textual>=8.2.3",
+]
+[tool.uv]
+system-certs = true
+
+[dependency-groups]
+dev = [
+    "pyinstaller>=6.19.0",
+]

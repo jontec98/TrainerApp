@@ -1,0 +1,33 @@
+{
+  "name": "Over-Unders",
+  "note": "3 sets of 3×(3 min under + 1 min over) threshold. Raises lactate clearance. ~250 W FTP baseline.",
+  "intervals": [
+    { "duration": 600, "power": 150,                 "note": "warm-up" },
+    { "duration": 120, "power": 235, "type": "ramp", "note": "ramp to threshold" },
+
+    { "duration": 180, "power": 235, "note": "set 1 under (94% FTP)" },
+    { "duration":  60, "power": 268, "note": "set 1 over (107% FTP)" },
+    { "duration": 180, "power": 235 },
+    { "duration":  60, "power": 268 },
+    { "duration": 180, "power": 235 },
+    { "duration":  60, "power": 268 },
+    { "duration": 300, "power": 120, "note": "rest" },
+
+    { "duration": 180, "power": 235, "note": "set 2 under" },
+    { "duration":  60, "power": 268, "note": "set 2 over" },
+    { "duration": 180, "power": 235 },
+    { "duration":  60, "power": 268 },
+    { "duration": 180, "power": 235 },
+    { "duration":  60, "power": 268 },
+    { "duration": 300, "power": 120, "note": "rest" },
+
+    { "duration": 180, "power": 235, "note": "set 3 under" },
+    { "duration":  60, "power": 268, "note": "set 3 over" },
+    { "duration": 180, "power": 235 },
+    { "duration":  60, "power": 268 },
+    { "duration": 180, "power": 235 },
+    { "duration":  60, "power": 268 },
+
+    { "duration": 600, "power": 120, "type": "ramp", "note": "cool-down" }
+  ]
+}
