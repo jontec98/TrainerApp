@@ -20,10 +20,12 @@ from textual.containers import Horizontal
 from textual.widgets import Button, Footer, Header, Static
 
 # ── BLE service / characteristic UUIDs ────────────────────────────────────────
-CYCLING_POWER_SERVICE     = "00001818-0000-1000-8000-00805f9b34fb"
-CYCLING_POWER_MEASUREMENT = "00002a63-0000-1000-8000-00805f9b34fb"
-FTMS_SERVICE              = "00001826-0000-1000-8000-00805f9b34fb"
-FTMS_CONTROL_POINT        = "00002ad9-0000-1000-8000-00805f9b34fb"
+CYCLING_POWER_SERVICE            = "00001818-0000-1000-8000-00805f9b34fb"
+CYCLING_POWER_MEASUREMENT        = "00002a63-0000-1000-8000-00805f9b34fb"
+CYCLING_SPEED_CADENCE_SERVICE    = "00001816-0000-1000-8000-00805f9b34fb"
+CSC_MEASUREMENT                  = "00002a5b-0000-1000-8000-00805f9b34fb"
+FTMS_SERVICE                     = "00001826-0000-1000-8000-00805f9b34fb"
+FTMS_CONTROL_POINT               = "00002ad9-0000-1000-8000-00805f9b34fb"
 HR_SERVICE                = "0000180d-0000-1000-8000-00805f9b34fb"
 HR_MEASUREMENT            = "00002a37-0000-1000-8000-00805f9b34fb"
 
@@ -47,12 +49,74 @@ _ZONES = [
 _SPARK     = "▁▂▃▄▅▆▇█"
 _BAR_WIDTH = 24
 
+_BIG_DIGITS = {
+    "0": ["███", "█ █", "█ █", "█ █", "███"],
+    "1": [" ██", "  █", "  █", "  █", "███"],
+    "2": ["███", "  █", "███", "█  ", "███"],
+    "3": ["███", "  █", "███", "  █", "███"],
+    "4": ["█ █", "█ █", "███", "  █", "  █"],
+    "5": ["███", "█  ", "███", "  █", "███"],
+    "6": ["███", "█  ", "███", "█ █", "███"],
+    "7": ["███", "  █", "  █", "  █", "  █"],
+    "8": ["███", "█ █", "███", "█ █", "███"],
+    "9": ["███", "█ █", "███", "  █", "███"],
+    "-": ["   ", "   ", "███", "   ", "   "],
+    "+": ["   ", " █ ", "███", " █ ", "   "],
+    " ": ["   ", "   ", "   ", "   ", "   "],
+}
 
-def parse_power(data: bytearray) -> int:
+
+def _big_digits(text: str, style: str = "white") -> str:
+    rows = ["" for _ in range(5)]
+    for ch in text:
+        pattern = _BIG_DIGITS.get(ch, _BIG_DIGITS[" "])
+        for i, line in enumerate(pattern):
+            rows[i] += f"[{style}]{line}[/] "
+    return "\n".join(rows).rstrip()
+
+
+def parse_power(data: bytearray) -> tuple[int, tuple[int, int] | None]:
     if len(data) < 4:
-        return 0
+        return 0, None
+    flags = int.from_bytes(data[0:2], "little")
     power, = struct.unpack_from("<h", data, 2)
-    return power
+    offset = 4
+    cadence_info: tuple[int, int] | None = None
+
+    if flags & 0x01:
+        offset += 1
+    if flags & 0x02:
+        offset += 2
+    if flags & 0x04:
+        if len(data) >= offset + 6:
+            offset += 6
+        else:
+            return power, None
+    if flags & 0x08:
+        if len(data) >= offset + 4:
+            cumulative_crank_revs = struct.unpack_from("<H", data, offset)[0]
+            last_crank_event_time = struct.unpack_from("<H", data, offset + 2)[0]
+            cadence_info = (cumulative_crank_revs, last_crank_event_time)
+
+    return power, cadence_info
+
+
+def parse_csc(data: bytearray) -> tuple[int, int] | None:
+    if len(data) < 1:
+        return None
+    flags = data[0]
+    offset = 1
+    if flags & 0x01:
+        if len(data) < offset + 6:
+            return None
+        offset += 6
+    if flags & 0x02:
+        if len(data) < offset + 4:
+            return None
+        cumulative_crank_revs = struct.unpack_from("<H", data, offset)[0]
+        last_crank_event_time = struct.unpack_from("<H", data, offset + 2)[0]
+        return cumulative_crank_revs, last_crank_event_time
+    return None
 
 
 def parse_hr(data: bytearray) -> int:
@@ -195,18 +259,74 @@ def make_panel(
     workout_done: bool = False,
     paused:       bool = False,
     hr:           int  = 0,
+    cadence:      int  = 0,
     erg_enabled:  bool = True,
 ) -> Panel:
     t_zone, t_color = _zone(target)
     a_zone, a_color = _zone(actual)
     diff       = actual - target
     diff_color = "green3" if abs(diff) < 10 else "yellow3" if abs(diff) < 30 else "red1"
+    hc         = _hr_color(hr)
 
-    grid = Table.grid(padding=(0, 1))
-    grid.add_column(min_width=9,          justify="right")
-    grid.add_column(min_width=_BAR_WIDTH, justify="left")
-    grid.add_column(min_width=7,          justify="right")
-    grid.add_column(min_width=3,          justify="left")
+    target_panel = Panel(
+        f"[dim]{t_zone}[/dim]\n[bold {t_color}]{target} W[/bold {t_color}]",
+        title="TARGET",
+        border_style=t_color,
+        padding=(0, 2),
+        expand=True,
+    )
+
+    actual_panel = Panel(
+        f"[dim]{a_zone}[/dim]\n[bold {a_color}]{actual} W[/bold {a_color}]",
+        title="ACTUAL",
+        border_style=a_color,
+        padding=(0, 2),
+        expand=True,
+    )
+
+    diff_panel = Panel(
+        f"[bold {diff_color}]{diff:+} W[/bold {diff_color}]",
+        title="DIFF",
+        border_style=diff_color,
+        padding=(0, 2),
+        expand=True,
+    )
+
+    heart_panel = Panel(
+        f"[bold {hc}]{hr if hr > 0 else '---'} bpm[/bold {hc}]",
+        title="HEART",
+        border_style=hc,
+        padding=(0, 2),
+        expand=True,
+    )
+
+    cadence_panel = Panel(
+        f"[bold magenta]{cadence if cadence > 0 else '---'} rpm[/bold magenta]",
+        title="CADENCE",
+        border_style="magenta",
+        padding=(0, 2),
+        expand=True,
+    )
+
+    mode_panel = Panel(
+        "[bold cyan]ERG ON[/bold cyan]" if erg_enabled else "[bold yellow]ERG OFF[/bold yellow]",
+        title="MODE",
+        border_style="cyan" if erg_enabled else "yellow",
+        padding=(0, 2),
+        expand=True,
+    )
+
+    left = Table.grid(padding=(0, 1))
+    left.add_row(target_panel)
+    left.add_row(actual_panel)
+    left.add_row(diff_panel)
+    left.add_row(Panel(_bar(actual, a_color), title="POWER BAR", border_style=a_color, padding=(0, 1), expand=True))
+    left.add_row(Panel(_sparkline(history), title="HISTORY", border_style="grey50", padding=(0, 1), expand=True))
+
+    right = Table.grid(padding=(0, 1))
+    right.add_row(heart_panel)
+    right.add_row(cadence_panel)
+    right.add_row(mode_panel)
 
     if status is not None:
         pct       = status.elapsed_in / max(status.interval_dur, 1)
@@ -217,51 +337,26 @@ def make_panel(
         remaining = status.interval_dur - status.elapsed_in
         total_rem = status.total_dur - status.total_elapsed
 
-        grid.add_row("", "", "", "")
-        grid.add_row("[dim]WORKOUT[/dim]",  f"[bold]{status.name}[/bold]", "", "")
-        grid.add_row(
-            "[dim]INTERVAL[/dim]",
-            (f"[bold]{status.interval_idx + 1}[/bold] [dim]/ {status.total_intervals}[/dim]"
-             f"{iv_type}  [dim]·[/dim]  [bold]{_fmt_time(remaining)}[/bold] left"),
-            "", "",
+        status_panel = Panel(
+            "\n".join([
+                f"[bold]{status.name}[/bold]",
+                f"[dim]Interval[/dim] [bold]{status.interval_idx + 1}[/bold] [dim]/ {status.total_intervals}[/dim]{iv_type}",
+                f"[dim]Time left[/dim] [bold]{_fmt_time(remaining)}[/bold]",
+                f"[dim]Session[/dim] [bold]{_fmt_time(status.total_elapsed)}[/bold] [dim]/ {_fmt_time(status.total_dur)}[/dim]",
+                "",
+                prog,
+            ]),
+            title="WORKOUT",
+            border_style="cyan",
+            padding=(0, 1),
+            expand=True,
         )
-        grid.add_row("", prog, "", "")
-        grid.add_row(
-            "[dim]SESSION[/dim]",
-            (f"{_fmt_time(status.total_elapsed)} [dim]/ {_fmt_time(status.total_dur)}[/dim]"
-             f"   [dim]{_fmt_time(total_rem)} remaining[/dim]"),
-            "", "",
-        )
+        right.add_row(status_panel)
 
-    grid.add_row("", "", "", "")
-    grid.add_row(
-        "[bold]TARGET[/bold]",
-        _bar(target, t_color),
-        f"[bold {t_color}]{target:>4} W[/bold {t_color}]",
-        f"[dim]{t_zone}[/dim]",
-    )
-    grid.add_row("", "", "", "")
-    grid.add_row(
-        "[bold]ACTUAL[/bold]",
-        _bar(actual, a_color),
-        f"[bold {a_color}]{actual:>4} W[/bold {a_color}]",
-        f"[dim]{a_zone}[/dim]",
-    )
-    grid.add_row("", "", "", "")
-    grid.add_row(
-        "[dim]DIFF[/dim]",
-        f"[bold {diff_color}]{diff:>+5} W[/bold {diff_color}]",
-        "", "",
-    )
-    grid.add_row("", "", "", "")
-    grid.add_row("[dim]HISTORY[/dim]", _sparkline(history), "", "")
-    grid.add_row("", "", "", "")
-    hc     = _hr_color(hr)
-    hr_str = f"[bold {hc}]\u2665  {hr:>3} bpm[/bold {hc}]" if hr > 0 else "[dim]\u2665  ---[/dim]"
-    erg_str = "[bold cyan]\u26a1 ERG  ON[/bold cyan]" if erg_enabled else "[bold yellow]\u26a1 ERG OFF[/bold yellow]"
-    grid.add_row("[dim]HEART[/dim]", hr_str, "", "")
-    grid.add_row("[dim]MODE[/dim]",  erg_str, "", "")
-    grid.add_row("", "", "", "")
+    grid = Table.grid(padding=(0, 1))
+    grid.add_column(ratio=3)
+    grid.add_column(ratio=2, min_width=24)
+    grid.add_row(left, right)
 
     if paused:
         title  = "[bold yellow]⏸  WAHOO ERG — PAUSED[/bold yellow]"
@@ -273,7 +368,7 @@ def make_panel(
         title  = "[bold cyan]⚡  WAHOO ERG  ⚡[/bold cyan]"
         border = "cyan"
 
-    return Panel(grid, title=title, border_style=border, expand=False)
+    return Panel(grid, title=title, border_style=border, expand=True, padding=(1, 2))
 
 
 # ── TCX export ───────────────────────────────────────────────────────────────
@@ -430,6 +525,12 @@ async def find_hr_monitor() -> str | None:
     return devices[choice].address
 
 
+async def find_cadence_sensor() -> str | None:
+    """Try to find a dedicated cadence sensor. Return None if using trainer's built-in cadence."""
+    console.print("[dim]Cadence will be read from the trainer's power sensor.[/dim]")
+    return None
+
+
 # ── Textual app ───────────────────────────────────────────────────────────────
 
 class PowerDisplay(Static):
@@ -443,21 +544,22 @@ class WahooApp(App):
         align: center top;
     }
     PowerDisplay {
-        width: auto;
+        width: 68;
         height: auto;
-        margin: 1 0 0 0;
+        margin: 2 0 0 0;
         align: center middle;
     }
     #controls {
-        width: auto;
+        width: 68;
         height: auto;
-        margin: 1 0 0 0;
+        margin: 2 0 0 0;
         align: center middle;
     }
     Button {
-        width: 16;
+        width: 14;
         height: 3;
         margin: 0 1;
+        content-align: center middle;
     }
     #btn_up {
         background: #1a3a1a;
@@ -509,10 +611,11 @@ class WahooApp(App):
         Binding("q",     "quit",         "Quit"),
     ]
 
-    def __init__(self, address: str, workout: Workout | None = None, hr_address: str | None = None) -> None:
+    def __init__(self, address: str, workout: Workout | None = None, hr_address: str | None = None, cadence_address: str | None = None) -> None:
         super().__init__()
         self._address         = address
         self._hr_address      = hr_address
+        self._cadence_address = cadence_address
         self._workout         = workout
         self._client: BleakClient | None = None
         self._has_ftms        = False
@@ -529,6 +632,13 @@ class WahooApp(App):
         self._zero_since:     float | None    = None
         self._erg_enabled     = True
         self._hr              = 0
+        self._cadence         = 0
+        # Crank tracking for power sensor
+        self._last_crank_revs: int | None         = None
+        self._last_crank_event_time: int | None   = None
+        # Crank tracking for dedicated cadence sensor
+        self._csc_last_crank_revs: int | None     = None
+        self._csc_last_crank_event_time: int | None = None
         self._session_start:  datetime.datetime | None                    = None
         self._trackpoints:    list[tuple[datetime.datetime, int, int]]    = []
 
@@ -553,12 +663,23 @@ class WahooApp(App):
         asyncio.create_task(self._ble_loop())
         if self._hr_address:
             asyncio.create_task(self._hr_loop())
+        if self._cadence_address:
+            asyncio.create_task(self._cadence_loop())
         self.set_interval(0.25, self._refresh)
 
     def _refresh(self) -> None:
         self.query_one("#display", PowerDisplay).update(
-            make_panel(self._actual, self._target, self._history,
-                       self._status, self._done, self._is_paused, self._hr, self._erg_enabled)
+            make_panel(
+                self._actual,
+                self._target,
+                self._history,
+                self._status,
+                self._done,
+                self._is_paused,
+                self._hr,
+                self._cadence,
+                self._erg_enabled,
+            )
         )
 
     # ── Actions ───────────────────────────────────────────────────────────────
@@ -638,12 +759,22 @@ class WahooApp(App):
         _AUTO_PAUSE_GRACE = 3.0  # seconds of zero power before auto-pausing
 
         def on_measurement(char: BleakGATTCharacteristic, data: bytearray) -> None:
-            watts        = parse_power(data)
+            watts, crank_data = parse_power(data)
             self._actual = watts
             if not self._is_paused:
                 self._history.append(watts)
                 if len(self._history) > 40:
                     self._history.pop(0)
+
+            if crank_data is not None:
+                cumulative_crank_revs, last_crank_event_time = crank_data
+                if self._last_crank_revs is not None and self._last_crank_event_time is not None:
+                    delta_revs = (cumulative_crank_revs - self._last_crank_revs) & 0xFFFF
+                    delta_time = (last_crank_event_time - self._last_crank_event_time) & 0xFFFF
+                    if delta_time > 0:
+                        self._cadence = int(60.0 * delta_revs / (delta_time / 1024.0))
+                self._last_crank_revs = cumulative_crank_revs
+                self._last_crank_event_time = last_crank_event_time
 
             now = time.monotonic()
             if watts == 0:
@@ -705,6 +836,33 @@ class WahooApp(App):
                 await client.stop_notify(HR_MEASUREMENT)
         except Exception:
             pass  # HR is optional; don't crash the app
+
+    async def _cadence_loop(self) -> None:
+        assert self._cadence_address is not None
+        try:
+            console.print(f"[dim]Connecting to cadence sensor at {self._cadence_address}...[/dim]")
+            async with BleakClient(self._cadence_address) as client:
+                def on_cadence(char: BleakGATTCharacteristic, data: bytearray) -> None:
+                    crank_data = parse_csc(data)
+                    if crank_data is not None:
+                        cumulative_crank_revs, last_crank_event_time = crank_data
+                        if self._csc_last_crank_revs is not None and self._csc_last_crank_event_time is not None:
+                            delta_revs = (cumulative_crank_revs - self._csc_last_crank_revs) & 0xFFFF
+                            delta_time = (last_crank_event_time - self._csc_last_crank_event_time) & 0xFFFF
+                            if delta_time > 0:
+                                self._cadence = int(60.0 * delta_revs / (delta_time / 1024.0))
+                        self._csc_last_crank_revs = cumulative_crank_revs
+                        self._csc_last_crank_event_time = last_crank_event_time
+
+                try:
+                    await client.start_notify(CSC_MEASUREMENT, on_cadence)
+                    console.print(f"[green]Cadence sensor connected![/green]")
+                    await self._quit_event.wait()
+                    await client.stop_notify(CSC_MEASUREMENT)
+                except Exception as notify_err:
+                    console.print(f"[yellow]Cannot find CSC_MEASUREMENT characteristic: {notify_err}[/yellow]")
+        except Exception as e:
+            console.print(f"[yellow]Cadence sensor connection failed: {e}[/yellow]")
 
     async def _workout_loop(self, client: BleakClient) -> None:
         assert self._workout is not None
@@ -809,7 +967,8 @@ def main() -> None:
     address = asyncio.run(find_trainer())
     if address:
         hr_address = asyncio.run(find_hr_monitor())
-        WahooApp(address, workout, hr_address).run()
+        cadence_address = asyncio.run(find_cadence_sensor())
+        WahooApp(address, workout, hr_address, cadence_address).run()
 
 
 if __name__ == "__main__":
