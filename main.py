@@ -12,12 +12,10 @@ import xml.etree.ElementTree as ET
 from bleak import BleakClient, BleakScanner
 from bleak.backends.characteristic import BleakGATTCharacteristic
 from rich.console import Console
-from rich.panel import Panel
-from rich.table import Table
 from textual.app import App, ComposeResult
 from textual.binding import Binding
-from textual.containers import Horizontal
-from textual.widgets import Button, Footer, Header, Static
+from textual.containers import Horizontal, Vertical
+from textual.widgets import Button, Digits, Footer, Header, Label, ProgressBar, Static
 
 # ── BLE service / characteristic UUIDs ────────────────────────────────────────
 CYCLING_POWER_SERVICE            = "00001818-0000-1000-8000-00805f9b34fb"
@@ -26,6 +24,7 @@ CYCLING_SPEED_CADENCE_SERVICE    = "00001816-0000-1000-8000-00805f9b34fb"
 CSC_MEASUREMENT                  = "00002a5b-0000-1000-8000-00805f9b34fb"
 FTMS_SERVICE                     = "00001826-0000-1000-8000-00805f9b34fb"
 FTMS_CONTROL_POINT               = "00002ad9-0000-1000-8000-00805f9b34fb"
+FTMS_INDOOR_BIKE_DATA            = "00002ad2-0000-1000-8000-00805f9b34fb"
 HR_SERVICE                = "0000180d-0000-1000-8000-00805f9b34fb"
 HR_MEASUREMENT            = "00002a37-0000-1000-8000-00805f9b34fb"
 
@@ -46,34 +45,6 @@ _ZONES = [
     (450,  "Z6", "red1"),
     (9999, "Z7", "magenta"),
 ]
-_SPARK     = "▁▂▃▄▅▆▇█"
-_BAR_WIDTH = 24
-
-_BIG_DIGITS = {
-    "0": ["███", "█ █", "█ █", "█ █", "███"],
-    "1": [" ██", "  █", "  █", "  █", "███"],
-    "2": ["███", "  █", "███", "█  ", "███"],
-    "3": ["███", "  █", "███", "  █", "███"],
-    "4": ["█ █", "█ █", "███", "  █", "  █"],
-    "5": ["███", "█  ", "███", "  █", "███"],
-    "6": ["███", "█  ", "███", "█ █", "███"],
-    "7": ["███", "  █", "  █", "  █", "  █"],
-    "8": ["███", "█ █", "███", "█ █", "███"],
-    "9": ["███", "█ █", "███", "  █", "███"],
-    "-": ["   ", "   ", "███", "   ", "   "],
-    "+": ["   ", " █ ", "███", " █ ", "   "],
-    " ": ["   ", "   ", "   ", "   ", "   "],
-}
-
-
-def _big_digits(text: str, style: str = "white") -> str:
-    rows = ["" for _ in range(5)]
-    for ch in text:
-        pattern = _BIG_DIGITS.get(ch, _BIG_DIGITS[" "])
-        for i, line in enumerate(pattern):
-            rows[i] += f"[{style}]{line}[/] "
-    return "\n".join(rows).rstrip()
-
 
 def parse_power(data: bytearray) -> tuple[int, tuple[int, int] | None]:
     if len(data) < 4:
@@ -83,16 +54,22 @@ def parse_power(data: bytearray) -> tuple[int, tuple[int, int] | None]:
     offset = 4
     cadence_info: tuple[int, int] | None = None
 
+    # Bit 0: Pedal Power Balance Present → 1 byte
     if flags & 0x01:
         offset += 1
-    if flags & 0x02:
-        offset += 2
+    # Bit 1: Pedal Power Balance Reference → no data
+    # Bit 2: Accumulated Torque Present → 2 bytes
     if flags & 0x04:
+        offset += 2
+    # Bit 3: Accumulated Torque Source → no data
+    # Bit 4: Wheel Revolution Data Present → uint32 + uint16 = 6 bytes
+    if flags & 0x10:
         if len(data) >= offset + 6:
             offset += 6
         else:
             return power, None
-    if flags & 0x08:
+    # Bit 5: Crank Revolution Data Present → uint16 + uint16 = 4 bytes
+    if flags & 0x20:
         if len(data) >= offset + 4:
             cumulative_crank_revs = struct.unpack_from("<H", data, offset)[0]
             last_crank_event_time = struct.unpack_from("<H", data, offset + 2)[0]
@@ -119,6 +96,29 @@ def parse_csc(data: bytearray) -> tuple[int, int] | None:
     return None
 
 
+def parse_indoor_bike_data(data: bytearray) -> tuple[float | None, int | None]:
+    """Parse FTMS Indoor Bike Data (0x2AD2). Returns (speed_kmh, cadence_rpm)."""
+    if len(data) < 2:
+        return None, None
+    flags = int.from_bytes(data[0:2], "little")
+    offset = 2
+    speed: float | None = None
+    cadence: int | None = None
+    # Bit 0 = 0: Instantaneous Speed present
+    if not (flags & 0x01):
+        if len(data) >= offset + 2:
+            speed = struct.unpack_from("<H", data, offset)[0] * 0.01
+            offset += 2
+    # Bit 1: Average Speed present
+    if flags & 0x02:
+        offset += 2
+    # Bit 2: Instantaneous Cadence present
+    if flags & 0x04:
+        if len(data) >= offset + 2:
+            cadence = int(struct.unpack_from("<H", data, offset)[0] * 0.5)
+    return speed, cadence
+
+
 def parse_hr(data: bytearray) -> int:
     if len(data) < 2:
         return 0
@@ -134,36 +134,48 @@ def _zone(watts: int) -> tuple[str, str]:
     return "Z7", "magenta"
 
 
-def _hr_color(bpm: int) -> str:
-    if bpm <= 0:   return "dim white"
-    if bpm < 100:  return "grey62"
-    if bpm < 130:  return "steel_blue1"
-    if bpm < 155:  return "green3"
-    if bpm < 170:  return "yellow3"
-    return "red1"
+_ZONE_HEX = ("#9e9e9e", "#4fc3f7", "#66bb6a", "#ffd54f", "#ffa726", "#ef5350", "#ce93d8")
 
 
-def _bar(watts: int, color: str) -> str:
-    filled = min(_BAR_WIDTH, int(_BAR_WIDTH * watts / MAX_POWER))
-    empty  = _BAR_WIDTH - filled
-    return f"[{color}]{'█' * filled}[/{color}][dim white]{'░' * empty}[/dim white]"
+def _zone_hex(watts: int) -> str:
+    for i, (limit, _, _) in enumerate(_ZONES):
+        if watts <= limit:
+            return _ZONE_HEX[i]
+    return _ZONE_HEX[-1]
 
 
-def _sparkline(history: list[int]) -> str:
-    if not history:
-        return "[dim]no data yet…[/dim]"
-    peak = max(max(history), 1)
-    parts: list[str] = []
-    for v in history:
-        _, c = _zone(v)
-        i = min(7, int(8 * v / peak))
-        parts.append(f"[{c}]{_SPARK[i]}[/{c}]")
-    return "".join(parts)
+def _hr_hex(bpm: int) -> str:
+    if bpm < 100:  return "#9e9e9e"
+    if bpm < 130:  return "#4fc3f7"
+    if bpm < 155:  return "#66bb6a"
+    if bpm < 170:  return "#ffd54f"
+    return "#ef5350"
+
 
 
 def _fmt_time(seconds: float) -> str:
     s = max(0, int(seconds))
     return f"{s // 60}:{s % 60:02d}"
+
+
+def physics_speed(watts: int, mass_kg: float = 75.0, cda: float = 0.32, crr: float = 0.004) -> float:
+    """Estimate flat-road speed (km/h) from power using standard cycling physics.
+    Solves: P = v * (Crr*m*g + 0.5*rho*CdA*v^2)
+    """
+    if watts <= 0:
+        return 0.0
+    g   = 9.81
+    rho = 1.225
+    f_roll = crr * mass_kg * g
+    # Binary search for v in m/s (0 – 30 m/s = 0 – 108 km/h)
+    lo, hi = 0.0, 30.0
+    for _ in range(64):
+        mid = (lo + hi) / 2.0
+        if (0.5 * rho * cda * mid ** 2 + f_roll) * mid < watts:
+            lo = mid
+        else:
+            hi = mid
+    return (lo + hi) / 2.0 * 3.6  # m/s → km/h
 
 
 # ── Workout plan ──────────────────────────────────────────────────────────────
@@ -249,128 +261,6 @@ def workout_target(workout: Workout, elapsed: float) -> tuple[int, WorkoutStatus
     )
 
 
-# ── Rich panel renderer ───────────────────────────────────────────────────────
-
-def make_panel(
-    actual:       int,
-    target:       int,
-    history:      list[int],
-    status:       WorkoutStatus | None = None,
-    workout_done: bool = False,
-    paused:       bool = False,
-    hr:           int  = 0,
-    cadence:      int  = 0,
-    erg_enabled:  bool = True,
-) -> Panel:
-    t_zone, t_color = _zone(target)
-    a_zone, a_color = _zone(actual)
-    diff       = actual - target
-    diff_color = "green3" if abs(diff) < 10 else "yellow3" if abs(diff) < 30 else "red1"
-    hc         = _hr_color(hr)
-
-    target_panel = Panel(
-        f"[dim]{t_zone}[/dim]\n[bold {t_color}]{target} W[/bold {t_color}]",
-        title="TARGET",
-        border_style=t_color,
-        padding=(0, 2),
-        expand=True,
-    )
-
-    actual_panel = Panel(
-        f"[dim]{a_zone}[/dim]\n[bold {a_color}]{actual} W[/bold {a_color}]",
-        title="ACTUAL",
-        border_style=a_color,
-        padding=(0, 2),
-        expand=True,
-    )
-
-    diff_panel = Panel(
-        f"[bold {diff_color}]{diff:+} W[/bold {diff_color}]",
-        title="DIFF",
-        border_style=diff_color,
-        padding=(0, 2),
-        expand=True,
-    )
-
-    heart_panel = Panel(
-        f"[bold {hc}]{hr if hr > 0 else '---'} bpm[/bold {hc}]",
-        title="HEART",
-        border_style=hc,
-        padding=(0, 2),
-        expand=True,
-    )
-
-    cadence_panel = Panel(
-        f"[bold magenta]{cadence if cadence > 0 else '---'} rpm[/bold magenta]",
-        title="CADENCE",
-        border_style="magenta",
-        padding=(0, 2),
-        expand=True,
-    )
-
-    mode_panel = Panel(
-        "[bold cyan]ERG ON[/bold cyan]" if erg_enabled else "[bold yellow]ERG OFF[/bold yellow]",
-        title="MODE",
-        border_style="cyan" if erg_enabled else "yellow",
-        padding=(0, 2),
-        expand=True,
-    )
-
-    left = Table.grid(padding=(0, 1))
-    left.add_row(target_panel)
-    left.add_row(actual_panel)
-    left.add_row(diff_panel)
-    left.add_row(Panel(_bar(actual, a_color), title="POWER BAR", border_style=a_color, padding=(0, 1), expand=True))
-    left.add_row(Panel(_sparkline(history), title="HISTORY", border_style="grey50", padding=(0, 1), expand=True))
-
-    right = Table.grid(padding=(0, 1))
-    right.add_row(heart_panel)
-    right.add_row(cadence_panel)
-    right.add_row(mode_panel)
-
-    if status is not None:
-        pct       = status.elapsed_in / max(status.interval_dur, 1)
-        filled    = int(_BAR_WIDTH * pct)
-        prog      = (f"[cyan]{'█' * filled}[/cyan]"
-                     f"[dim white]{'░' * (_BAR_WIDTH - filled)}[/dim white]")
-        iv_type   = "  [cyan]ramp[/cyan]" if status.ramp else ""
-        remaining = status.interval_dur - status.elapsed_in
-        total_rem = status.total_dur - status.total_elapsed
-
-        status_panel = Panel(
-            "\n".join([
-                f"[bold]{status.name}[/bold]",
-                f"[dim]Interval[/dim] [bold]{status.interval_idx + 1}[/bold] [dim]/ {status.total_intervals}[/dim]{iv_type}",
-                f"[dim]Time left[/dim] [bold]{_fmt_time(remaining)}[/bold]",
-                f"[dim]Session[/dim] [bold]{_fmt_time(status.total_elapsed)}[/bold] [dim]/ {_fmt_time(status.total_dur)}[/dim]",
-                "",
-                prog,
-            ]),
-            title="WORKOUT",
-            border_style="cyan",
-            padding=(0, 1),
-            expand=True,
-        )
-        right.add_row(status_panel)
-
-    grid = Table.grid(padding=(0, 1))
-    grid.add_column(ratio=3)
-    grid.add_column(ratio=2, min_width=24)
-    grid.add_row(left, right)
-
-    if paused:
-        title  = "[bold yellow]⏸  WAHOO ERG — PAUSED[/bold yellow]"
-        border = "yellow"
-    elif workout_done:
-        title  = "[bold green]✓  WAHOO ERG — COMPLETE[/bold green]"
-        border = "green"
-    else:
-        title  = "[bold cyan]⚡  WAHOO ERG  ⚡[/bold cyan]"
-        border = "cyan"
-
-    return Panel(grid, title=title, border_style=border, expand=True, padding=(1, 2))
-
-
 # ── TCX export ───────────────────────────────────────────────────────────────
 
 _TCX_NS = "http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2"
@@ -391,7 +281,7 @@ def _sub(parent: ET.Element, tag: str, ns: str = _TCX_NS,
 
 
 def write_tcx(
-    trackpoints: list[tuple[datetime.datetime, int, int]],  # (ts, watts, hr)
+    trackpoints: list[tuple[datetime.datetime, int, int, int, float]],  # (ts, watts, hr, cadence, speed_kmh)
     activity_name: str,
     out_path: pathlib.Path,
 ) -> None:
@@ -401,12 +291,24 @@ def write_tcx(
     start      = trackpoints[0][0]
     end        = trackpoints[-1][0]
     duration   = (end - start).total_seconds()
-    watts_list = [w for _, w, _ in trackpoints]
-    hr_list    = [h for _, _, h in trackpoints if h > 0]
+    watts_list = [w for _, w, _, _, _ in trackpoints]
+    hr_list    = [h for _, _, h, _, _ in trackpoints if h > 0]
+    cad_list   = [c for _, _, _, c, _ in trackpoints if c > 0]
     avg_watts  = int(sum(watts_list) / len(watts_list))
     max_watts  = max(watts_list)
     avg_hr     = int(sum(hr_list) / len(hr_list)) if hr_list else 0
     max_hr     = max(hr_list) if hr_list else 0
+    avg_cad    = int(sum(cad_list) / len(cad_list)) if cad_list else 0
+    max_cad    = max(cad_list) if cad_list else 0
+
+    # Accumulate distance from physics speed between trackpoints
+    total_distance = 0.0
+    distances: list[float] = [0.0]
+    for i in range(1, len(trackpoints)):
+        dt = (trackpoints[i][0] - trackpoints[i - 1][0]).total_seconds()
+        spd_ms = trackpoints[i][4] / 3.6
+        total_distance += spd_ms * dt
+        distances.append(total_distance)
 
     root = ET.Element(
         f"{{{_TCX_NS}}}TrainingCenterDatabase",
@@ -424,7 +326,7 @@ def write_tcx(
 
     lap = _sub(activity, "Lap", StartTime=start.strftime("%Y-%m-%dT%H:%M:%SZ"))
     _sub(lap, "TotalTimeSeconds", text=f"{duration:.1f}")
-    _sub(lap, "DistanceMeters",   text="0")
+    _sub(lap, "DistanceMeters",   text=f"{total_distance:.1f}")
     _sub(lap, "Calories",         text="0")
     if avg_hr > 0:
         bpm_avg = _sub(lap, "AverageHeartRateBpm")
@@ -435,20 +337,28 @@ def write_tcx(
     _sub(lap, "TriggerMethod",    text="Manual")
 
     track = _sub(lap, "Track")
-    for ts, watts, hr in trackpoints:
+    for i, (ts, watts, hr, cadence, speed_kmh) in enumerate(trackpoints):
         tp = _sub(track, "Trackpoint")
         _sub(tp, "Time", text=ts.strftime("%Y-%m-%dT%H:%M:%SZ"))
+        _sub(tp, "DistanceMeters", text=f"{distances[i]:.1f}")
+        if cadence > 0:
+            _sub(tp, "Cadence", text=str(cadence))
         if hr > 0:
             hr_el = _sub(tp, "HeartRateBpm")
             _sub(hr_el, "Value", text=str(hr))
         ext_tp = _sub(tp, "Extensions")
         tpx    = _sub(ext_tp, "TPX", ns=_EXT_NS)
         _sub(tpx, "Watts", ns=_EXT_NS, text=str(watts))
+        if speed_kmh > 0:
+            _sub(tpx, "Speed", ns=_EXT_NS, text=f"{speed_kmh / 3.6:.3f}")
 
     lap_ext = _sub(lap, "Extensions")
     lx      = _sub(lap_ext, "LX", ns=_EXT_NS)
     _sub(lx, "AvgWatts", ns=_EXT_NS, text=str(avg_watts))
     _sub(lx, "MaxWatts", ns=_EXT_NS, text=str(max_watts))
+    if avg_cad > 0:
+        _sub(lx, "AvgCadence", ns=_EXT_NS, text=str(avg_cad))
+        _sub(lx, "MaxCadence", ns=_EXT_NS, text=str(max_cad))
 
     out_path.parent.mkdir(parents=True, exist_ok=True)
     tree = ET.ElementTree(root)
@@ -533,74 +443,196 @@ async def find_cadence_sensor() -> str | None:
 
 # ── Textual app ───────────────────────────────────────────────────────────────
 
-class PowerDisplay(Static):
-    """Static widget that renders the Rich power panel."""
+class PowerBar(Static):
+    """Horizontal zone-colored power bar, fixed 0–500 W scale."""
+
+    MAX_W = 500
+
+    def __init__(self, **kwargs):
+        super().__init__("", **kwargs)
+        self._watts: int = 0
+
+    def set_watts(self, watts: int) -> None:
+        self._watts = watts
+        self.refresh()
+
+    def render(self) -> str:
+        width   = max(1, self.size.width or 40)
+        frac    = max(0.0, min(1.0, self._watts / self.MAX_W))
+        filled  = int(frac * width)
+        empty   = width - filled
+        color   = _zone_hex(self._watts)
+        return f"[{color}]{'█' * filled}[/{color}][dim]{'░' * empty}[/dim]"
+
+
+class HistoryChart(Static):
+    """Vertical-column zone-colored bar chart, fixed 0–500 W scale."""
+
+    MAX_W = 500
+
+    def __init__(self, **kwargs):
+        super().__init__("", **kwargs)
+        self._data: list[int] = []
+
+    def set_data(self, data: list[int]) -> None:
+        self._data = data
+        self.refresh()
+
+    def render(self) -> str:
+        width  = max(1, self.size.width or 40)
+        height = max(1, self.size.height or 8)
+        data   = self._data[-width:] if self._data else []
+        pad    = width - len(data)
+        # Build grid: rows[row][col] — row 0 is top
+        rows: list[list[str]] = []
+        for row in range(height):
+            # threshold: fraction of MAX_W that this row represents
+            # row 0 (top) = high power, row height-1 (bottom) = low power
+            threshold = (height - row) / height  # e.g. row 0 → 1.0, last row → 1/height
+            line: list[str] = [" "] * pad
+            for v in data:
+                frac = max(0.0, min(1.0, v / self.MAX_W))
+                if frac >= threshold:
+                    color = _zone_hex(v)
+                    line.append(f"[{color}]█[/{color}]")
+                else:
+                    line.append("[dim]░[/dim]")
+            rows.append(line)
+        return "\n".join("".join(row) for row in rows)
 
 
 class WahooApp(App):
     CSS = """
     Screen {
         background: #0d0d0d;
-        align: center top;
     }
-    PowerDisplay {
-        width: 68;
+
+    /* ── Two-column main layout ── */
+    #main {
+        height: 1fr;
+        padding: 1 2;
+    }
+    #left {
+        width: 3fr;
+        margin-right: 1;
+        height: 1fr;
+    }
+    #right {
+        width: 20;
+        margin-left: 1;
+        height: 1fr;
+    }
+
+    /* ── Generic tile ── */
+    .tile {
+        border: round #1e3a5f;
+        padding: 0 1;
+        margin-bottom: 1;
         height: auto;
-        margin: 2 0 0 0;
-        align: center middle;
     }
+    .tile-title {
+        width: 1fr;
+        text-align: center;
+        color: #666666;
+        text-style: bold;
+    }
+    .tile-unit {
+        width: 1fr;
+        text-align: center;
+        color: #555555;
+    }
+
+    /* ── Power tiles (three across) ── */
+    #power-tiles {
+        height: auto;
+        margin-bottom: 1;
+    }
+    .power-tile {
+        width: 1fr;
+        border: round #1e3a5f;
+        padding: 0 1;
+        margin-right: 1;
+        height: auto;
+    }
+    .power-tile:last-of-type {
+        margin-right: 0;
+    }
+    Digits {
+        width: 1fr;
+    }
+
+    /* ── Metrics tile: power bar + sparkline history ── */
+    #metrics-tile {
+        height: 1fr;
+    }
+    #metrics-tile PowerBar {
+        height: 1;
+        width: 1fr;
+        margin-top: 1;
+    }
+    #metrics-tile HistoryChart {
+        height: 1fr;
+        width: 1fr;
+        margin-top: 1;
+    }
+
+    /* ── Right-hand tiles: fill column proportionally ── */
+    #hr-tile, #cad-tile, #spd-tile {
+        height: 1fr;
+    }
+    #mode-tile {
+        height: 3;
+        content-align: center middle;
+        border: round #1a5a6e;
+        padding: 0 1;
+        margin-bottom: 1;
+    }
+    #mode-label {
+        width: 1fr;
+        text-align: center;
+        text-style: bold;
+        color: #42c8f5;
+    }
+    #workout-tile {
+        border: round #1a5a6e;
+        padding: 0 1;
+        height: auto;
+        margin-bottom: 1;
+    }
+    #workout-name {
+        text-style: bold;
+        color: #42c8f5;
+        width: 1fr;
+    }
+    #workout-interval, #workout-time {
+        color: #888888;
+        width: 1fr;
+    }
+    #workout-tile ProgressBar {
+        width: 1fr;
+        margin-top: 1;
+    }
+
+    /* ── Controls ── */
     #controls {
-        width: 68;
-        height: auto;
-        margin: 2 0 0 0;
+        height: 4;
         align: center middle;
     }
     Button {
-        width: 14;
+        width: 16;
         height: 3;
         margin: 0 1;
-        content-align: center middle;
     }
-    #btn_up {
-        background: #1a3a1a;
-        color: #5af55a;
-        border: tall #2e6e2e;
-    }
-    #btn_up:hover {
-        background: #2e6e2e;
-    }
-    #btn_pause {
-        background: #3a2e08;
-        color: #f5c842;
-        border: tall #6e5a14;
-    }
-    #btn_pause:hover {
-        background: #6e5a14;
-    }
-    #btn_down {
-        background: #3a1a1a;
-        color: #f55a5a;
-        border: tall #6e2e2e;
-    }
-    #btn_down:hover {
-        background: #6e2e2e;
-    }
-    #btn_erg {
-        background: #0d2a3a;
-        color: #42c8f5;
-        border: tall #1a5a6e;
-    }
-    #btn_erg:hover {
-        background: #1a5a6e;
-    }
-    #btn_erg.erg_off {
-        background: #2a1a0d;
-        color: #f5a342;
-        border: tall #6e3a1a;
-    }
-    #btn_erg.erg_off:hover {
-        background: #6e3a1a;
-    }
+    #btn_up          { background: #1a3a1a; color: #5af55a; border: tall #2e6e2e; }
+    #btn_up:hover    { background: #2e6e2e; }
+    #btn_pause       { background: #3a2e08; color: #f5c842; border: tall #6e5a14; }
+    #btn_pause:hover { background: #6e5a14; }
+    #btn_down        { background: #3a1a1a; color: #f55a5a; border: tall #6e2e2e; }
+    #btn_down:hover  { background: #6e2e2e; }
+    #btn_erg         { background: #0d2a3a; color: #42c8f5; border: tall #1a5a6e; }
+    #btn_erg:hover   { background: #1a5a6e; }
+    #btn_erg.erg_off         { background: #2a1a0d; color: #f5a342; border: tall #6e3a1a; }
+    #btn_erg.erg_off:hover   { background: #6e3a1a; }
     """
 
     BINDINGS = [
@@ -640,7 +672,7 @@ class WahooApp(App):
         self._csc_last_crank_revs: int | None     = None
         self._csc_last_crank_event_time: int | None = None
         self._session_start:  datetime.datetime | None                    = None
-        self._trackpoints:    list[tuple[datetime.datetime, int, int]]    = []
+        self._trackpoints:    list[tuple[datetime.datetime, int, int, int, float]]    = []
 
     @property
     def _is_paused(self) -> bool:
@@ -650,13 +682,48 @@ class WahooApp(App):
 
     def compose(self) -> ComposeResult:
         yield Header(show_clock=True)
-        yield PowerDisplay(id="display")
+        with Horizontal(id="main"):
+            with Vertical(id="right"):
+                with Vertical(id="hr-tile", classes="tile"):
+                    yield Label("HEART RATE", classes="tile-title")
+                    yield Digits("---", id="hr-val")
+                    yield Label("bpm", classes="tile-unit")
+                with Vertical(id="cad-tile", classes="tile"):
+                    yield Label("CADENCE", classes="tile-title")
+                    yield Digits("---", id="cadence-val")
+                    yield Label("rpm", classes="tile-unit")
+                with Vertical(id="spd-tile", classes="tile"):
+                    yield Label("EST SPEED", classes="tile-title")
+                    yield Digits("---", id="speed-val")
+                    yield Label("km/h", classes="tile-unit")
+                with Vertical(id="mode-tile"):
+                    yield Label("⚡ ERG  ON", id="mode-label")
+            with Vertical(id="left"):
+                with Horizontal(id="power-tiles"):
+                    with Vertical(id="target-tile", classes="power-tile"):
+                        yield Label("TARGET", classes="tile-title")
+                        yield Digits("---", id="target-val")
+                        yield Label("W", classes="tile-unit")
+                    with Vertical(id="actual-tile", classes="power-tile"):
+                        yield Label("ACTUAL", classes="tile-title")
+                        yield Digits("---", id="actual-val")
+                        yield Label("W", classes="tile-unit")
+                with Vertical(id="metrics-tile", classes="tile"):
+                    yield Label("POWER", classes="tile-title")
+                    yield PowerBar(id="power-bar")
+                    yield HistoryChart(id="history-chart")
+                with Vertical(id="workout-tile"):
+                    yield Label("", id="workout-name")
+                    yield Label("", id="workout-interval")
+                    yield Label("", id="workout-time")
+                    yield ProgressBar(total=100, show_eta=False, show_percentage=False, id="workout-bar")
         with Horizontal(id="controls"):
             yield Button("▲  +10 W",   id="btn_up")
             yield Button("⏸  Pause",  id="btn_pause")
             yield Button("▼  −10 W",   id="btn_down")
             yield Button("⚡ ERG  ON", id="btn_erg")
         yield Footer()
+
 
     async def on_mount(self) -> None:
         self._quit_event = asyncio.Event()
@@ -668,19 +735,84 @@ class WahooApp(App):
         self.set_interval(0.25, self._refresh)
 
     def _refresh(self) -> None:
-        self.query_one("#display", PowerDisplay).update(
-            make_panel(
-                self._actual,
-                self._target,
-                self._history,
-                self._status,
-                self._done,
-                self._is_paused,
-                self._hr,
-                self._cadence,
-                self._erg_enabled,
-            )
+        spd  = physics_speed(self._actual)
+        diff = self._actual - self._target
+        t_hex = _zone_hex(self._target)
+        t_zone, _ = _zone(self._target)
+
+        # Power tiles
+        td = self.query_one("#target-val", Digits)
+        td.update(str(self._target))
+        td.styles.color = t_hex
+
+        ad = self.query_one("#actual-val", Digits)
+        ad.update(str(self._actual))
+        ad.styles.color = "#66bb6a" if abs(diff) <= 10 else "#ffd54f" if abs(diff) <= 30 else "#ef5350"
+
+        # Power bar
+        self.query_one("#power-bar", PowerBar).set_watts(self._actual)
+
+        # History chart
+        self.query_one("#history-chart", HistoryChart).set_data(list(self._history))
+
+        # HR
+        hd = self.query_one("#hr-val", Digits)
+        hd.update(str(self._hr) if self._hr > 0 else "---")
+        hd.styles.color = _hr_hex(self._hr)
+
+        # Cadence
+        self.query_one("#cadence-val", Digits).update(
+            str(self._cadence) if self._cadence > 0 else "---"
         )
+
+        # Speed
+        self.query_one("#speed-val", Digits).update(
+            f"{spd:.1f}" if spd > 0 else "---"
+        )
+
+        # ERG mode tile
+        mode_lbl = self.query_one("#mode-label", Label)
+        mode_tile = self.query_one("#mode-tile")
+        if self._erg_enabled:
+            mode_lbl.update("⚡ ERG  ON")
+            mode_tile.styles.border = ("round", "#1a5a6e")
+            mode_lbl.styles.color   = "#42c8f5"
+        else:
+            mode_lbl.update("⚡ ERG OFF")
+            mode_tile.styles.border = ("round", "#6e3a1a")
+            mode_lbl.styles.color   = "#f5a342"
+
+        # Workout status
+        workout_tile = self.query_one("#workout-tile")
+        if self._status is not None:
+            workout_tile.display = True
+            remaining = self._status.interval_dur - self._status.elapsed_in
+            iv_suffix = "  ramp" if self._status.ramp else ""
+            self.query_one("#workout-name",     Label).update(self._status.name)
+            self.query_one("#workout-interval", Label).update(
+                f"Interval {self._status.interval_idx + 1}/{self._status.total_intervals}{iv_suffix}"
+            )
+            self.query_one("#workout-time", Label).update(
+                f"Left {_fmt_time(remaining)}  ·  "
+                f"{_fmt_time(self._status.total_elapsed)} / {_fmt_time(self._status.total_dur)}"
+            )
+            self.query_one("#workout-bar", ProgressBar).update(
+                progress=self._status.elapsed_in, total=self._status.interval_dur
+            )
+        else:
+            workout_tile.display = False
+
+        # App title bar
+        if self._is_paused:
+            self.title     = "⏸  WAHOO ERG — PAUSED"
+            self.sub_title = ""
+        elif self._done:
+            self.title     = "✓  WAHOO ERG — COMPLETE"
+            self.sub_title = ""
+        else:
+            self.title     = "⚡  WAHOO ERG"
+            self.sub_title = f"Target {self._target} W  ·  {t_zone}"
+
 
     # ── Actions ───────────────────────────────────────────────────────────────
 
@@ -763,7 +895,7 @@ class WahooApp(App):
             self._actual = watts
             if not self._is_paused:
                 self._history.append(watts)
-                if len(self._history) > 40:
+                if len(self._history) > 300:
                     self._history.pop(0)
 
             if crank_data is not None:
@@ -799,7 +931,7 @@ class WahooApp(App):
 
             if not self._is_paused:
                 self._trackpoints.append(
-                    (datetime.datetime.now(datetime.timezone.utc), watts, self._hr)
+                    (datetime.datetime.now(datetime.timezone.utc), watts, self._hr, self._cadence, physics_speed(watts))
                 )
 
         async with BleakClient(self._address) as client:
@@ -816,6 +948,16 @@ class WahooApp(App):
                     self._has_ftms = False
 
             await client.start_notify(CYCLING_POWER_MEASUREMENT, on_measurement)
+
+            # Subscribe to FTMS Indoor Bike Data for speed and cadence (KICKR FLOW)
+            if self._has_ftms:
+                char_uuids = {c.uuid.lower() for s in client.services for c in s.characteristics}
+                if FTMS_INDOOR_BIKE_DATA in char_uuids:
+                    def on_indoor_bike(char: BleakGATTCharacteristic, data: bytearray) -> None:
+                        _, cad = parse_indoor_bike_data(data)
+                        if cad is not None:
+                            self._cadence = cad
+                    await client.start_notify(FTMS_INDOOR_BIKE_DATA, on_indoor_bike)
 
             if self._workout:
                 await self._workout_loop(client)
