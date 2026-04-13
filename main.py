@@ -225,12 +225,12 @@ def load_workout(path: str) -> Workout:
 
 def workout_target(workout: Workout, elapsed: float) -> tuple[int, WorkoutStatus]:
     t          = 0.0
-    prev_power = workout.intervals[0].power
+    prev_power = 0
     for idx, interval in enumerate(workout.intervals):
         end = t + interval.duration
         if elapsed < end or idx == len(workout.intervals) - 1:
             elapsed_in = min(elapsed - t, float(interval.duration))
-            if interval.ramp and idx > 0:
+            if interval.ramp:
                 frac  = elapsed_in / interval.duration
                 power = int(prev_power + (interval.power - prev_power) * min(frac, 1.0))
             else:
@@ -243,7 +243,7 @@ def workout_target(workout: Workout, elapsed: float) -> tuple[int, WorkoutStatus
                 interval_dur=float(interval.duration),
                 total_elapsed=elapsed,
                 total_dur=workout.total_duration,
-                ramp=interval.ramp and idx > 0,
+                ramp=interval.ramp,
             )
         prev_power = interval.power
         t = end
