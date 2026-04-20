@@ -1,14 +1,15 @@
 {
   "name": "Sweet Spot Intervals",
+  "note": "Sweet spot = 88-93% FTP",
   "intervals": [
-    { "duration": 300, "power": 150,                   "note": "warm-up" },
-    { "duration": 120, "power": 260, "type": "ramp",   "note": "ramp up to sweet spot" },
-    { "duration": 600, "power": 260,                   "note": "sweet spot block 1" },
-    { "duration": 120, "power": 150, "type": "ramp",   "note": "ramp back down" },
-    { "duration": 180, "power": 150,                   "note": "recovery" },
-    { "duration": 120, "power": 260, "type": "ramp",   "note": "ramp up to sweet spot" },
-    { "duration": 600, "power": 260,                   "note": "sweet spot block 2" },
-    { "duration": 120, "power": 150, "type": "ramp",   "note": "ramp back down" },
-    { "duration": 300, "power": 130,                   "note": "cool-down" }
+    { "duration": 300, "power": 0.60, "note": "warm-up" },
+    { "duration": 120, "power": 1.04, "type": "ramp", "note": "ramp up to sweet spot" },
+    { "duration": 600, "power": 1.04, "note": "sweet spot block 1" },
+    { "duration": 120, "power": 0.60, "type": "ramp", "note": "ramp back down" },
+    { "duration": 180, "power": 0.60, "note": "recovery" },
+    { "duration": 120, "power": 1.04, "type": "ramp", "note": "ramp up to sweet spot" },
+    { "duration": 600, "power": 1.04, "note": "sweet spot block 2" },
+    { "duration": 120, "power": 0.60, "type": "ramp", "note": "ramp back down" },
+    { "duration": 300, "power": 0.52, "note": "cool-down" }
   ]
 }

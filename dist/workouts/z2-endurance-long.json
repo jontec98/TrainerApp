@@ -1,9 +1,9 @@
 {
   "name": "Z2 Endurance",
-  "note": "90-minute aerobic base ride. Low and steady. ~250 W FTP baseline (Z2 = 56–75% FTP).",
+  "note": "90-minute aerobic base ride. Low and steady. Z2 = 56–75% FTP.",
   "intervals": [
-    { "duration":  600, "power": 140, "type": "ramp", "note": "warm-up ramp" },
-    { "duration": 14400, "power": 170,                 "note": "240-min Z2 block" },
-    { "duration":  600, "power": 100, "type": "ramp", "note": "cool-down" }
+    { "duration":  600, "power": 0.56, "type": "ramp", "note": "warm-up ramp" },
+    { "duration": 14400, "power": 0.68, "note": "240-min Z2 block" },
+    { "duration":  600, "power": 0.40, "type": "ramp", "note": "cool-down" }
   ]
 }

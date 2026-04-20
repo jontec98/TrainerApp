@@ -1,3 +1,5 @@
 .venv
 build
 recordings
+__pycache__
+.ruff_cache

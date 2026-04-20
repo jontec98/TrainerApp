@@ -1,17 +1,17 @@
 {
   "name": "2x20 Sweet Spot",
-  "note": "Two 20-minute blocks at 88-93% FTP. Bread-and-butter threshold builder. ~250 W FTP baseline.",
+  "note": "Two 20-minute blocks at 88-93% FTP. Bread-and-butter threshold builder.",
   "intervals": [
-    { "duration": 600, "power": 150,                 "note": "warm-up" },
-    { "duration": 120, "power": 230, "type": "ramp", "note": "ramp into first block" },
+    { "duration": 600, "power": 0.60, "note": "warm-up" },
+    { "duration": 120, "power": 0.92, "type": "ramp", "note": "ramp into first block" },
 
-    { "duration": 1200, "power": 230, "note": "block 1 — sweet spot" },
+    { "duration": 1200, "power": 0.92, "note": "block 1 — sweet spot" },
 
-    { "duration": 300, "power": 130, "note": "recovery" },
+    { "duration": 300, "power": 0.52, "note": "recovery" },
 
-    { "duration":  60, "power": 230, "type": "ramp", "note": "ramp into second block" },
-    { "duration": 1200, "power": 230, "note": "block 2 — sweet spot" },
+    { "duration":  60, "power": 0.92, "type": "ramp", "note": "ramp into second block" },
+    { "duration": 1200, "power": 0.92, "note": "block 2 — sweet spot" },
 
-    { "duration": 600, "power": 120, "type": "ramp", "note": "cool-down" }
+    { "duration": 600, "power": 0.48, "type": "ramp", "note": "cool-down" }
   ]
 }
