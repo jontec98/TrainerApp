@@ -2,7 +2,7 @@
   "name": "4x4 VO2max",
   "note": "Norwegian classic. 4 min at VO2max, 4 min active recovery, x4.",
   "intervals": [
-    { "duration": 600, "power": 0.50, "note": "warm-up" },
+    { "duration": 400, "power": 0.50, "note": "warm-up" },
     { "duration": 180, "power": 0.92, "type": "ramp", "note": "progressive ramp" },
     { "duration":  60, "power": 0.50, "note": "short rest" },
 
@@ -18,6 +18,6 @@
     { "duration": 240, "power": 1.12, "note": "interval 4 — VO2max" },
     { "duration": 240, "power": 0.5, "note": "recovery 4" },
 
-    { "duration": 600, "power": 0.5, "type": "ramp", "note": "cool-down" }
+    { "duration": 400, "power": 0.5, "type": "ramp", "note": "cool-down" }
   ]
 }
