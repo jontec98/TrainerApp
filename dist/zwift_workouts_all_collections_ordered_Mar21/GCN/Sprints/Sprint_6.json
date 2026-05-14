@@ -1,0 +1,166 @@
+{
+  "name": "Sprint B4 Sprint",
+  "note": "This is to prepare you for what happens in a real sprint at the end of the race.    You never get to sprint from a \"fresh\" state.  You always have to do at least 1-2 sprints to either hold your position or get into position for the sprint.   So, this will be two sprints, the first at about 80% and then the 2nd at 100%, as if you are finishing a race and sprinting for the finish line.  Be sure to rest and pedal easy between each for 3minutes, as you will want to be recovered for the next set!\n (by GCN)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.75449997,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.75449997,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.75449997,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 300,
+      "power": 0.81449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.2544999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.80449992,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 2.5044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.65449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.2544999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.80449992,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 2.0044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.65449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.2544999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.80449992,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 2.0044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.65449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.2544999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.80449992,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 2.0044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.65000004,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.2544999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.80449992,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 2.0044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.65449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.2544999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.80449992,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 2.0044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 510,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

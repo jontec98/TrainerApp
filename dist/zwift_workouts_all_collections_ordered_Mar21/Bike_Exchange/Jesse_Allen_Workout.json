@@ -1,0 +1,188 @@
+{
+  "name": "Jesse Allen: Domestique",
+  "note": "Jessica Allen is a strong and loyal domestique, Allen is an important teammate for the Team BikeExchange leaders, on-and-off the bike, helping them to multiple major victories in one-day races and stage races. This session is 3 rounds of 5 x 20 seconds 'over' FTP at 110% and 40 seconds 'under' FTP at 90%. If you complete this workout you will be ready to roll in your next event. (by Marco Pinotti)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.1,
+      "note": "interval 20sec @ 1.10"
+    },
+    {
+      "duration": 40,
+      "power": 0.9,
+      "note": "recovery 40sec @ 0.90"
+    },
+    {
+      "duration": 20,
+      "power": 1.1,
+      "note": "interval 20sec @ 1.10"
+    },
+    {
+      "duration": 40,
+      "power": 0.9,
+      "note": "recovery 40sec @ 0.90"
+    },
+    {
+      "duration": 20,
+      "power": 1.1,
+      "note": "interval 20sec @ 1.10"
+    },
+    {
+      "duration": 40,
+      "power": 0.9,
+      "note": "recovery 40sec @ 0.90"
+    },
+    {
+      "duration": 20,
+      "power": 1.1,
+      "note": "interval 20sec @ 1.10"
+    },
+    {
+      "duration": 40,
+      "power": 0.9,
+      "note": "recovery 40sec @ 0.90"
+    },
+    {
+      "duration": 20,
+      "power": 1.1,
+      "note": "interval 20sec @ 1.10"
+    },
+    {
+      "duration": 40,
+      "power": 0.9,
+      "note": "recovery 40sec @ 0.90"
+    },
+    {
+      "duration": 240,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.1,
+      "note": "interval 20sec @ 1.10"
+    },
+    {
+      "duration": 40,
+      "power": 0.9,
+      "note": "recovery 40sec @ 0.90"
+    },
+    {
+      "duration": 20,
+      "power": 1.1,
+      "note": "interval 20sec @ 1.10"
+    },
+    {
+      "duration": 40,
+      "power": 0.9,
+      "note": "recovery 40sec @ 0.90"
+    },
+    {
+      "duration": 20,
+      "power": 1.1,
+      "note": "interval 20sec @ 1.10"
+    },
+    {
+      "duration": 40,
+      "power": 0.9,
+      "note": "recovery 40sec @ 0.90"
+    },
+    {
+      "duration": 20,
+      "power": 1.1,
+      "note": "interval 20sec @ 1.10"
+    },
+    {
+      "duration": 40,
+      "power": 0.9,
+      "note": "recovery 40sec @ 0.90"
+    },
+    {
+      "duration": 20,
+      "power": 1.1,
+      "note": "interval 20sec @ 1.10"
+    },
+    {
+      "duration": 40,
+      "power": 0.9,
+      "note": "recovery 40sec @ 0.90"
+    },
+    {
+      "duration": 240,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.1,
+      "note": "interval 20sec @ 1.10"
+    },
+    {
+      "duration": 40,
+      "power": 0.9,
+      "note": "recovery 40sec @ 0.90"
+    },
+    {
+      "duration": 20,
+      "power": 1.1,
+      "note": "interval 20sec @ 1.10"
+    },
+    {
+      "duration": 40,
+      "power": 0.9,
+      "note": "recovery 40sec @ 0.90"
+    },
+    {
+      "duration": 20,
+      "power": 1.1,
+      "note": "interval 20sec @ 1.10"
+    },
+    {
+      "duration": 40,
+      "power": 0.9,
+      "note": "recovery 40sec @ 0.90"
+    },
+    {
+      "duration": 20,
+      "power": 1.1,
+      "note": "interval 20sec @ 1.10"
+    },
+    {
+      "duration": 40,
+      "power": 0.9,
+      "note": "recovery 40sec @ 0.90"
+    },
+    {
+      "duration": 20,
+      "power": 1.1,
+      "note": "interval 20sec @ 1.10"
+    },
+    {
+      "duration": 40,
+      "power": 0.9,
+      "note": "recovery 40sec @ 0.90"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

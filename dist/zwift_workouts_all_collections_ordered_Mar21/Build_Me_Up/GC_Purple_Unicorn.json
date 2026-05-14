@@ -1,0 +1,306 @@
+{
+  "name": "Purple Unicorn",
+  "note": "All the Unicorn workouts are based off of the visual spectrum (Red, Orange, Yellow, Green, Blue, Indigo, Violet (purple)) with the same order of easiest to hardest.  So, Red Unicorn features the least training load, Orange Unicorn the second, and Purple the hardest... Enjoy! (by Shayne Gaffney | GC Coaching)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.85,
+      "note": "interval 30sec @ 0.85"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 0.95,
+      "note": "interval 30sec @ 0.95"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "interval 30sec @ 1.15"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

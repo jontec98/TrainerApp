@@ -1,0 +1,295 @@
+{
+  "name": "VO2 Development",
+  "note": "This workout is a gradual burner. You will build fatigue over the duration of the session, which will raise your heart rate and require a higher breathing rate as you progress into the ride. Developing your VO2 max requires working at a high level\u2013so be prepared for a hard session!\n\n\tBeing able to ride at a percentage of your VO2 max is crucial in competitive events, especially in the virtual racing world as the 45min to 1hr races require lots of accumulated time spent close to your maximal aerobic limit. This session stresses this system and helps you develop stronger as we push your heart rate and oxygen consumption rates to a high level. \n\t\t\n\tVO2 max is not a single power number but a physiological state that equates to the amount of oxygen a person can utilize during intense exercise. There are several ways to enhance your max.\n\t\t\n\tIn this session, we focus on an incremental rise of VO2 uptake. This progression allows us to sustain prolonged levels closer to our VO2 max, versus shorter/higher-powered efforts. \n\t\t\n\tWe do 3x 8min ON/OFF blocks, increasing from 20, 30, to 40sec 'On' while reducing the 'Off' durations. The 'Off' intensity is not a full recovery, so oxygen uptake is always being stimulated throughout the 8min blocks.\n\t\n\tWe finish the session with a 4min build. For most athletes, you'll find yourself near your VO2 max within the last minute of this interval. Get ready for a solid workout! (by Zwift Academy Coaches)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.2,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 40,
+      "power": 0.75,
+      "note": "recovery 40sec @ 0.75"
+    },
+    {
+      "duration": 20,
+      "power": 1.2,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 40,
+      "power": 0.75,
+      "note": "recovery 40sec @ 0.75"
+    },
+    {
+      "duration": 20,
+      "power": 1.2,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 40,
+      "power": 0.75,
+      "note": "recovery 40sec @ 0.75"
+    },
+    {
+      "duration": 20,
+      "power": 1.2,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 40,
+      "power": 0.75,
+      "note": "recovery 40sec @ 0.75"
+    },
+    {
+      "duration": 20,
+      "power": 1.2,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 40,
+      "power": 0.75,
+      "note": "recovery 40sec @ 0.75"
+    },
+    {
+      "duration": 20,
+      "power": 1.2,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 40,
+      "power": 0.75,
+      "note": "recovery 40sec @ 0.75"
+    },
+    {
+      "duration": 20,
+      "power": 1.2,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 40,
+      "power": 0.75,
+      "note": "recovery 40sec @ 0.75"
+    },
+    {
+      "duration": 20,
+      "power": 1.2,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 40,
+      "power": 0.75,
+      "note": "recovery 40sec @ 0.75"
+    },
+    {
+      "duration": 360,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "interval 30sec @ 1.20"
+    },
+    {
+      "duration": 30,
+      "power": 0.75,
+      "note": "recovery 30sec @ 0.75"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "interval 30sec @ 1.20"
+    },
+    {
+      "duration": 30,
+      "power": 0.75,
+      "note": "recovery 30sec @ 0.75"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "interval 30sec @ 1.20"
+    },
+    {
+      "duration": 30,
+      "power": 0.75,
+      "note": "recovery 30sec @ 0.75"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "interval 30sec @ 1.20"
+    },
+    {
+      "duration": 30,
+      "power": 0.75,
+      "note": "recovery 30sec @ 0.75"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "interval 30sec @ 1.20"
+    },
+    {
+      "duration": 30,
+      "power": 0.75,
+      "note": "recovery 30sec @ 0.75"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "interval 30sec @ 1.20"
+    },
+    {
+      "duration": 30,
+      "power": 0.75,
+      "note": "recovery 30sec @ 0.75"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "interval 30sec @ 1.20"
+    },
+    {
+      "duration": 30,
+      "power": 0.75,
+      "note": "recovery 30sec @ 0.75"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "interval 30sec @ 1.20"
+    },
+    {
+      "duration": 30,
+      "power": 0.75,
+      "note": "recovery 30sec @ 0.75"
+    },
+    {
+      "duration": 360,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.2,
+      "note": "interval 40sec @ 1.20"
+    },
+    {
+      "duration": 20,
+      "power": 0.75,
+      "note": "recovery 20sec @ 0.75"
+    },
+    {
+      "duration": 40,
+      "power": 1.2,
+      "note": "interval 40sec @ 1.20"
+    },
+    {
+      "duration": 20,
+      "power": 0.75,
+      "note": "recovery 20sec @ 0.75"
+    },
+    {
+      "duration": 40,
+      "power": 1.2,
+      "note": "interval 40sec @ 1.20"
+    },
+    {
+      "duration": 20,
+      "power": 0.75,
+      "note": "recovery 20sec @ 0.75"
+    },
+    {
+      "duration": 40,
+      "power": 1.2,
+      "note": "interval 40sec @ 1.20"
+    },
+    {
+      "duration": 20,
+      "power": 0.75,
+      "note": "recovery 20sec @ 0.75"
+    },
+    {
+      "duration": 40,
+      "power": 1.2,
+      "note": "interval 40sec @ 1.20"
+    },
+    {
+      "duration": 20,
+      "power": 0.75,
+      "note": "recovery 20sec @ 0.75"
+    },
+    {
+      "duration": 40,
+      "power": 1.2,
+      "note": "interval 40sec @ 1.20"
+    },
+    {
+      "duration": 20,
+      "power": 0.75,
+      "note": "recovery 20sec @ 0.75"
+    },
+    {
+      "duration": 40,
+      "power": 1.2,
+      "note": "interval 40sec @ 1.20"
+    },
+    {
+      "duration": 20,
+      "power": 0.75,
+      "note": "recovery 20sec @ 0.75"
+    },
+    {
+      "duration": 40,
+      "power": 1.2,
+      "note": "interval 40sec @ 1.20"
+    },
+    {
+      "duration": 20,
+      "power": 0.75,
+      "note": "recovery 20sec @ 0.75"
+    },
+    {
+      "duration": 360,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

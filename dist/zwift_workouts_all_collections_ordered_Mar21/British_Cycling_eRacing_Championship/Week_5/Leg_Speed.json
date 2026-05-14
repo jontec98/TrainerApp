@@ -1,0 +1,201 @@
+{
+  "name": "Week 5.2 -  Leg Speed",
+  "note": "Now the focus is on recovery, keeping your legs fresh but minimising any unnecessary accumulation of fatigue. Trust the training you\u2019ve done and don\u2019t be tempted to try and squeeze in another hard session. (by British Cycling)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 6,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 6,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 6,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 162,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.66,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.72,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.78,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 0.84,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 0.83,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.68,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.66,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.72,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.78,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 0.84,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 0.83,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.68,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "name": "40/20's #1",
+  "note": "The 40/20 sessions consist of 40sec above your threshold pace, followed by 20sec of rest.\n\nBy continually lifting power above what is comfortable, you will improve your ability to recover from hard efforts.\n\nMonitor your heart rate before and after each interval. Has heart rate increased significantly over the course of the efforts? (by Zwift)",
+  "intervals": [
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.7544999,
+      "note": "interval 10sec @ 1.75"
+    },
+    {
+      "duration": 50,
+      "power": 0.50449997,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.7544999,
+      "note": "interval 10sec @ 1.75"
+    },
+    {
+      "duration": 50,
+      "power": 0.50449997,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.7544999,
+      "note": "interval 10sec @ 1.75"
+    },
+    {
+      "duration": 50,
+      "power": 0.50449997,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.7544999,
+      "note": "interval 10sec @ 1.75"
+    },
+    {
+      "duration": 50,
+      "power": 0.50449997,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 180,
+      "power": 0.70449996,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.90449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.0944999,
+      "note": "interval 40sec @ 1.09"
+    },
+    {
+      "duration": 20,
+      "power": 0.55449998,
+      "note": "recovery 20sec @ 0.55"
+    },
+    {
+      "duration": 40,
+      "power": 1.0944999,
+      "note": "interval 40sec @ 1.09"
+    },
+    {
+      "duration": 20,
+      "power": 0.55449998,
+      "note": "recovery 20sec @ 0.55"
+    },
+    {
+      "duration": 40,
+      "power": 1.0944999,
+      "note": "interval 40sec @ 1.09"
+    },
+    {
+      "duration": 20,
+      "power": 0.55449998,
+      "note": "recovery 20sec @ 0.55"
+    },
+    {
+      "duration": 40,
+      "power": 1.0944999,
+      "note": "interval 40sec @ 1.09"
+    },
+    {
+      "duration": 20,
+      "power": 0.55449998,
+      "note": "recovery 20sec @ 0.55"
+    },
+    {
+      "duration": 40,
+      "power": 1.0944999,
+      "note": "interval 40sec @ 1.09"
+    },
+    {
+      "duration": 20,
+      "power": 0.55449998,
+      "note": "recovery 20sec @ 0.55"
+    },
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.0944999,
+      "note": "interval 40sec @ 1.09"
+    },
+    {
+      "duration": 20,
+      "power": 0.55449998,
+      "note": "recovery 20sec @ 0.55"
+    },
+    {
+      "duration": 40,
+      "power": 1.0944999,
+      "note": "interval 40sec @ 1.09"
+    },
+    {
+      "duration": 20,
+      "power": 0.55449998,
+      "note": "recovery 20sec @ 0.55"
+    },
+    {
+      "duration": 40,
+      "power": 1.0944999,
+      "note": "interval 40sec @ 1.09"
+    },
+    {
+      "duration": 20,
+      "power": 0.55449998,
+      "note": "recovery 20sec @ 0.55"
+    },
+    {
+      "duration": 40,
+      "power": 1.0944999,
+      "note": "interval 40sec @ 1.09"
+    },
+    {
+      "duration": 20,
+      "power": 0.55449998,
+      "note": "recovery 20sec @ 0.55"
+    },
+    {
+      "duration": 40,
+      "power": 1.0944999,
+      "note": "interval 40sec @ 1.09"
+    },
+    {
+      "duration": 20,
+      "power": 0.55449998,
+      "note": "recovery 20sec @ 0.55"
+    },
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.0944999,
+      "note": "interval 40sec @ 1.09"
+    },
+    {
+      "duration": 20,
+      "power": 0.55449998,
+      "note": "recovery 20sec @ 0.55"
+    },
+    {
+      "duration": 40,
+      "power": 1.0944999,
+      "note": "interval 40sec @ 1.09"
+    },
+    {
+      "duration": 20,
+      "power": 0.55449998,
+      "note": "recovery 20sec @ 0.55"
+    },
+    {
+      "duration": 40,
+      "power": 1.0944999,
+      "note": "interval 40sec @ 1.09"
+    },
+    {
+      "duration": 20,
+      "power": 0.55449998,
+      "note": "recovery 20sec @ 0.55"
+    },
+    {
+      "duration": 40,
+      "power": 1.0944999,
+      "note": "interval 40sec @ 1.09"
+    },
+    {
+      "duration": 20,
+      "power": 0.55449998,
+      "note": "recovery 20sec @ 0.55"
+    },
+    {
+      "duration": 40,
+      "power": 1.0944999,
+      "note": "interval 40sec @ 1.09"
+    },
+    {
+      "duration": 20,
+      "power": 0.55449998,
+      "note": "recovery 20sec @ 0.55"
+    },
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    }
+  ]
+}

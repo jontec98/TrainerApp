@@ -1,0 +1,76 @@
+{
+  "name": "Week 2.7 - Max Aerobic declining",
+  "note": "Working entirely in your Max Aerobic area, this session maintains the interval duration throughout all efforts, but decreases the intensity.\n\nWith adequate recovery we are looking at your HR response to the effort.\n\nPower is decreasing... Is your HR decreasing along with the effort? (by Zwift)",
+  "intervals": [
+    {
+      "duration": 360,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0944999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.90449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 360,
+      "power": 1.0545,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.56449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 360,
+      "power": 1.0044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.56652761,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 360,
+      "power": 0.95449996,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.5661068,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 360,
+      "power": 0.90449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.56449997,
+      "note": "SteadyState interval"
+    }
+  ]
+}

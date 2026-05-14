@@ -1,0 +1,61 @@
+{
+  "name": "Weekend Tune Up",
+  "note": "This session is the ultimate pre race day session. If you have a big ride or event coming up, complete this the day before or on the morning of the event. Conducted by Fabian Cancellara this session will help you set PB's on upcoming rides.\n\nThese workouts have been designed and tested by some of the best cyclists in the world. Olympians and World Champions such as Sir Bradley Wiggins, Fabian Cancellara, Dame Sarah Storey and Kristin Armstrong. (by Chris Opie )",
+  "intervals": [
+    {
+      "duration": 120,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 0.7,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 210,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 1.2,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 210,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

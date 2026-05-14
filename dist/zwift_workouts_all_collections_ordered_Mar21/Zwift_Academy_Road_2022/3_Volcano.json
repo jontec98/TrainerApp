@@ -1,0 +1,131 @@
+{
+  "name": "The Volcano",
+  "note": "This workout will see us push up your max aerobic ability with some focused work in your VO2 power. The goal is to accumulate around 8-10min at an intensity which is similar to that which you will ride the Volcano KOM at during your Baseline Ride. This workout will help push up that ability to maintain a high aerobic power, the goal is to spend some time at a good VO2 stimulus but having some micro rest periods which allows us to maintain the intensity. (by Dig Deep Coaching and Shayne Gaffney)",
+  "intervals": [
+    {
+      "duration": 480,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

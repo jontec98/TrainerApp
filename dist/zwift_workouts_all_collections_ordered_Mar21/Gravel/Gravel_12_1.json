@@ -1,0 +1,121 @@
+{
+  "name": "Short Sweet Spot Tune Up",
+  "note": "Just some super simple builds into the \"sweet spot\" zone to get that engine firing! No work really needed to do now, but want to keep the legs awake. So, short and sweet this time. (by Zwift)",
+  "intervals": [
+    {
+      "duration": 540,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 10,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.87,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.91,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.87,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.91,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 570,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "name": "The Long Ride - 2x30min Tempo With Surges",
+  "note": "This is a big session today. The volume is big and the efforts are big! Warm up followed by a long block at Zone 3 Power with surges into Zone 5. Then a set of Zone 3 intervals. Finish with another long block of Zone 3 work with Zone 5 surges. (by Zwift)",
+  "intervals": [
+    {
+      "duration": 570,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 270,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0599999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 270,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0599999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 270,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0599999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 270,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0599999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 270,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0599999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 270,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0599999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.65449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.88,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.88,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.88,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.88,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.88,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.88,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.88,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.88,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.65449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 270,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0599999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 270,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0599999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 270,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0599999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 270,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0599999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 270,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0599999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 270,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0599999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 570,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    }
+  ]
+}

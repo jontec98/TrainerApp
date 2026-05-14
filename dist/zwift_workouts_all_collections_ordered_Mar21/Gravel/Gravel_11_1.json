@@ -1,0 +1,161 @@
+{
+  "name": "10/8/4min Threshold",
+  "note": "Another solid workout with a lot of time at threshold in this last block before race week. Working in and around this zone is super beneficial to any cyclist but being comfortable here is especially great for us gravel folks. Lots of sustained time in the pain cave if we want to be successful. So today, let me be your guide into the cave, but just for practice this time. \n\n3 rounds of sustained work, each getting harder as we go, but also cutting the interval length as we progress as well. It will most likely get you grunting by workouts end, but in a \"thank you sir may I have another\" kinda way. Or not. (by Zwift)",
+  "intervals": [
+    {
+      "duration": 480,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.2,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 480,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

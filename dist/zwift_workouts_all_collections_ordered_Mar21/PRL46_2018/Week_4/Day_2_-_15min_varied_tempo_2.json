@@ -1,0 +1,121 @@
+{
+  "name": "Week 4.2 - 15min varied tempo #2",
+  "note": "Working in your Tempo zone, today we are varying the cadence and power. \n\nHowever, start each 15min effort with a 'slow starting speed sprint'. Out of the saddle for the sprint, then straight into tempo effort.\n\nObserve your HR during the 15min intervals and look for changes in heart rate when your cadence changes.\n\nFinish the session with some endurance in 'free ride' mode. (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.8026037,
+      "note": "interval 10sec @ 1.80"
+    },
+    {
+      "duration": 50,
+      "power": 0.50449997,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.8026037,
+      "note": "interval 10sec @ 1.80"
+    },
+    {
+      "duration": 50,
+      "power": 0.50449997,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.8026037,
+      "note": "interval 10sec @ 1.80"
+    },
+    {
+      "duration": 50,
+      "power": 0.50449997,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.8026037,
+      "note": "interval 10sec @ 1.80"
+    },
+    {
+      "duration": 50,
+      "power": 0.50449997,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 180,
+      "power": 0.70449996,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.90449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 2.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.89449996,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.77449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.89449996,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 2.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.77449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.82449996,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.89449996,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 870,
+      "power": 0.5,
+      "note": "Free ride"
+    }
+  ]
+}

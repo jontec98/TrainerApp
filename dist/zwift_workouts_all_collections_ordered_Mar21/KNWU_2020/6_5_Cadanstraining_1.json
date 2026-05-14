@@ -1,0 +1,56 @@
+{
+  "name": "Week 6.5 - Cadanstraining",
+  "note": "Door deze training ga je effici\u00ebnter trappen. (by KNWU Fondo)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.83,
+      "note": "interval 300sec @ 0.83"
+    },
+    {
+      "duration": 300,
+      "power": 0.65,
+      "note": "recovery 300sec @ 0.65"
+    },
+    {
+      "duration": 300,
+      "power": 0.83,
+      "note": "interval 300sec @ 0.83"
+    },
+    {
+      "duration": 300,
+      "power": 0.65,
+      "note": "recovery 300sec @ 0.65"
+    },
+    {
+      "duration": 300,
+      "power": 0.83,
+      "note": "interval 300sec @ 0.83"
+    },
+    {
+      "duration": 300,
+      "power": 0.65,
+      "note": "recovery 300sec @ 0.65"
+    },
+    {
+      "duration": 300,
+      "power": 0.83,
+      "note": "interval 300sec @ 0.83"
+    },
+    {
+      "duration": 300,
+      "power": 0.65,
+      "note": "recovery 300sec @ 0.65"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

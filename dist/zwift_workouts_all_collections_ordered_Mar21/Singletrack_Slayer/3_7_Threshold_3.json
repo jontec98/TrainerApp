@@ -1,0 +1,124 @@
+{
+  "name": "Threshold #3",
+  "note": "One aspect of performance that can be improved the most through correct application of interval training is the lactate threshold. Training to improve threshold power is typically performed either just below or ideally, just above threshold for extended periods. On the table today is one 30min threshold effort. But we move the intensity around from lower zone 4 to upper zone 4. (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.75,
+      "note": "interval 10sec @ 1.75"
+    },
+    {
+      "duration": 50,
+      "power": 0.5,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.75,
+      "note": "interval 10sec @ 1.75"
+    },
+    {
+      "duration": 50,
+      "power": 0.5,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.75,
+      "note": "interval 10sec @ 1.75"
+    },
+    {
+      "duration": 50,
+      "power": 0.5,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.75,
+      "note": "interval 10sec @ 1.75"
+    },
+    {
+      "duration": 50,
+      "power": 0.5,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 240,
+      "power": 0.7,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.91,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.91,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    }
+  ]
+}

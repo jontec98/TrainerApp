@@ -1,0 +1,166 @@
+{
+  "name": "Seated & Standing",
+  "note": "These are designed to be done in the saddle for the first 2minutes, then stand and do the final 30 seconds out of the saddle and sprinting over the top of the hill. Short recoveries, to help improve your \"repeatability\" at the same time.   \nWarm-up 10 minutes and then 3 x 1 minute fast pedaling drills >110rpm\nThen do 5 minutes at tempo, followed by 10 x hill repeats.   Seated for 2 minutes, then out of the saddle as the resistance becomes harder. Recover for 2minutes and then cool-down (by GCN)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.75449997,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.75449997,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.75449997,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 300,
+      "power": 0.81449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.65449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.65449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.65449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.65449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.65449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.65449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.65449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.65449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.65449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

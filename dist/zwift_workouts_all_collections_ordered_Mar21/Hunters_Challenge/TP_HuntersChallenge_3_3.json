@@ -1,0 +1,176 @@
+{
+  "name": "Week 3.3 - Pirate pedaling",
+  "note": "One legged drills! Make sure to keep your pedaling smooth on each leg. If you have to use a little harder gear and/or add resistance while pedaling, that's perfectly fine. Make a mental note of when each leg starts to \"burn\". Which leg burns sooner in the one minute drill?",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.35,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.35,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.35,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.35,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.35,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.72,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "recovery 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "recovery 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "recovery 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "recovery 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "recovery 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "recovery 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "recovery 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "recovery 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "recovery 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "recovery 60sec @ 0.87"
+    },
+    {
+      "duration": 600,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

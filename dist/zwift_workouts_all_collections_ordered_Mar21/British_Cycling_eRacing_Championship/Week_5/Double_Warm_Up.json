@@ -1,0 +1,131 @@
+{
+  "name": "Week 5.3 -  Double Warm-up",
+  "note": "Schedule this session for the day before the race. By working through the meat of the warm-up twice, it'll deliver just enough intensity to prime your legs for the next day's race but won't result in fatigue. (by British Cycling)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 6,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 6,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 6,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 162,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 6,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 6,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 6,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 162,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    }
+  ]
+}

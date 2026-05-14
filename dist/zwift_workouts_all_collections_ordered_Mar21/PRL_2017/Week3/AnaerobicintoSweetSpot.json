@@ -1,0 +1,111 @@
+{
+  "name": "Week 3.7 - Anaerobic into Sweet Spot",
+  "note": "Along with challenging your fitness by going from a short Anaerobic effort into a sustained tempo effort, this session adds to that adaptation by including a large difference in cadence.\n\nComplete the opening low cadence Anaerobic Interval out of the seat, before settling into a high cadence tempo Interval.  (by Zwift)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.2045,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.88449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55449998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.2045,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.88449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.2045,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.88449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.2045,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.88449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.2045,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.88449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.2045,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.88449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

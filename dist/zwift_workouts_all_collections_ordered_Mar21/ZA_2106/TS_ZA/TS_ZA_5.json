@@ -1,0 +1,36 @@
+{
+  "name": "Month 1.5 - Progressive Ramp",
+  "note": "This will feel progressively harder as the session goes on. Ensure you are hydrated throughout and have good air circulation (use a strong fan!) as we don't want you overheating during this session! This type of session will work on your endurance capacity and ability to lift the power even when fatigued. Building both your lower level threshold and working on your FTP\n   (by trainSharp)",
+  "intervals": [
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 1800,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 1500,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 1200,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

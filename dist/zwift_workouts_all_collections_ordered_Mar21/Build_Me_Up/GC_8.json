@@ -1,0 +1,116 @@
+{
+  "name": "#8",
+  "note": "Named for the atomic number of Oxygen, this VO2 workout is all about what will be in short supply. Twice through a block of intervals up above threshold power will have you wishing for some extra O2, but you'll have to wait until the cool down to get it. Though there is a nice Zone 2 break between blocks of Z5 intervals where you can grab a little bit of extra air in your lungs. (by Shayne Gaffney | GC Coaching)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.95,
+      "note": "interval 30sec @ 0.95"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "interval 30sec @ 1.05"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "interval 30sec @ 1.15"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.15,
+      "note": "interval 120sec @ 1.15"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "recovery 180sec @ 0.50"
+    },
+    {
+      "duration": 120,
+      "power": 1.15,
+      "note": "interval 120sec @ 1.15"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "recovery 180sec @ 0.50"
+    },
+    {
+      "duration": 120,
+      "power": 1.15,
+      "note": "interval 120sec @ 1.15"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "recovery 180sec @ 0.50"
+    },
+    {
+      "duration": 600,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.15,
+      "note": "interval 120sec @ 1.15"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "recovery 180sec @ 0.50"
+    },
+    {
+      "duration": 120,
+      "power": 1.15,
+      "note": "interval 120sec @ 1.15"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "recovery 180sec @ 0.50"
+    },
+    {
+      "duration": 120,
+      "power": 1.15,
+      "note": "interval 120sec @ 1.15"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "recovery 180sec @ 0.50"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

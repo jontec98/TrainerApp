@@ -1,0 +1,121 @@
+{
+  "name": "Week 10.6 - Tempo 1 x 60min",
+  "note": "Warm up 10min, then complete. 1 x 60min tempo effort @ 85%. However, vary your cadence by + or - 5rpm every 5min. Cool down 10min. (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.52999997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.56,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.58999997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.62,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.63999999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.67000002,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.69999999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.73000002,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.75999999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 3600,
+      "power": 0.85000002,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.75999999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.73000002,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.69999999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.67000002,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.63999999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.62,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.58999997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.56,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.52999997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    }
+  ]
+}

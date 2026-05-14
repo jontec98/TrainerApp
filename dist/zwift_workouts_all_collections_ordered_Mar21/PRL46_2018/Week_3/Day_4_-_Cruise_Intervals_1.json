@@ -1,0 +1,61 @@
+{
+  "name": "Week 3.4 - Cruise Intervals #1",
+  "note": "Warm up followed by:\n3 x 6 minute efforts @ 98%, 95% and 91% FTP respectively with 2min recovery.\nObserve your Heart Rate response to each interval. Is it decreasing with the reduction of target power in each interval?\n (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 420,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55449998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.81449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 360,
+      "power": 0.98449993,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 360,
+      "power": 0.95293921,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 360,
+      "power": 0.91449994,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

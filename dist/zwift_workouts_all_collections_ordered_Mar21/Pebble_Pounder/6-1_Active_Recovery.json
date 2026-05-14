@@ -1,0 +1,92 @@
+{
+  "name": "Week 6.1 - Active Recovery",
+  "note": "This week is all about rest, recovery, and regeneration, so today will be very easy and low key. Make sure you respect the power targets and don't overshoot them. (by Shayne Gaffney)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

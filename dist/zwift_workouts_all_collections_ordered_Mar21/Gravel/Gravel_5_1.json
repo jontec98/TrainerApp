@@ -1,0 +1,226 @@
+{
+  "name": "Following The Efforts",
+  "note": "Welcome, today we've got 9x3 minute efforts on tap. The bulk of the work isn't overly hard today with a lot of 80% riding but you have to follow the 30 second VO2 effort inside each 3 minute block. 1-3 it's at the beginning. 4-6 it's in the middle. 7-9 it's at the end. Once you're done with that effort, though, you need to settle back into your pace. \n\nWe never know when the effort is going to come in a race, so might as well practice some little bursts inside of some good work. (by Zwift)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.1,
+      "note": "interval 20sec @ 1.10"
+    },
+    {
+      "duration": 40,
+      "power": 0.55,
+      "note": "recovery 40sec @ 0.55"
+    },
+    {
+      "duration": 20,
+      "power": 1.1,
+      "note": "interval 20sec @ 1.10"
+    },
+    {
+      "duration": 40,
+      "power": 0.55,
+      "note": "recovery 40sec @ 0.55"
+    },
+    {
+      "duration": 20,
+      "power": 1.1,
+      "note": "interval 20sec @ 1.10"
+    },
+    {
+      "duration": 40,
+      "power": 0.55,
+      "note": "recovery 40sec @ 0.55"
+    },
+    {
+      "duration": 20,
+      "power": 1.1,
+      "note": "interval 20sec @ 1.10"
+    },
+    {
+      "duration": 40,
+      "power": 0.55,
+      "note": "recovery 40sec @ 0.55"
+    },
+    {
+      "duration": 20,
+      "power": 1.1,
+      "note": "interval 20sec @ 1.10"
+    },
+    {
+      "duration": 40,
+      "power": 0.55,
+      "note": "recovery 40sec @ 0.55"
+    },
+    {
+      "duration": 20,
+      "power": 1.1,
+      "note": "interval 20sec @ 1.10"
+    },
+    {
+      "duration": 40,
+      "power": 0.55,
+      "note": "recovery 40sec @ 0.55"
+    },
+    {
+      "duration": 30,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 400,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

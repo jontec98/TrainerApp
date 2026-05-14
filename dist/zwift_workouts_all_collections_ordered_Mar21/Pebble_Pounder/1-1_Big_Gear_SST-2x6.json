@@ -1,0 +1,71 @@
+{
+  "name": "Week 1.2 - Big Gear SST - 2 x 6",
+  "note": "Welcome to the Pebble Pounder! I am stoked to have you partake in it, and start your journey into the World of 'gravel grinding'. Today's workout begins our plan, and features 2 very important aspects of completing a gravel event - being able to hold power close to threshold (aka sweet spot, or SST), and also being able to maintain this power at a lower than normal cadence (aka big gear). (by Shayne Gaffney)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "interval 30sec @ 1.05"
+    },
+    {
+      "duration": 30,
+      "power": 0.65,
+      "note": "recovery 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "interval 30sec @ 1.05"
+    },
+    {
+      "duration": 30,
+      "power": 0.65,
+      "note": "recovery 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "interval 30sec @ 1.05"
+    },
+    {
+      "duration": 30,
+      "power": 0.65,
+      "note": "recovery 30sec @ 0.65"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 360,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 360,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

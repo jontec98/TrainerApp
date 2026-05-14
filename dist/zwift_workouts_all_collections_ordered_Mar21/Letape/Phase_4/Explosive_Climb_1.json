@@ -1,0 +1,97 @@
+{
+  "name": "Phase 4.2 - Explosive Climb #1",
+  "note": "Attacking your way into the base of the climbs today. By performing a high powered effort at the base of the climb, you will build up some lactate before completing a zone 4 effort.\n\nBut today is all about high crank torque. That means low cadence efforts. (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 420,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.95449996,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.5044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.4044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.3045,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.95449996,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    }
+  ]
+}

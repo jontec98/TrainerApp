@@ -1,0 +1,101 @@
+{
+  "name": "Week 6.5 - 5 x 5min 100rpm",
+  "note": "Targeting your aerobic efficiency with 5 x 5min sub-threshold efforts with 3min recovery.\n\nWe are also introducing an added stress by challenging your neuromuscular system by increasing the target cadence. (by Kevin Poulton )",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.8051497,
+      "note": "interval 10sec @ 1.81"
+    },
+    {
+      "duration": 50,
+      "power": 0.50449997,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.8051497,
+      "note": "interval 10sec @ 1.81"
+    },
+    {
+      "duration": 50,
+      "power": 0.50449997,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 120,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0944999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.56103671,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.83695525,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.56229657,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.92449993,
+      "note": "interval 300sec @ 0.92"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "recovery 180sec @ 0.50"
+    },
+    {
+      "duration": 300,
+      "power": 0.92449993,
+      "note": "interval 300sec @ 0.92"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "recovery 180sec @ 0.50"
+    },
+    {
+      "duration": 300,
+      "power": 0.92449993,
+      "note": "interval 300sec @ 0.92"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "recovery 180sec @ 0.50"
+    },
+    {
+      "duration": 300,
+      "power": 0.92449993,
+      "note": "interval 300sec @ 0.92"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "recovery 180sec @ 0.50"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

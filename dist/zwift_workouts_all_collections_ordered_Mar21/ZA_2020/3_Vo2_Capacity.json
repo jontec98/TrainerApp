@@ -1,0 +1,108 @@
+{
+  "name": "VO2 Capacity",
+  "note": "If you want to push the limits of your aerobic ability and see how strong your system is, this workout is for you. Discover your 4min max power, a time scale widely seen as a benchmark of effort. \n\n\tWe all know the feeling when we tackle the Volcano KOM at a FULL GAS or follow an attack on Box Hill\u2013 our heart rate surges with breathing rate close to maximum. Today's workout tests how deep you can go for 4min, followed by how well you can recover from such efforts. \n\t\t\n\tThis workout gives you a look at two key performance metrics. First, your 4min maximal power. We want you to go ALL OUT during this effort and hold nothing back. Avoid going too far into the red zone at the start of this interval by controlling your pacing.\n\t\t\n\tSecond, we stress your ability to clear the high lactate concentrations generated during the 4min all-out effort. You have 11min to recover before producing 4x 2min efforts at 115%, which is near the limit of your VO2 power. (by Zwift Academy Coaches)",
+  "intervals": [
+    {
+      "duration": 540,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 360,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 30,
+      "power": 0.3,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 480,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.15,
+      "note": "interval 120sec @ 1.15"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 1.15,
+      "note": "interval 120sec @ 1.15"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 1.15,
+      "note": "interval 120sec @ 1.15"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 1.15,
+      "note": "interval 120sec @ 1.15"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "name": "Annemiek Van Vleuten: All-rounder",
+  "note": "The best in the world. No discussion. Such is the level of achievements Dutchwoman Annemiek van Vleuten has attained for most of the past decade. Her work ethic, commitment and extreme competitive spirit have brought her to break all barriers and reach sensational results. The main set is 2 rounds of 3 x 3 min efforts at 110% of FTP with 5 minutes of easy recovery between rounds. This workout is all about improving VO2max and the ability to maintain power above threshold during medium efforts. Van Vleuten  knows the importance of this type of workout to be able to support attacks from her rivals. (by Sean Jefferson)",
+  "intervals": [
+    {
+      "duration": 660,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.1,
+      "note": "interval 180sec @ 1.10"
+    },
+    {
+      "duration": 120,
+      "power": 0.45,
+      "note": "recovery 120sec @ 0.45"
+    },
+    {
+      "duration": 180,
+      "power": 1.1,
+      "note": "interval 180sec @ 1.10"
+    },
+    {
+      "duration": 120,
+      "power": 0.45,
+      "note": "recovery 120sec @ 0.45"
+    },
+    {
+      "duration": 180,
+      "power": 1.1,
+      "note": "interval 180sec @ 1.10"
+    },
+    {
+      "duration": 120,
+      "power": 0.45,
+      "note": "recovery 120sec @ 0.45"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.1,
+      "note": "interval 180sec @ 1.10"
+    },
+    {
+      "duration": 120,
+      "power": 0.45,
+      "note": "recovery 120sec @ 0.45"
+    },
+    {
+      "duration": 180,
+      "power": 1.1,
+      "note": "interval 180sec @ 1.10"
+    },
+    {
+      "duration": 120,
+      "power": 0.45,
+      "note": "recovery 120sec @ 0.45"
+    },
+    {
+      "duration": 180,
+      "power": 1.1,
+      "note": "interval 180sec @ 1.10"
+    },
+    {
+      "duration": 120,
+      "power": 0.45,
+      "note": "recovery 120sec @ 0.45"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "name": "Week 1.3 - Vo2 increase climb",
+  "note": "Today's session simulates the demands of climbing at a Vo2 Max intensity, by targeting a lower cadence.\n\n5 intervals at Lower Zone 5. However, each interval is extended by 30sec.\n\nThe 1st effort is 4 minutes then extend each effort by 30 seconds (last effort is 6 minutes). (by Zwift)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.95449996,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 1.0623126,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55449998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 270,
+      "power": 1.0645,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0645,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 330,
+      "power": 1.0645,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 360,
+      "power": 1.0645,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

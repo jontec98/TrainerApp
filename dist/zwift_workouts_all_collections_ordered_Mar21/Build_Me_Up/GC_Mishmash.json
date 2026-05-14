@@ -1,0 +1,198 @@
+{
+  "name": "Mishmash",
+  "note": "Some of this. Some of that. A mishmash of multi-zone work and cadence changes designed with a singular focus - making you faster! (by Shayne Gaffney | GC Coaching)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.8,
+      "note": "interval 180sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 1.05,
+      "note": "recovery 60sec @ 1.05"
+    },
+    {
+      "duration": 60,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.8,
+      "note": "interval 180sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 1.05,
+      "note": "recovery 60sec @ 1.05"
+    },
+    {
+      "duration": 60,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.8,
+      "note": "interval 180sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 1.05,
+      "note": "recovery 60sec @ 1.05"
+    },
+    {
+      "duration": 60,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.8,
+      "note": "interval 180sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 1.05,
+      "note": "recovery 60sec @ 1.05"
+    },
+    {
+      "duration": 120,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.7,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.7,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 720,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.75,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.75,
+      "note": "recovery 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.75,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.75,
+      "note": "recovery 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.75,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.75,
+      "note": "recovery 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.75,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.75,
+      "note": "recovery 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.75,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.75,
+      "note": "recovery 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.75,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.75,
+      "note": "recovery 60sec @ 0.75"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    }
+  ]
+}

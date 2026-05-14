@@ -1,0 +1,156 @@
+{
+  "name": "Wide Awake",
+  "note": "This workout starts and finishes with a pyramid style structure however this time completing 2 x 4 minute blocks of zone 3 in between to give a nice mix of aerobic and anaerobic effort. (by D.Rowe (Rowe&King))",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 130,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 0.40000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.40000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.40000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 0.40000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 50,
+      "power": 1.0445,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 50,
+      "power": 0.40000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.40000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.76437497,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.40000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.76449996,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.40000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.40000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 50,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 50,
+      "power": 0.40000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 0.40000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.40000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.40000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

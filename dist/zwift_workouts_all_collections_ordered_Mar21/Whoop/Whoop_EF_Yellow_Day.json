@@ -1,0 +1,223 @@
+{
+  "name": "EF Pro Cycling's Yellow Day Workout",
+  "note": "EF Pro Cycling's Alex Howes says 'I love 30/30s on yellow days. They're great for developing that high end power that translates to on the road success, yet when broken into more bite sized chunks, they're something the body can recover quickly from, setting me up for a green day tomorrow.' (by Shayne Gaffney)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.1545,
+      "note": "interval 15sec @ 1.15"
+    },
+    {
+      "duration": 45,
+      "power": 0.50449997,
+      "note": "recovery 45sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.1545,
+      "note": "interval 15sec @ 1.15"
+    },
+    {
+      "duration": 45,
+      "power": 0.50449997,
+      "note": "recovery 45sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.1545,
+      "note": "interval 15sec @ 1.15"
+    },
+    {
+      "duration": 45,
+      "power": 0.50449997,
+      "note": "recovery 45sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.1545,
+      "note": "interval 15sec @ 1.15"
+    },
+    {
+      "duration": 45,
+      "power": 0.50449997,
+      "note": "recovery 45sec @ 0.50"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.3045,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 30,
+      "power": 0.50449997,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.3045,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 30,
+      "power": 0.50449997,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.3045,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 30,
+      "power": 0.50449997,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.3045,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 30,
+      "power": 0.50449997,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.3045,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 30,
+      "power": 0.50449997,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 330,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.3045,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 30,
+      "power": 0.50449997,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.3045,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 30,
+      "power": 0.50449997,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.3045,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 30,
+      "power": 0.50449997,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.3045,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 30,
+      "power": 0.50449997,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.3045,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 30,
+      "power": 0.50449997,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 330,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.3045,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 30,
+      "power": 0.50449997,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.3045,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 30,
+      "power": 0.50449997,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.3045,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 30,
+      "power": 0.50449997,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.3045,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 30,
+      "power": 0.50449997,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.3045,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 30,
+      "power": 0.50449997,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

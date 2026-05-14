@@ -1,0 +1,106 @@
+{
+  "name": "Pacing #3",
+  "note": "A low intensity endurance session today focusing on your ability to judge your pacing.\n\nBy completing some steady state intervals under threshold power, you will develop the ability to gauge your effort based on \"feel\" without having to look at the data for feedback. This session also serves the purpose of effectively building endurance. (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 420,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "interval 60sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.7,
+      "note": "recovery 60sec @ 0.70"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "interval 60sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.7,
+      "note": "recovery 60sec @ 0.70"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "interval 60sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.7,
+      "note": "recovery 60sec @ 0.70"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "interval 60sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.7,
+      "note": "recovery 60sec @ 0.70"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.88,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 360,
+      "power": 0.75,
+      "note": "interval 360sec @ 0.75"
+    },
+    {
+      "duration": 360,
+      "power": 0.88,
+      "note": "recovery 360sec @ 0.88"
+    },
+    {
+      "duration": 360,
+      "power": 0.75,
+      "note": "interval 360sec @ 0.75"
+    },
+    {
+      "duration": 360,
+      "power": 0.88,
+      "note": "recovery 360sec @ 0.88"
+    },
+    {
+      "duration": 360,
+      "power": 0.75,
+      "note": "interval 360sec @ 0.75"
+    },
+    {
+      "duration": 360,
+      "power": 0.88,
+      "note": "recovery 360sec @ 0.88"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    }
+  ]
+}

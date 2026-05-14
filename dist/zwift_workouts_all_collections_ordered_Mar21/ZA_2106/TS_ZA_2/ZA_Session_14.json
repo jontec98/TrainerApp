@@ -1,0 +1,76 @@
+{
+  "name": "Month 2.5 - Hill Reps #2",
+  "note": "This is progression from our last hill rep workout. In other words, more efforts! Remember to keep your upper body quiet and focus on nice, round pedaling from your legs and glutes while keeping a strong core.\n\n\nAim for a 60-70 RPM cadence for the efforts and 90+ for everything else. (by Jon Sharples)",
+  "intervals": [
+    {
+      "duration": 1200,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.40450001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.90449995,
+      "note": "interval 300sec @ 0.90"
+    },
+    {
+      "duration": 300,
+      "power": 0.40450001,
+      "note": "recovery 300sec @ 0.40"
+    },
+    {
+      "duration": 300,
+      "power": 0.90449995,
+      "note": "interval 300sec @ 0.90"
+    },
+    {
+      "duration": 300,
+      "power": 0.40450001,
+      "note": "recovery 300sec @ 0.40"
+    },
+    {
+      "duration": 300,
+      "power": 0.90449995,
+      "note": "interval 300sec @ 0.90"
+    },
+    {
+      "duration": 300,
+      "power": 0.40450001,
+      "note": "recovery 300sec @ 0.40"
+    },
+    {
+      "duration": 300,
+      "power": 0.90449995,
+      "note": "interval 300sec @ 0.90"
+    },
+    {
+      "duration": 300,
+      "power": 0.40450001,
+      "note": "recovery 300sec @ 0.40"
+    },
+    {
+      "duration": 300,
+      "power": 0.90449995,
+      "note": "interval 300sec @ 0.90"
+    },
+    {
+      "duration": 300,
+      "power": 0.40450001,
+      "note": "recovery 300sec @ 0.40"
+    },
+    {
+      "duration": 300,
+      "power": 0.90449995,
+      "note": "interval 300sec @ 0.90"
+    },
+    {
+      "duration": 300,
+      "power": 0.40450001,
+      "note": "recovery 300sec @ 0.40"
+    }
+  ]
+}

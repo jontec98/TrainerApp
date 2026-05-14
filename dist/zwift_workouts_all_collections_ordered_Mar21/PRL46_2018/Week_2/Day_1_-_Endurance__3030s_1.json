@@ -1,0 +1,196 @@
+{
+  "name": "Week 2.1 - Endurance + 30/30's #1",
+  "note": "After warming up complete 15 minutes of 'free-ride' to build a little fatigue in the legs. Aim to keep power within Zones 2 and 3 during this time.\n\nWe then complete\n2 sets of (6 x 30sec efforts @ Z5 Power with 30sec recovery). With 10 minute recovery between the sets. (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.64999998,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 0.80000001,
+      "note": "recovery 30sec @ 0.80"
+    },
+    {
+      "duration": 30,
+      "power": 0.64999998,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 0.80000001,
+      "note": "recovery 30sec @ 0.80"
+    },
+    {
+      "duration": 30,
+      "power": 0.64999998,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 0.80000001,
+      "note": "recovery 30sec @ 0.80"
+    },
+    {
+      "duration": 30,
+      "power": 0.64999998,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 0.80000001,
+      "note": "recovery 30sec @ 0.80"
+    },
+    {
+      "duration": 30,
+      "power": 0.64999998,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 0.80000001,
+      "note": "recovery 30sec @ 0.80"
+    },
+    {
+      "duration": 900,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 30,
+      "power": 1.13,
+      "note": "interval 30sec @ 1.13"
+    },
+    {
+      "duration": 30,
+      "power": 0.75999999,
+      "note": "recovery 30sec @ 0.76"
+    },
+    {
+      "duration": 30,
+      "power": 1.13,
+      "note": "interval 30sec @ 1.13"
+    },
+    {
+      "duration": 30,
+      "power": 0.75999999,
+      "note": "recovery 30sec @ 0.76"
+    },
+    {
+      "duration": 30,
+      "power": 1.13,
+      "note": "interval 30sec @ 1.13"
+    },
+    {
+      "duration": 30,
+      "power": 0.75999999,
+      "note": "recovery 30sec @ 0.76"
+    },
+    {
+      "duration": 30,
+      "power": 1.13,
+      "note": "interval 30sec @ 1.13"
+    },
+    {
+      "duration": 30,
+      "power": 0.75999999,
+      "note": "recovery 30sec @ 0.76"
+    },
+    {
+      "duration": 30,
+      "power": 1.13,
+      "note": "interval 30sec @ 1.13"
+    },
+    {
+      "duration": 30,
+      "power": 0.75999999,
+      "note": "recovery 30sec @ 0.76"
+    },
+    {
+      "duration": 30,
+      "power": 1.13,
+      "note": "interval 30sec @ 1.13"
+    },
+    {
+      "duration": 30,
+      "power": 0.75999999,
+      "note": "recovery 30sec @ 0.76"
+    },
+    {
+      "duration": 600,
+      "power": 0.64999998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.13,
+      "note": "interval 30sec @ 1.13"
+    },
+    {
+      "duration": 30,
+      "power": 0.75999999,
+      "note": "recovery 30sec @ 0.76"
+    },
+    {
+      "duration": 30,
+      "power": 1.13,
+      "note": "interval 30sec @ 1.13"
+    },
+    {
+      "duration": 30,
+      "power": 0.75999999,
+      "note": "recovery 30sec @ 0.76"
+    },
+    {
+      "duration": 30,
+      "power": 1.13,
+      "note": "interval 30sec @ 1.13"
+    },
+    {
+      "duration": 30,
+      "power": 0.75999999,
+      "note": "recovery 30sec @ 0.76"
+    },
+    {
+      "duration": 30,
+      "power": 1.13,
+      "note": "interval 30sec @ 1.13"
+    },
+    {
+      "duration": 30,
+      "power": 0.75999999,
+      "note": "recovery 30sec @ 0.76"
+    },
+    {
+      "duration": 30,
+      "power": 1.13,
+      "note": "interval 30sec @ 1.13"
+    },
+    {
+      "duration": 30,
+      "power": 0.75999999,
+      "note": "recovery 30sec @ 0.76"
+    },
+    {
+      "duration": 30,
+      "power": 1.13,
+      "note": "interval 30sec @ 1.13"
+    },
+    {
+      "duration": 30,
+      "power": 0.75999999,
+      "note": "recovery 30sec @ 0.76"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

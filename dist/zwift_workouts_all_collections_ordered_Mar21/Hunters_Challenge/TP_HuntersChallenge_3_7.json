@@ -1,0 +1,131 @@
+{
+  "name": "Week 3.7 - Stuck in the Rut",
+  "note": "Do 2 x20 minutes at Sub FTP watts (89%)-today, then 5 minutes rest. Then do 10x1 minute fast pedaling, but I want these to be HARDER than the normal ones. Put more effort into them. Recovery is still only one minute though. Just make sure you keep cadence over 105rpm.\n  ",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 1200,
+      "power": 0.87,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.72,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 1200,
+      "power": 0.87,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.14,
+      "note": "interval 60sec @ 1.14"
+    },
+    {
+      "duration": 60,
+      "power": 0.72,
+      "note": "recovery 60sec @ 0.72"
+    },
+    {
+      "duration": 60,
+      "power": 1.14,
+      "note": "interval 60sec @ 1.14"
+    },
+    {
+      "duration": 60,
+      "power": 0.72,
+      "note": "recovery 60sec @ 0.72"
+    },
+    {
+      "duration": 60,
+      "power": 1.14,
+      "note": "interval 60sec @ 1.14"
+    },
+    {
+      "duration": 60,
+      "power": 0.72,
+      "note": "recovery 60sec @ 0.72"
+    },
+    {
+      "duration": 60,
+      "power": 1.14,
+      "note": "interval 60sec @ 1.14"
+    },
+    {
+      "duration": 60,
+      "power": 0.72,
+      "note": "recovery 60sec @ 0.72"
+    },
+    {
+      "duration": 60,
+      "power": 1.14,
+      "note": "interval 60sec @ 1.14"
+    },
+    {
+      "duration": 60,
+      "power": 0.72,
+      "note": "recovery 60sec @ 0.72"
+    },
+    {
+      "duration": 60,
+      "power": 1.14,
+      "note": "interval 60sec @ 1.14"
+    },
+    {
+      "duration": 60,
+      "power": 0.72,
+      "note": "recovery 60sec @ 0.72"
+    },
+    {
+      "duration": 60,
+      "power": 1.14,
+      "note": "interval 60sec @ 1.14"
+    },
+    {
+      "duration": 60,
+      "power": 0.72,
+      "note": "recovery 60sec @ 0.72"
+    },
+    {
+      "duration": 60,
+      "power": 1.14,
+      "note": "interval 60sec @ 1.14"
+    },
+    {
+      "duration": 60,
+      "power": 0.72,
+      "note": "recovery 60sec @ 0.72"
+    },
+    {
+      "duration": 60,
+      "power": 1.14,
+      "note": "interval 60sec @ 1.14"
+    },
+    {
+      "duration": 60,
+      "power": 0.72,
+      "note": "recovery 60sec @ 0.72"
+    },
+    {
+      "duration": 60,
+      "power": 1.14,
+      "note": "interval 60sec @ 1.14"
+    },
+    {
+      "duration": 60,
+      "power": 0.72,
+      "note": "recovery 60sec @ 0.72"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

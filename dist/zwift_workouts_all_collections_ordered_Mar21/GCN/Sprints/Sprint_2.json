@@ -1,0 +1,146 @@
+{
+  "name": "Tractor Pulls",
+  "note": "Tractor Pulls are big gear intervals that are designed to improve your muscular strength, as you push hard as possible against maximum resistance.  Stay Seated during these intervals and grip the handlebars tightly and push hard on those pedals for each interval.\n     (by GCN)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.75449997,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.75449997,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.75449997,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 25,
+      "power": 3.0045002,
+      "note": "interval 25sec @ 3.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 25,
+      "power": 3.0045002,
+      "note": "interval 25sec @ 3.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 25,
+      "power": 3.0045002,
+      "note": "interval 25sec @ 3.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 25,
+      "power": 3.0045002,
+      "note": "interval 25sec @ 3.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 25,
+      "power": 3.0045002,
+      "note": "interval 25sec @ 3.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 25,
+      "power": 3.0045002,
+      "note": "interval 25sec @ 3.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 25,
+      "power": 3.0045002,
+      "note": "interval 25sec @ 3.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 25,
+      "power": 3.0045002,
+      "note": "interval 25sec @ 3.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 25,
+      "power": 3.0045002,
+      "note": "interval 25sec @ 3.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 25,
+      "power": 3.0045002,
+      "note": "interval 25sec @ 3.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

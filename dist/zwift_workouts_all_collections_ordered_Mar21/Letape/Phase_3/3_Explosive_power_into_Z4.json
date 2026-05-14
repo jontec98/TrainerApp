@@ -1,0 +1,143 @@
+{
+  "name": "Phase 3.3 - Explosive power into Z4",
+  "note": "Quite often before settling into a long tempo effort, we are required to perform multiple surges. In today's session the focus is on completing long tempo efforts. However, each tempo effort is preceded by multiple high power accelerations. (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 360,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.09,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.89999998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.65449995,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 15,
+      "power": 1.7045,
+      "note": "recovery 15sec @ 1.70"
+    },
+    {
+      "duration": 30,
+      "power": 0.65449995,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 15,
+      "power": 1.7045,
+      "note": "recovery 15sec @ 1.70"
+    },
+    {
+      "duration": 30,
+      "power": 0.65449995,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 15,
+      "power": 1.7045,
+      "note": "recovery 15sec @ 1.70"
+    },
+    {
+      "duration": 30,
+      "power": 0.65449995,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 15,
+      "power": 1.7045,
+      "note": "recovery 15sec @ 1.70"
+    },
+    {
+      "duration": 600,
+      "power": 0.91590393,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.65449995,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 15,
+      "power": 1.7045,
+      "note": "recovery 15sec @ 1.70"
+    },
+    {
+      "duration": 30,
+      "power": 0.65449995,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 15,
+      "power": 1.7045,
+      "note": "recovery 15sec @ 1.70"
+    },
+    {
+      "duration": 30,
+      "power": 0.65449995,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 15,
+      "power": 1.7045,
+      "note": "recovery 15sec @ 1.70"
+    },
+    {
+      "duration": 30,
+      "power": 0.65449995,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 15,
+      "power": 1.7045,
+      "note": "recovery 15sec @ 1.70"
+    },
+    {
+      "duration": 600,
+      "power": 0.91449994,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    }
+  ]
+}

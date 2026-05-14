@@ -1,0 +1,101 @@
+{
+  "name": "Week 1.1 -  3x10 Min Threshold",
+  "note": "A great session to ease you in \"gently\" to longer threshold intensity efforts and a good check that your FTP is correct. The 10 min efforts should feel hard and will require concentration but they should be manageable. Too easy and you might need to bump up your FTP. If you can't make it through them or you're right on your limit, you might need to dial it down. If it does feel significantly off the mark, replace Session 2 with a Threshold Test. (by British Cycling)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 6,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 6,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 6,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 162,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.95,
+      "note": "interval 600sec @ 0.95"
+    },
+    {
+      "duration": 300,
+      "power": 0.45,
+      "note": "recovery 300sec @ 0.45"
+    },
+    {
+      "duration": 600,
+      "power": 0.95,
+      "note": "interval 600sec @ 0.95"
+    },
+    {
+      "duration": 300,
+      "power": 0.45,
+      "note": "recovery 300sec @ 0.45"
+    },
+    {
+      "duration": 600,
+      "power": 0.95,
+      "note": "interval 600sec @ 0.95"
+    },
+    {
+      "duration": 300,
+      "power": 0.45,
+      "note": "recovery 300sec @ 0.45"
+    }
+  ]
+}

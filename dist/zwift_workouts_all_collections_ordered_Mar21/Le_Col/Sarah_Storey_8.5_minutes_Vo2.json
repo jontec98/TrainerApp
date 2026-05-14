@@ -1,0 +1,101 @@
+{
+  "name": "Dame Sarah Storey.1 - 8.5 Minutes Of Pain",
+  "note": "This session is about maximizing your Vo2 Max. Your maximum ability to process oxygen for aerobic exercise.\n\nThese workouts have been designed and tested by some of the best cyclists in the world. Olympians and World Champions such as Sir Bradley Wiggins, Fabian Cancellara, Dame Sarah Storey and Kristin Armstrong. (by Chris Opie)",
+  "intervals": [
+    {
+      "duration": 180,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.3,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.3,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.3,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.25,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.25,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.25,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 1.23,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 1.23,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 1.23,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

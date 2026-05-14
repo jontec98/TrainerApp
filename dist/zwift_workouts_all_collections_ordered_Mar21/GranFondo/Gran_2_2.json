@@ -1,0 +1,111 @@
+{
+  "name": "Make A Break For It",
+  "note": "Work here on that top end speed just above threshold. If you want to make - or join - a breakaway, this is the sort of fitness you will need to make that happen. (by Zwift)",
+  "intervals": [
+    {
+      "duration": 240,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.85449994,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.2544999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.99297523,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.49450001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.85449994,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.2544999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.99449992,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.85449994,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.25,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.99449992,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.85449994,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.2544999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.99449992,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

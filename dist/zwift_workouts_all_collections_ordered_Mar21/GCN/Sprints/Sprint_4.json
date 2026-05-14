@@ -1,0 +1,176 @@
+{
+  "name": "Gearing",
+  "note": "Small ring and big ring sprints today.  The goal with the small ring is to enhance your explosiveness, so focus on your jump.  The Big rings are longer, designed to enhance your resistance to fatigue. \n   (by GCN)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.75449997,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.75449997,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.75449997,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 180,
+      "power": 0.81449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 3.0045002,
+      "note": "interval 15sec @ 3.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 15,
+      "power": 3.0045002,
+      "note": "interval 15sec @ 3.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 15,
+      "power": 3.0045002,
+      "note": "interval 15sec @ 3.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 15,
+      "power": 3.0045002,
+      "note": "interval 15sec @ 3.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 15,
+      "power": 3.0045002,
+      "note": "interval 15sec @ 3.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 15,
+      "power": 3.0045002,
+      "note": "interval 15sec @ 3.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 180,
+      "power": 0.81449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 25,
+      "power": 2.5044999,
+      "note": "interval 25sec @ 2.50"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "recovery 180sec @ 0.50"
+    },
+    {
+      "duration": 25,
+      "power": 2.5044999,
+      "note": "interval 25sec @ 2.50"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "recovery 180sec @ 0.50"
+    },
+    {
+      "duration": 25,
+      "power": 2.5044999,
+      "note": "interval 25sec @ 2.50"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "recovery 180sec @ 0.50"
+    },
+    {
+      "duration": 25,
+      "power": 2.5044999,
+      "note": "interval 25sec @ 2.50"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "recovery 180sec @ 0.50"
+    },
+    {
+      "duration": 25,
+      "power": 2.5044999,
+      "note": "interval 25sec @ 2.50"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "recovery 180sec @ 0.50"
+    },
+    {
+      "duration": 25,
+      "power": 2.5044999,
+      "note": "interval 25sec @ 2.50"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "recovery 180sec @ 0.50"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

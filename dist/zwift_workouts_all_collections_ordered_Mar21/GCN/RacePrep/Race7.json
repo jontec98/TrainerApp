@@ -1,0 +1,216 @@
+{
+  "name": "Fast pedaling",
+  "note": "This workout is designed to improve your ability to change cadences without worrying too much about your wattage output.   This workout also makes the time go much faster!\nWarm-up 10minutes and then begin your Fast pedaling drills!  One minute pedaling fast at >110rpm and then 1 minute at 80rpm. Cool-down (by GCN)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.80449992,
+      "note": "interval 60sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.80449992,
+      "note": "interval 60sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.80449992,
+      "note": "interval 60sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.80449992,
+      "note": "interval 60sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.80449992,
+      "note": "interval 60sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.80449992,
+      "note": "interval 60sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.80449992,
+      "note": "interval 60sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.80449992,
+      "note": "interval 60sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.80449992,
+      "note": "interval 60sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.80449992,
+      "note": "interval 60sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.80449992,
+      "note": "interval 60sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.80449992,
+      "note": "interval 60sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.80449992,
+      "note": "interval 60sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.80449992,
+      "note": "interval 60sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.80449992,
+      "note": "interval 60sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.80449992,
+      "note": "interval 60sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.80449992,
+      "note": "interval 60sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.80449992,
+      "note": "interval 60sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.80449992,
+      "note": "interval 60sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.80449992,
+      "note": "interval 60sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

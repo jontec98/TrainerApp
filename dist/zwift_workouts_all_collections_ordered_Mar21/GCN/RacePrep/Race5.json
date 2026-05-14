@@ -1,0 +1,191 @@
+{
+  "name": "Cadence Bursts",
+  "note": "The goal of this workout is to get in some good solid cardiovascular work and then doing some seated cadence bursts for 30 seconds within the sustained effort.   Warm-up for 10minutes with 3 x 1minute fast pedaling intervals >110rpm and then do do 40 minutes at tempo pace- 80% of FTP and do a burst every few minutes.   Cooldown.   (by GCN)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.75449997,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.75449997,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.75449997,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 120,
+      "power": 0.80449992,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0044999,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.80449992,
+      "note": "recovery 120sec @ 0.80"
+    },
+    {
+      "duration": 30,
+      "power": 1.0044999,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.80449992,
+      "note": "recovery 120sec @ 0.80"
+    },
+    {
+      "duration": 30,
+      "power": 1.0044999,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.80449992,
+      "note": "recovery 120sec @ 0.80"
+    },
+    {
+      "duration": 30,
+      "power": 1.0044999,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.80449992,
+      "note": "recovery 120sec @ 0.80"
+    },
+    {
+      "duration": 30,
+      "power": 1.0044999,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.80449992,
+      "note": "recovery 120sec @ 0.80"
+    },
+    {
+      "duration": 30,
+      "power": 1.0044999,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.80449992,
+      "note": "recovery 120sec @ 0.80"
+    },
+    {
+      "duration": 30,
+      "power": 1.0044999,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.80449992,
+      "note": "recovery 120sec @ 0.80"
+    },
+    {
+      "duration": 30,
+      "power": 1.0044999,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.80449992,
+      "note": "recovery 120sec @ 0.80"
+    },
+    {
+      "duration": 30,
+      "power": 1.0044999,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.80449992,
+      "note": "recovery 120sec @ 0.80"
+    },
+    {
+      "duration": 30,
+      "power": 1.0044999,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.80449992,
+      "note": "recovery 120sec @ 0.80"
+    },
+    {
+      "duration": 30,
+      "power": 1.0044999,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.80449992,
+      "note": "recovery 120sec @ 0.80"
+    },
+    {
+      "duration": 30,
+      "power": 1.0044999,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.80449992,
+      "note": "recovery 120sec @ 0.80"
+    },
+    {
+      "duration": 30,
+      "power": 1.0044999,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.80449992,
+      "note": "recovery 120sec @ 0.80"
+    },
+    {
+      "duration": 30,
+      "power": 1.0044999,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.80449992,
+      "note": "recovery 120sec @ 0.80"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

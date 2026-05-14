@@ -1,0 +1,106 @@
+{
+  "name": "Exemplar",
+  "note": "One of the most challenging workouts in the plan, this is designed to help you achieve your best - the Exemplary version of yourself! (by Shayne Gaffney | GC Coaching)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 480,
+      "power": 0.93,
+      "note": "interval 480sec @ 0.93"
+    },
+    {
+      "duration": 120,
+      "power": 0.88,
+      "note": "recovery 120sec @ 0.88"
+    },
+    {
+      "duration": 480,
+      "power": 0.93,
+      "note": "interval 480sec @ 0.93"
+    },
+    {
+      "duration": 120,
+      "power": 0.88,
+      "note": "recovery 120sec @ 0.88"
+    },
+    {
+      "duration": 180,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.93,
+      "note": "interval 120sec @ 0.93"
+    },
+    {
+      "duration": 120,
+      "power": 0.88,
+      "note": "recovery 120sec @ 0.88"
+    },
+    {
+      "duration": 120,
+      "power": 0.93,
+      "note": "interval 120sec @ 0.93"
+    },
+    {
+      "duration": 120,
+      "power": 0.88,
+      "note": "recovery 120sec @ 0.88"
+    },
+    {
+      "duration": 120,
+      "power": 0.93,
+      "note": "interval 120sec @ 0.93"
+    },
+    {
+      "duration": 120,
+      "power": 0.88,
+      "note": "recovery 120sec @ 0.88"
+    },
+    {
+      "duration": 120,
+      "power": 0.93,
+      "note": "interval 120sec @ 0.93"
+    },
+    {
+      "duration": 120,
+      "power": 0.88,
+      "note": "recovery 120sec @ 0.88"
+    },
+    {
+      "duration": 120,
+      "power": 0.93,
+      "note": "interval 120sec @ 0.93"
+    },
+    {
+      "duration": 120,
+      "power": 0.88,
+      "note": "recovery 120sec @ 0.88"
+    },
+    {
+      "duration": 120,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "name": "Potpourri",
+  "note": "You may not smell great after working your way through the variety of intervals in this workout, but you will be more fit! (by Shayne Gaffney | GC Coaching)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.95,
+      "note": "interval 30sec @ 0.95"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "interval 30sec @ 1.05"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "interval 30sec @ 1.15"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.88,
+      "note": "interval 60sec @ 0.88"
+    },
+    {
+      "duration": 60,
+      "power": 0.88,
+      "note": "recovery 60sec @ 0.88"
+    },
+    {
+      "duration": 60,
+      "power": 0.88,
+      "note": "interval 60sec @ 0.88"
+    },
+    {
+      "duration": 60,
+      "power": 0.88,
+      "note": "recovery 60sec @ 0.88"
+    },
+    {
+      "duration": 60,
+      "power": 0.88,
+      "note": "interval 60sec @ 0.88"
+    },
+    {
+      "duration": 60,
+      "power": 0.88,
+      "note": "recovery 60sec @ 0.88"
+    },
+    {
+      "duration": 60,
+      "power": 0.88,
+      "note": "interval 60sec @ 0.88"
+    },
+    {
+      "duration": 60,
+      "power": 0.88,
+      "note": "recovery 60sec @ 0.88"
+    },
+    {
+      "duration": 60,
+      "power": 0.88,
+      "note": "interval 60sec @ 0.88"
+    },
+    {
+      "duration": 60,
+      "power": 0.88,
+      "note": "recovery 60sec @ 0.88"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.94,
+      "note": "interval 120sec @ 0.94"
+    },
+    {
+      "duration": 180,
+      "power": 0.86,
+      "note": "recovery 180sec @ 0.86"
+    },
+    {
+      "duration": 120,
+      "power": 0.94,
+      "note": "interval 120sec @ 0.94"
+    },
+    {
+      "duration": 180,
+      "power": 0.86,
+      "note": "recovery 180sec @ 0.86"
+    },
+    {
+      "duration": 120,
+      "power": 0.94,
+      "note": "interval 120sec @ 0.94"
+    },
+    {
+      "duration": 180,
+      "power": 0.86,
+      "note": "recovery 180sec @ 0.86"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 720,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    }
+  ]
+}

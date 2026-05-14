@@ -1,0 +1,51 @@
+{
+  "name": "Week 7.2 - Extensive Anaerobic #1",
+  "note": "After warming up, the focus is on completing quality 'Extensive Anaerobic' intervals.\n\n3 x 2.5min extensive anaerobic intervals will be hard but achievable for you.\n\nHowever, just like on a long climb, these will be performed from an already tempo-like effort.  (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 1.2244999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.75449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 1.2262175,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.75449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 1.2244999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.75449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

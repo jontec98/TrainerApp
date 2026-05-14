@@ -1,0 +1,137 @@
+{
+  "name": "Week 6.2 - AC + Sweet Spot #1",
+  "note": "The aim today is to both work on your Anaerobic Capacity, and to also improve your aerobic efficiency.\n\nWe do this by completing 5 x 2min AC intervals, before finishing with a 10min Sweet Spot effort. By depleting your carbohydrate stores with the AC intervals, the 10min Sweet Spot effort may not be as comfortable as it should be! (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 2.0,
+      "note": "interval 10sec @ 2.00"
+    },
+    {
+      "duration": 50,
+      "power": 0.5,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 2.0,
+      "note": "interval 10sec @ 2.00"
+    },
+    {
+      "duration": 50,
+      "power": 0.5,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 2.0,
+      "note": "interval 10sec @ 2.00"
+    },
+    {
+      "duration": 50,
+      "power": 0.5,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 2.0,
+      "note": "interval 10sec @ 2.00"
+    },
+    {
+      "duration": 50,
+      "power": 0.5,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.43,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.36,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.29,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.22,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

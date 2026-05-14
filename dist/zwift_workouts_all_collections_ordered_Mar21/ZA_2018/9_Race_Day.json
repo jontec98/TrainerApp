@@ -1,0 +1,116 @@
+{
+  "name": "Race Day",
+  "note": "Being able to produce short, high power efforts during a race improves your chances of winning.\n\nThese efforts allow you to establish a break, or cross a gap to the breakaway. The riders that win races are the ones who can repeatedly produce these high power efforts.\n\nToday we simulate attacking in racing and going to the line! (by Zwift Academy Coaches)",
+  "intervals": [
+    {
+      "duration": 360,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.80000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.94999999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.2544999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.80449992,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.4029589,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.95449996,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.2544999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.80449992,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.4021618,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.0944999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.2544999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.9108752,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.4044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.1244999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

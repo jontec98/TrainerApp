@@ -1,0 +1,166 @@
+{
+  "name": "Dame Sarah Storey.2 - Up And Over",
+  "note": "This session is about maximising your Vo2 Max. Your maximum ability to process oxygen for aerobic exercise.\n\nThese workouts have been designed and tested by some of the best cyclists in the world. Olympians and World Champions such as Sir Bradley Wiggins, Fabian Cancellara, Dame Sarah Storey and Kristin Armstrong. (by Chris Opie)",
+  "intervals": [
+    {
+      "duration": 180,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.25,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.25,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.25,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.25,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.25,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.25,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.25,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.25,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.25,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.25,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "name": "Sprints",
+  "note": "Want to win the sprint in the Zwift races?  This is the workout for you. Be prepared, not for the weak minded or legged! This simulates a run up to the sprint over 40 seconds, so be prepared for a harder and harder load as the time goes on in each sprint.  After the 4th sprint, the time between the next is at tempo pace making sure you have to give it some effort to stay in the peloton.     (by GCN)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.81449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.85449994,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.85449994,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.85449994,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.85449994,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.85449994,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.85449994,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

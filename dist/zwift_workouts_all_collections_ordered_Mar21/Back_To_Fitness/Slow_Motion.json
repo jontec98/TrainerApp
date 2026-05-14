@@ -1,0 +1,51 @@
+{
+  "name": "Week 2.1 - Slow Motion",
+  "note": "This workout offers an introduction to strength endurance training, which will likely be a new type of effort for you. Riding at a low cadence really draws upon your strength, which is critical for cycling. As the blocks get shorter, the intensity increases - all at 55rpm! A challenging session - enjoy! (by D.Rowe (Rowe&King))",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.7,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.51,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.51,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.11,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

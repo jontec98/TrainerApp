@@ -1,0 +1,101 @@
+{
+  "name": "Week 1.1 - Cadence Crusher",
+  "note": "Welcome to Hunter's Challenge. These 28 workouts should be done in 28 days if you think you're a Zwift superhero. If you need a rest day or 2, go for it. Nobody's looking. Honest.\n\nCadence is 1st priority and then intensity. KEEP THE RPM and strive for the wattages. This is a great workout to teach your leg muscles to produce the same power but at high RPM. If 100 RPM is \"normal\" for you then add 10 more RPM to them.",
+  "intervals": [
+    {
+      "duration": 420,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 330,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

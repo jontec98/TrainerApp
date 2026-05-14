@@ -1,0 +1,121 @@
+{
+  "name": "SUPER Fast",
+  "note": "You want to be faster? How bad do you want it? This bad?  FTP and Anaerobic intervals are on your menu today then.  Get ready for a speed injection. Remember: \"Pain is speed entering the body\" \nWarm-up 10minutes and then 3 x 1 minute fast pedaling drills >110rpm\nNow, time for 4 x 10minutes at 105% of FTP, resting 3 minutes between each and then an easy cruise for 5minutes after the fourth one.  Finish with 4 x 2 minutes, working your anaerobic capacity at 125% of FTP.  Resting for 2minutes between.  Cool-down (by GCN)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.75449997,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.75449997,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.75449997,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 600,
+      "power": 1.0545,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.65449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 1.0545,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.65449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 1.0545,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.65449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 1.0545,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.65449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.2544999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.65449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.2544999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.65449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.2544999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.65449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.2544999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

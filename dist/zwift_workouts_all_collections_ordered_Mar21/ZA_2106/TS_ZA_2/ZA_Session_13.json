@@ -1,0 +1,31 @@
+{
+  "name": "Month 2.4 - Extended Zone 2-3",
+  "note": "This session is designed to get you used to delivering power at a range of cadences. The low cadence effortsput the onus on leg strength while the higher cadence efforts work your cardiopulmonary system. By training the extremities of the cadence ranges, you will be better adapted for riding in your natural range. These long steady efforts can be pretty monotonous but are a very good way to improve your cycling efficiency at the power you will spend most of your time riding. (by Jon Sharples)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 2400,
+      "power": 0.70449996,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.40450001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 1800,
+      "power": 0.82449996,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

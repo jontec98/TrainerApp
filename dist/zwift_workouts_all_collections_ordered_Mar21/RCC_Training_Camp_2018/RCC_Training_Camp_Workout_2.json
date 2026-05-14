@@ -1,0 +1,26 @@
+{
+  "name": "RCC Training Camp Workout #2",
+  "note": "Welcome to session 2 of the Rapha Cycling Club Training Camp. This is your first solo workout. The full training plan is exclusive to RCC members and will keep you fit and firing, and can even give you some gains on top.\n\nThis session is a 'Sustained Low Intensity Torque' (SLIT) Session, which requires you to pedal at a low cadence (60rpm) for a prolonged period of time (40 minutes) at 78% of your FTP (lower end of Zone 3). Pedaling at this low cadence, while still producing good power forces you to create a lot of crank torque, which recruits plenty of muscle fibers and helps you focus on improving your pedaling technique. A great session for developing your Strength Endurance.  \n\nERG mode is recommended. (by Matt Rowe (Rowe and King))",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 2400,
+      "power": 0.78449994,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

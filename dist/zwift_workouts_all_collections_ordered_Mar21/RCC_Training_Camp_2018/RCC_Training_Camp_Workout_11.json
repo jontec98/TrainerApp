@@ -1,0 +1,83 @@
+{
+  "name": "RCC Training Camp Workout #11",
+  "note": "Welcome to the Rapha Cycling Club Training Camp Workout 11. This session is an endurance ride, for you to ride on feel for parts, with some structure thrown in there too. We will complete 5 short blocks of Threshold (Zone 4), do some free riding where you be in encouraged to make a few efforts, and also do a ramp, where we ramp up our effort from Zone 1 to Zone 6. Throughout this session, we will work all of our energy systems, while also getting a good endurance hit out too!\n\nNot an easy day on the bike - but a hugely beneficial one for you. Consider a rest day tomorrow! (by Matt Rowe (Rowe and King))",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 1800,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 180,
+      "power": 1.0044999,
+      "note": "interval 180sec @ 1.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 180,
+      "power": 1.0044999,
+      "note": "interval 180sec @ 1.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 180,
+      "power": 1.0044999,
+      "note": "interval 180sec @ 1.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 180,
+      "power": 1.0044999,
+      "note": "interval 180sec @ 1.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 180,
+      "power": 1.0044999,
+      "note": "interval 180sec @ 1.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 240,
+      "power": 0.40450001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 360,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

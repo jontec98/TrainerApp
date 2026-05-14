@@ -1,0 +1,146 @@
+{
+  "name": "Mom Fever",
+  "note": "This ride has efficiency written all over it. Throughout this short 30-minute session you will spend time working between 70-90% of your FTP which is Basic Endurance to a Tempo zone. The time spent in each zone will vary, the ride is broken in to 3 sets of 5:30 minutes with a nice 2-minute recovery in between each. (by Kristin Armstrong)",
+  "intervals": [
+    {
+      "duration": 30,
+      "power": 0.35,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.7,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.7,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.7,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.7,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.7,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    }
+  ]
+}

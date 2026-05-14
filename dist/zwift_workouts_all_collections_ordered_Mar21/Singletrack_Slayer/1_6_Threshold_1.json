@@ -1,0 +1,121 @@
+{
+  "name": "Threshold #1",
+  "note": "One aspect of performance that can be improved the most through correct application of interval training is the lactate threshold. Training to improve threshold power is typically performed either just below or ideally, just above threshold for extended periods.\n\nOne of the best ways to hit this area of fitness is through structured efforts in ERG mode. You have no choice but to hit the power. (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.75,
+      "note": "interval 10sec @ 1.75"
+    },
+    {
+      "duration": 50,
+      "power": 0.5,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.75,
+      "note": "interval 10sec @ 1.75"
+    },
+    {
+      "duration": 50,
+      "power": 0.5,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.75,
+      "note": "interval 10sec @ 1.75"
+    },
+    {
+      "duration": 50,
+      "power": 0.5,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.75,
+      "note": "interval 10sec @ 1.75"
+    },
+    {
+      "duration": 50,
+      "power": 0.5,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 180,
+      "power": 0.7,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.03,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.97,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.94,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.91,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    }
+  ]
+}

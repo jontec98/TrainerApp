@@ -1,0 +1,156 @@
+{
+  "name": "Tempo To Sprints",
+  "note": "The challenge is to complete 4 short, high intensity intervals of increasing power, after first opening with a steady 15min Tempo effort. By working aerobically in the early 15min effort you will be improving the ability to deliver oxygen to the working muscles and preserve your carbohydrate stores for the finishing maximal efforts. \n\nCan you achieve the same max power in both sets? (by Zwift)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.65449995,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 0.80449992,
+      "note": "recovery 30sec @ 0.80"
+    },
+    {
+      "duration": 30,
+      "power": 0.65449995,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 0.80449992,
+      "note": "recovery 30sec @ 0.80"
+    },
+    {
+      "duration": 30,
+      "power": 0.65449995,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 0.80449992,
+      "note": "recovery 30sec @ 0.80"
+    },
+    {
+      "duration": 30,
+      "power": 0.65449995,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 0.80449992,
+      "note": "recovery 30sec @ 0.80"
+    },
+    {
+      "duration": 30,
+      "power": 0.65449995,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 0.80449992,
+      "note": "recovery 30sec @ 0.80"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.81449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.5044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.7045,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 2.0044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 2.0044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.81449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.5044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.7045,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 2.0044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 2.0044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 220,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

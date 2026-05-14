@@ -1,0 +1,196 @@
+{
+  "name": "Lactate Shuttle #1",
+  "note": "Sustaining high levels of lactate requires specific training. This ability to tolerate lactate only comes with precise intervals in training. We can all produce a one-off effort to build lactate, but with carefully planned intervals we can maintain this high level of lactate for an extended period. This is where the training effect happens! (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.81,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.06,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 1.03,
+      "note": "interval 90sec @ 1.03"
+    },
+    {
+      "duration": 45,
+      "power": 0.65,
+      "note": "recovery 45sec @ 0.65"
+    },
+    {
+      "duration": 90,
+      "power": 1.03,
+      "note": "interval 90sec @ 1.03"
+    },
+    {
+      "duration": 45,
+      "power": 0.65,
+      "note": "recovery 45sec @ 0.65"
+    },
+    {
+      "duration": 90,
+      "power": 1.03,
+      "note": "interval 90sec @ 1.03"
+    },
+    {
+      "duration": 45,
+      "power": 0.65,
+      "note": "recovery 45sec @ 0.65"
+    },
+    {
+      "duration": 90,
+      "power": 1.03,
+      "note": "interval 90sec @ 1.03"
+    },
+    {
+      "duration": 45,
+      "power": 0.65,
+      "note": "recovery 45sec @ 0.65"
+    },
+    {
+      "duration": 90,
+      "power": 1.03,
+      "note": "interval 90sec @ 1.03"
+    },
+    {
+      "duration": 45,
+      "power": 0.65,
+      "note": "recovery 45sec @ 0.65"
+    },
+    {
+      "duration": 90,
+      "power": 1.03,
+      "note": "interval 90sec @ 1.03"
+    },
+    {
+      "duration": 45,
+      "power": 0.65,
+      "note": "recovery 45sec @ 0.65"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 1.03,
+      "note": "interval 90sec @ 1.03"
+    },
+    {
+      "duration": 45,
+      "power": 0.65,
+      "note": "recovery 45sec @ 0.65"
+    },
+    {
+      "duration": 90,
+      "power": 1.03,
+      "note": "interval 90sec @ 1.03"
+    },
+    {
+      "duration": 45,
+      "power": 0.65,
+      "note": "recovery 45sec @ 0.65"
+    },
+    {
+      "duration": 90,
+      "power": 1.03,
+      "note": "interval 90sec @ 1.03"
+    },
+    {
+      "duration": 45,
+      "power": 0.65,
+      "note": "recovery 45sec @ 0.65"
+    },
+    {
+      "duration": 90,
+      "power": 1.03,
+      "note": "interval 90sec @ 1.03"
+    },
+    {
+      "duration": 45,
+      "power": 0.65,
+      "note": "recovery 45sec @ 0.65"
+    },
+    {
+      "duration": 90,
+      "power": 1.03,
+      "note": "interval 90sec @ 1.03"
+    },
+    {
+      "duration": 45,
+      "power": 0.65,
+      "note": "recovery 45sec @ 0.65"
+    },
+    {
+      "duration": 90,
+      "power": 1.03,
+      "note": "interval 90sec @ 1.03"
+    },
+    {
+      "duration": 45,
+      "power": 0.65,
+      "note": "recovery 45sec @ 0.65"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    }
+  ]
+}

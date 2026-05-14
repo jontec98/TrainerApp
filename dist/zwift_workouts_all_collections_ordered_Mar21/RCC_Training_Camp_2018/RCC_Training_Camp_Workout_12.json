@@ -1,0 +1,71 @@
+{
+  "name": "RCC Training Camp Workout #12",
+  "note": "This session aims to develop your explosive power and general conditioning, by completing 3 blocks of 12 minute Explosive Power Development Efforts (EPD). Each block of EPD is made up of a 15 second sprint, before settling straight in to 11 minutes 30 seconds of Zone 3, before a final 15 second sprint to finish the block off. \n\nThe sprints develop your explosive power, while the settling in to Zone 3 forces you to become more efficient at recycling lactic acid. Your body is forced to work hard to recycle the lactic without resting - similar to riding hard up a short climb while in a group and not stopping at the top. Or in a race - making a big effort up a climb, and then having to maintain pace with a fast moving peloton. \n\nERG mode is recommended.  (by Matt Rowe (Rowe and King))",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 2.5044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 720,
+      "power": 0.94449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 2.5044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 2.5044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 720,
+      "power": 0.94449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 2.5044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 720,
+      "power": 0.94449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 2.5044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

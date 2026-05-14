@@ -1,0 +1,51 @@
+{
+  "name": "Week 1.2 - Sub-Threshold #1",
+  "note": "The opening 5 minute threshold effort prepares you for the following 2 x 10 Sub-Threshold Interval. Note your heart rate at the completion of the 10 minute Sub-Threshold intervals. Did max HR rise, or were you able to maintain? (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.98449993,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.55449998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.89449996,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.55449998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.88867277,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

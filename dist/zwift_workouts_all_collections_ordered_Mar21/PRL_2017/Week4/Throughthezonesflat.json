@@ -1,0 +1,61 @@
+{
+  "name": "Week 4.4 - Through the zones - flat",
+  "note": ";Opening with a 15 minute Tempo effort, you will then complete 2 x 10min Intervals that progress through Zones 3, 4 and 6.\n\nFocusing on a higher cadence today with the target rpm increasing across the 3 intervals.  (by Zwift)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 900,
+      "power": 0.88449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 360,
+      "power": 0.88449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.0445,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.2045,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 360,
+      "power": 0.88449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.0445,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.2045,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

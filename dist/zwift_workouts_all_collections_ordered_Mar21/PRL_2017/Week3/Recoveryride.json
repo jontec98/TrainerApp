@@ -1,0 +1,11 @@
+{
+  "name": "Week 3.1 - Just Ride",
+  "note": "No structured workout today. Go on an easy ride and explore the available roads. \n\nUse today as a recovery ride, maintaining power within Zone 1 & 2, with cadence 90-100 RPM.\n (by Zwift)",
+  "intervals": [
+    {
+      "duration": 3600,
+      "power": 0.5,
+      "note": "Free ride"
+    }
+  ]
+}

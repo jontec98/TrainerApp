@@ -1,0 +1,170 @@
+{
+  "name": "Week 8.4 - AC Intervals #1",
+  "note": "This is a very high level of intensity that requires mental and physical perseverance.\n\nNot only is it important to increase your ability to produce short, high powered efforts, so to is the importance of being able to repeat these efforts with little recovery.\n\nIn today's session the efforts get shorted, but the power increases. (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 2.0,
+      "note": "interval 10sec @ 2.00"
+    },
+    {
+      "duration": 50,
+      "power": 0.5,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 2.0,
+      "note": "interval 10sec @ 2.00"
+    },
+    {
+      "duration": 50,
+      "power": 0.5,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 2.0,
+      "note": "interval 10sec @ 2.00"
+    },
+    {
+      "duration": 50,
+      "power": 0.5,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 2.0,
+      "note": "interval 10sec @ 2.00"
+    },
+    {
+      "duration": 50,
+      "power": 0.5,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.31,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.31,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.31,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

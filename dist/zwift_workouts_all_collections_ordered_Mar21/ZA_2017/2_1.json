@@ -1,0 +1,76 @@
+{
+  "name": "2 x 12 minute test - Semi Finals",
+  "note": "This test is designed to measure your aerobic threshold and is similar to the traditional 20 minute FTP test.  We use this variation of the test because the first 12 minute effort is often indicative of an what an individual can lift their 20 minute power up to. The purpose of the session is to treat each 12 minute interval as if it were the only effort to be completed. Ideally, you won't pace the effort with the second interval in-mind. We generally expect the first interval to be ~20 Watts higher than the second. As a tip, we recommend not looking at the power for the intervals and to just ride as hard as you can for the duration of the effort!\n     (by TrainSharp Cycle Coaching)",
+  "intervals": [
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.35,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.405,
+      "note": "interval 30sec @ 1.41"
+    },
+    {
+      "duration": 30,
+      "power": 0.3,
+      "note": "recovery 30sec @ 0.30"
+    },
+    {
+      "duration": 30,
+      "power": 1.405,
+      "note": "interval 30sec @ 1.41"
+    },
+    {
+      "duration": 30,
+      "power": 0.3,
+      "note": "recovery 30sec @ 0.30"
+    },
+    {
+      "duration": 30,
+      "power": 1.405,
+      "note": "interval 30sec @ 1.41"
+    },
+    {
+      "duration": 30,
+      "power": 0.3,
+      "note": "recovery 30sec @ 0.30"
+    },
+    {
+      "duration": 300,
+      "power": 0.3,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 720,
+      "power": 1.02,
+      "note": "interval 720sec @ 1.02"
+    },
+    {
+      "duration": 900,
+      "power": 0.3,
+      "note": "recovery 900sec @ 0.30"
+    },
+    {
+      "duration": 720,
+      "power": 1.02,
+      "note": "interval 720sec @ 1.02"
+    },
+    {
+      "duration": 900,
+      "power": 0.3,
+      "note": "recovery 900sec @ 0.30"
+    },
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

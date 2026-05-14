@@ -1,0 +1,191 @@
+{
+  "name": "Week 4.4 - Sub-threshold XX #2",
+  "note": "Building upon the previous Sub-Threshold XX session, this time we are decreasing the time between surges and increasing the number of surges.\n\nBy challenging your ability to process lactate at near threshold power,  you will increase your time to exhaustion and increase endurance.\n\nAll this is achieved with a 30min steady state effort that dips briefly into the realms of VO2. (by Zwift)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.65449995,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 0.80449992,
+      "note": "recovery 30sec @ 0.80"
+    },
+    {
+      "duration": 30,
+      "power": 0.65449995,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 0.80449992,
+      "note": "recovery 30sec @ 0.80"
+    },
+    {
+      "duration": 30,
+      "power": 0.65449995,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 0.80449992,
+      "note": "recovery 30sec @ 0.80"
+    },
+    {
+      "duration": 30,
+      "power": 0.65449995,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 0.80449992,
+      "note": "recovery 30sec @ 0.80"
+    },
+    {
+      "duration": 30,
+      "power": 0.65449995,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 0.80449992,
+      "note": "recovery 30sec @ 0.80"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.91449994,
+      "note": "interval 120sec @ 0.91"
+    },
+    {
+      "duration": 30,
+      "power": 1.2045,
+      "note": "recovery 30sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.91449994,
+      "note": "interval 120sec @ 0.91"
+    },
+    {
+      "duration": 30,
+      "power": 1.2045,
+      "note": "recovery 30sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.91449994,
+      "note": "interval 120sec @ 0.91"
+    },
+    {
+      "duration": 30,
+      "power": 1.2045,
+      "note": "recovery 30sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.91449994,
+      "note": "interval 120sec @ 0.91"
+    },
+    {
+      "duration": 30,
+      "power": 1.2045,
+      "note": "recovery 30sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.91449994,
+      "note": "interval 120sec @ 0.91"
+    },
+    {
+      "duration": 30,
+      "power": 1.2045,
+      "note": "recovery 30sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.91449994,
+      "note": "interval 120sec @ 0.91"
+    },
+    {
+      "duration": 30,
+      "power": 1.2045,
+      "note": "recovery 30sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.91449994,
+      "note": "interval 120sec @ 0.91"
+    },
+    {
+      "duration": 30,
+      "power": 1.2045,
+      "note": "recovery 30sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.91449994,
+      "note": "interval 120sec @ 0.91"
+    },
+    {
+      "duration": 30,
+      "power": 1.2045,
+      "note": "recovery 30sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.91449994,
+      "note": "interval 120sec @ 0.91"
+    },
+    {
+      "duration": 30,
+      "power": 1.2045,
+      "note": "recovery 30sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.91449994,
+      "note": "interval 120sec @ 0.91"
+    },
+    {
+      "duration": 30,
+      "power": 1.2045,
+      "note": "recovery 30sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.91449994,
+      "note": "interval 120sec @ 0.91"
+    },
+    {
+      "duration": 30,
+      "power": 1.2045,
+      "note": "recovery 30sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.91449994,
+      "note": "interval 120sec @ 0.91"
+    },
+    {
+      "duration": 30,
+      "power": 1.2045,
+      "note": "recovery 30sec @ 1.20"
+    },
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    }
+  ]
+}

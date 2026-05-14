@@ -1,0 +1,168 @@
+{
+  "name": "Week 6.1 - 13min Progressive Climb",
+  "note": "3 climbs of 13 minutes in duration today, but each one is climbed using a different cadence. But as the power ramps up between steps, you self select your cadence before returning to the set cadence.\n\nJust like a climb outdoors, the required power will increase throughout the 13 minutes. Culminating with 1 min above threshold at the top of the climb.\n\nPosition yourself on the bike as you would on a long climb.\n (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 180,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.25,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.25,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.25,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

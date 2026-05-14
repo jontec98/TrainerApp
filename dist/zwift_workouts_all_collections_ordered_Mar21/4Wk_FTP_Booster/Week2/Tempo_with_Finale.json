@@ -1,0 +1,106 @@
+{
+  "name": "Week 2.3 - Tempo with Finale!",
+  "note": "After first completing a 15min Tempo effort, you will go straight into 4 x 2min VO2 efforts.\n\nWith no recovery period after the initial 15min, this session will challenge your aerobic efficiency.  (by Zwift)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.7544999,
+      "note": "interval 10sec @ 1.75"
+    },
+    {
+      "duration": 50,
+      "power": 0.50449997,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.7544999,
+      "note": "interval 10sec @ 1.75"
+    },
+    {
+      "duration": 50,
+      "power": 0.50449997,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 120,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0944999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.90449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 900,
+      "power": 0.81449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.0944999,
+      "note": "interval 120sec @ 1.09"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 120,
+      "power": 1.0944999,
+      "note": "interval 120sec @ 1.09"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 120,
+      "power": 1.0944999,
+      "note": "interval 120sec @ 1.09"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 120,
+      "power": 1.0944999,
+      "note": "interval 120sec @ 1.09"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    }
+  ]
+}

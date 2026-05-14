@@ -1,0 +1,141 @@
+{
+  "name": "Leg Speed #2",
+  "note": "Another low intensity workout where we focus on leg speed today. The majority of the session is spent within zone 2. \n\nHowever, we hit some 90sec high cadence efforts during the session. All this then culminates with a steady state zone 3 effort. (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.69999999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.88449997,
+      "note": "interval 90sec @ 0.88"
+    },
+    {
+      "duration": 90,
+      "power": 0.73449993,
+      "note": "recovery 90sec @ 0.73"
+    },
+    {
+      "duration": 90,
+      "power": 0.88449997,
+      "note": "interval 90sec @ 0.88"
+    },
+    {
+      "duration": 90,
+      "power": 0.73449993,
+      "note": "recovery 90sec @ 0.73"
+    },
+    {
+      "duration": 90,
+      "power": 0.88449997,
+      "note": "interval 90sec @ 0.88"
+    },
+    {
+      "duration": 90,
+      "power": 0.73449993,
+      "note": "recovery 90sec @ 0.73"
+    },
+    {
+      "duration": 90,
+      "power": 0.88449997,
+      "note": "interval 90sec @ 0.88"
+    },
+    {
+      "duration": 90,
+      "power": 0.73449993,
+      "note": "recovery 90sec @ 0.73"
+    },
+    {
+      "duration": 90,
+      "power": 0.88449997,
+      "note": "interval 90sec @ 0.88"
+    },
+    {
+      "duration": 90,
+      "power": 0.73449993,
+      "note": "recovery 90sec @ 0.73"
+    },
+    {
+      "duration": 90,
+      "power": 0.88449997,
+      "note": "interval 90sec @ 0.88"
+    },
+    {
+      "duration": 90,
+      "power": 0.73449993,
+      "note": "recovery 90sec @ 0.73"
+    },
+    {
+      "duration": 90,
+      "power": 0.88449997,
+      "note": "interval 90sec @ 0.88"
+    },
+    {
+      "duration": 90,
+      "power": 0.73449993,
+      "note": "recovery 90sec @ 0.73"
+    },
+    {
+      "duration": 90,
+      "power": 0.88449997,
+      "note": "interval 90sec @ 0.88"
+    },
+    {
+      "duration": 90,
+      "power": 0.73449993,
+      "note": "recovery 90sec @ 0.73"
+    },
+    {
+      "duration": 90,
+      "power": 0.88449997,
+      "note": "interval 90sec @ 0.88"
+    },
+    {
+      "duration": 90,
+      "power": 0.73449993,
+      "note": "recovery 90sec @ 0.73"
+    },
+    {
+      "duration": 90,
+      "power": 0.88449997,
+      "note": "interval 90sec @ 0.88"
+    },
+    {
+      "duration": 90,
+      "power": 0.73449993,
+      "note": "recovery 90sec @ 0.73"
+    },
+    {
+      "duration": 60,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.80000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    }
+  ]
+}

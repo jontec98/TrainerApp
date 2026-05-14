@@ -1,0 +1,70 @@
+{
+  "name": "Week 3.1 - Big Gear SST - 2x10",
+  "note": "Today, we're going to be continuing our progressive build of time spent at SST, as well as further improve your ability to sustain low cadence for a longer duration. Let's CRUSH it today! (by Shayne Gaffney)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

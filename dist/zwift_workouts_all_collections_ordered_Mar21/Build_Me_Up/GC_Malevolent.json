@@ -1,0 +1,121 @@
+{
+  "name": "Malevolent",
+  "note": "This workout involves decreasing interval lengths at Z4 (90%) with a surge at Z5 (115%) for 1 minute at the end of each rep.  So, this will start off moderate, become hard, then down-right nasty - you might even say, \"Malevolent\" - by the end! (by Shayne Gaffney | GC Coaching)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 900,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 225,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

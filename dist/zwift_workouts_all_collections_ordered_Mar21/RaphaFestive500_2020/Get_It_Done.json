@@ -1,0 +1,166 @@
+{
+  "name": "Get It Done",
+  "note": "In today's workout, you will complete 3 x 12 minute blocks of 'Tempo - Endurance' - this should feel nice and comfortable as you alternate between Zone 2 and Zone 3.\n\nAt the end of each 12 minute block, there is a 1 minute 'free ride' - depending on your current level of fitness, you can either drop the hammer and give it your max effort, or take some extra recovery. Today's workout is one of the purest type of endurance workouts there is - no nonsense, keeping the chain tight and getting it done.  (by M.Rowe (Rowe & King))",
+  "intervals": [
+    {
+      "duration": 480,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "interval 60sec @ 0.80"
+    },
+    {
+      "duration": 120,
+      "power": 0.7,
+      "note": "recovery 120sec @ 0.70"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "interval 60sec @ 0.80"
+    },
+    {
+      "duration": 120,
+      "power": 0.7,
+      "note": "recovery 120sec @ 0.70"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "interval 60sec @ 0.80"
+    },
+    {
+      "duration": 120,
+      "power": 0.7,
+      "note": "recovery 120sec @ 0.70"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "interval 60sec @ 0.80"
+    },
+    {
+      "duration": 120,
+      "power": 0.7,
+      "note": "recovery 120sec @ 0.70"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "interval 60sec @ 0.80"
+    },
+    {
+      "duration": 120,
+      "power": 0.7,
+      "note": "recovery 120sec @ 0.70"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "interval 60sec @ 0.80"
+    },
+    {
+      "duration": 120,
+      "power": 0.7,
+      "note": "recovery 120sec @ 0.70"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "interval 60sec @ 0.80"
+    },
+    {
+      "duration": 120,
+      "power": 0.7,
+      "note": "recovery 120sec @ 0.70"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "interval 60sec @ 0.80"
+    },
+    {
+      "duration": 120,
+      "power": 0.7,
+      "note": "recovery 120sec @ 0.70"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "interval 60sec @ 0.80"
+    },
+    {
+      "duration": 120,
+      "power": 0.7,
+      "note": "recovery 120sec @ 0.70"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "interval 60sec @ 0.80"
+    },
+    {
+      "duration": 120,
+      "power": 0.7,
+      "note": "recovery 120sec @ 0.70"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "interval 60sec @ 0.80"
+    },
+    {
+      "duration": 120,
+      "power": 0.7,
+      "note": "recovery 120sec @ 0.70"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "interval 60sec @ 0.80"
+    },
+    {
+      "duration": 120,
+      "power": 0.7,
+      "note": "recovery 120sec @ 0.70"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "name": "Week 1.4 - Surge to the Max",
+  "note": "This session aims to develop your ability to make big surges in effort, to overcome tricky sections on a mountain bike, i.e. a really muddy / boggy section, or super steep and rocky climb, where you need to ride almost max effort just to get up it!\n\nOften, during these technical sections, you are forced to ride at a low cadence of around 65rpm of lower, which is is where todays 1 minute efforts take place. After a short ramp, you will complete a 1 minute max effort at 65rpm - grind it out! (by Matt Rowe (Rowe & King))",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.0944999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 180,
+      "power": 0.40450001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 180,
+      "power": 0.40450001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 180,
+      "power": 0.40450001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 180,
+      "power": 0.40450001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 350,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

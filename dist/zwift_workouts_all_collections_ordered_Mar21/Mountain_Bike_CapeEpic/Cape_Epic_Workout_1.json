@@ -1,0 +1,86 @@
+{
+  "name": "Annika Langvad Series.1 - Workout 1",
+  "note": "This series of workouts have been curated by 4-time champion Annika Langvad. These workouts are tailored specifically for mountain bikers and will tackle areas of fitness that will dramatically aid you out on the trails.\n\nThese workouts are designed to be done over a 6-8 week period (2-3 workouts per week) and supplemented with technical mountain biking outdoors if possible.\n\nIn Denmark Annika often uses an indoor trainer and Zwift to give her an extra edge and get the most out of the time available to train. Her knowledge and expertise will be invaluable in your training during this series.\n\nThis first workout of sixteen is a relatively easy start to break you in, with a focus on building endurance. Three blocks of increasing intensity until you have just reached Z4. (by Annika Langvad)",
+  "intervals": [
+    {
+      "duration": 360,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.6541304,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.76282609,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.87152171,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.0019565,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.6541304,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.76282609,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.87152171,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.0019565,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.65449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.76282609,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.87152171,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.0019565,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.50630432,
+      "note": "SteadyState interval"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "name": "The Wriggler",
+  "note": "The Wriggler is a little bit random - think of it as a Fartlek style workout, where you make efforts at a range of intensities and lengths.\n\nNo specific cadence to target today, and similarly feel free to ride out of the saddle. Go with the flow and get stuck into this rollercoaster of a session - it's one to keep you occupied, just like a wriggling toddler! (by D.Rowe (Rowe&King))",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 420,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "name": "Cameron Wurf: All-Rounder ",
+  "note": "The world-record holder of the bike in the Ironman World Championships, Wurf stepped in to fill a vacant roster spot in 2020 and instantly impressed. The Aussie put in some towering support ride performances, with his return to road cycling culminating in a grand tour appearance at the Vuelta. He provides fantastic experience and is a great presence within the team.\n\n        Do you want to build a  big engine? Today we are here to teach you how Cam built his. This workout has a main set of 3 x 10 min threshold efforts, but to shake things up you will be doing the 1st and 10th minute at a higher effort.\n         (by ADRI\u00c1N L\u00d3PEZ)",
+  "intervals": [
+    {
+      "duration": 480,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.1,
+      "note": "interval 60sec @ 1.10"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 60,
+      "power": 1.1,
+      "note": "interval 60sec @ 1.10"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 60,
+      "power": 1.1,
+      "note": "interval 60sec @ 1.10"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 480,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 480,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 480,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

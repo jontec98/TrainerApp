@@ -1,0 +1,166 @@
+{
+  "name": "Norseman workout: Hardangervidda",
+  "note": "So you think you have what it takes to take on the Norseman Workout Series? \nThe Hardangervidda mountain plateau is a chance to make up some time. A rolling straight road for miles, if the mist has lifted you will be treated to stunning views across the lakes and grasslands. If you are lucky you will have a tailwind but do not count on it.  \nThis Norseman workout works on your climbing legs. Three x 10 minute climbs that have varying profiles. With a good rest between the climbs focus on a good rhythm and cadence throughout each climb.\n\tThink you have what it takes? Check out all of the Norseman Run and Bike workouts to help you prepare for the Norseman Festival of Climbing July 27th - August 2nd. \n     (by Zwift)",
+  "intervals": [
+    {
+      "duration": 360,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.0044999,
+      "note": "interval 20sec @ 1.00"
+    },
+    {
+      "duration": 40,
+      "power": 0.6045,
+      "note": "recovery 40sec @ 0.60"
+    },
+    {
+      "duration": 20,
+      "power": 1.0044999,
+      "note": "interval 20sec @ 1.00"
+    },
+    {
+      "duration": 40,
+      "power": 0.6045,
+      "note": "recovery 40sec @ 0.60"
+    },
+    {
+      "duration": 20,
+      "power": 1.0044999,
+      "note": "interval 20sec @ 1.00"
+    },
+    {
+      "duration": 40,
+      "power": 0.6045,
+      "note": "recovery 40sec @ 0.60"
+    },
+    {
+      "duration": 20,
+      "power": 1.0044999,
+      "note": "interval 20sec @ 1.00"
+    },
+    {
+      "duration": 40,
+      "power": 0.6045,
+      "note": "recovery 40sec @ 0.60"
+    },
+    {
+      "duration": 20,
+      "power": 1.0044999,
+      "note": "interval 20sec @ 1.00"
+    },
+    {
+      "duration": 40,
+      "power": 0.6045,
+      "note": "recovery 40sec @ 0.60"
+    },
+    {
+      "duration": 180,
+      "power": 0.55449998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.85449994,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.95449996,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.0044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.1044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.55449998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.1044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.0044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.94999999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.85449994,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.55449998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.85449994,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.1044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.95449996,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.85449994,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.95449996,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.1044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.85449994,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 360,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

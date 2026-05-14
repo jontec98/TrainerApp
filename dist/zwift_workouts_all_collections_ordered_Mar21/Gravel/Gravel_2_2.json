@@ -1,0 +1,161 @@
+{
+  "name": "2x(4x30sec) Best Average",
+  "note": "A shorty, but a goody. Getting used to some very high watt efforts, but just for short bursts. These efforts are much different in gravel racing than they would be in a road race situation as it's usually terrain determined with a steep section, but still could be from our competitors and their big surges or finishes. \n\nWe will do these in free ride mode but I do want the max watts you can do for 30 seconds in these two rounds. Don't do the best 30 seconds you've ever done and then be terrible at the rest. I would love them to be fairly consistent. Also considering we are talking gravel here I want to see you at lower rpm's around 75-80 during this sprint. (by Zwift)",
+  "intervals": [
+    {
+      "duration": 560,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "interval 60sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "interval 60sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "interval 60sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 0.9,
+      "note": "interval 120sec @ 0.90"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 0.9,
+      "note": "interval 120sec @ 0.90"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 0.9,
+      "note": "interval 120sec @ 0.90"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 90,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 90,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 90,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 90,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 210,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 90,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 90,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 90,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 90,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 210,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

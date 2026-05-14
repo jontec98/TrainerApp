@@ -1,0 +1,36 @@
+{
+  "name": "Month 2.7 - Threshold Pushing #2",
+  "note": "This session is designed to increase your FTP from below, working predominately on your aerobic metabolism. In time, your body will become more comfortable at these powers and your FTP will increase. Note: Don't be tempted to over do it on these efforts. You'll want to push the power and may feel as though you're in no-man's land, not easy, not hard but this is exactly what we want. This isn't supposed to be an \"eyeballs out\" session as those are still to come!\n (by Jon Sharples)",
+  "intervals": [
+    {
+      "duration": 1200,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.40450001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 960,
+      "power": 1.0044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.40450001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 960,
+      "power": 1.00125,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

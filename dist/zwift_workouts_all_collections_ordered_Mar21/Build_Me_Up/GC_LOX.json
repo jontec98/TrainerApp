@@ -1,0 +1,106 @@
+{
+  "name": "LOX",
+  "note": "LOX is shorthand for liquid oxygen, which is used in rocket boosters. That is how your legs will feel after that workout - ROCKETS! (by Shayne Gaffney | GC Coaching)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.95,
+      "note": "interval 30sec @ 0.95"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "interval 30sec @ 1.05"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "interval 30sec @ 1.15"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.15,
+      "note": "interval 180sec @ 1.15"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "recovery 180sec @ 0.55"
+    },
+    {
+      "duration": 180,
+      "power": 1.15,
+      "note": "interval 180sec @ 1.15"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "recovery 180sec @ 0.55"
+    },
+    {
+      "duration": 180,
+      "power": 1.15,
+      "note": "interval 180sec @ 1.15"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "recovery 180sec @ 0.55"
+    },
+    {
+      "duration": 180,
+      "power": 1.15,
+      "note": "interval 180sec @ 1.15"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "recovery 180sec @ 0.55"
+    },
+    {
+      "duration": 180,
+      "power": 1.15,
+      "note": "interval 180sec @ 1.15"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "recovery 180sec @ 0.55"
+    },
+    {
+      "duration": 600,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

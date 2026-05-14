@@ -1,0 +1,151 @@
+{
+  "name": "Mothership",
+  "note": "This ride follows a routine, a pattern, a plan! Sometimes, it's just what we need. The session includes 4 sets of a ramp style build consisting of a stair step of 2mins, 1 min and :30 seconds ranging from 75-100% of a riders FTP (Tempo to Threshold). (by Kristin Armstrong)",
+  "intervals": [
+    {
+      "duration": 30,
+      "power": 0.35,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.7,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    }
+  ]
+}

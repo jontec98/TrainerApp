@@ -1,0 +1,161 @@
+{
+  "name": "Higher And Faster",
+  "note": "MTB riding often requires you to fight for position before exploding out of the corners. This effort requires a sustained power before accelerating well above threshold.\n\nOver a flat course you will have to perform these accelerations at a high cadence, adding another element to your performance. (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 420,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "interval 60sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.7,
+      "note": "recovery 60sec @ 0.70"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "interval 60sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.7,
+      "note": "recovery 60sec @ 0.70"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "interval 60sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.7,
+      "note": "recovery 60sec @ 0.70"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "interval 60sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.7,
+      "note": "recovery 60sec @ 0.70"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "interval 60sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.7,
+      "note": "recovery 60sec @ 0.70"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.88,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.9,
+      "note": "interval 180sec @ 0.90"
+    },
+    {
+      "duration": 120,
+      "power": 0.65,
+      "note": "recovery 120sec @ 0.65"
+    },
+    {
+      "duration": 60,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.9,
+      "note": "interval 180sec @ 0.90"
+    },
+    {
+      "duration": 120,
+      "power": 0.65,
+      "note": "recovery 120sec @ 0.65"
+    },
+    {
+      "duration": 60,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.9,
+      "note": "interval 180sec @ 0.90"
+    },
+    {
+      "duration": 120,
+      "power": 0.65,
+      "note": "recovery 120sec @ 0.65"
+    },
+    {
+      "duration": 60,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.9,
+      "note": "interval 180sec @ 0.90"
+    },
+    {
+      "duration": 120,
+      "power": 0.65,
+      "note": "recovery 120sec @ 0.65"
+    },
+    {
+      "duration": 60,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    }
+  ]
+}

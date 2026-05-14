@@ -1,0 +1,151 @@
+{
+  "name": "Week 13.2 - Extensive Anaerobic x 6",
+  "note": "Warm up well, including 3 x 6 second accelerations during the 10 minute warm up. Then complete 6 x 45sec @ lower Z6 with 5min recovery. Cool down. (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.7,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 1.2,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 1.2,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.76,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.73,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.7,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.67,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.64,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.62,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.59,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.56,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.53,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    }
+  ]
+}

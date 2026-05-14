@@ -1,0 +1,141 @@
+{
+  "name": "Week 10.1 - Over Under's 12 + 10",
+  "note": "This session includes Under Overs. This is the same as what we call Over Under other than you begin with an effort under your FTP (100%). There are two blocks. The first block includes 1 minute efforts at 75% of your FTP alternating with efforts at 115% of your FTP. Enjoy the 4 minute recovery before hitting the last set of Under Overs which include 2 minutes at 75% of your FTP followed by :30 seconds at 115%. The total duration of the first set is 12-mintues and second set is 10-minutes. This session is a great fitness builder while keeping your mind from losing focus! (by Kristin Armstrong)",
+  "intervals": [
+    {
+      "duration": 120,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.7,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.75,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 1.15,
+      "note": "recovery 60sec @ 1.15"
+    },
+    {
+      "duration": 60,
+      "power": 0.75,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 1.15,
+      "note": "recovery 60sec @ 1.15"
+    },
+    {
+      "duration": 60,
+      "power": 0.75,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 1.15,
+      "note": "recovery 60sec @ 1.15"
+    },
+    {
+      "duration": 60,
+      "power": 0.75,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 1.15,
+      "note": "recovery 60sec @ 1.15"
+    },
+    {
+      "duration": 60,
+      "power": 0.75,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 1.15,
+      "note": "recovery 60sec @ 1.15"
+    },
+    {
+      "duration": 60,
+      "power": 0.75,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 1.15,
+      "note": "recovery 60sec @ 1.15"
+    },
+    {
+      "duration": 240,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.75,
+      "note": "interval 120sec @ 0.75"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "recovery 30sec @ 1.15"
+    },
+    {
+      "duration": 120,
+      "power": 0.75,
+      "note": "interval 120sec @ 0.75"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "recovery 30sec @ 1.15"
+    },
+    {
+      "duration": 120,
+      "power": 0.75,
+      "note": "interval 120sec @ 0.75"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "recovery 30sec @ 1.15"
+    },
+    {
+      "duration": 120,
+      "power": 0.75,
+      "note": "interval 120sec @ 0.75"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "recovery 30sec @ 1.15"
+    },
+    {
+      "duration": 240,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    }
+  ]
+}

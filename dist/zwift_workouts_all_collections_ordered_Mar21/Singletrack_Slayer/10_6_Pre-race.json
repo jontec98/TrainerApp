@@ -1,0 +1,131 @@
+{
+  "name": "Pre-Race",
+  "note": "This workout aims to activate the fast twitch muscles and prepare body and mind for race-pace efforts. Commonly referred to as \"opening up the legs\u201d to avoid feeling stale on race day.\n\nThis session is generally performed the day before race-day, and after having an easy day or two. (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 420,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "interval 60sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.7,
+      "note": "recovery 60sec @ 0.70"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "interval 60sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.7,
+      "note": "recovery 60sec @ 0.70"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "interval 60sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.7,
+      "note": "recovery 60sec @ 0.70"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.95,
+      "note": "interval 120sec @ 0.95"
+    },
+    {
+      "duration": 10,
+      "power": 1.2,
+      "note": "recovery 10sec @ 1.20"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.95,
+      "note": "interval 120sec @ 0.95"
+    },
+    {
+      "duration": 10,
+      "power": 1.2,
+      "note": "recovery 10sec @ 1.20"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    }
+  ]
+}

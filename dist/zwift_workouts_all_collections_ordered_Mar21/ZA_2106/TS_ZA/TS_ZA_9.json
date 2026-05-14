@@ -1,0 +1,126 @@
+{
+  "name": "Month 1.8 - Over Unders",
+  "note": "Start with a good warm up; 15 minutes progressing from Zone 1 into Zone 3, followed by 5 minutes easy spinning. The main session is 2 x 12 minutes, to be ridden as described below. Settle into a threshold pushing effort (same power from 'Session 4'), but after every 2 minutes ramp it up it for 30 seconds to a threshold pulling effort (Zone 5). Then back into pushing again. So, 2 mins steady-hard, then 30 seconds hard. Take 10 minutes easy spinning between the two sets. Warm down = 10 minutes easy Zone 1\n   (by trainSharp)",
+  "intervals": [
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Sir Bradley Wiggins.3 - Ultimate Warm Up",
+  "note": "This session is the ultimate warm up. Designed and conducted by sir Bradley Wiggins. Warm up with this session before all of your training or events to improve your performance on the bike!\n\nThese workouts have been designed and tested by some of the best cyclists in the world. Olympians and World Champions such as Sir Bradley Wiggins, Fabian Cancellara, Dame Sarah Storey and Kristin Armstrong. (by Chris Opie )",
+  "intervals": [
+    {
+      "duration": 120,
+      "power": 0.48,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.58,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.68,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.78,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.88,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.98,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.18,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

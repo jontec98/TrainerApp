@@ -1,0 +1,166 @@
+{
+  "name": "12/8/4min Threshold",
+  "note": "In gravel racing I find there is often much more time above the 80-85% of FTP zone than road racing, and with that also a lot of time at or above threshold. Steeper climbs, softer road surface, and more time spent riding alone are all reasons your watts may sneak up into this zone. \n\nThis workout will give us some good solid work in that zone and help us find some comfort inside the pain that is found at your \"FTP\". A total of near 30 minutes there today, so take care of yourself with lots of good hydration and snacks if necessary. (by Zwift)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.7,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.7,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.7,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.2,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 720,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 480,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

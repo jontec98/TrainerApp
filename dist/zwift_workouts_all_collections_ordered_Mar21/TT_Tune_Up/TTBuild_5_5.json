@@ -1,0 +1,117 @@
+{
+  "name": "Sub Threshold #2",
+  "note": "To build endurance and aerobic efficiency we need to perform long steady efforts. Today's session comprises of a series of sub-threshold efforts. After opening the interval with a Zone 5 surge, the remaining minutes will gradually increase in power over the duration of the effort. Observe how much this increase in power affects your heart rate. (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "interval 60sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "interval 60sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.98,
+      "note": "interval 60sec @ 0.98"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.98,
+      "note": "interval 60sec @ 0.98"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 450,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 450,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 450,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

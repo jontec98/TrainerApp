@@ -1,0 +1,111 @@
+{
+  "name": "RCC Training Camp Workout #14",
+  "note": "Welcome to the 14th session in the Rapha Cycling Club Training Camp. This session is focused on developing your top end speed - your ability to produce high power and travel fast, for a short period. This is one piece of the sprinting jigsaw - and arguably the most fun.  It's the bit where we go fast! Throughout this session, we will complete 6 x max effort 15 second sprints, with 2 blocks of 20 minutes free riding to split the efforts up to give us a good endurance hit.  \n\nERG mode is NOT recommended for this workout. (by Matt Rowe (Rowe and King))",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 3.0045002,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.3545,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 3.0045002,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.3545,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 1200,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 120,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 3.0045002,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.3545,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 3.0045002,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.3545,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 1200,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 120,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 3.0045002,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.3545,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 3.0045002,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.3545,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 1200,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 60,
+      "power": 0.3545,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

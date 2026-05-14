@@ -1,0 +1,170 @@
+{
+  "name": "Endurance #3",
+  "note": "Endurance sessions are the ideal time to focus on improving your pedaling. Power is not the focus in this session. Throughout today's endurance ride we will be increasing the focus on your cardiovascular endurance, by challenging your ability to pedal at a high cadence. A fun session that includes a range of high RPM intervals. (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 180,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.81,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.09,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "interval 60sec @ 0.85"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "interval 60sec @ 0.85"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "interval 60sec @ 0.85"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "interval 60sec @ 0.85"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "interval 60sec @ 0.85"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "interval 60sec @ 0.85"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.9,
+      "note": "interval 300sec @ 0.90"
+    },
+    {
+      "duration": 300,
+      "power": 0.6,
+      "note": "recovery 300sec @ 0.60"
+    },
+    {
+      "duration": 300,
+      "power": 0.9,
+      "note": "interval 300sec @ 0.90"
+    },
+    {
+      "duration": 300,
+      "power": 0.6,
+      "note": "recovery 300sec @ 0.60"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "interval 60sec @ 0.85"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "interval 60sec @ 0.85"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

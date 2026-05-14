@@ -1,0 +1,256 @@
+{
+  "name": "Week 1.6 - Tractor Pulls!",
+  "note": "Tractor Pulls help to build muscular strength and even improve your sprint! Make sure to slowly get into this gear, so start at less than 8mph, keep your hands in the drops, tighten your abdominals and stay seated for the entire interval. ONLY start the 30 second clock once you are in the gear and actually controlled and rolling smooth. Your cadence should be 40-50 RPM when you start and around 95rpm when you stop. This is about strength, not speed.",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.72,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.95,
+      "note": "interval 30sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 0.95,
+      "note": "recovery 60sec @ 0.95"
+    },
+    {
+      "duration": 30,
+      "power": 0.95,
+      "note": "interval 30sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 0.95,
+      "note": "recovery 60sec @ 0.95"
+    },
+    {
+      "duration": 30,
+      "power": 0.95,
+      "note": "interval 30sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 0.95,
+      "note": "recovery 60sec @ 0.95"
+    },
+    {
+      "duration": 30,
+      "power": 0.95,
+      "note": "interval 30sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 0.95,
+      "note": "recovery 60sec @ 0.95"
+    },
+    {
+      "duration": 30,
+      "power": 0.95,
+      "note": "interval 30sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 0.95,
+      "note": "recovery 60sec @ 0.95"
+    },
+    {
+      "duration": 30,
+      "power": 0.95,
+      "note": "interval 30sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 0.95,
+      "note": "recovery 60sec @ 0.95"
+    },
+    {
+      "duration": 300,
+      "power": 0.72,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.14,
+      "note": "interval 60sec @ 1.14"
+    },
+    {
+      "duration": 60,
+      "power": 0.95,
+      "note": "recovery 60sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 1.14,
+      "note": "interval 60sec @ 1.14"
+    },
+    {
+      "duration": 60,
+      "power": 0.95,
+      "note": "recovery 60sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 1.14,
+      "note": "interval 60sec @ 1.14"
+    },
+    {
+      "duration": 60,
+      "power": 0.95,
+      "note": "recovery 60sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 1.14,
+      "note": "interval 60sec @ 1.14"
+    },
+    {
+      "duration": 60,
+      "power": 0.95,
+      "note": "recovery 60sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 1.14,
+      "note": "interval 60sec @ 1.14"
+    },
+    {
+      "duration": 60,
+      "power": 0.95,
+      "note": "recovery 60sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 1.14,
+      "note": "interval 60sec @ 1.14"
+    },
+    {
+      "duration": 60,
+      "power": 0.95,
+      "note": "recovery 60sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 1.14,
+      "note": "interval 60sec @ 1.14"
+    },
+    {
+      "duration": 60,
+      "power": 0.95,
+      "note": "recovery 60sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 1.14,
+      "note": "interval 60sec @ 1.14"
+    },
+    {
+      "duration": 60,
+      "power": 0.95,
+      "note": "recovery 60sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 1.14,
+      "note": "interval 60sec @ 1.14"
+    },
+    {
+      "duration": 60,
+      "power": 0.95,
+      "note": "recovery 60sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 1.14,
+      "note": "interval 60sec @ 1.14"
+    },
+    {
+      "duration": 60,
+      "power": 0.95,
+      "note": "recovery 60sec @ 0.95"
+    },
+    {
+      "duration": 300,
+      "power": 0.72,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.72,
+      "note": "recovery 60sec @ 0.72"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.72,
+      "note": "recovery 60sec @ 0.72"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.72,
+      "note": "recovery 60sec @ 0.72"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.72,
+      "note": "recovery 60sec @ 0.72"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.72,
+      "note": "recovery 60sec @ 0.72"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.72,
+      "note": "recovery 60sec @ 0.72"
+    },
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

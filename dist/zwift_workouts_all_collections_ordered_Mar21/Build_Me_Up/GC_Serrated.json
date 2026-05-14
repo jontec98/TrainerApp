@@ -1,0 +1,217 @@
+{
+  "name": "Serrated",
+  "note": "Intervals that come up to a very sharp point, looking like a serrated knife upon post-workout review. This workout will make you sharp for race day, ready to tackle the surges of terrain and competition. (by Shayne Gaffney | GC Coaching)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 480,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.88,
+      "note": "interval 180sec @ 0.88"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "note": "recovery 60sec @ 1.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.88,
+      "note": "interval 180sec @ 0.88"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "note": "recovery 60sec @ 1.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.88,
+      "note": "interval 180sec @ 0.88"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "note": "recovery 60sec @ 1.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.88,
+      "note": "interval 180sec @ 0.88"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "note": "recovery 60sec @ 1.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.88,
+      "note": "interval 180sec @ 0.88"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "note": "recovery 60sec @ 1.00"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.88,
+      "note": "interval 180sec @ 0.88"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "note": "recovery 60sec @ 1.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.88,
+      "note": "interval 180sec @ 0.88"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "note": "recovery 60sec @ 1.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.88,
+      "note": "interval 180sec @ 0.88"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "note": "recovery 60sec @ 1.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.88,
+      "note": "interval 180sec @ 0.88"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "note": "recovery 60sec @ 1.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.88,
+      "note": "interval 180sec @ 0.88"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "note": "recovery 60sec @ 1.00"
+    },
+    {
+      "duration": 240,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    }
+  ]
+}

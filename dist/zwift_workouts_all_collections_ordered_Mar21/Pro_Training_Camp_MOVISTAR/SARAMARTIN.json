@@ -1,0 +1,111 @@
+{
+  "name": "Sara Martin: All-Rounder",
+  "note": "A huge discovery. As spectacular as the performances offered by young Spaniard Sara Mart\u00edn during 2021 is the potential still in her pockets for the upcoming years. An impressive, all-around talent, a strong time trialist, and a solid climber, with attacking spirit and huge tactical intelligence, the rider from Aranda de Duero, Burgos, surprised the world already from her first top-ranked races last year. This is an easy ride with various cadence intervals from 65%, 62%, 60% of FTP with cadence changes from  95, 105, and 115 rpms to develop leg coordination. (by Sean Jefferson)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.62,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.62,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.62,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.62,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.62,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 420,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

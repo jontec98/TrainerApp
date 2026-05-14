@@ -1,0 +1,31 @@
+{
+  "name": "Day 6 - Bike",
+  "note": "Bike - 110 min.\n-35 min. @ 65% FTP\n-30 min. @ 70% FTP\n-20 min. @ 75% FTP\n-15 min. @ 80% FTP\n-10 min. @ 84% FTP \n   (by QT2)",
+  "intervals": [
+    {
+      "duration": 2100,
+      "power": 0.65449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 1800,
+      "power": 0.70449996,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 1200,
+      "power": 0.75449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 900,
+      "power": 0.80449992,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.84449995,
+      "note": "SteadyState interval"
+    }
+  ]
+}

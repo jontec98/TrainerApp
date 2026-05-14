@@ -1,0 +1,78 @@
+{
+  "name": "Intensive Aerobic",
+  "note": "Intensive aerobic efforts are generally performed just above threshold power. They are hard intervals that are completed with less than 5min recovery.\n\nBeing a long aerobic effort, they also require good pacing.\n\nToday's session aims to see you produce your best 10min power. But first, we perform intervals that help you better judge your power over 10min. (by Zwift Academy Coaches)",
+  "intervals": [
+    {
+      "duration": 360,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55449998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.09,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.80449992,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55375564,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.90449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.55648446,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

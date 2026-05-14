@@ -1,0 +1,21 @@
+{
+  "name": "Week 7.6 - Endurance",
+  "note": "15 minute warm up working from Active recovery to Endurance with 2 x 1 minute fast pedals to wake up legs. Set a pace at Endurance and hold pace for the prescribed workout time. Focus on riding smooth and staying relaxed. Vary your cadence. Finish with 10 minutes of cool down to Active Recovery.",
+  "intervals": [
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 3900,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

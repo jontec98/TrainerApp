@@ -1,0 +1,206 @@
+{
+  "name": "SweetSpot with bursts",
+  "note": "This workout isn't only about improving your sprint, but it's about improving your ability to sprint after doing a nice solid pace at 88-93% of your FTP, or what is called sweetspot and then recovering after.Warm-up well with 3 x 1 minute fast pedals at >110rpm, then 5minutes of tempo, followed by 35 minutes of riding at sweetspot, and doing a 20 second \"burst\" every two minutes.  The burst will be at 80% of your sprint effort, but still hard.  Be sure to recover back to your previous pace.   Cool-down  (by GCN)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.75449997,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.75449997,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.75449997,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 300,
+      "power": 0.81449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.88449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.2045,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.88449997,
+      "note": "recovery 120sec @ 0.88"
+    },
+    {
+      "duration": 20,
+      "power": 1.2045,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.88449997,
+      "note": "recovery 120sec @ 0.88"
+    },
+    {
+      "duration": 20,
+      "power": 1.2045,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.88449997,
+      "note": "recovery 120sec @ 0.88"
+    },
+    {
+      "duration": 20,
+      "power": 1.2045,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.88449997,
+      "note": "recovery 120sec @ 0.88"
+    },
+    {
+      "duration": 20,
+      "power": 1.2045,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.88449997,
+      "note": "recovery 120sec @ 0.88"
+    },
+    {
+      "duration": 20,
+      "power": 1.2045,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.88449997,
+      "note": "recovery 120sec @ 0.88"
+    },
+    {
+      "duration": 20,
+      "power": 1.2045,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.88449997,
+      "note": "recovery 120sec @ 0.88"
+    },
+    {
+      "duration": 20,
+      "power": 1.2045,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.88449997,
+      "note": "recovery 120sec @ 0.88"
+    },
+    {
+      "duration": 20,
+      "power": 1.2045,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.88449997,
+      "note": "recovery 120sec @ 0.88"
+    },
+    {
+      "duration": 20,
+      "power": 1.2045,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.88449997,
+      "note": "recovery 120sec @ 0.88"
+    },
+    {
+      "duration": 20,
+      "power": 1.2045,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.88449997,
+      "note": "recovery 120sec @ 0.88"
+    },
+    {
+      "duration": 20,
+      "power": 1.2045,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.88449997,
+      "note": "recovery 120sec @ 0.88"
+    },
+    {
+      "duration": 20,
+      "power": 1.2045,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.88449997,
+      "note": "recovery 120sec @ 0.88"
+    },
+    {
+      "duration": 20,
+      "power": 1.2045,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.88449997,
+      "note": "recovery 120sec @ 0.88"
+    },
+    {
+      "duration": 20,
+      "power": 1.2045,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.88449997,
+      "note": "recovery 120sec @ 0.88"
+    },
+    {
+      "duration": 480,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "name": "Aerobic Rev Up",
+  "note": "This workout is focused on aerobic conditioning, getting your aerobic system revved up for some harder training session ahead. In this workout we accumulate a total of 20min 'work' with the majority of that in Zone 3. We split this workout into 2 x 10min segments but within each segment we have 2 x 1min bursts above FTP. These 1min bursts are just over FTP at 102%. The perfect session to prepare you for summer riding.  (by Zwift)",
+  "intervals": [
+    {
+      "duration": 480,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.76,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.02,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.02,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.86,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.02,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.84,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.02,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

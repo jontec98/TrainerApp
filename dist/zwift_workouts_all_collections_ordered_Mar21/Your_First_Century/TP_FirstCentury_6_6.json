@@ -1,0 +1,26 @@
+{
+  "name": "Week 6.6 - Day 6",
+  "note": "Building Endurance today! Once warmed up, ride in your Endurance zone. Focus on staying relaxed on the bike and spinning circles while keeping your cadence between 90-100. During the last hour of the ride complete 1 x 30-minute TEMPO effort in a cadence of 75-85.",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 4200,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 1800,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

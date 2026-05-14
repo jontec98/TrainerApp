@@ -1,0 +1,151 @@
+{
+  "name": "FTP Short Blocks",
+  "note": "In this workout our goal is to accumulate as much time around FTP as possible, without going to failure. We do this by having short blocks of 90 sec to 2 1/2min of intensity. This allows you to maintain good rhythm in each rep but also have small rest periods of 30sec between so we have enough stimulus which sees positive adaptations. We do this by having 3 sets of interval blocks lasting from 8 min, 10 min and 12min, this is a perfect session to push up the aerobic adaptations which will help with FTP developments and endurance capacities. (by Dig Deep Coaching and Shayne Gaffney)",
+  "intervals": [
+    {
+      "duration": 480,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 1.05,
+      "note": "interval 90sec @ 1.05"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "recovery 30sec @ 0.55"
+    },
+    {
+      "duration": 90,
+      "power": 1.05,
+      "note": "interval 90sec @ 1.05"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "recovery 30sec @ 0.55"
+    },
+    {
+      "duration": 90,
+      "power": 1.05,
+      "note": "interval 90sec @ 1.05"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "recovery 30sec @ 0.55"
+    },
+    {
+      "duration": 90,
+      "power": 1.05,
+      "note": "interval 90sec @ 1.05"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "recovery 30sec @ 0.55"
+    },
+    {
+      "duration": 240,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.02,
+      "note": "interval 120sec @ 1.02"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "recovery 30sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 1.02,
+      "note": "interval 120sec @ 1.02"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "recovery 30sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 1.02,
+      "note": "interval 120sec @ 1.02"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "recovery 30sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 1.02,
+      "note": "interval 120sec @ 1.02"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "recovery 30sec @ 0.55"
+    },
+    {
+      "duration": 240,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 1.0,
+      "note": "interval 150sec @ 1.00"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "recovery 30sec @ 0.55"
+    },
+    {
+      "duration": 150,
+      "power": 1.0,
+      "note": "interval 150sec @ 1.00"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "recovery 30sec @ 0.55"
+    },
+    {
+      "duration": 150,
+      "power": 1.0,
+      "note": "interval 150sec @ 1.00"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "recovery 30sec @ 0.55"
+    },
+    {
+      "duration": 150,
+      "power": 1.0,
+      "note": "interval 150sec @ 1.00"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "recovery 30sec @ 0.55"
+    },
+    {
+      "duration": 240,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

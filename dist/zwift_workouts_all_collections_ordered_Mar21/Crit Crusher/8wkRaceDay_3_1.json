@@ -1,0 +1,206 @@
+{
+  "name": "Week 3.1 - Strength Training",
+  "note": "Start with a good warm up. Then 4 x 5 mins at FTP with 5 mins recovery between efforts, spin your legs easily for 10 minutes then 6 x 1 minute Upper Z6 power efforts with 2 minutes recovery in between - spin your legs out for 10 minutes then finally 10 x 15 second max sprint efforts with 45 seconds rest inbetweeen efforts. (by trainSharp)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0044999,
+      "note": "interval 300sec @ 1.00"
+    },
+    {
+      "duration": 300,
+      "power": 0.50450003,
+      "note": "recovery 300sec @ 0.50"
+    },
+    {
+      "duration": 300,
+      "power": 1.0044999,
+      "note": "interval 300sec @ 1.00"
+    },
+    {
+      "duration": 300,
+      "power": 0.50450003,
+      "note": "recovery 300sec @ 0.50"
+    },
+    {
+      "duration": 300,
+      "power": 1.0044999,
+      "note": "interval 300sec @ 1.00"
+    },
+    {
+      "duration": 300,
+      "power": 0.50450003,
+      "note": "recovery 300sec @ 0.50"
+    },
+    {
+      "duration": 300,
+      "power": 1.0044999,
+      "note": "interval 300sec @ 1.00"
+    },
+    {
+      "duration": 300,
+      "power": 0.50450003,
+      "note": "recovery 300sec @ 0.50"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.3045,
+      "note": "interval 60sec @ 1.30"
+    },
+    {
+      "duration": 120,
+      "power": 0.50450003,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 1.3045,
+      "note": "interval 60sec @ 1.30"
+    },
+    {
+      "duration": 120,
+      "power": 0.50450003,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 1.3045,
+      "note": "interval 60sec @ 1.30"
+    },
+    {
+      "duration": 120,
+      "power": 0.50450003,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 1.3045,
+      "note": "interval 60sec @ 1.30"
+    },
+    {
+      "duration": 120,
+      "power": 0.50450003,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 420,
+      "power": 0.50450003,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 2.0044999,
+      "note": "interval 15sec @ 2.00"
+    },
+    {
+      "duration": 45,
+      "power": 0.50450003,
+      "note": "recovery 45sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 2.0044999,
+      "note": "interval 15sec @ 2.00"
+    },
+    {
+      "duration": 45,
+      "power": 0.50450003,
+      "note": "recovery 45sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 2.0044999,
+      "note": "interval 15sec @ 2.00"
+    },
+    {
+      "duration": 45,
+      "power": 0.50450003,
+      "note": "recovery 45sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 2.0044999,
+      "note": "interval 15sec @ 2.00"
+    },
+    {
+      "duration": 45,
+      "power": 0.50450003,
+      "note": "recovery 45sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 2.0044999,
+      "note": "interval 15sec @ 2.00"
+    },
+    {
+      "duration": 45,
+      "power": 0.50450003,
+      "note": "recovery 45sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 2.0044999,
+      "note": "interval 15sec @ 2.00"
+    },
+    {
+      "duration": 45,
+      "power": 0.50450003,
+      "note": "recovery 45sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 2.0044999,
+      "note": "interval 15sec @ 2.00"
+    },
+    {
+      "duration": 45,
+      "power": 0.50450003,
+      "note": "recovery 45sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 2.0044999,
+      "note": "interval 15sec @ 2.00"
+    },
+    {
+      "duration": 45,
+      "power": 0.50450003,
+      "note": "recovery 45sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 2.0044999,
+      "note": "interval 15sec @ 2.00"
+    },
+    {
+      "duration": 45,
+      "power": 0.50450003,
+      "note": "recovery 45sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 2.0044999,
+      "note": "interval 15sec @ 2.00"
+    },
+    {
+      "duration": 45,
+      "power": 0.50450003,
+      "note": "recovery 45sec @ 0.50"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

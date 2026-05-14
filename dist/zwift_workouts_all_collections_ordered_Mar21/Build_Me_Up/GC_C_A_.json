@@ -1,0 +1,151 @@
+{
+  "name": "C.A.",
+  "note": "CA stands for Cadence Adjustment. We all have our preferred cadence range. It is important to be able to pedal outside of that. This workout challenges your ability to spin the pedals. And to do so outside of your typical comfort zone. (by Shayne Gaffney | GC Coaching)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.1,
+      "note": "interval 30sec @ 1.10"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "recovery 30sec @ 0.55"
+    },
+    {
+      "duration": 30,
+      "power": 1.1,
+      "note": "interval 30sec @ 1.10"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "recovery 30sec @ 0.55"
+    },
+    {
+      "duration": 30,
+      "power": 1.1,
+      "note": "interval 30sec @ 1.10"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "recovery 30sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 420,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

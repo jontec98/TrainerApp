@@ -1,0 +1,156 @@
+{
+  "name": "Going Up The Zones",
+  "note": "Alright folks, the main set today are some slow burn builds. 3x10 minute blocks building from endurance to threshold w/ 2min between sets. Each round will get a little harder because to start, the builds will be broken but youminll get less and less rest each time.\n1) 4min endurance, 30sec rest, 3min tempo, 30sec rest, 2min LT, 30sec rest, 1min VO2\n2) 4min endurance, 15sec rest, 3min tempo, 15sec rest, 2min LT, 15sec rest, 1min VO2\n3) 4min endurance, 3min tempo, 2min LT, 1min VO2 straight through! (by Zwift)",
+  "intervals": [
+    {
+      "duration": 360,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.8,
+      "note": "interval 30sec @ 0.80"
+    },
+    {
+      "duration": 30,
+      "power": 0.6,
+      "note": "recovery 30sec @ 0.60"
+    },
+    {
+      "duration": 30,
+      "power": 0.8,
+      "note": "interval 30sec @ 0.80"
+    },
+    {
+      "duration": 30,
+      "power": 0.6,
+      "note": "recovery 30sec @ 0.60"
+    },
+    {
+      "duration": 30,
+      "power": 0.8,
+      "note": "interval 30sec @ 0.80"
+    },
+    {
+      "duration": 30,
+      "power": 0.6,
+      "note": "recovery 30sec @ 0.60"
+    },
+    {
+      "duration": 30,
+      "power": 0.8,
+      "note": "interval 30sec @ 0.80"
+    },
+    {
+      "duration": 30,
+      "power": 0.6,
+      "note": "recovery 30sec @ 0.60"
+    },
+    {
+      "duration": 240,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "name": "Semi-Finals.2 - Capacity into Sweet Spot",
+  "note": "Quite often, racing involves periods of short, high intensity efforts followed by a period of tempo riding. Today we look to replicate what it takes to breakaway from the group and then maintain that advantage. After a good warmup, the session consists of 4 sets of 2 x 1 min capacity efforts leading into a 5 min tempo effort. (by Zwift Academy Coaches)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.81449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.95449996,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0944999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.5044999,
+      "note": "interval 10sec @ 1.50"
+    },
+    {
+      "duration": 50,
+      "power": 0.50449997,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.5044999,
+      "note": "interval 10sec @ 1.50"
+    },
+    {
+      "duration": 50,
+      "power": 0.50449997,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 120,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.2544999,
+      "note": "interval 60sec @ 1.25"
+    },
+    {
+      "duration": 60,
+      "power": 0.65449995,
+      "note": "recovery 60sec @ 0.65"
+    },
+    {
+      "duration": 60,
+      "power": 1.2544999,
+      "note": "interval 60sec @ 1.25"
+    },
+    {
+      "duration": 60,
+      "power": 0.65449995,
+      "note": "recovery 60sec @ 0.65"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.2544999,
+      "note": "interval 60sec @ 1.25"
+    },
+    {
+      "duration": 60,
+      "power": 0.65449995,
+      "note": "recovery 60sec @ 0.65"
+    },
+    {
+      "duration": 60,
+      "power": 1.2544999,
+      "note": "interval 60sec @ 1.25"
+    },
+    {
+      "duration": 60,
+      "power": 0.65449995,
+      "note": "recovery 60sec @ 0.65"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.2544999,
+      "note": "interval 60sec @ 1.25"
+    },
+    {
+      "duration": 60,
+      "power": 0.65449995,
+      "note": "recovery 60sec @ 0.65"
+    },
+    {
+      "duration": 60,
+      "power": 1.2544999,
+      "note": "interval 60sec @ 1.25"
+    },
+    {
+      "duration": 60,
+      "power": 0.65449995,
+      "note": "recovery 60sec @ 0.65"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.2544999,
+      "note": "interval 60sec @ 1.25"
+    },
+    {
+      "duration": 60,
+      "power": 0.65449995,
+      "note": "recovery 60sec @ 0.65"
+    },
+    {
+      "duration": 60,
+      "power": 1.2544999,
+      "note": "interval 60sec @ 1.25"
+    },
+    {
+      "duration": 60,
+      "power": 0.65449995,
+      "note": "recovery 60sec @ 0.65"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

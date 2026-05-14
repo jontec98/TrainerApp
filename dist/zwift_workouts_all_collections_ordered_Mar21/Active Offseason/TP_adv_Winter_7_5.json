@@ -1,0 +1,46 @@
+{
+  "name": "Week 7.5 - Endurance & FTP",
+  "note": "We're building endurance today! 10 minutes working into Endurance with 3 sets of 1 minute fast pedals to open up legs. Then ride in Endurance. Focus on staying relaxed on the bike and spinning circles while keeping your cadence between 90 and 100. During the ride, complete 2 x 20 minute FTP intervals, with 10 minutes of rest between each interval. Finish with 15 minutes of cooldown in Active Recovery.",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 2700,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 1200,
+      "power": 1.0,
+      "note": "interval 1200sec @ 1.00"
+    },
+    {
+      "duration": 600,
+      "power": 0.5,
+      "note": "recovery 600sec @ 0.50"
+    },
+    {
+      "duration": 1200,
+      "power": 1.0,
+      "note": "interval 1200sec @ 1.00"
+    },
+    {
+      "duration": 600,
+      "power": 0.5,
+      "note": "recovery 600sec @ 0.50"
+    },
+    {
+      "duration": 2700,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

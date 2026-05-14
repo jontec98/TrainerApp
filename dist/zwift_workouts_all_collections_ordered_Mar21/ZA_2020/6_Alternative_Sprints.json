@@ -1,0 +1,161 @@
+{
+  "name": "Alternative Sprints",
+  "note": "A good sprint is not purely about raw power. Confidence and technique are key. In this workout, we gradually build your peak powers for durations up to 20sec, with an added twist of more sprints after you've built up some fatigue.\n\n\tBeyond fast-twitch muscle fibers, a solid sprint means using maximal power in the most efficient way. At the start of this session, we help you improve your technique with seated sprints; then we hit some peak power efforts later. At the end of the session, we do real-world sprint replications, building into a maximal sprint seen in every Zwift race. \n\t\t\n\tThe workout is broken into 3 sets, with different durations to target different energy pathways.\n\t\t\n\tFirst, we do 3x 6 sec sprints seated in the saddle. These develop efficient neuromuscular signaling through in saddle power production and ready the pathways for the longer 20sec efforts. These sprints use your phosphate energy system for the full 6sec.\n\t\t\n\tThe next set includes 3x 20sec sprints, riding in or out of the saddle to generate maximal power. These intervals will be powered by your creatine phosphate system and anaerobic glycolytic system; longer recovery is needed to clear the high lactate levels generated.\n\t\t\n\tWe end the workout with 2x building sprints to simulate race finishes. Races do not typically demand a short sprint\u2013we need to build up our energy to unleash a sustained high-powered effort. (by Zwift Academy Coaches)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 90,
+      "power": 0.55,
+      "note": "recovery 90sec @ 0.55"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 90,
+      "power": 0.55,
+      "note": "recovery 90sec @ 0.55"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 90,
+      "power": 0.55,
+      "note": "recovery 90sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 240,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 240,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 240,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

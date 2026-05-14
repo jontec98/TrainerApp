@@ -1,0 +1,96 @@
+{
+  "name": "Week 6.2 - Pure Strength #2",
+  "note": "Short, high-power, low-cadence intervals help to boost fitness in a variety of ways. Focus on keeping the cadence in the prescribed range. The power here should not be a challenge... except for at the cadence specified. (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.98,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.98,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.98,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.81,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.98,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.98,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.98,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.81,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

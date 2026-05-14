@@ -1,0 +1,146 @@
+{
+  "name": "Over-Unders & Over-ATS",
+  "note": "Today we are doing a workout type that you've likely heard of before the \"Over Under\". Technically, this one isn't as it doesn't go \"over\" threshold, but just getting you warmed up as this plan moves forward. This workout will give you a fair amount of threshold time combined with some good zone 3 time as well. \n\nFind your rhythm inside of these 3 blocks and use good cadence to get through the 100% sections. \n\nThis type of workout is great for gravel as it works that 80-85% FTP zone that I feel is often ridden in during these events. Of course the terrain will cause you to ride above that zone frequently and this workout will mimmic that delightful experiance. (by Zwift)",
+  "intervals": [
+    {
+      "duration": 720,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.8,
+      "note": "interval 120sec @ 0.80"
+    },
+    {
+      "duration": 120,
+      "power": 0.6,
+      "note": "recovery 120sec @ 0.60"
+    },
+    {
+      "duration": 120,
+      "power": 0.8,
+      "note": "interval 120sec @ 0.80"
+    },
+    {
+      "duration": 120,
+      "power": 0.6,
+      "note": "recovery 120sec @ 0.60"
+    },
+    {
+      "duration": 120,
+      "power": 0.8,
+      "note": "interval 120sec @ 0.80"
+    },
+    {
+      "duration": 120,
+      "power": 0.6,
+      "note": "recovery 120sec @ 0.60"
+    },
+    {
+      "duration": 120,
+      "power": 0.85,
+      "note": "interval 120sec @ 0.85"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "note": "recovery 60sec @ 1.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.85,
+      "note": "interval 120sec @ 0.85"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "note": "recovery 60sec @ 1.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.85,
+      "note": "interval 120sec @ 0.85"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "note": "recovery 60sec @ 1.00"
+    },
+    {
+      "duration": 300,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.85,
+      "note": "interval 120sec @ 0.85"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "note": "recovery 60sec @ 1.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.85,
+      "note": "interval 120sec @ 0.85"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "note": "recovery 60sec @ 1.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.85,
+      "note": "interval 120sec @ 0.85"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "note": "recovery 60sec @ 1.00"
+    },
+    {
+      "duration": 300,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.85,
+      "note": "interval 120sec @ 0.85"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "note": "recovery 60sec @ 1.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.85,
+      "note": "interval 120sec @ 0.85"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "note": "recovery 60sec @ 1.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.85,
+      "note": "interval 120sec @ 0.85"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "note": "recovery 60sec @ 1.00"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

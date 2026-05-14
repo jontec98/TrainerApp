@@ -1,0 +1,96 @@
+{
+  "name": "Week 2.2 - Season Base #1",
+  "note": "A set of long intervals focused on endurance across a range of zones. Nothing fancy here, just long bouts of solid work here.\n (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "interval 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.91449994,
+      "note": "recovery 60sec @ 0.91"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "interval 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.91449994,
+      "note": "recovery 60sec @ 0.91"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "interval 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 1.0745,
+      "note": "recovery 60sec @ 1.07"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "interval 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 1.0745,
+      "note": "recovery 60sec @ 1.07"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 360,
+      "power": 0.98000002,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 360,
+      "power": 0.98449993,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 360,
+      "power": 0.98000002,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 1200,
+      "power": 0.78449994,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

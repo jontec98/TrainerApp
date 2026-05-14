@@ -1,0 +1,133 @@
+{
+  "name": "Week 5 - Recovery.4 - Sweet Spot 2",
+  "note": "We'll be working at sweet spot (SST) zone today, featuring an extensive 20min effort ramping up from 85% to 91% FTP. This makes us efficient at riding at a high pace during the day of racing. The session is finished with 8 x 1 min efforts right at FTP. FTP efforts feel a lot harder after spending 20 mins at SST, so be prepared :-)  (by Shayne Gaffney)",
+  "intervals": [
+    {
+      "duration": 180,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.60000002,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.64999998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.81,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0944999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 1200,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0044999,
+      "note": "interval 60sec @ 1.00"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 1.0044999,
+      "note": "interval 60sec @ 1.00"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 1.0044999,
+      "note": "interval 60sec @ 1.00"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 1.0044999,
+      "note": "interval 60sec @ 1.00"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 1.0044999,
+      "note": "interval 60sec @ 1.00"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 1.0044999,
+      "note": "interval 60sec @ 1.00"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 1.0044999,
+      "note": "interval 60sec @ 1.00"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 1.0044999,
+      "note": "interval 60sec @ 1.00"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 120,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

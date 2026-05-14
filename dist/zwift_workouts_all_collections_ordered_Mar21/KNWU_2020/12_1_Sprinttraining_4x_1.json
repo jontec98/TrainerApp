@@ -1,0 +1,56 @@
+{
+  "name": "Week 12.1 - Sprinttraining (4x)",
+  "note": "Met deze training verleg je je pijngrens. (by KNWU Fondo)",
+  "intervals": [
+    {
+      "duration": 1500,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.35,
+      "note": "interval 60sec @ 1.35"
+    },
+    {
+      "duration": 120,
+      "power": 0.65,
+      "note": "recovery 120sec @ 0.65"
+    },
+    {
+      "duration": 60,
+      "power": 1.35,
+      "note": "interval 60sec @ 1.35"
+    },
+    {
+      "duration": 120,
+      "power": 0.65,
+      "note": "recovery 120sec @ 0.65"
+    },
+    {
+      "duration": 60,
+      "power": 1.35,
+      "note": "interval 60sec @ 1.35"
+    },
+    {
+      "duration": 120,
+      "power": 0.65,
+      "note": "recovery 120sec @ 0.65"
+    },
+    {
+      "duration": 60,
+      "power": 1.35,
+      "note": "interval 60sec @ 1.35"
+    },
+    {
+      "duration": 120,
+      "power": 0.65,
+      "note": "recovery 120sec @ 0.65"
+    },
+    {
+      "duration": 1500,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

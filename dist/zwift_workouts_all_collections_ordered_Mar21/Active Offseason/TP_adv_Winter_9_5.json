@@ -1,0 +1,11 @@
+{
+  "name": "Week 9.5 - Active Recovery",
+  "note": "Active Recovery - you get faster when you are resting and recovering, not when you are working hard!! Rest days are about going easy enough to really allow your legs to recover, so no efforts over Zone 1 today. Take it easy and lookat the scenery.",
+  "intervals": [
+    {
+      "duration": 2700,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    }
+  ]
+}

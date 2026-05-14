@@ -1,0 +1,113 @@
+{
+  "name": "Pro-Contract Contender.1 - Elite Rider Test \u2013 Maximal Aerobic",
+  "note": "In this workout we are focusing on two key areas, how big your Maximal Aerobic power is (Vo2Max) and your fatigue rating, i.e., how well you can recover between capacity efforts.  We do this by starting with a 5min maximal effort before a short rest, we then move into two 15min aerobic ramps that make sure you are fatigued going into another maximal 5min effort. The x2 15min aerobic ramps in the middle of the workout is to allow you to carry some fatigue into the last capacity 5min interval and see how you perform at the end of a hard session. The key for this session is to give it your maximum in the x2 5min Free Ride sections and to maintain the wattage targets during the 15min ramps.\n    \n    You will need excellent fueling and good glycogen stores to be able to complete these efforts to the best of your ability. Good luck! (by Stephen Gallagher)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "interval 30sec @ 1.05"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "interval 30sec @ 1.05"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 240,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.02,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.02,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

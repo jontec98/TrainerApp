@@ -1,0 +1,121 @@
+{
+  "name": "Sir Bradley Wiggins.2 - FTP Boosters",
+  "note": "This session is all about increasing your FTP by maintaining a sub FTP baseline intensity with brief surges up and over at Vo2 capacity. A popular and testing workout.\n\nThese workouts have been designed and tested by some of the best cyclists in the world. Olympians and World Champions such as Sir Bradley Wiggins, Fabian Cancellara, Dame Sarah Storey and Kristin Armstrong. (by Chris Opie )",
+  "intervals": [
+    {
+      "duration": 180,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 105,
+      "power": 0.93,
+      "note": "interval 105sec @ 0.93"
+    },
+    {
+      "duration": 15,
+      "power": 1.48,
+      "note": "recovery 15sec @ 1.48"
+    },
+    {
+      "duration": 105,
+      "power": 0.93,
+      "note": "interval 105sec @ 0.93"
+    },
+    {
+      "duration": 15,
+      "power": 1.48,
+      "note": "recovery 15sec @ 1.48"
+    },
+    {
+      "duration": 105,
+      "power": 0.93,
+      "note": "interval 105sec @ 0.93"
+    },
+    {
+      "duration": 15,
+      "power": 1.48,
+      "note": "recovery 15sec @ 1.48"
+    },
+    {
+      "duration": 105,
+      "power": 0.93,
+      "note": "interval 105sec @ 0.93"
+    },
+    {
+      "duration": 15,
+      "power": 1.48,
+      "note": "recovery 15sec @ 1.48"
+    },
+    {
+      "duration": 105,
+      "power": 0.93,
+      "note": "interval 105sec @ 0.93"
+    },
+    {
+      "duration": 15,
+      "power": 1.48,
+      "note": "recovery 15sec @ 1.48"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 105,
+      "power": 0.93,
+      "note": "interval 105sec @ 0.93"
+    },
+    {
+      "duration": 15,
+      "power": 1.4,
+      "note": "recovery 15sec @ 1.40"
+    },
+    {
+      "duration": 105,
+      "power": 0.93,
+      "note": "interval 105sec @ 0.93"
+    },
+    {
+      "duration": 15,
+      "power": 1.4,
+      "note": "recovery 15sec @ 1.40"
+    },
+    {
+      "duration": 105,
+      "power": 0.93,
+      "note": "interval 105sec @ 0.93"
+    },
+    {
+      "duration": 15,
+      "power": 1.4,
+      "note": "recovery 15sec @ 1.40"
+    },
+    {
+      "duration": 105,
+      "power": 0.93,
+      "note": "interval 105sec @ 0.93"
+    },
+    {
+      "duration": 15,
+      "power": 1.4,
+      "note": "recovery 15sec @ 1.40"
+    },
+    {
+      "duration": 105,
+      "power": 0.93,
+      "note": "interval 105sec @ 0.93"
+    },
+    {
+      "duration": 15,
+      "power": 1.4,
+      "note": "recovery 15sec @ 1.40"
+    },
+    {
+      "duration": 120,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

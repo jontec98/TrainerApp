@@ -1,0 +1,66 @@
+{
+  "name": "High-Cadence Bursting Block",
+  "note": "Here's a quick 45 minute workout with 5 minutes of very high rpms. 110 minimum for those (5) 1 minute blocks but if you can sustain 120, that would be great. Keep the in between pretty chipper as well, at least 90. That's going to be a solid 20 minute block but tack on warm up and cool down and it's 45. Bam. (by Zwift)",
+  "intervals": [
+    {
+      "duration": 900,
+      "power": 0.55,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.45,
+      "note": "Cooldown interval"
+    }
+  ]
+}

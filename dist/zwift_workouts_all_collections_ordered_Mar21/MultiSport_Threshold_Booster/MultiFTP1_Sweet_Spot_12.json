@@ -1,0 +1,121 @@
+{
+  "name": "Sweet Spot 12's",
+  "note": "Time to challenge your ability to complete High Intensity efforts after first accumulating some time at sweet spot.\n\nIn this session you will complete 2 x 12min sweet spot efforts before finishing with 4 x 1min VO2max efforts.\n\nThe more efficient you are in the 12min efforts...\n\nThe better your VO2 max efforts will be!  (by Zwift)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.7544999,
+      "note": "interval 10sec @ 1.75"
+    },
+    {
+      "duration": 50,
+      "power": 0.50449997,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.7544999,
+      "note": "interval 10sec @ 1.75"
+    },
+    {
+      "duration": 50,
+      "power": 0.50449997,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 120,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0944999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.0044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 720,
+      "power": 0.91449994,
+      "note": "interval 720sec @ 0.91"
+    },
+    {
+      "duration": 180,
+      "power": 0.61449999,
+      "note": "recovery 180sec @ 0.61"
+    },
+    {
+      "duration": 720,
+      "power": 0.91449994,
+      "note": "interval 720sec @ 0.91"
+    },
+    {
+      "duration": 180,
+      "power": 0.61449999,
+      "note": "recovery 180sec @ 0.61"
+    },
+    {
+      "duration": 60,
+      "power": 1.0645,
+      "note": "interval 60sec @ 1.06"
+    },
+    {
+      "duration": 120,
+      "power": 0.50449997,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 1.0645,
+      "note": "interval 60sec @ 1.06"
+    },
+    {
+      "duration": 120,
+      "power": 0.50449997,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 1.0645,
+      "note": "interval 60sec @ 1.06"
+    },
+    {
+      "duration": 120,
+      "power": 0.50449997,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 1.0645,
+      "note": "interval 60sec @ 1.06"
+    },
+    {
+      "duration": 120,
+      "power": 0.50449997,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    }
+  ]
+}

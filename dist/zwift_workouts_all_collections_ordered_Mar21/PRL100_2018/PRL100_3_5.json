@@ -1,0 +1,206 @@
+{
+  "name": "Week 3.5 - Neuromuscular Power #1",
+  "note": "Long, low intensity efforts aren't the only way to build endurance. By incorporating short surges into a steady effort you will increase your oxygen uptake and training stimulus. Completing a low intensity effort with a surge every few minutes should feel comfortable, but the constant change in power and surging, will provide you with big gains in endurance. (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 120,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.95449996,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.95449996,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0944999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0944999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.77999997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.2145,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.77999997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.2145,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.78449994,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.78449994,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.78449994,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.77999997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.77999997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.78449994,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.77999997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.77999997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.77999997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.77999997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.77999997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.77999997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.77999997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

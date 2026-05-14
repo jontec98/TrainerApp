@@ -1,0 +1,116 @@
+{
+  "name": "Day 7 - Bike",
+  "note": "Bike - 70 min.\n-20 min. warm up\n-10x (30 sec. @ 150% FTP @ 105 rpm, 2.5 min. total rest)\n-20 min. cool @ 50% FTP (by QT2)",
+  "intervals": [
+    {
+      "duration": 1200,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.5044999,
+      "note": "interval 30sec @ 1.50"
+    },
+    {
+      "duration": 150,
+      "power": 0.1045,
+      "note": "recovery 150sec @ 0.10"
+    },
+    {
+      "duration": 30,
+      "power": 1.5044999,
+      "note": "interval 30sec @ 1.50"
+    },
+    {
+      "duration": 150,
+      "power": 0.1045,
+      "note": "recovery 150sec @ 0.10"
+    },
+    {
+      "duration": 30,
+      "power": 1.5044999,
+      "note": "interval 30sec @ 1.50"
+    },
+    {
+      "duration": 150,
+      "power": 0.1045,
+      "note": "recovery 150sec @ 0.10"
+    },
+    {
+      "duration": 30,
+      "power": 1.5044999,
+      "note": "interval 30sec @ 1.50"
+    },
+    {
+      "duration": 150,
+      "power": 0.1045,
+      "note": "recovery 150sec @ 0.10"
+    },
+    {
+      "duration": 30,
+      "power": 1.5044999,
+      "note": "interval 30sec @ 1.50"
+    },
+    {
+      "duration": 150,
+      "power": 0.1045,
+      "note": "recovery 150sec @ 0.10"
+    },
+    {
+      "duration": 30,
+      "power": 1.5044999,
+      "note": "interval 30sec @ 1.50"
+    },
+    {
+      "duration": 150,
+      "power": 0.1045,
+      "note": "recovery 150sec @ 0.10"
+    },
+    {
+      "duration": 30,
+      "power": 1.5044999,
+      "note": "interval 30sec @ 1.50"
+    },
+    {
+      "duration": 150,
+      "power": 0.1045,
+      "note": "recovery 150sec @ 0.10"
+    },
+    {
+      "duration": 30,
+      "power": 1.5044999,
+      "note": "interval 30sec @ 1.50"
+    },
+    {
+      "duration": 150,
+      "power": 0.1045,
+      "note": "recovery 150sec @ 0.10"
+    },
+    {
+      "duration": 30,
+      "power": 1.5044999,
+      "note": "interval 30sec @ 1.50"
+    },
+    {
+      "duration": 150,
+      "power": 0.1045,
+      "note": "recovery 150sec @ 0.10"
+    },
+    {
+      "duration": 30,
+      "power": 1.5044999,
+      "note": "interval 30sec @ 1.50"
+    },
+    {
+      "duration": 150,
+      "power": 0.1045,
+      "note": "recovery 150sec @ 0.10"
+    },
+    {
+      "duration": 1200,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

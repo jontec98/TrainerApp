@@ -1,0 +1,91 @@
+{
+  "name": "Attack!",
+  "note": "With a focus on short efforts, the focus here is on your ability to Attack(!) the group and recover after. The kind of punchy top end acceleration that you will need to compete... against a group or just your own PRs! (by Shayne Gaffney | GC Coaching)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.95,
+      "note": "interval 30sec @ 0.95"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "interval 30sec @ 1.05"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "interval 30sec @ 1.15"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 570,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 630,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 750,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

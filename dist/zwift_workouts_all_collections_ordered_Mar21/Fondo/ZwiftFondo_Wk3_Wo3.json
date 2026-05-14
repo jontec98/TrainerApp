@@ -1,0 +1,86 @@
+{
+  "name": "Week 3.3 - The Long Ride",
+  "note": "Long base ride to give the endurance needed to tackle the Zwift Fondo. This is the longest ride you will do in advance of taking on the Fondo. From here, you will taper to rest, recover, and sharpen up over the next week. (by Zwift)",
+  "intervals": [
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.85449994,
+      "note": "interval 120sec @ 0.85"
+    },
+    {
+      "duration": 120,
+      "power": 0.55449998,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 0.85449994,
+      "note": "interval 120sec @ 0.85"
+    },
+    {
+      "duration": 120,
+      "power": 0.55449998,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 0.85449994,
+      "note": "interval 120sec @ 0.85"
+    },
+    {
+      "duration": 120,
+      "power": 0.55449998,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 0.85449994,
+      "note": "interval 120sec @ 0.85"
+    },
+    {
+      "duration": 120,
+      "power": 0.55449998,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 0.85449994,
+      "note": "interval 120sec @ 0.85"
+    },
+    {
+      "duration": 120,
+      "power": 0.55449998,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 300,
+      "power": 0.55449998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 1500,
+      "power": 0.85449994,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.65449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 900,
+      "power": 0.85449994,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

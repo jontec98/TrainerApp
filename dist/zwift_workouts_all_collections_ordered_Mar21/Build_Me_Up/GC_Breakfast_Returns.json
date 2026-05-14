@@ -1,0 +1,366 @@
+{
+  "name": "Breakfast Returns",
+  "note": "A block of 30s/30s intervals that an athlete once told me (who worked out early in the morning and usually right after breakfast) always caused his \"breakfast to return.\" Even if your breakfast - or lunch or dinner - stays put, one thing will certainly rise - your fitness! (by Shayne Gaffney | GC Coaching)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.95,
+      "note": "interval 30sec @ 0.95"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "interval 30sec @ 1.05"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "interval 30sec @ 1.15"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.3,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 30,
+      "power": 0.7,
+      "note": "recovery 30sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 1.3,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 30,
+      "power": 0.7,
+      "note": "recovery 30sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 1.3,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 30,
+      "power": 0.7,
+      "note": "recovery 30sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 1.3,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 30,
+      "power": 0.7,
+      "note": "recovery 30sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 1.3,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 30,
+      "power": 0.7,
+      "note": "recovery 30sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 1.3,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 30,
+      "power": 0.7,
+      "note": "recovery 30sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 1.3,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 30,
+      "power": 0.7,
+      "note": "recovery 30sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 1.3,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 30,
+      "power": 0.7,
+      "note": "recovery 30sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 1.3,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 30,
+      "power": 0.7,
+      "note": "recovery 30sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 1.3,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 30,
+      "power": 0.7,
+      "note": "recovery 30sec @ 0.70"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.3,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 30,
+      "power": 0.7,
+      "note": "recovery 30sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 1.3,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 30,
+      "power": 0.7,
+      "note": "recovery 30sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 1.3,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 30,
+      "power": 0.7,
+      "note": "recovery 30sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 1.3,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 30,
+      "power": 0.7,
+      "note": "recovery 30sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 1.3,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 30,
+      "power": 0.7,
+      "note": "recovery 30sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 1.3,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 30,
+      "power": 0.7,
+      "note": "recovery 30sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 1.3,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 30,
+      "power": 0.7,
+      "note": "recovery 30sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 1.3,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 30,
+      "power": 0.7,
+      "note": "recovery 30sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 1.3,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 30,
+      "power": 0.7,
+      "note": "recovery 30sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 1.3,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 30,
+      "power": 0.7,
+      "note": "recovery 30sec @ 0.70"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.3,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 30,
+      "power": 0.7,
+      "note": "recovery 30sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 1.3,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 30,
+      "power": 0.7,
+      "note": "recovery 30sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 1.3,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 30,
+      "power": 0.7,
+      "note": "recovery 30sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 1.3,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 30,
+      "power": 0.7,
+      "note": "recovery 30sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 1.3,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 30,
+      "power": 0.7,
+      "note": "recovery 30sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 1.3,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 30,
+      "power": 0.7,
+      "note": "recovery 30sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 1.3,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 30,
+      "power": 0.7,
+      "note": "recovery 30sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 1.3,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 30,
+      "power": 0.7,
+      "note": "recovery 30sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 1.3,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 30,
+      "power": 0.7,
+      "note": "recovery 30sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 1.3,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 30,
+      "power": 0.7,
+      "note": "recovery 30sec @ 0.70"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 360,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

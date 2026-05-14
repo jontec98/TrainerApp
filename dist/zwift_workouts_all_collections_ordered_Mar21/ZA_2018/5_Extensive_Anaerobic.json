@@ -1,0 +1,136 @@
+{
+  "name": "Extensive Anaerobic 1min",
+  "note": "This 5th workout from the Zwift Academy program focuses on efforts 1min in length. These are high-power anaerobic intervals that are similar to what is required for a Kilo on the track or a short climb at the end of a road race. Think of them as race winning efforts. \n\nThere is plenty of time to recover between each interval, to give you every chance of hitting the target power. The final 2 blocks don't have target wattages and ask you to give everything to see what you're capable of. (by Zwift Academy Coaches)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55449998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.90449995,
+      "note": "interval 60sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.65449995,
+      "note": "recovery 60sec @ 0.65"
+    },
+    {
+      "duration": 60,
+      "power": 0.90449995,
+      "note": "interval 60sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.65449995,
+      "note": "recovery 60sec @ 0.65"
+    },
+    {
+      "duration": 60,
+      "power": 0.90449995,
+      "note": "interval 60sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.65449995,
+      "note": "recovery 60sec @ 0.65"
+    },
+    {
+      "duration": 60,
+      "power": 0.90449995,
+      "note": "interval 60sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.65449995,
+      "note": "recovery 60sec @ 0.65"
+    },
+    {
+      "duration": 60,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.95449996,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55039489,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.1506344,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55449998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.5044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 360,
+      "power": 0.55449998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.6002864,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 360,
+      "power": 0.55449998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.703313,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 360,
+      "power": 0.55449998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 360,
+      "power": 0.55163813,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 300,
+      "power": 0.55449998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

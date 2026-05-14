@@ -1,0 +1,91 @@
+{
+  "name": "Week 4.6 - Season Base #2",
+  "note": "A set of long intervals focused on endurance across a range of zones. Nothing fancy here, just long bouts of solid work here. (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.81449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.81449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.65449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 360,
+      "power": 0.98449993,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 360,
+      "power": 0.98000002,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 360,
+      "power": 0.98449993,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 360,
+      "power": 0.98000002,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55449998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55449998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 1200,
+      "power": 0.78449994,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55449998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

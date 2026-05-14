@@ -1,0 +1,146 @@
+{
+  "name": "Norseman workout: Vasstulan",
+  "note": "So you think you have what it takes to take on the Norseman Workout Series? \nVasstulan is at the summit of the penultimate climb. A super fast descent awaits so practice those descending skills. All that is left is the final climb to Imingfjell and then the long descent to T2.  \nThis interval session creeps up on you. Each interval begins with a hard 20 second effort to fry the legs and follows up with a sustained block at around your FTP. As the intervals get shorter in the second half the effort gets higher.\n\tThink you have what it takes? Check out all of the Norseman Run and Bike workouts to help you prepare for the Norseman Festival of Climbing July 27th - August 2nd.\n (by Zwift)",
+  "intervals": [
+    {
+      "duration": 480,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.90449995,
+      "note": "interval 20sec @ 0.90"
+    },
+    {
+      "duration": 40,
+      "power": 0.55449998,
+      "note": "recovery 40sec @ 0.55"
+    },
+    {
+      "duration": 20,
+      "power": 0.90449995,
+      "note": "interval 20sec @ 0.90"
+    },
+    {
+      "duration": 40,
+      "power": 0.55449998,
+      "note": "recovery 40sec @ 0.55"
+    },
+    {
+      "duration": 20,
+      "power": 0.90449995,
+      "note": "interval 20sec @ 0.90"
+    },
+    {
+      "duration": 40,
+      "power": 0.55449998,
+      "note": "recovery 40sec @ 0.55"
+    },
+    {
+      "duration": 20,
+      "power": 0.90449995,
+      "note": "interval 20sec @ 0.90"
+    },
+    {
+      "duration": 40,
+      "power": 0.55449998,
+      "note": "recovery 40sec @ 0.55"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 480,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 360,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

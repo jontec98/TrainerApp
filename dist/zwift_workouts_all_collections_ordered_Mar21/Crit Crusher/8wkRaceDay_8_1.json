@@ -1,0 +1,66 @@
+{
+  "name": "Week 8.1 - Taper Intervals",
+  "note": "15 min easy warm up. Taper intervals are to be 90 sec in duration. Not too hard, but slightly above 10 mile TT power. Recover @ Z1 for 3 min. (by trainSharp)",
+  "intervals": [
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 90,
+      "power": 1.05,
+      "note": "interval 90sec @ 1.05"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "recovery 180sec @ 0.50"
+    },
+    {
+      "duration": 90,
+      "power": 1.05,
+      "note": "interval 90sec @ 1.05"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "recovery 180sec @ 0.50"
+    },
+    {
+      "duration": 90,
+      "power": 1.05,
+      "note": "interval 90sec @ 1.05"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "recovery 180sec @ 0.50"
+    },
+    {
+      "duration": 90,
+      "power": 1.05,
+      "note": "interval 90sec @ 1.05"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "recovery 180sec @ 0.50"
+    },
+    {
+      "duration": 90,
+      "power": 1.05,
+      "note": "interval 90sec @ 1.05"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "recovery 180sec @ 0.50"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

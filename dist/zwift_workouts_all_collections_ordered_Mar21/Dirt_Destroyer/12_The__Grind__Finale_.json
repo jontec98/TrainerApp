@@ -1,0 +1,260 @@
+{
+  "name": "Week 4.1 - The 'Grind' Finale",
+  "note": "This session aims to replicate the demands of a mountain bike ride / event. \n\nMountain biking generally involves far more variations in effort compared with road riding - so plenty of surges and time spent being over geared! We also spend a lot of time 'on and off' the power, so short spells going  hard to get over an obstacle, followed by a freewheel or very low power on a descent or little dip.\n\nWe touch upon all of these aspects in todays session, as we start off alternating every 30 seconds between riding hard at a low cadence, and riding easy - as if we are riding through an undulating single track. Then we make a ramp in effort, which finishes with a 30 second near max effort up a steep, rocky banking!  (by Matt Rowe (Rowe & King))",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.0944999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.90449995,
+      "note": "interval 30sec @ 0.90"
+    },
+    {
+      "duration": 30,
+      "power": 0.40450001,
+      "note": "recovery 30sec @ 0.40"
+    },
+    {
+      "duration": 30,
+      "power": 0.90449995,
+      "note": "interval 30sec @ 0.90"
+    },
+    {
+      "duration": 30,
+      "power": 0.40450001,
+      "note": "recovery 30sec @ 0.40"
+    },
+    {
+      "duration": 30,
+      "power": 0.90449995,
+      "note": "interval 30sec @ 0.90"
+    },
+    {
+      "duration": 30,
+      "power": 0.40450001,
+      "note": "recovery 30sec @ 0.40"
+    },
+    {
+      "duration": 30,
+      "power": 0.90449995,
+      "note": "interval 30sec @ 0.90"
+    },
+    {
+      "duration": 30,
+      "power": 0.40450001,
+      "note": "recovery 30sec @ 0.40"
+    },
+    {
+      "duration": 30,
+      "power": 0.90449995,
+      "note": "interval 30sec @ 0.90"
+    },
+    {
+      "duration": 30,
+      "power": 0.40450001,
+      "note": "recovery 30sec @ 0.40"
+    },
+    {
+      "duration": 30,
+      "power": 0.90449995,
+      "note": "interval 30sec @ 0.90"
+    },
+    {
+      "duration": 30,
+      "power": 0.40450001,
+      "note": "recovery 30sec @ 0.40"
+    },
+    {
+      "duration": 30,
+      "power": 0.90449995,
+      "note": "interval 30sec @ 0.90"
+    },
+    {
+      "duration": 30,
+      "power": 0.40450001,
+      "note": "recovery 30sec @ 0.40"
+    },
+    {
+      "duration": 30,
+      "power": 0.90449995,
+      "note": "interval 30sec @ 0.90"
+    },
+    {
+      "duration": 30,
+      "power": 0.40450001,
+      "note": "recovery 30sec @ 0.40"
+    },
+    {
+      "duration": 30,
+      "power": 0.90449995,
+      "note": "interval 30sec @ 0.90"
+    },
+    {
+      "duration": 30,
+      "power": 0.40450001,
+      "note": "recovery 30sec @ 0.40"
+    },
+    {
+      "duration": 30,
+      "power": 0.90449995,
+      "note": "interval 30sec @ 0.90"
+    },
+    {
+      "duration": 30,
+      "power": 0.40450001,
+      "note": "recovery 30sec @ 0.40"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.1544999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.40450001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.90449995,
+      "note": "interval 30sec @ 0.90"
+    },
+    {
+      "duration": 30,
+      "power": 0.40450001,
+      "note": "recovery 30sec @ 0.40"
+    },
+    {
+      "duration": 30,
+      "power": 0.90449995,
+      "note": "interval 30sec @ 0.90"
+    },
+    {
+      "duration": 30,
+      "power": 0.40450001,
+      "note": "recovery 30sec @ 0.40"
+    },
+    {
+      "duration": 30,
+      "power": 0.90449995,
+      "note": "interval 30sec @ 0.90"
+    },
+    {
+      "duration": 30,
+      "power": 0.40450001,
+      "note": "recovery 30sec @ 0.40"
+    },
+    {
+      "duration": 30,
+      "power": 0.90449995,
+      "note": "interval 30sec @ 0.90"
+    },
+    {
+      "duration": 30,
+      "power": 0.40450001,
+      "note": "recovery 30sec @ 0.40"
+    },
+    {
+      "duration": 30,
+      "power": 0.90449995,
+      "note": "interval 30sec @ 0.90"
+    },
+    {
+      "duration": 30,
+      "power": 0.40450001,
+      "note": "recovery 30sec @ 0.40"
+    },
+    {
+      "duration": 30,
+      "power": 0.90449995,
+      "note": "interval 30sec @ 0.90"
+    },
+    {
+      "duration": 30,
+      "power": 0.40450001,
+      "note": "recovery 30sec @ 0.40"
+    },
+    {
+      "duration": 30,
+      "power": 0.90449995,
+      "note": "interval 30sec @ 0.90"
+    },
+    {
+      "duration": 30,
+      "power": 0.40450001,
+      "note": "recovery 30sec @ 0.40"
+    },
+    {
+      "duration": 30,
+      "power": 0.90449995,
+      "note": "interval 30sec @ 0.90"
+    },
+    {
+      "duration": 30,
+      "power": 0.40450001,
+      "note": "recovery 30sec @ 0.40"
+    },
+    {
+      "duration": 30,
+      "power": 0.90449995,
+      "note": "interval 30sec @ 0.90"
+    },
+    {
+      "duration": 30,
+      "power": 0.40450001,
+      "note": "recovery 30sec @ 0.40"
+    },
+    {
+      "duration": 30,
+      "power": 0.90449995,
+      "note": "interval 30sec @ 0.90"
+    },
+    {
+      "duration": 30,
+      "power": 0.40450001,
+      "note": "recovery 30sec @ 0.40"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.1544999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 350,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

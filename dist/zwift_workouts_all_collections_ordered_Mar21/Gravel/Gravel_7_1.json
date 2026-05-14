@@ -1,0 +1,156 @@
+{
+  "name": "Going Up The Zones",
+  "note": "Today we've got some builds on tap up to threshold. The catch here is that as we go through these builds our rest (which is already short) will get shorter. Focus on smooth riding as we go and staying \"calm\" in your upper body and conserve as much as possible. \n\nEfforts like these are certainly common in gravel events, and something worth working on. We will spend a fair amount of time in and above threshold here today. If these efforts feel very manageable to you I would encourage you to start the blocks in higher RPM's and actually let your RPM's get SLOWER as the \"climb\" increases. (by Zwift)",
+  "intervals": [
+    {
+      "duration": 360,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.8,
+      "note": "interval 30sec @ 0.80"
+    },
+    {
+      "duration": 30,
+      "power": 0.6,
+      "note": "recovery 30sec @ 0.60"
+    },
+    {
+      "duration": 30,
+      "power": 0.8,
+      "note": "interval 30sec @ 0.80"
+    },
+    {
+      "duration": 30,
+      "power": 0.6,
+      "note": "recovery 30sec @ 0.60"
+    },
+    {
+      "duration": 30,
+      "power": 0.8,
+      "note": "interval 30sec @ 0.80"
+    },
+    {
+      "duration": 30,
+      "power": 0.6,
+      "note": "recovery 30sec @ 0.60"
+    },
+    {
+      "duration": 30,
+      "power": 0.8,
+      "note": "interval 30sec @ 0.80"
+    },
+    {
+      "duration": 30,
+      "power": 0.6,
+      "note": "recovery 30sec @ 0.60"
+    },
+    {
+      "duration": 240,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.77,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 465,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

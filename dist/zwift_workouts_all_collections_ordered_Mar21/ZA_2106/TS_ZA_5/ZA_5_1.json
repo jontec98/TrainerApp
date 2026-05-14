@@ -1,0 +1,51 @@
+{
+  "name": "Pushing Week",
+  "note": "This should be a manageable session, tough mentally as much as physically. Ensure you have enough bottles for rehydrating and a good air supply, ideally you will complete this session straight through without needing to get off the bike to refill bottles etc. (by Zwift Academy)",
+  "intervals": [
+    {
+      "duration": 1500,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 960,
+      "power": 1.0321918,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.65000004,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 960,
+      "power": 1.0321918,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.65000004,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 965,
+      "power": 1.0278659,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.65000004,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

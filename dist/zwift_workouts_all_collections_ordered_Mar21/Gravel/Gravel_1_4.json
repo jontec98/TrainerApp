@@ -1,0 +1,146 @@
+{
+  "name": "Building Climbs",
+  "note": "Today we've got a nice base effort ride that will mimic real world gravel riding with slow climb type builds that are not deep, but will add up to some decent \"work\" by the rides end. It's not always about going hard, especially while training for an endurance event so today is about building that aerobic zone!\n5x1 minute builds to fast rpm with 2 minutes between. Then roll into 6x8 minutes as 4 at 75% effort, 3 at 80% effort, 1 minute at 85% 5 minutes easy between.\n15 cool down. (by Zwift)",
+  "intervals": [
+    {
+      "duration": 840,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "interval 60sec @ 0.85"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "interval 60sec @ 0.85"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "interval 60sec @ 0.85"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "interval 60sec @ 0.85"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "interval 60sec @ 0.85"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 240,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 540,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

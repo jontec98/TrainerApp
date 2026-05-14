@@ -1,0 +1,101 @@
+{
+  "name": "Week 4.1 - SST Over Under",
+  "note": "Today, we're going to further our time spent at SST by doing some over/under intervals. These aren't 'true' over/unders, but rather going from 88% FTP to 95% FTP. We'll also be practicing our big gear work today during the 'over' portion. (by Shayne Gaffney)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 0.88,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 0.88,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 0.88,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 0.88,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 0.88,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "name": "Week 6 - Race Specific Intensity.2 - At/Over/Under",
+  "note": "Today's intervals are designed to increase your body's ability to buffer lactic acid and increase lactate tolerance. The intervals themselves are 3, 3min intervals, starting off 'at' FTP, then going up to zone 5 (over), and finishing at zone 3 (under). So, these are 'at' over/under intervals more specifically :-) (by Shayne Gaffney)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 110,
+      "power": 0.54449999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.08,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.89999998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.08,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.89999998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.08,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.89999998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

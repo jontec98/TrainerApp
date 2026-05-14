@@ -1,0 +1,71 @@
+{
+  "name": "Week 4.2 - Emily's Short Mix",
+  "note": "This workout is designed to get maximal results from minimal time. You'll go through three sets of intervals that ramp the intensity, with each series getting both harder and longer. It won't be easy, but at least it'll be over soon! CRUSH IT TODAY! (by E.Mullen)",
+  "intervals": [
+    {
+      "duration": 180,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

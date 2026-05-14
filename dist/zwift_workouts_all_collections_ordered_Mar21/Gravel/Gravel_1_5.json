@@ -1,0 +1,101 @@
+{
+  "name": "Base Builder Ladder",
+  "note": "The title says it all! Sometimes we just have to get some good old fashioned base miles in the tank. This ride is about finding good RPM's and just rolling at a comfortable clip and settling in. Today is a GREAT day to add some free riding after at 55%-70% FTP on the current Zwift course or getting out the door for some fresh air is also a great option. (by Zwift)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "interval 60sec @ 0.55"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "recovery 60sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "interval 60sec @ 0.55"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "recovery 60sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "interval 60sec @ 0.55"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "recovery 60sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "interval 60sec @ 0.55"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "recovery 60sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 420,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 420,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 420,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 420,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 420,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

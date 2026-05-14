@@ -1,0 +1,156 @@
+{
+  "name": "Hard Starts #2",
+  "note": "Another threshold focused session that adds an element of MTB specificity. The main set of intervals consists of repeated anaerobic efforts, followed by a sustained period of time at and above threshold.\n\nMuch like an MTB race, you will be required to produce high power with little recovery. (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.75,
+      "note": "interval 10sec @ 1.75"
+    },
+    {
+      "duration": 50,
+      "power": 0.5,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.75,
+      "note": "interval 10sec @ 1.75"
+    },
+    {
+      "duration": 50,
+      "power": 0.5,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.09,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 1.4,
+      "note": "interval 45sec @ 1.40"
+    },
+    {
+      "duration": 120,
+      "power": 0.6,
+      "note": "recovery 120sec @ 0.60"
+    },
+    {
+      "duration": 45,
+      "power": 1.4,
+      "note": "interval 45sec @ 1.40"
+    },
+    {
+      "duration": 120,
+      "power": 0.6,
+      "note": "recovery 120sec @ 0.60"
+    },
+    {
+      "duration": 45,
+      "power": 1.4,
+      "note": "interval 45sec @ 1.40"
+    },
+    {
+      "duration": 120,
+      "power": 0.6,
+      "note": "recovery 120sec @ 0.60"
+    },
+    {
+      "duration": 45,
+      "power": 1.4,
+      "note": "interval 45sec @ 1.40"
+    },
+    {
+      "duration": 120,
+      "power": 0.6,
+      "note": "recovery 120sec @ 0.60"
+    },
+    {
+      "duration": 600,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.95,
+      "note": "interval 180sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 1.1,
+      "note": "recovery 60sec @ 1.10"
+    },
+    {
+      "duration": 120,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.95,
+      "note": "interval 180sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 1.1,
+      "note": "recovery 60sec @ 1.10"
+    },
+    {
+      "duration": 120,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.95,
+      "note": "interval 180sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 1.1,
+      "note": "recovery 60sec @ 1.10"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    }
+  ]
+}

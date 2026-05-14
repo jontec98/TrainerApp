@@ -1,0 +1,11 @@
+{
+  "name": "Week 4.7 - Ride London",
+  "note": "Good luck today.\n\nDon't forget to stay hydrated during the ride and fuel up along the way. (by Zwift)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 0.5,
+      "note": "Free ride"
+    }
+  ]
+}

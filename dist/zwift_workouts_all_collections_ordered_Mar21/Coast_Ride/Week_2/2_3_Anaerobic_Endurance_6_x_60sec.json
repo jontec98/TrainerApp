@@ -1,0 +1,173 @@
+{
+  "name": "Week 2.3 - Anaerobic Endurance 6 x 60sec",
+  "note": "After completing a good warm up the main sets consist of 6 x 60 seconds at 121%FTP, with 3min recovery.\n\nAnaerobic Endurance involves high cadence and big power, along with the ability to resist fatigue.\n\nThroughout each 60sec interval observe your cadence and heart rate. Is your cadence dropping with fatigue and your heart rate rising? (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 240,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.09,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.21,
+      "note": "interval 60sec @ 1.21"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "recovery 180sec @ 0.55"
+    },
+    {
+      "duration": 60,
+      "power": 1.21,
+      "note": "interval 60sec @ 1.21"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "recovery 180sec @ 0.55"
+    },
+    {
+      "duration": 60,
+      "power": 1.21,
+      "note": "interval 60sec @ 1.21"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "recovery 180sec @ 0.55"
+    },
+    {
+      "duration": 60,
+      "power": 1.21,
+      "note": "interval 60sec @ 1.21"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "recovery 180sec @ 0.55"
+    },
+    {
+      "duration": 60,
+      "power": 1.21,
+      "note": "interval 60sec @ 1.21"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "recovery 180sec @ 0.55"
+    },
+    {
+      "duration": 60,
+      "power": 1.21,
+      "note": "interval 60sec @ 1.21"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "recovery 180sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.21,
+      "note": "interval 60sec @ 1.21"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "recovery 180sec @ 0.55"
+    },
+    {
+      "duration": 60,
+      "power": 1.21,
+      "note": "interval 60sec @ 1.21"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "recovery 180sec @ 0.55"
+    },
+    {
+      "duration": 60,
+      "power": 1.21,
+      "note": "interval 60sec @ 1.21"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "recovery 180sec @ 0.55"
+    },
+    {
+      "duration": 60,
+      "power": 1.21,
+      "note": "interval 60sec @ 1.21"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "recovery 180sec @ 0.55"
+    },
+    {
+      "duration": 60,
+      "power": 1.21,
+      "note": "interval 60sec @ 1.21"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "recovery 180sec @ 0.55"
+    },
+    {
+      "duration": 60,
+      "power": 1.21,
+      "note": "interval 60sec @ 1.21"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "recovery 180sec @ 0.55"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

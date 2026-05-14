@@ -1,0 +1,66 @@
+{
+  "name": "Month 1.3 - Threshold Pushing",
+  "note": "This session is designed to increase your FTP from below, working predominantly on your aerobic metabolism. In time, your body will become more comfortable at these powers and your FTP will increase. Don't be tempted to over do it on these efforts - this is not a test. By the end of the final interval you should be tired and struggling to hold the power.\u00a0 As with the other sessions, you will need to be warmed up for this training session.\u00a0 Be strict on the recovery time, each effort will test the legs. Ensure you have enough fluids for this session and even a bite to eat (gel/bar etc.)\u00a0 (by TrainSharp Cycle Coaching)",
+  "intervals": [
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.51499999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.23,
+      "note": "interval 30sec @ 1.23"
+    },
+    {
+      "duration": 150,
+      "power": 0.49000001,
+      "note": "recovery 150sec @ 0.49"
+    },
+    {
+      "duration": 30,
+      "power": 1.23,
+      "note": "interval 30sec @ 1.23"
+    },
+    {
+      "duration": 150,
+      "power": 0.49000001,
+      "note": "recovery 150sec @ 0.49"
+    },
+    {
+      "duration": 300,
+      "power": 0.52999997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 900,
+      "power": 0.95499998,
+      "note": "interval 900sec @ 0.95"
+    },
+    {
+      "duration": 600,
+      "power": 0.49000001,
+      "note": "recovery 600sec @ 0.49"
+    },
+    {
+      "duration": 900,
+      "power": 0.95499998,
+      "note": "interval 900sec @ 0.95"
+    },
+    {
+      "duration": 600,
+      "power": 0.49000001,
+      "note": "recovery 600sec @ 0.49"
+    },
+    {
+      "duration": 390,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "name": "Week 12.5 - Sprinttraining (6x)",
+  "note": "Met deze training verleg je je pijngrens. (by KNWU Fondo)",
+  "intervals": [
+    {
+      "duration": 1620,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.4,
+      "note": "interval 15sec @ 1.40"
+    },
+    {
+      "duration": 60,
+      "power": 0.65,
+      "note": "recovery 60sec @ 0.65"
+    },
+    {
+      "duration": 15,
+      "power": 1.4,
+      "note": "interval 15sec @ 1.40"
+    },
+    {
+      "duration": 60,
+      "power": 0.65,
+      "note": "recovery 60sec @ 0.65"
+    },
+    {
+      "duration": 15,
+      "power": 1.4,
+      "note": "interval 15sec @ 1.40"
+    },
+    {
+      "duration": 60,
+      "power": 0.65,
+      "note": "recovery 60sec @ 0.65"
+    },
+    {
+      "duration": 15,
+      "power": 1.4,
+      "note": "interval 15sec @ 1.40"
+    },
+    {
+      "duration": 60,
+      "power": 0.65,
+      "note": "recovery 60sec @ 0.65"
+    },
+    {
+      "duration": 15,
+      "power": 1.4,
+      "note": "interval 15sec @ 1.40"
+    },
+    {
+      "duration": 60,
+      "power": 0.65,
+      "note": "recovery 60sec @ 0.65"
+    },
+    {
+      "duration": 15,
+      "power": 1.4,
+      "note": "interval 15sec @ 1.40"
+    },
+    {
+      "duration": 60,
+      "power": 0.65,
+      "note": "recovery 60sec @ 0.65"
+    },
+    {
+      "duration": 1500,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

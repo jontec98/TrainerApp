@@ -1,0 +1,106 @@
+{
+  "name": "Week 2.6 - Tempo with accelerations #2",
+  "note": "Building upon the previous 'Tempo With Accelerations' session, this time we are extending the tempo portion to add a little more fatigue.\n\nBy incorporating sprint efforts into a steady state effort, you will recruit additional muscle fibres and extend their ability to work aerobically.\n\nThe sprint efforts increase in duration from 15sec, to 20sec and 30sec. (by Zwift)",
+  "intervals": [
+    {
+      "duration": 360,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0944999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.90449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.84449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.7544999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.84449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.7045,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.84449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.5040623,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.84449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.7544999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.84449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.7045,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.84449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.5044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    }
+  ]
+}

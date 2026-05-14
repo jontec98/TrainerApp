@@ -1,0 +1,93 @@
+{
+  "name": "Week 3.4 - Sub Threshold #3",
+  "note": "Time spent in the sub-threshold zone offers a big boost to fitness without being as taxing as dipping into the red zone. Spend long periods under your FTP to help push it up from underneath. (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.91076738,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.91695595,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.91143095,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.91269916,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.91449994,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 1200,
+      "power": 0.89449996,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.55449998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 1200,
+      "power": 0.89449996,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

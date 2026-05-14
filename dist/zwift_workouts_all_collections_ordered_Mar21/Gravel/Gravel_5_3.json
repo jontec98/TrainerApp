@@ -1,0 +1,201 @@
+{
+  "name": "Race Simulation",
+  "note": "The title says it all, this workout is about seeing where you are at and getting you a little peak into what the effort of a segement of a gravel race may be. In many gravel races the separation will occur on a hill or in loose thick gravel sections and you'll have to really put the power down to respond. \n\nThis workout will be an extended warm up including a threshold block and then into 3 blocks that you could consider climbs. I'll let you pick your RPM's for this round, but know that in a gravel race you'll likely need lower RPM's to maintain traction and because of steepness of the terrain. \n\nEnjoy! (by Zwift)",
+  "intervals": [
+    {
+      "duration": 480,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 15,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 270,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.2,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.2,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 450,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "name": "Week 1.6 - Endurance #1",
+  "note": "After warming up, the focus is on improving your aerobic endurance.\n\nThe main set consists of a steady aerobic effort with target power at 70%. However, every 5 minutes you will perform a 10 second surge at 130%. (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 360,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.09,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.3,
+      "note": "interval 10sec @ 1.30"
+    },
+    {
+      "duration": 290,
+      "power": 0.7,
+      "note": "recovery 290sec @ 0.70"
+    },
+    {
+      "duration": 10,
+      "power": 1.3,
+      "note": "interval 10sec @ 1.30"
+    },
+    {
+      "duration": 290,
+      "power": 0.7,
+      "note": "recovery 290sec @ 0.70"
+    },
+    {
+      "duration": 10,
+      "power": 1.3,
+      "note": "interval 10sec @ 1.30"
+    },
+    {
+      "duration": 290,
+      "power": 0.7,
+      "note": "recovery 290sec @ 0.70"
+    },
+    {
+      "duration": 10,
+      "power": 1.3,
+      "note": "interval 10sec @ 1.30"
+    },
+    {
+      "duration": 290,
+      "power": 0.7,
+      "note": "recovery 290sec @ 0.70"
+    },
+    {
+      "duration": 10,
+      "power": 1.3,
+      "note": "interval 10sec @ 1.30"
+    },
+    {
+      "duration": 290,
+      "power": 0.7,
+      "note": "recovery 290sec @ 0.70"
+    },
+    {
+      "duration": 10,
+      "power": 1.3,
+      "note": "interval 10sec @ 1.30"
+    },
+    {
+      "duration": 290,
+      "power": 0.7,
+      "note": "recovery 290sec @ 0.70"
+    },
+    {
+      "duration": 10,
+      "power": 1.3,
+      "note": "interval 10sec @ 1.30"
+    },
+    {
+      "duration": 290,
+      "power": 0.7,
+      "note": "recovery 290sec @ 0.70"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

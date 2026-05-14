@@ -1,0 +1,98 @@
+{
+  "name": "VO2max Development",
+  "note": "Studies have shown that two of the major contributors to successful performance in ultra-distance triathlon are having 1) a good ability to use fat as a fuel source and 2) a high VO2max. This session aims to take care of the latter, we're going to be developing VO2max.\n\nSessions specifically designed to enhance VO2max are of high intensity (above FTP) and made up of shorter intervals (typically less than 5 minutes). Generally, if you improve your VO2max, other aspects of ultra-distance triathlon performance (e.g. FTP) will also improve. It's an excellent routine to keep a VO2max development session in your program all the way through the season. (by Coach Dan Plews)",
+  "intervals": [
+    {
+      "duration": 360,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.25,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.94999999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.09,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.60000002,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.09,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.60000002,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 1.09,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.60000002,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.09,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.60000002,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.09,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.40000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 420,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

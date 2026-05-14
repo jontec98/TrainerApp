@@ -1,0 +1,11 @@
+{
+  "name": "Week 4.4 - Free Ride",
+  "note": "This is a chance to get out for your local Club Run, hit the trails or to join a group ride on Zwift. The focus should be on steady paced endurance. Take care not to overdo this session though as you don't want it to impact on the quality of your other workouts.\n\nAim to ride predominately in Zone 2 (55% - 75% FTP) and, after you feel warmed up, try to include 3-5 1 min Zone 6 (120%+ FTP) efforts during the first hour. In the final hour put in a 20 sec maximal sprint every 10 min. (by British Cycling)",
+  "intervals": [
+    {
+      "duration": 7200,
+      "power": 0.5,
+      "note": "Free ride"
+    }
+  ]
+}

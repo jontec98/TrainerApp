@@ -1,0 +1,71 @@
+{
+  "name": "EF Pro Cycling's Green Day Workout",
+  "note": "EF Pro Cycling's Alex Howes says 'Racing generally follows an annoying but predictable pattern: we go way to hard right from the get go, most people blow up, and we all suffer to the end. This workout is great because it helps the body adapt to that rhythm while also helping us learn what our bodies are capable of in a dynamic race situation. The transition into torque is not necessarily the best for everyone (a more natural cadence might be better for you) but for me, living at 8500ft, I'm always looking for ways to add torque and strength efforts into my routine.' (by Shayne Gaffney)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 330,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 210,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 330,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 210,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 330,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 210,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 330,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

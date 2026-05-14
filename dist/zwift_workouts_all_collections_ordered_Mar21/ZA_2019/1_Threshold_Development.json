@@ -1,0 +1,131 @@
+{
+  "name": "Threshold Development",
+  "note": "Having a strong threshold is crucial to cycling performance. Whether your goal is to ride as a professional cyclist or simply to get fitter, improving your threshold (FTP) will help you on your journey. Today we will work on 'pushing' your FTP up from below and 'pulling' from above. Alternating cadences in the first interval will spike your heart rate while the power remains stable.  (by Zwift Academy Coaches)",
+  "intervals": [
+    {
+      "duration": 180,
+      "power": 0.60000002,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.69999999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.80136365,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.89999998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.5498485,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.89999998,
+      "note": "interval 20sec @ 0.90"
+    },
+    {
+      "duration": 50,
+      "power": 0.89999998,
+      "note": "recovery 50sec @ 0.90"
+    },
+    {
+      "duration": 20,
+      "power": 0.89999998,
+      "note": "interval 20sec @ 0.90"
+    },
+    {
+      "duration": 50,
+      "power": 0.89999998,
+      "note": "recovery 50sec @ 0.90"
+    },
+    {
+      "duration": 20,
+      "power": 0.89999998,
+      "note": "interval 20sec @ 0.90"
+    },
+    {
+      "duration": 50,
+      "power": 0.89999998,
+      "note": "recovery 50sec @ 0.90"
+    },
+    {
+      "duration": 20,
+      "power": 0.89999998,
+      "note": "interval 20sec @ 0.90"
+    },
+    {
+      "duration": 50,
+      "power": 0.89999998,
+      "note": "recovery 50sec @ 0.90"
+    },
+    {
+      "duration": 20,
+      "power": 0.89999998,
+      "note": "interval 20sec @ 0.90"
+    },
+    {
+      "duration": 50,
+      "power": 0.89999998,
+      "note": "recovery 50sec @ 0.90"
+    },
+    {
+      "duration": 180,
+      "power": 0.55117697,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.89999998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.89999998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.0498486,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.90136367,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.60000002,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.90717012,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 310,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "name": "Strength Development",
+  "note": "Sport specific strength is a critical component of long-distance triathlon. This session aims to produce large amounts of muscular force with limited disturbance to the cardiovascular systems. \n\nMany professional long-distance triathletes include regular strength endurance work as part of their micro-cycle routines. And for good reason. Research has shown that training at a lower cadence produced more significant power benefits at threshold than training at a higher cadence.\n\nThese types of sessions are great if you've got tired legs but still want some quality. This session in particular is made up of 5 x 8 minute reps where the cadence is kept low (60-75 rpm), with moderate intensity (78-84% of FTP). (by Coach Dan Plews)",
+  "intervals": [
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.64999998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.75449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.94999999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.77999997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.80000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.81999999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.83999997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.77999997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.80000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.81999999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.83999997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.77999997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.80000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.81999999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.83999997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.77999997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.80000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.81999999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.84449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.77999997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.80000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.81999999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.84449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 0.45449999,
+      "note": "SteadyState interval"
+    }
+  ]
+}

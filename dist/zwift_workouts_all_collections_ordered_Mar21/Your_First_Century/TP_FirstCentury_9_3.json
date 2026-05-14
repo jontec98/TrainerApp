@@ -1,0 +1,216 @@
+{
+  "name": "Week 9.3 - Day 3",
+  "note": "Today is simple, ride the prescribed time your Endurance Zone. Vary your cadence throughout ride and work on pedaling form. Practice \"coming over the top\" and \"pulling through the bottom\" of the pedal. Get in 20 bursts today throughout the ride. Each is 15 seconds long. Enjoy the day!! ",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 270,
+      "power": 0.65449995,
+      "note": "recovery 270sec @ 0.65"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 270,
+      "power": 0.65449995,
+      "note": "recovery 270sec @ 0.65"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 270,
+      "power": 0.65449995,
+      "note": "recovery 270sec @ 0.65"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 270,
+      "power": 0.65449995,
+      "note": "recovery 270sec @ 0.65"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 270,
+      "power": 0.65449995,
+      "note": "recovery 270sec @ 0.65"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 270,
+      "power": 0.65449995,
+      "note": "recovery 270sec @ 0.65"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 270,
+      "power": 0.65449995,
+      "note": "recovery 270sec @ 0.65"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 270,
+      "power": 0.65449995,
+      "note": "recovery 270sec @ 0.65"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 270,
+      "power": 0.65449995,
+      "note": "recovery 270sec @ 0.65"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 270,
+      "power": 0.65449995,
+      "note": "recovery 270sec @ 0.65"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 270,
+      "power": 0.65449995,
+      "note": "recovery 270sec @ 0.65"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 270,
+      "power": 0.65449995,
+      "note": "recovery 270sec @ 0.65"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 270,
+      "power": 0.65449995,
+      "note": "recovery 270sec @ 0.65"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 270,
+      "power": 0.65449995,
+      "note": "recovery 270sec @ 0.65"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 270,
+      "power": 0.65449995,
+      "note": "recovery 270sec @ 0.65"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 270,
+      "power": 0.65449995,
+      "note": "recovery 270sec @ 0.65"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 270,
+      "power": 0.65449995,
+      "note": "recovery 270sec @ 0.65"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 270,
+      "power": 0.65449995,
+      "note": "recovery 270sec @ 0.65"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 270,
+      "power": 0.65449995,
+      "note": "recovery 270sec @ 0.65"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 270,
+      "power": 0.65449995,
+      "note": "recovery 270sec @ 0.65"
+    },
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

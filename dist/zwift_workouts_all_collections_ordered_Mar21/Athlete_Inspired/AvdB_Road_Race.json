@@ -1,0 +1,106 @@
+{
+  "name": "Anna van der Breggen - Road Race",
+  "note": "Anna van der Breggen, who took home the gold medal at the 2016 Summer Olympics in the women\u2019s road race, can put in a massive attack to create a break, but somehow still have plenty left in the tank to sprint ahead for the win. Similar to how she won the Gold in 2016. This workout will challenge your ability to recover after putting in a couple of hard efforts, and test your mettle as you sprint for the line on tired legs. (by Shayne Gaffney)",
+  "intervals": [
+    {
+      "duration": 480,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.187712,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.49562147,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.371125,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.50127119,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.9786724,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.6509887,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.187712,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.49562147,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.3713278,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.50127119,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.9786724,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.6509887,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.187712,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.50127119,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.3713278,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.50127119,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.9786724,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

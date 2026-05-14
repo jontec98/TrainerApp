@@ -1,0 +1,21 @@
+{
+  "name": "Day 3 - Bike",
+  "note": "Bike - 60 min.\n-20 min. @ 50% FTP\n-20 min. @ 55% FTP\n-20 min. @ 60% FTP (by QT2)",
+  "intervals": [
+    {
+      "duration": 1200,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 1200,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 1200,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    }
+  ]
+}

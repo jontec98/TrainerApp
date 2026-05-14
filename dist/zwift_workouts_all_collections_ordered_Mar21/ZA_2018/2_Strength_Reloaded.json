@@ -1,0 +1,136 @@
+{
+  "name": "Strength Reloaded",
+  "note": "This session was a favorite from Zwift Academy 2017! This time with a little twist...\n\nThe first part is designed to squeeze you. Working your strength and ability to generate power through high-torque efforts. \n\nFinishing the session with some 1 x 1 minute efforts, these simulate rolling through in a group, pushing hard on the front and having to maintain the power for the 'recovery' element. (by Zwift Academy Coaches)",
+  "intervals": [
+    {
+      "duration": 180,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.7,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.38,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.69,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.38,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.69,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.38,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.69,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.38,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.69,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.38,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.69,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.38,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.69,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

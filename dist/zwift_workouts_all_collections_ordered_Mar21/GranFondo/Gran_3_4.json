@@ -1,0 +1,106 @@
+{
+  "name": "The Long Ride - Extended Tempo",
+  "note": "For this week's long ride, we take on sustained tempo work. Rather than spiking from base endurance, this week you will tackle long, sustained work in the tempo zone. This workout will require mental focus as these long blocks at tempo work start out feeling easy but they do get hard. (by Zwift)",
+  "intervals": [
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.85449994,
+      "note": "interval 120sec @ 0.85"
+    },
+    {
+      "duration": 120,
+      "power": 0.55449998,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 0.85449994,
+      "note": "interval 120sec @ 0.85"
+    },
+    {
+      "duration": 120,
+      "power": 0.55449998,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 0.85449994,
+      "note": "interval 120sec @ 0.85"
+    },
+    {
+      "duration": 120,
+      "power": 0.55449998,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 0.85449994,
+      "note": "interval 120sec @ 0.85"
+    },
+    {
+      "duration": 120,
+      "power": 0.55449998,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 0.85449994,
+      "note": "interval 120sec @ 0.85"
+    },
+    {
+      "duration": 120,
+      "power": 0.55449998,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 0.85449994,
+      "note": "interval 120sec @ 0.85"
+    },
+    {
+      "duration": 120,
+      "power": 0.55449998,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 360,
+      "power": 0.55449998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 1200,
+      "power": 0.85449994,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.65449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 1200,
+      "power": 0.85449994,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.65449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 1200,
+      "power": 0.85449994,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

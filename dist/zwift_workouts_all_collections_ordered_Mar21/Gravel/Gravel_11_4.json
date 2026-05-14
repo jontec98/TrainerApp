@@ -1,0 +1,21 @@
+{
+  "name": "Free Ride",
+  "note": "Easy easy days today please. Free Ride or ride outside is totally acceptable as well. In fact a GREAT day to ride easy on the race gear and make sure it's all shifting and working ok. \n\nPlease do your best to not ride hard and keep it low Z3 watts or under. Focus more on spinning out your legs and making sure the rig works! (by Zwift)",
+  "intervals": [
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 4200,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 1200,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

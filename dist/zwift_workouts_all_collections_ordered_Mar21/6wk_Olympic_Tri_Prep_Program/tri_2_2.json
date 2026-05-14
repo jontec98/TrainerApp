@@ -1,0 +1,21 @@
+{
+  "name": "Day 2 - Bike",
+  "note": "Bike - 90 min. \n-30 min. warm up\n-30 min. big gear 70 rpm @ 88% FTP\n-30 min. cool @ 60% FTP (by QT2)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 1800,
+      "power": 0.88449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 1200,
+      "power": 0.6045,
+      "note": "SteadyState interval"
+    }
+  ]
+}

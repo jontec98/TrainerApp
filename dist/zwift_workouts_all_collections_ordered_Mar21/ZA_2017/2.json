@@ -1,0 +1,116 @@
+{
+  "name": "Month 1.2 - Zone 3 with Sprints",
+  "note": "This session is designed to squeeze you, but not push you too hard. Working your ability to generate power through high torque efforts. A few Sprint efforts to finish, to test your sprint powers after the high torque efforts.  The main intervals are 5 x 5 minutes in your Zone 3 with 5 minutes recovery between the efforts. Remain seated throughout the interval, engage your abdominal muscles and keep your upper body strong and stable, let your legs do all of the work.  10 minutes recovery after the final 5 minute effort, then straight into the sprints! These are 4 x 15 seconds ALL-OUT efforts, out of the saddle and sprinting as if you were on the Champs Elysees! Just 45 seconds of recovery between efforts. (by TrainSharp Cycle Coaching)",
+  "intervals": [
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.51499999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.86540473,
+      "note": "interval 300sec @ 0.87"
+    },
+    {
+      "duration": 300,
+      "power": 0.53903395,
+      "note": "recovery 300sec @ 0.54"
+    },
+    {
+      "duration": 300,
+      "power": 0.86540473,
+      "note": "interval 300sec @ 0.87"
+    },
+    {
+      "duration": 300,
+      "power": 0.53903395,
+      "note": "recovery 300sec @ 0.54"
+    },
+    {
+      "duration": 300,
+      "power": 0.86540473,
+      "note": "interval 300sec @ 0.87"
+    },
+    {
+      "duration": 300,
+      "power": 0.53903395,
+      "note": "recovery 300sec @ 0.54"
+    },
+    {
+      "duration": 300,
+      "power": 0.86540473,
+      "note": "interval 300sec @ 0.87"
+    },
+    {
+      "duration": 300,
+      "power": 0.53903395,
+      "note": "recovery 300sec @ 0.54"
+    },
+    {
+      "duration": 300,
+      "power": 0.86540473,
+      "note": "interval 300sec @ 0.87"
+    },
+    {
+      "duration": 300,
+      "power": 0.53903395,
+      "note": "recovery 300sec @ 0.54"
+    },
+    {
+      "duration": 300,
+      "power": 0.51499999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 3.0,
+      "note": "interval 15sec @ 3.00"
+    },
+    {
+      "duration": 45,
+      "power": 0.54000002,
+      "note": "recovery 45sec @ 0.54"
+    },
+    {
+      "duration": 15,
+      "power": 3.0,
+      "note": "interval 15sec @ 3.00"
+    },
+    {
+      "duration": 45,
+      "power": 0.54000002,
+      "note": "recovery 45sec @ 0.54"
+    },
+    {
+      "duration": 15,
+      "power": 3.0,
+      "note": "interval 15sec @ 3.00"
+    },
+    {
+      "duration": 45,
+      "power": 0.54000002,
+      "note": "recovery 45sec @ 0.54"
+    },
+    {
+      "duration": 15,
+      "power": 3.0,
+      "note": "interval 15sec @ 3.00"
+    },
+    {
+      "duration": 45,
+      "power": 0.54000002,
+      "note": "recovery 45sec @ 0.54"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

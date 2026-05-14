@@ -1,0 +1,301 @@
+{
+  "name": "Norseman workout: Imingfjell",
+  "note": "So you think you have what it takes to take on the Norseman Workout Series? \nOne climb to go, and it is a long one. The rewards are the big crowds and spectacular scenery at the top of Imingfjell. Once at the top, regroup and keep your focus for the long descent to T2. \nThis session is a long climb, but rather than sit back and pace ourselves up it we are going to alternate efforts every minute or so. Every 8 minutes the intervals get harder. The first half of the session should feel comfortable but by the end you will be glad to be at the top.\n\tThink you have what it takes? Check out all of the Norseman Run and Bike workouts to help you prepare for the Norseman Festival of Climbing July 27th - August 2nd.\n (by Zwift)",
+  "intervals": [
+    {
+      "duration": 480,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55449998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.85449994,
+      "note": "interval 60sec @ 0.85"
+    },
+    {
+      "duration": 60,
+      "power": 0.55449998,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 60,
+      "power": 0.85449994,
+      "note": "interval 60sec @ 0.85"
+    },
+    {
+      "duration": 60,
+      "power": 0.55449998,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 60,
+      "power": 0.85449994,
+      "note": "interval 60sec @ 0.85"
+    },
+    {
+      "duration": 60,
+      "power": 0.55449998,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 60,
+      "power": 0.85449994,
+      "note": "interval 60sec @ 0.85"
+    },
+    {
+      "duration": 60,
+      "power": 0.55449998,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 60,
+      "power": 0.90449995,
+      "note": "interval 60sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.90449995,
+      "note": "interval 60sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.90449995,
+      "note": "interval 60sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.90449995,
+      "note": "interval 60sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.95449996,
+      "note": "interval 60sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.95449996,
+      "note": "interval 60sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.95449996,
+      "note": "interval 60sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.95449996,
+      "note": "interval 60sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 1.0044999,
+      "note": "interval 60sec @ 1.00"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 1.0044999,
+      "note": "interval 60sec @ 1.00"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 1.0044999,
+      "note": "interval 60sec @ 1.00"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 1.0044999,
+      "note": "interval 60sec @ 1.00"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 1.0545,
+      "note": "interval 60sec @ 1.05"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 1.0545,
+      "note": "interval 60sec @ 1.05"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 1.0545,
+      "note": "interval 60sec @ 1.05"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 1.0545,
+      "note": "interval 60sec @ 1.05"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 1.1044999,
+      "note": "interval 60sec @ 1.10"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 1.1044999,
+      "note": "interval 60sec @ 1.10"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 1.1044999,
+      "note": "interval 60sec @ 1.10"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 1.1044999,
+      "note": "interval 60sec @ 1.10"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 20,
+      "power": 1.3045,
+      "note": "interval 20sec @ 1.30"
+    },
+    {
+      "duration": 100,
+      "power": 0.50449997,
+      "note": "recovery 100sec @ 0.50"
+    },
+    {
+      "duration": 20,
+      "power": 1.3045,
+      "note": "interval 20sec @ 1.30"
+    },
+    {
+      "duration": 100,
+      "power": 0.50449997,
+      "note": "recovery 100sec @ 0.50"
+    },
+    {
+      "duration": 20,
+      "power": 1.3045,
+      "note": "interval 20sec @ 1.30"
+    },
+    {
+      "duration": 100,
+      "power": 0.50449997,
+      "note": "recovery 100sec @ 0.50"
+    },
+    {
+      "duration": 20,
+      "power": 1.3045,
+      "note": "interval 20sec @ 1.30"
+    },
+    {
+      "duration": 100,
+      "power": 0.50449997,
+      "note": "recovery 100sec @ 0.50"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

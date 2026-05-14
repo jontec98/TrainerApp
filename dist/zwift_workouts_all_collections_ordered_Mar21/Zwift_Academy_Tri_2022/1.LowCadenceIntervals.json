@@ -1,0 +1,116 @@
+{
+  "name": "Low Cadence Intervals",
+  "note": "Specific strength is a critical component of long-distance triathlon. This session aims to produce large amounts of muscular force with limited disturbance to the cardiovascular systems. What does that mean? We want to build strength without overly taxing your breathing and heart rate. Many professional and top long-distance triathletes include regular strength endurance work as part of their micro-cycle routines. And for a good reason. Research has shown that training at a lower cadence produced more significant power benefits at four mmol blood lactate than training at a higher cadence. These types of sessions are great if you've got tired legs but still want some quality. (by Daniel Plews)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.063889,
+      "note": "interval 30sec @ 1.06"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "recovery 30sec @ 0.55"
+    },
+    {
+      "duration": 30,
+      "power": 1.063889,
+      "note": "interval 30sec @ 1.06"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "recovery 30sec @ 0.55"
+    },
+    {
+      "duration": 480,
+      "power": 0.85,
+      "note": "interval 480sec @ 0.85"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 480,
+      "power": 0.85,
+      "note": "interval 480sec @ 0.85"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 360,
+      "power": 0.875,
+      "note": "interval 360sec @ 0.88"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 360,
+      "power": 0.875,
+      "note": "interval 360sec @ 0.88"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 240,
+      "power": 0.9,
+      "note": "interval 240sec @ 0.90"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 240,
+      "power": 0.9,
+      "note": "interval 240sec @ 0.90"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 30,
+      "power": 1.063889,
+      "note": "interval 30sec @ 1.06"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "recovery 30sec @ 0.55"
+    },
+    {
+      "duration": 30,
+      "power": 1.063889,
+      "note": "interval 30sec @ 1.06"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "recovery 30sec @ 0.55"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

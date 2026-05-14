@@ -1,0 +1,136 @@
+{
+  "name": "Beep! Beep! Beep!",
+  "note": "This workout is focused on gaining strength through pedaling at a lower RPM's 60-70 (cadence) for 3-minutes at a time. At the end of each set there will be a :30 second rev up where you will try and increase power by increasing your RPM's.\n\nLet's think of each set as \"stuck in the mud\" and rev'ing up your cadence to get out each time.\n\nWe will go through each set 4 times. (by Kristin Armstrong)",
+  "intervals": [
+    {
+      "duration": 30,
+      "power": 0.35,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.7,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    }
+  ]
+}

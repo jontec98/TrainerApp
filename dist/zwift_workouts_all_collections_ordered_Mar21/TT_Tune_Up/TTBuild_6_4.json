@@ -1,0 +1,176 @@
+{
+  "name": "Neuromuscular + AC #1",
+  "note": "An effective way to build your aerobic endurance is to perform repeated, short, high power efforts throughout a steady state effort. After building some fatigue with the opening endurance interval, the session finishes with three anaerobic capacity intervals. The more efficient you are in the endurance effort, the stronger you will be for the AC efforts. (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "interval 60sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "interval 60sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.98,
+      "note": "interval 60sec @ 0.98"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.98,
+      "note": "interval 60sec @ 0.98"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.5,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 180,
+      "power": 0.88,
+      "note": "recovery 180sec @ 0.88"
+    },
+    {
+      "duration": 15,
+      "power": 1.5,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 180,
+      "power": 0.88,
+      "note": "recovery 180sec @ 0.88"
+    },
+    {
+      "duration": 15,
+      "power": 1.5,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 180,
+      "power": 0.88,
+      "note": "recovery 180sec @ 0.88"
+    },
+    {
+      "duration": 15,
+      "power": 1.5,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 180,
+      "power": 0.88,
+      "note": "recovery 180sec @ 0.88"
+    },
+    {
+      "duration": 15,
+      "power": 1.5,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 180,
+      "power": 0.88,
+      "note": "recovery 180sec @ 0.88"
+    },
+    {
+      "duration": 15,
+      "power": 1.5,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 180,
+      "power": 0.88,
+      "note": "recovery 180sec @ 0.88"
+    },
+    {
+      "duration": 15,
+      "power": 1.5,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 180,
+      "power": 0.88,
+      "note": "recovery 180sec @ 0.88"
+    },
+    {
+      "duration": 15,
+      "power": 1.5,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 180,
+      "power": 0.88,
+      "note": "recovery 180sec @ 0.88"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.2,
+      "note": "interval 120sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 120,
+      "power": 1.2,
+      "note": "interval 120sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 120,
+      "power": 1.2,
+      "note": "interval 120sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

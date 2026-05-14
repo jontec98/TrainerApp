@@ -1,0 +1,61 @@
+{
+  "name": "Orientation Workout.1 - Zwift Academy Road Orientation",
+  "note": "Welcome to the 2021 Zwift Academy Road program! This is a simple workout that will get you educated and excited about this year! Zwift Academy Road is for everyone. Newbies to neo-pros. Training together is better. Let's GET AFTER IT! (by Dig Deep Coaching)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.7,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 190,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.91,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.7,
+      "note": "interval 120sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "recovery 30sec @ 1.05"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.7,
+      "note": "interval 120sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "recovery 30sec @ 1.05"
+    },
+    {
+      "duration": 240,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

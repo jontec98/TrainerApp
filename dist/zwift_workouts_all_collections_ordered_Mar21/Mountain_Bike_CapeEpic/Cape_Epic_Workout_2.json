@@ -1,0 +1,76 @@
+{
+  "name": "Annika Langvad Series.2 - Workout 2",
+  "note": "Workout two is a mix. Starting out with a longer work period in Z3 and introducing Z5 intensity in two following sets of increasing intensity.\n\nThe purpose is to maintain the endurance you've built and start working on improving lactate tolerance and VO2max. This also replicates a tough uphill stint, in and out of the saddle.\n\nFor me it's often also a mental thing getting used to working at higher intensity. The dips into Z5 in today's session is also a mental preparation of things to come. (by Annika Langvad)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.6541304,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.85413045,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.50630432,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.90449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.1541305,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.1541305,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.50195652,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.90449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.1541305,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.1544999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "name": "Vo2max",
+  "note": "This is designed to improve your Vo2max power, so you are ready for hard steep climbs and the big wattage needed to attack those hills. This workout has longer recoveries in order to focus on the maximum power produced for each interval. Really drill it on each. \nWarm up for 10minutes and then do 3 x 1minute fast pedaling drills.\nThen get ready for 7 x 3minutes with 4 minutes between each at endurance pace recovering well.   \nCool-down.  (by GCN)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.75449997,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.75449997,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.75449997,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 180,
+      "power": 1.1544999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.65449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.1344999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.65449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.1344999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.65449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.1344999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.65449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.1344999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.65449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.1344999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.65449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.1344999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 540,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

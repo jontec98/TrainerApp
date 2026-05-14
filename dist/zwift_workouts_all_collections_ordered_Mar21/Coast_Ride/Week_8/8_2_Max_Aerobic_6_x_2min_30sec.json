@@ -1,0 +1,156 @@
+{
+  "name": "Week 8.2 - Max Aerobic 6 x 2min 30sec",
+  "note": "Warm up well including 1min efforts in Zones 3,4 & 6.\nFollowed by;\n6 x 2min 30sec @ 113%, with 2min 30sec recovery.\nCool down. (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.25,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 1.13,
+      "note": "interval 150sec @ 1.13"
+    },
+    {
+      "duration": 150,
+      "power": 0.5,
+      "note": "recovery 150sec @ 0.50"
+    },
+    {
+      "duration": 150,
+      "power": 1.13,
+      "note": "interval 150sec @ 1.13"
+    },
+    {
+      "duration": 150,
+      "power": 0.5,
+      "note": "recovery 150sec @ 0.50"
+    },
+    {
+      "duration": 150,
+      "power": 1.13,
+      "note": "interval 150sec @ 1.13"
+    },
+    {
+      "duration": 150,
+      "power": 0.5,
+      "note": "recovery 150sec @ 0.50"
+    },
+    {
+      "duration": 150,
+      "power": 1.13,
+      "note": "interval 150sec @ 1.13"
+    },
+    {
+      "duration": 150,
+      "power": 0.5,
+      "note": "recovery 150sec @ 0.50"
+    },
+    {
+      "duration": 150,
+      "power": 1.13,
+      "note": "interval 150sec @ 1.13"
+    },
+    {
+      "duration": 150,
+      "power": 0.5,
+      "note": "recovery 150sec @ 0.50"
+    },
+    {
+      "duration": 150,
+      "power": 1.13,
+      "note": "interval 150sec @ 1.13"
+    },
+    {
+      "duration": 150,
+      "power": 0.5,
+      "note": "recovery 150sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.76,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.73,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.7,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.67,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.64,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.62,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.59,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.56,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.53,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    }
+  ]
+}

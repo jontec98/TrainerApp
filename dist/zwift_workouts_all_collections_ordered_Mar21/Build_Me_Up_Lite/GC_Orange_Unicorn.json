@@ -1,0 +1,126 @@
+{
+  "name": "Orange Unicorn Lite",
+  "note": "Making workouts less monotonous and fun is a crucial aspect of indoor training. Over/unders is an excellent way to accomplish this. Today's workout is the next step in our over/under workout series. After a warm-up, we'll go into 2 sets of 6x (2min under and 30sec over), then cool down. We're pushing the under this week by another minute, but I know you are up for it! (by Shayne Gaffney | GC Coaching)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.85,
+      "note": "interval 120sec @ 0.85"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "recovery 30sec @ 1.05"
+    },
+    {
+      "duration": 120,
+      "power": 0.85,
+      "note": "interval 120sec @ 0.85"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "recovery 30sec @ 1.05"
+    },
+    {
+      "duration": 120,
+      "power": 0.85,
+      "note": "interval 120sec @ 0.85"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "recovery 30sec @ 1.05"
+    },
+    {
+      "duration": 120,
+      "power": 0.85,
+      "note": "interval 120sec @ 0.85"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "recovery 30sec @ 1.05"
+    },
+    {
+      "duration": 120,
+      "power": 0.85,
+      "note": "interval 120sec @ 0.85"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "recovery 30sec @ 1.05"
+    },
+    {
+      "duration": 120,
+      "power": 0.85,
+      "note": "interval 120sec @ 0.85"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "recovery 30sec @ 1.05"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "name": "At/Overs",
+  "note": "This workout simulated the demands of a race or hard ride where you've forced to go between \"hard\" and \"harder.\" It's a tough one, but it packs a lot of intensity into a little amount of time. Better yet, it will help you handle even tougher rides in the future! (by Shayne Gaffney | GC Coaching)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.25,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

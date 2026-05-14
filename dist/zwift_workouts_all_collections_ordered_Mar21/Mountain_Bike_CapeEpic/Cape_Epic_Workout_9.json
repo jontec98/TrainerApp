@@ -1,0 +1,101 @@
+{
+  "name": "Annika Langvad Series.9 - Workout 9",
+  "note": "In today's session we're working right at threshold. By chunking up the workload in to blocks 7 minutes, we will complete a total of 6 x 7 minute blocks at 100% of FTP, which gives us a really good training stress as we rack up 42 minutes worth of threshold power in total.\n\nWhile riding under threshold is a smart and efficient way to develop all sorts of physical attributes, there is no substitute for developing yourself physically and mentally for pushing your body right to threshold power. This session helps to give you the confidence that you can push yourself right up to your FTP for over 40 minutes worth of work, while also creating plenty of muscle damage. \n\nWhen you hit lactate threshold, the sensations are hugely different vs riding even 2-3% below - so we need to prepare ourselves. \n\nDepending on how fatigued you are going in to this session, you may need an easy day tomorrow! (by Annika Langvad)",
+  "intervals": [
+    {
+      "duration": 420,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0944999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0944999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 420,
+      "power": 1.0044999,
+      "note": "interval 420sec @ 1.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.40450001,
+      "note": "recovery 180sec @ 0.40"
+    },
+    {
+      "duration": 420,
+      "power": 1.0044999,
+      "note": "interval 420sec @ 1.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.40450001,
+      "note": "recovery 180sec @ 0.40"
+    },
+    {
+      "duration": 420,
+      "power": 1.0044999,
+      "note": "interval 420sec @ 1.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.40450001,
+      "note": "recovery 180sec @ 0.40"
+    },
+    {
+      "duration": 600,
+      "power": 0.40450001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 420,
+      "power": 1.0044999,
+      "note": "interval 420sec @ 1.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "recovery 180sec @ 0.50"
+    },
+    {
+      "duration": 420,
+      "power": 1.0044999,
+      "note": "interval 420sec @ 1.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "recovery 180sec @ 0.50"
+    },
+    {
+      "duration": 420,
+      "power": 1.0044999,
+      "note": "interval 420sec @ 1.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "recovery 180sec @ 0.50"
+    },
+    {
+      "duration": 420,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

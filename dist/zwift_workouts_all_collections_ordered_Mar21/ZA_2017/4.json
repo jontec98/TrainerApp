@@ -1,0 +1,86 @@
+{
+  "name": "Month 1.4 - Threshold Capacity",
+  "note": "This session is designed to progressively stretch you as you tick-off each interval. The main sets are 4 x 5 minutes, starting just above your FTP and reducing the power after a set duration to just below your FTP.\u00a0 Start with a good warm up, followed by a Zone 3 low cadence block (60-70 rpm). This is a system priming section and should set you up nicely for the main intervals. Think of this block being comfortably hard, but hardly comfortable!\u00a0 The 5 minutes are as follows, with \"pulling\" referring to your power above FTP, and \"pushing\" referring to power below FTP. Recovery periods are 3 minutes between each interval.\u00a0 \"Pulling\"/\"Pushing\" : 1/4, 2/3, 3/2, 4/1. (by TrainSharp Cycle Coaching)",
+  "intervals": [
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.51499999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 900,
+      "power": 0.88368148,
+      "note": "interval 900sec @ 0.88"
+    },
+    {
+      "duration": 600,
+      "power": 0.48942557,
+      "note": "recovery 600sec @ 0.49"
+    },
+    {
+      "duration": 60,
+      "power": 1.0700001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.97500002,
+      "note": "interval 240sec @ 0.98"
+    },
+    {
+      "duration": 180,
+      "power": 0.49000001,
+      "note": "recovery 180sec @ 0.49"
+    },
+    {
+      "duration": 120,
+      "power": 1.0700001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.97500002,
+      "note": "interval 180sec @ 0.98"
+    },
+    {
+      "duration": 180,
+      "power": 0.49000001,
+      "note": "recovery 180sec @ 0.49"
+    },
+    {
+      "duration": 180,
+      "power": 1.0700001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.97500002,
+      "note": "interval 120sec @ 0.98"
+    },
+    {
+      "duration": 180,
+      "power": 0.49000001,
+      "note": "recovery 180sec @ 0.49"
+    },
+    {
+      "duration": 240,
+      "power": 1.0700001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.97500002,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

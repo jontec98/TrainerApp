@@ -1,0 +1,141 @@
+{
+  "name": "Week 5.2 - 15min varied tempo #3",
+  "note": "Working in your Tempo zone, today we are varying the cadence and power. \n\nHowever, start each 5min effort with a 'high speed sprint'. Out of the saddle for the sprint, then straight into the tempo effort.\n\nObserve your HR during the 15min intervals and look for changes in heart rate when your cadence changes.\n (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.808364,
+      "note": "interval 10sec @ 1.81"
+    },
+    {
+      "duration": 50,
+      "power": 0.50449997,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.808364,
+      "note": "interval 10sec @ 1.81"
+    },
+    {
+      "duration": 50,
+      "power": 0.50449997,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.808364,
+      "note": "interval 10sec @ 1.81"
+    },
+    {
+      "duration": 50,
+      "power": 0.50449997,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.808364,
+      "note": "interval 10sec @ 1.81"
+    },
+    {
+      "duration": 50,
+      "power": 0.50449997,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 180,
+      "power": 0.70449996,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.90449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 2.0044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.89449996,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 2.0044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.77449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 2.0044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.89449996,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 270,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 2.0044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.77449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 2.0044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.82449996,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 2.0044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.89449996,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "name": "Week 2.2 -  5 min VO2 Intervals",
+  "note": "A brutally hard session that'll toughen you both physically and mentally. Being able to punch a hard VO2 effort can be an asset in anyone's armoury. (by British Cycling)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 6,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 6,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 6,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 162,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.15,
+      "note": "interval 300sec @ 1.15"
+    },
+    {
+      "duration": 300,
+      "power": 0.45,
+      "note": "recovery 300sec @ 0.45"
+    },
+    {
+      "duration": 300,
+      "power": 1.15,
+      "note": "interval 300sec @ 1.15"
+    },
+    {
+      "duration": 300,
+      "power": 0.45,
+      "note": "recovery 300sec @ 0.45"
+    },
+    {
+      "duration": 300,
+      "power": 1.15,
+      "note": "interval 300sec @ 1.15"
+    },
+    {
+      "duration": 300,
+      "power": 0.45,
+      "note": "recovery 300sec @ 0.45"
+    },
+    {
+      "duration": 300,
+      "power": 1.15,
+      "note": "interval 300sec @ 1.15"
+    },
+    {
+      "duration": 300,
+      "power": 0.45,
+      "note": "recovery 300sec @ 0.45"
+    },
+    {
+      "duration": 300,
+      "power": 1.15,
+      "note": "interval 300sec @ 1.15"
+    },
+    {
+      "duration": 300,
+      "power": 0.45,
+      "note": "recovery 300sec @ 0.45"
+    }
+  ]
+}

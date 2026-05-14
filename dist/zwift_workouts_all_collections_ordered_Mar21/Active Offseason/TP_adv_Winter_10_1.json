@@ -1,0 +1,21 @@
+{
+  "name": "Week 10.1 - Endurance",
+  "note": "Build some time on the bike today with a nice endurance ride!",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 4500,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

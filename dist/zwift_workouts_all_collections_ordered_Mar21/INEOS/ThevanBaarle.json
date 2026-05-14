@@ -1,0 +1,276 @@
+{
+  "name": "The van Baarle",
+  "note": "Dylan van Baarle has performed exceptionally well as a Classics rider, something that requires the ability to surge repeatedly over the course of a long race. If you miss one move with some races, it's all over! This workout features plenty of interval surges to practice exactly that! (by Shayne Gaffney)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.5,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 45,
+      "power": 0.4,
+      "note": "recovery 45sec @ 0.40"
+    },
+    {
+      "duration": 15,
+      "power": 1.5,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 45,
+      "power": 0.4,
+      "note": "recovery 45sec @ 0.40"
+    },
+    {
+      "duration": 15,
+      "power": 1.5,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 45,
+      "power": 0.4,
+      "note": "recovery 45sec @ 0.40"
+    },
+    {
+      "duration": 15,
+      "power": 1.5,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 45,
+      "power": 0.4,
+      "note": "recovery 45sec @ 0.40"
+    },
+    {
+      "duration": 15,
+      "power": 1.5,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 45,
+      "power": 0.4,
+      "note": "recovery 45sec @ 0.40"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

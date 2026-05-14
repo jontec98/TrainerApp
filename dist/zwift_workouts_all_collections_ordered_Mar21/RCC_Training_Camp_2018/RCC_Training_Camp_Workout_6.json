@@ -1,0 +1,46 @@
+{
+  "name": "RCC Training Camp Workout #6",
+  "note": "Welcome to The Rapha Cycling Club Training Camp Workout 6. This session helps to develop your Aerobic Base by completing 3 x 15 minute blocks of Sweet Spot. By doing this session, behind the scenes, your body will be increasing its mitochondrial density as you become more efficient at utilizing oxygen and converting it in to energy. The real world benefits to you as a bike rider are an increased sense of fitness which you can train harder with and and increase in your threshold power - even without riding at it! This session is a great one to complete at any point of your season - whether it is to develop or maintain your Aerobic Base.\n\nERG mode is recommended. (by M.Rowe (Rowe and King))",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 900,
+      "power": 0.88449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 900,
+      "power": 0.88449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 900,
+      "power": 0.88449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

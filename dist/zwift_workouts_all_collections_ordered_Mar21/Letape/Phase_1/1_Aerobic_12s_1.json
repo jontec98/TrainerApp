@@ -1,0 +1,136 @@
+{
+  "name": "Phase 1.1 - Aerobic 12's #1",
+  "note": "L'Etape du Tour will require a largely aerobic effort from you. With 135km and 4563m in elevation gain, the more efficient you are in your fuel source, the more energy you will have for the final climb to the finish.\n\nAerobic Endurance workouts are aimed at improving your efficiency at lower intensity levels. Training your muscles to access fat as its main fuel source and preserve your precious glycogen stores for the finale.\n\nAfter warming up, you will be completing 3 x 12min aerobic efforts with 3min recovery. \n     (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.69999999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.89999998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.90327716,
+      "note": "interval 30sec @ 0.90"
+    },
+    {
+      "duration": 210,
+      "power": 0.75449997,
+      "note": "recovery 210sec @ 0.75"
+    },
+    {
+      "duration": 30,
+      "power": 0.90327716,
+      "note": "interval 30sec @ 0.90"
+    },
+    {
+      "duration": 210,
+      "power": 0.75449997,
+      "note": "recovery 210sec @ 0.75"
+    },
+    {
+      "duration": 30,
+      "power": 0.90327716,
+      "note": "interval 30sec @ 0.90"
+    },
+    {
+      "duration": 210,
+      "power": 0.75449997,
+      "note": "recovery 210sec @ 0.75"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.90449995,
+      "note": "interval 30sec @ 0.90"
+    },
+    {
+      "duration": 210,
+      "power": 0.75449997,
+      "note": "recovery 210sec @ 0.75"
+    },
+    {
+      "duration": 30,
+      "power": 0.90449995,
+      "note": "interval 30sec @ 0.90"
+    },
+    {
+      "duration": 210,
+      "power": 0.75449997,
+      "note": "recovery 210sec @ 0.75"
+    },
+    {
+      "duration": 30,
+      "power": 0.90449995,
+      "note": "interval 30sec @ 0.90"
+    },
+    {
+      "duration": 210,
+      "power": 0.75449997,
+      "note": "recovery 210sec @ 0.75"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.90197015,
+      "note": "interval 30sec @ 0.90"
+    },
+    {
+      "duration": 210,
+      "power": 0.75,
+      "note": "recovery 210sec @ 0.75"
+    },
+    {
+      "duration": 30,
+      "power": 0.90197015,
+      "note": "interval 30sec @ 0.90"
+    },
+    {
+      "duration": 210,
+      "power": 0.75,
+      "note": "recovery 210sec @ 0.75"
+    },
+    {
+      "duration": 30,
+      "power": 0.90197015,
+      "note": "interval 30sec @ 0.90"
+    },
+    {
+      "duration": 210,
+      "power": 0.75,
+      "note": "recovery 210sec @ 0.75"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

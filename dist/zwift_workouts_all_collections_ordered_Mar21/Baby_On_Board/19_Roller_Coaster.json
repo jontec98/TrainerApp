@@ -1,0 +1,206 @@
+{
+  "name": "Roller Coaster",
+  "note": "This ride is a hybrid style combining Strength Endurance (lower cadence) with Tempo. Todays session consists of 3 sets of 8 minutes. Each of the 8-minute sets will be broken in to 8 1-minute increments. The even minutes will be strength endurance efforts keeping RPM's between 60-70 and the odd minutes will be tempo efforts back to a cadence of 80-90RPM. After each set there will be 2:30 minutes of recovery.\n\nIt will feel like a roller coaster of a ride! (by Kristin Armstrong)",
+  "intervals": [
+    {
+      "duration": 30,
+      "power": 0.35,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.7,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.75,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "recovery 60sec @ 0.85"
+    },
+    {
+      "duration": 60,
+      "power": 0.75,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "recovery 60sec @ 0.85"
+    },
+    {
+      "duration": 60,
+      "power": 0.75,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "recovery 60sec @ 0.85"
+    },
+    {
+      "duration": 60,
+      "power": 0.75,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "recovery 60sec @ 0.85"
+    },
+    {
+      "duration": 150,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.75,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "recovery 60sec @ 0.85"
+    },
+    {
+      "duration": 60,
+      "power": 0.75,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "recovery 60sec @ 0.85"
+    },
+    {
+      "duration": 60,
+      "power": 0.75,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "recovery 60sec @ 0.85"
+    },
+    {
+      "duration": 60,
+      "power": 0.75,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "recovery 60sec @ 0.85"
+    },
+    {
+      "duration": 150,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.75,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "recovery 60sec @ 0.85"
+    },
+    {
+      "duration": 60,
+      "power": 0.75,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "recovery 60sec @ 0.85"
+    },
+    {
+      "duration": 60,
+      "power": 0.75,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "recovery 60sec @ 0.85"
+    },
+    {
+      "duration": 60,
+      "power": 0.75,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "recovery 60sec @ 0.85"
+    },
+    {
+      "duration": 60,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    }
+  ]
+}

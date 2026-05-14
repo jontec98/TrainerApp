@@ -1,0 +1,91 @@
+{
+  "name": "Double Trouble",
+  "note": "This workout is an introduction to strength training, yet suitable as a prenatal workout as the intervals are short, of a moderate intensity and critically at 60rpm (so not requiring you to generate too much crank torque). \n\nWhile this is not a Strength Endurance workout, we still stress your Type II (fast twitch) muscle fibers - but not too much!\n\nFocus on keeping your upper body still and allowing your legs to generate all the power - good form is key. (by D.Rowe (Rowe&King))",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.45449999,
+      "note": "interval 120sec @ 0.45"
+    },
+    {
+      "duration": 120,
+      "power": 0.76449996,
+      "note": "recovery 120sec @ 0.76"
+    },
+    {
+      "duration": 120,
+      "power": 0.45449999,
+      "note": "interval 120sec @ 0.45"
+    },
+    {
+      "duration": 120,
+      "power": 0.76449996,
+      "note": "recovery 120sec @ 0.76"
+    },
+    {
+      "duration": 120,
+      "power": 0.45449999,
+      "note": "interval 120sec @ 0.45"
+    },
+    {
+      "duration": 120,
+      "power": 0.76449996,
+      "note": "recovery 120sec @ 0.76"
+    },
+    {
+      "duration": 120,
+      "power": 0.45449999,
+      "note": "interval 120sec @ 0.45"
+    },
+    {
+      "duration": 120,
+      "power": 0.76449996,
+      "note": "recovery 120sec @ 0.76"
+    },
+    {
+      "duration": 120,
+      "power": 0.45449999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.45449999,
+      "note": "interval 120sec @ 0.45"
+    },
+    {
+      "duration": 120,
+      "power": 0.76449996,
+      "note": "recovery 120sec @ 0.76"
+    },
+    {
+      "duration": 120,
+      "power": 0.45449999,
+      "note": "interval 120sec @ 0.45"
+    },
+    {
+      "duration": 120,
+      "power": 0.76449996,
+      "note": "recovery 120sec @ 0.76"
+    },
+    {
+      "duration": 120,
+      "power": 0.45449999,
+      "note": "interval 120sec @ 0.45"
+    },
+    {
+      "duration": 120,
+      "power": 0.76449996,
+      "note": "recovery 120sec @ 0.76"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

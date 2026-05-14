@@ -1,0 +1,136 @@
+{
+  "name": "Tanja Erath - FTP Booster ",
+  "note": "Today's workout features 3 sets of progressive intervals. Tanja says \"My FTP Workout is kind of the evergreen of workouts. Almost every minute is filled with a specific plan which makes time fly. It's intense, but not a killer workout. This is my go-to FTP Booster for winter prep, in-between race weeks or mid season break build-up.\" (by Tanja Erath)",
+  "intervals": [
+    {
+      "duration": 480,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 40,
+      "power": 0.85,
+      "note": "interval 40sec @ 0.85"
+    },
+    {
+      "duration": 20,
+      "power": 0.55,
+      "note": "recovery 20sec @ 0.55"
+    },
+    {
+      "duration": 40,
+      "power": 0.85,
+      "note": "interval 40sec @ 0.85"
+    },
+    {
+      "duration": 20,
+      "power": 0.55,
+      "note": "recovery 20sec @ 0.55"
+    },
+    {
+      "duration": 40,
+      "power": 0.85,
+      "note": "interval 40sec @ 0.85"
+    },
+    {
+      "duration": 20,
+      "power": 0.55,
+      "note": "recovery 20sec @ 0.55"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.83375001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.95160717,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.46589285,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.82303572,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.96589291,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0373214,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.1444644,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.42660713,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.82303572,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.96589291,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0373214,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.1444644,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.43375,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.82303572,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.96589291,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0373214,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.1444644,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "name": "Peak VO2 Intervals",
+  "note": "If you've ever seen a rider attack hard in the last leg of a race or explode over short steep climbs, they're using the efforts learned in this workout. Let's get after it.  \n\n    This session is focused on stressing your peak VO2 early in each interval, then maintaining that level of oxygen consumption before continuing at a level that really works your aerobic system. Performing six reps will stress your aerobic capacity along with your lactate clearance abilities, something that's crucial for recovering between segments.\n    \n    Coach's Tip: Zwift Academy Road was developed with structure in mind. For best results, complete the workouts in order.\n    \n    This training program was designed by Stephen Gallagher and Dan Fleeman from Dig Deep Coaching. Their complete coaching approach ensures every Zwift Academy athlete learns the building blocks for successful training. (by Stephen Gallagher)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.2,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.2,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 75,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.2,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 360,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.2,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.2,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 75,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.2,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

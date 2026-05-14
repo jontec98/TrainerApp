@@ -1,0 +1,61 @@
+{
+  "name": "EF Pro Cycling's Red Day Workout",
+  "note": "EF Pro Cycling's Alex Howes says 'When I'm in the Red, I generally think of activity as optional and any activity that I might do should be geared toward promoting recovery. Some deep breathing and a light spin are great ways to clear the mind and increase blood flow to stimulate recovery. The cadence drills help stimulate recovery without overly taxing the system and I also find that having a few blocks of specific work forces me to be present and step away mentally from daily stressors.' (by Shayne Gaffney)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.75449997,
+      "note": "interval 240sec @ 0.75"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "recovery 180sec @ 0.50"
+    },
+    {
+      "duration": 240,
+      "power": 0.75449997,
+      "note": "interval 240sec @ 0.75"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "recovery 180sec @ 0.50"
+    },
+    {
+      "duration": 240,
+      "power": 0.75449997,
+      "note": "interval 240sec @ 0.75"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "recovery 180sec @ 0.50"
+    },
+    {
+      "duration": 240,
+      "power": 0.75449997,
+      "note": "interval 240sec @ 0.75"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "recovery 180sec @ 0.50"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

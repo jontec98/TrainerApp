@@ -1,0 +1,271 @@
+{
+  "name": "Cruise Intervals #3",
+  "note": "Today's session consists of sustained cruise intervals. However, each cruise interval is proceeded by a hard Zone 5 interval. Cruise intervals are performed within Zone 4, however we are changing the target power every minute from slightly up and down within a narrow power band. Focus on controlled breathing and pedaling at a cadence similar to your time trial cadence. (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.65,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 0.89,
+      "note": "recovery 30sec @ 0.89"
+    },
+    {
+      "duration": 30,
+      "power": 0.65,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 0.89,
+      "note": "recovery 30sec @ 0.89"
+    },
+    {
+      "duration": 30,
+      "power": 0.65,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 0.89,
+      "note": "recovery 30sec @ 0.89"
+    },
+    {
+      "duration": 30,
+      "power": 0.65,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 0.89,
+      "note": "recovery 30sec @ 0.89"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.92,
+      "note": "interval 60sec @ 0.92"
+    },
+    {
+      "duration": 60,
+      "power": 0.97,
+      "note": "recovery 60sec @ 0.97"
+    },
+    {
+      "duration": 60,
+      "power": 0.92,
+      "note": "interval 60sec @ 0.92"
+    },
+    {
+      "duration": 60,
+      "power": 0.97,
+      "note": "recovery 60sec @ 0.97"
+    },
+    {
+      "duration": 60,
+      "power": 0.92,
+      "note": "interval 60sec @ 0.92"
+    },
+    {
+      "duration": 60,
+      "power": 0.97,
+      "note": "recovery 60sec @ 0.97"
+    },
+    {
+      "duration": 60,
+      "power": 0.92,
+      "note": "interval 60sec @ 0.92"
+    },
+    {
+      "duration": 60,
+      "power": 0.97,
+      "note": "recovery 60sec @ 0.97"
+    },
+    {
+      "duration": 60,
+      "power": 0.92,
+      "note": "interval 60sec @ 0.92"
+    },
+    {
+      "duration": 60,
+      "power": 0.97,
+      "note": "recovery 60sec @ 0.97"
+    },
+    {
+      "duration": 60,
+      "power": 0.92,
+      "note": "interval 60sec @ 0.92"
+    },
+    {
+      "duration": 60,
+      "power": 0.97,
+      "note": "recovery 60sec @ 0.97"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.92,
+      "note": "interval 60sec @ 0.92"
+    },
+    {
+      "duration": 60,
+      "power": 0.97,
+      "note": "recovery 60sec @ 0.97"
+    },
+    {
+      "duration": 60,
+      "power": 0.92,
+      "note": "interval 60sec @ 0.92"
+    },
+    {
+      "duration": 60,
+      "power": 0.97,
+      "note": "recovery 60sec @ 0.97"
+    },
+    {
+      "duration": 60,
+      "power": 0.92,
+      "note": "interval 60sec @ 0.92"
+    },
+    {
+      "duration": 60,
+      "power": 0.97,
+      "note": "recovery 60sec @ 0.97"
+    },
+    {
+      "duration": 60,
+      "power": 0.92,
+      "note": "interval 60sec @ 0.92"
+    },
+    {
+      "duration": 60,
+      "power": 0.97,
+      "note": "recovery 60sec @ 0.97"
+    },
+    {
+      "duration": 60,
+      "power": 0.92,
+      "note": "interval 60sec @ 0.92"
+    },
+    {
+      "duration": 60,
+      "power": 0.97,
+      "note": "recovery 60sec @ 0.97"
+    },
+    {
+      "duration": 60,
+      "power": 0.92,
+      "note": "interval 60sec @ 0.92"
+    },
+    {
+      "duration": 60,
+      "power": 0.97,
+      "note": "recovery 60sec @ 0.97"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.92,
+      "note": "interval 60sec @ 0.92"
+    },
+    {
+      "duration": 60,
+      "power": 0.97,
+      "note": "recovery 60sec @ 0.97"
+    },
+    {
+      "duration": 60,
+      "power": 0.92,
+      "note": "interval 60sec @ 0.92"
+    },
+    {
+      "duration": 60,
+      "power": 0.97,
+      "note": "recovery 60sec @ 0.97"
+    },
+    {
+      "duration": 60,
+      "power": 0.92,
+      "note": "interval 60sec @ 0.92"
+    },
+    {
+      "duration": 60,
+      "power": 0.97,
+      "note": "recovery 60sec @ 0.97"
+    },
+    {
+      "duration": 60,
+      "power": 0.92,
+      "note": "interval 60sec @ 0.92"
+    },
+    {
+      "duration": 60,
+      "power": 0.97,
+      "note": "recovery 60sec @ 0.97"
+    },
+    {
+      "duration": 60,
+      "power": 0.92,
+      "note": "interval 60sec @ 0.92"
+    },
+    {
+      "duration": 60,
+      "power": 0.97,
+      "note": "recovery 60sec @ 0.97"
+    },
+    {
+      "duration": 60,
+      "power": 0.92,
+      "note": "interval 60sec @ 0.92"
+    },
+    {
+      "duration": 60,
+      "power": 0.97,
+      "note": "recovery 60sec @ 0.97"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "name": "Week 3.1 - Cadence Into Over-Unders",
+  "note": "Warmup for 15 minutes in Zone followed by 15 minutes of cadence drills. End with some hard intervals and a 15 minute cool down.",
+  "intervals": [
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 900,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

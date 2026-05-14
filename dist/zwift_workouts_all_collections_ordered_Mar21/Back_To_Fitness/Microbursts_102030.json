@@ -1,0 +1,341 @@
+{
+  "name": "Week 12.2 - Microbursts 10-20-30",
+  "note": "It's a Microburst kind of day! Today's ride consist of 3 sets of 8 efforts building from 10 second to 20 second to 30 second intervals, each separated by 2:30 minutes recovery. The number of repetitions will be 8 for all three sets, expect fatigue to accumulated over each set. The effects made in this workout are tremendous, although time spent in upper zones are short you are allowing more capacity in your anaerobic box meaning over time you will be able to spend more and more time in the higher intensity prior to fatiguing. (by Kristin Armstrong)",
+  "intervals": [
+    {
+      "duration": 180,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.7,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.7,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.1,
+      "note": "interval 30sec @ 1.10"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.1,
+      "note": "interval 30sec @ 1.10"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.1,
+      "note": "interval 30sec @ 1.10"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.5,
+      "note": "interval 10sec @ 1.50"
+    },
+    {
+      "duration": 20,
+      "power": 0.5,
+      "note": "recovery 20sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.5,
+      "note": "interval 10sec @ 1.50"
+    },
+    {
+      "duration": 20,
+      "power": 0.5,
+      "note": "recovery 20sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.5,
+      "note": "interval 10sec @ 1.50"
+    },
+    {
+      "duration": 20,
+      "power": 0.5,
+      "note": "recovery 20sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.5,
+      "note": "interval 10sec @ 1.50"
+    },
+    {
+      "duration": 20,
+      "power": 0.5,
+      "note": "recovery 20sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.5,
+      "note": "interval 10sec @ 1.50"
+    },
+    {
+      "duration": 20,
+      "power": 0.5,
+      "note": "recovery 20sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.5,
+      "note": "interval 10sec @ 1.50"
+    },
+    {
+      "duration": 20,
+      "power": 0.5,
+      "note": "recovery 20sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.5,
+      "note": "interval 10sec @ 1.50"
+    },
+    {
+      "duration": 20,
+      "power": 0.5,
+      "note": "recovery 20sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.5,
+      "note": "interval 10sec @ 1.50"
+    },
+    {
+      "duration": 20,
+      "power": 0.5,
+      "note": "recovery 20sec @ 0.50"
+    },
+    {
+      "duration": 150,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "interval 20sec @ 1.40"
+    },
+    {
+      "duration": 40,
+      "power": 0.5,
+      "note": "recovery 40sec @ 0.50"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "interval 20sec @ 1.40"
+    },
+    {
+      "duration": 40,
+      "power": 0.5,
+      "note": "recovery 40sec @ 0.50"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "interval 20sec @ 1.40"
+    },
+    {
+      "duration": 40,
+      "power": 0.5,
+      "note": "recovery 40sec @ 0.50"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "interval 20sec @ 1.40"
+    },
+    {
+      "duration": 40,
+      "power": 0.5,
+      "note": "recovery 40sec @ 0.50"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "interval 20sec @ 1.40"
+    },
+    {
+      "duration": 40,
+      "power": 0.5,
+      "note": "recovery 40sec @ 0.50"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "interval 20sec @ 1.40"
+    },
+    {
+      "duration": 40,
+      "power": 0.5,
+      "note": "recovery 40sec @ 0.50"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "interval 20sec @ 1.40"
+    },
+    {
+      "duration": 40,
+      "power": 0.5,
+      "note": "recovery 40sec @ 0.50"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "interval 20sec @ 1.40"
+    },
+    {
+      "duration": 40,
+      "power": 0.5,
+      "note": "recovery 40sec @ 0.50"
+    },
+    {
+      "duration": 150,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.3,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.3,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.3,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.3,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.3,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.3,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.3,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.3,
+      "note": "interval 30sec @ 1.30"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    }
+  ]
+}

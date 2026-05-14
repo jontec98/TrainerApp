@@ -1,0 +1,148 @@
+{
+  "name": "Anaerobic Depletion",
+  "note": "If we plan to \"attack,\" either by dropping friends on a hill during a group ride or going for victory in a road race, your anaerobic power needs to be strong. This session helps build your attacking power level for a solid punch. Short efforts all under 1min will make you feel the burn.\n\n\tAttacking a group in a race or holding onto a fast peloton in Watopia calls for high anaerobic power. Today we hit some high peak efforts at the start\u2013by the end, you will be fighting to keep the power high.\n\t\t \n\tThis session is broken up into two sections. After the warm-up, we complete 4x 30sec high powered maximal anaerobic efforts aiming for 170% of your FTP. To allow you to hit each effort with optimal anaerobic power, we have 5min full recovery between each.\n\t\t\n\tAt the end of the workout, we move into 1min build efforts. These are high power and high force efforts that will also be heart pumping. The recovery time gradually shortens\u2013 by the end, we'll have maxed out all energy pathways, forcing us to rely on our aerobic system. (by Zwift Academy Coaches)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.95,
+      "note": "interval 30sec @ 0.95"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 30,
+      "power": 0.95,
+      "note": "interval 30sec @ 0.95"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.2,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.2,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.2,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

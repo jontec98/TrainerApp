@@ -1,0 +1,206 @@
+{
+  "name": "Week 6 - Race Specific Intensity.4 - EPOC",
+  "note": "EPOC stand for 'Excess Post-Exercise Oxygen Consumption', and is how much work it takes after exercise to return your body to normal resting level. This type of interval sessions 'costs' a lot of energy. After training the calories you burn to recover are quite large. This also has a great benefit to your power profiles. (by Shayne Gaffney)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.40000001,
+      "note": "interval 120sec @ 0.40"
+    },
+    {
+      "duration": 20,
+      "power": 1.55,
+      "note": "recovery 20sec @ 1.55"
+    },
+    {
+      "duration": 120,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.65,
+      "note": "interval 15sec @ 1.65"
+    },
+    {
+      "duration": 45,
+      "power": 0.55,
+      "note": "recovery 45sec @ 0.55"
+    },
+    {
+      "duration": 15,
+      "power": 1.65,
+      "note": "interval 15sec @ 1.65"
+    },
+    {
+      "duration": 45,
+      "power": 0.55,
+      "note": "recovery 45sec @ 0.55"
+    },
+    {
+      "duration": 15,
+      "power": 1.65,
+      "note": "interval 15sec @ 1.65"
+    },
+    {
+      "duration": 45,
+      "power": 0.55,
+      "note": "recovery 45sec @ 0.55"
+    },
+    {
+      "duration": 15,
+      "power": 1.65,
+      "note": "interval 15sec @ 1.65"
+    },
+    {
+      "duration": 45,
+      "power": 0.55,
+      "note": "recovery 45sec @ 0.55"
+    },
+    {
+      "duration": 300,
+      "power": 0.55449998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.4,
+      "note": "interval 30sec @ 1.40"
+    },
+    {
+      "duration": 30,
+      "power": 0.55000001,
+      "note": "recovery 30sec @ 0.55"
+    },
+    {
+      "duration": 30,
+      "power": 1.4,
+      "note": "interval 30sec @ 1.40"
+    },
+    {
+      "duration": 30,
+      "power": 0.55000001,
+      "note": "recovery 30sec @ 0.55"
+    },
+    {
+      "duration": 30,
+      "power": 1.4,
+      "note": "interval 30sec @ 1.40"
+    },
+    {
+      "duration": 30,
+      "power": 0.55000001,
+      "note": "recovery 30sec @ 0.55"
+    },
+    {
+      "duration": 30,
+      "power": 1.4,
+      "note": "interval 30sec @ 1.40"
+    },
+    {
+      "duration": 30,
+      "power": 0.55000001,
+      "note": "recovery 30sec @ 0.55"
+    },
+    {
+      "duration": 300,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.2,
+      "note": "interval 60sec @ 1.20"
+    },
+    {
+      "duration": 60,
+      "power": 0.55000001,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 60,
+      "power": 1.2,
+      "note": "interval 60sec @ 1.20"
+    },
+    {
+      "duration": 60,
+      "power": 0.55000001,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 60,
+      "power": 1.2,
+      "note": "interval 60sec @ 1.20"
+    },
+    {
+      "duration": 60,
+      "power": 0.55000001,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 60,
+      "power": 1.2,
+      "note": "interval 60sec @ 1.20"
+    },
+    {
+      "duration": 60,
+      "power": 0.55000001,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 300,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.65,
+      "note": "interval 15sec @ 1.65"
+    },
+    {
+      "duration": 45,
+      "power": 0.55,
+      "note": "recovery 45sec @ 0.55"
+    },
+    {
+      "duration": 15,
+      "power": 1.65,
+      "note": "interval 15sec @ 1.65"
+    },
+    {
+      "duration": 45,
+      "power": 0.55,
+      "note": "recovery 45sec @ 0.55"
+    },
+    {
+      "duration": 15,
+      "power": 1.65,
+      "note": "interval 15sec @ 1.65"
+    },
+    {
+      "duration": 45,
+      "power": 0.55,
+      "note": "recovery 45sec @ 0.55"
+    },
+    {
+      "duration": 15,
+      "power": 1.65,
+      "note": "interval 15sec @ 1.65"
+    },
+    {
+      "duration": 45,
+      "power": 0.55,
+      "note": "recovery 45sec @ 0.55"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

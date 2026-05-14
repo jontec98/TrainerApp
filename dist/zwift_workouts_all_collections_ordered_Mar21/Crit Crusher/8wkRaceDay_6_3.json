@@ -1,0 +1,36 @@
+{
+  "name": "Week 6.3 - Strength Endurance",
+  "note": "This session is best done indoors on the trainer (A split session, Zone 2 followed by Zone 3). If short for time, drop the Zone 2 effort and go straight into the SE effort from the warm-up. (by trainSharp)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 1200,
+      "power": 0.65449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.50450003,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.81449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.81449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

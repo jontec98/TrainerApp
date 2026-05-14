@@ -1,0 +1,91 @@
+{
+  "name": "Week 16.3 - Anaerobic #1",
+  "note": "The aim today is to produce repeatable, high power intervals. With 2 sets of the 35 second Anaerobic Intensive intervals, note any differences in your heart rate response from the first to the second set. Between the Anaerobic Intensive sets, we complete a 10 minute tempo effort to build some fatigue.  (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 35,
+      "power": 1.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.56,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 35,
+      "power": 1.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.56,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 35,
+      "power": 1.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.56,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.56,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 35,
+      "power": 1.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.56,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 35,
+      "power": 1.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.57,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 35,
+      "power": 1.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.56,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

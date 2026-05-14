@@ -1,0 +1,56 @@
+{
+  "name": "Month 3.7 - Attack Simulation",
+  "note": "The 30 second effort isn't a full on sprint: think Chris Froome putting in a seated attack on a climb, rather than a full on sprint for the finish line. (by Jon Sharples)",
+  "intervals": [
+    {
+      "duration": 1500,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.2045,
+      "note": "interval 30sec @ 1.20"
+    },
+    {
+      "duration": 270,
+      "power": 0.95854342,
+      "note": "recovery 270sec @ 0.96"
+    },
+    {
+      "duration": 30,
+      "power": 1.2045,
+      "note": "interval 30sec @ 1.20"
+    },
+    {
+      "duration": 270,
+      "power": 0.95854342,
+      "note": "recovery 270sec @ 0.96"
+    },
+    {
+      "duration": 30,
+      "power": 1.2045,
+      "note": "interval 30sec @ 1.20"
+    },
+    {
+      "duration": 270,
+      "power": 0.95854342,
+      "note": "recovery 270sec @ 0.96"
+    },
+    {
+      "duration": 30,
+      "power": 1.2045,
+      "note": "interval 30sec @ 1.20"
+    },
+    {
+      "duration": 270,
+      "power": 0.95854342,
+      "note": "recovery 270sec @ 0.96"
+    },
+    {
+      "duration": 1500,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

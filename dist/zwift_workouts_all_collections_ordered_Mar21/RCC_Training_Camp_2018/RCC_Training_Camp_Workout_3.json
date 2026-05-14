@@ -1,0 +1,46 @@
+{
+  "name": "RCC Training Camp Workout #3",
+  "note": "Welcome to session 3 of the Rapha Cycling Club Training Camp. This is a Strength Endurance Session, which requires you to complete 3 blocks of 12 minutes. Each block is to be completed at a low cadence (60rpm), at 94% of your FTP (Zone 4). \n\nPedaling at this low cadence, while producing high power, forces you to create a lot of crank torque, which recruits plenty of muscle fibers and helps you focus on improving your pedaling technique. A great session for developing your Strength Endurance. By splitting the session in to 3 blocks, we can increase the power of each block - a variation of the SLIT session completed in RCC Workout 2.\n\nERG mode is recommended. (by Matt Rowe (Rowe and King))",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 720,
+      "power": 0.94449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 720,
+      "power": 0.94449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 720,
+      "power": 0.94449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

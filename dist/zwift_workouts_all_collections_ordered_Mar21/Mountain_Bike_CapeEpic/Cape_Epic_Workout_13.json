@@ -1,0 +1,101 @@
+{
+  "name": "Annika Langvad Series.13 - Workout 13",
+  "note": "This workout is really fun and engaging - plenty of changes in effort, as is the case in a mountain bike event. \n\nAnother take on 'Over - Unders' - we vary our effort between 95% and 78% of FTP - so we don't actually go over our threshold, but we do complete 30 second Zone 6 efforts at 175% of FTP, critically at 60rpm!\n\nThe 60rpm 175% of FTP efforts simulate making an effort up a steep bank, where the best way up is to do it quickly without changing gear and creating chances for your gears to jump. By the top you will be grinding the gear, with a low cadence, circa 60rpm!\n\nAfter the steep bank, we are straight back in to  Zone 3 as we continue riding along a nice wide, open path. (by Annika Langvad)",
+  "intervals": [
+    {
+      "duration": 420,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0944999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0944999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.95449996,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.7544999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.78449994,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.95449996,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.7544999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.78449994,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.40450001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.95449996,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.7544999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.78449994,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.94999999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.7544999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.78449994,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    }
+  ]
+}

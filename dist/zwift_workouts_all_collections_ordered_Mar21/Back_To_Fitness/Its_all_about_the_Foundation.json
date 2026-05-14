@@ -1,0 +1,166 @@
+{
+  "name": "Week 8.1 - It's all about the Foundation",
+  "note": "Its foundation time! This ride is continuous without many \"rest periods\". Kicking off with a :15 sec push followed by 2 minutes in our Sweet Spot zone repeated 9 times. 9x :15 seconds at 120% (Anaerobic), 2 minutes 88% (SweetSpot). Be mindful not to be overzealous; going out too hard will catch up later in the ride! (by Kristin Armstrong)",
+  "intervals": [
+    {
+      "duration": 225,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.68,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.83,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "interval 30sec @ 1.20"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "recovery 30sec @ 0.55"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "interval 30sec @ 1.20"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "recovery 30sec @ 0.55"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "interval 30sec @ 1.20"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "recovery 30sec @ 0.55"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.2,
+      "note": "interval 15sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.88,
+      "note": "recovery 120sec @ 0.88"
+    },
+    {
+      "duration": 15,
+      "power": 1.2,
+      "note": "interval 15sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.88,
+      "note": "recovery 120sec @ 0.88"
+    },
+    {
+      "duration": 15,
+      "power": 1.2,
+      "note": "interval 15sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.88,
+      "note": "recovery 120sec @ 0.88"
+    },
+    {
+      "duration": 15,
+      "power": 1.2,
+      "note": "interval 15sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.88,
+      "note": "recovery 120sec @ 0.88"
+    },
+    {
+      "duration": 15,
+      "power": 1.2,
+      "note": "interval 15sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.88,
+      "note": "recovery 120sec @ 0.88"
+    },
+    {
+      "duration": 15,
+      "power": 1.2,
+      "note": "interval 15sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.88,
+      "note": "recovery 120sec @ 0.88"
+    },
+    {
+      "duration": 15,
+      "power": 1.2,
+      "note": "interval 15sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.88,
+      "note": "recovery 120sec @ 0.88"
+    },
+    {
+      "duration": 15,
+      "power": 1.2,
+      "note": "interval 15sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.88,
+      "note": "recovery 120sec @ 0.88"
+    },
+    {
+      "duration": 15,
+      "power": 1.2,
+      "note": "interval 15sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.88,
+      "note": "recovery 120sec @ 0.88"
+    },
+    {
+      "duration": 240,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    }
+  ]
+}

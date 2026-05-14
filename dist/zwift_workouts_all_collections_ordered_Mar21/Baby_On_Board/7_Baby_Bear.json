@@ -1,0 +1,161 @@
+{
+  "name": "Baby Bear",
+  "note": "This workout will see you complete 14 efforts in total. Half of which are short (30 seconds) and other half a little longer (45 seconds).\n\nThere is a 4 minute recovery period between each block providing you with a chance to sit up, hydrate and let your heart rate drop. (by D.Rowe (Rowe&King))",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.4,
+      "note": "interval 45sec @ 0.40"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "recovery 30sec @ 1.20"
+    },
+    {
+      "duration": 45,
+      "power": 0.4,
+      "note": "interval 45sec @ 0.40"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "recovery 30sec @ 1.20"
+    },
+    {
+      "duration": 45,
+      "power": 0.4,
+      "note": "interval 45sec @ 0.40"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "recovery 30sec @ 1.20"
+    },
+    {
+      "duration": 45,
+      "power": 0.4,
+      "note": "interval 45sec @ 0.40"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "recovery 30sec @ 1.20"
+    },
+    {
+      "duration": 45,
+      "power": 0.4,
+      "note": "interval 45sec @ 0.40"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "recovery 30sec @ 1.20"
+    },
+    {
+      "duration": 45,
+      "power": 0.4,
+      "note": "interval 45sec @ 0.40"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "recovery 30sec @ 1.20"
+    },
+    {
+      "duration": 45,
+      "power": 0.4,
+      "note": "interval 45sec @ 0.40"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "recovery 30sec @ 1.20"
+    },
+    {
+      "duration": 255,
+      "power": 0.46,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.75,
+      "note": "interval 45sec @ 0.75"
+    },
+    {
+      "duration": 15,
+      "power": 0.4,
+      "note": "recovery 15sec @ 0.40"
+    },
+    {
+      "duration": 45,
+      "power": 0.75,
+      "note": "interval 45sec @ 0.75"
+    },
+    {
+      "duration": 15,
+      "power": 0.4,
+      "note": "recovery 15sec @ 0.40"
+    },
+    {
+      "duration": 45,
+      "power": 0.75,
+      "note": "interval 45sec @ 0.75"
+    },
+    {
+      "duration": 15,
+      "power": 0.4,
+      "note": "recovery 15sec @ 0.40"
+    },
+    {
+      "duration": 45,
+      "power": 0.75,
+      "note": "interval 45sec @ 0.75"
+    },
+    {
+      "duration": 15,
+      "power": 0.4,
+      "note": "recovery 15sec @ 0.40"
+    },
+    {
+      "duration": 45,
+      "power": 0.75,
+      "note": "interval 45sec @ 0.75"
+    },
+    {
+      "duration": 15,
+      "power": 0.4,
+      "note": "recovery 15sec @ 0.40"
+    },
+    {
+      "duration": 45,
+      "power": 0.75,
+      "note": "interval 45sec @ 0.75"
+    },
+    {
+      "duration": 15,
+      "power": 0.4,
+      "note": "recovery 15sec @ 0.40"
+    },
+    {
+      "duration": 45,
+      "power": 0.75,
+      "note": "interval 45sec @ 0.75"
+    },
+    {
+      "duration": 15,
+      "power": 0.4,
+      "note": "recovery 15sec @ 0.40"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

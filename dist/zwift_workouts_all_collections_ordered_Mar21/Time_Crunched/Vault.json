@@ -1,0 +1,71 @@
+{
+  "name": "Vault",
+  "note": "You've got 20 minutes and need to make it count! This threshold workout opens with a quick warmup, followed by high-intensity intervals and recovery time in between. You'll be in an out before you know it. (by Shayne Gaffney | GC Coaching)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.3,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

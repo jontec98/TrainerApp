@@ -1,0 +1,16 @@
+{
+  "name": "Day 1 - Bike",
+  "note": "Bike - 60 minutes of Zone 1 (by QT2)",
+  "intervals": [
+    {
+      "duration": 1800,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 1800,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "name": "Week 4.6 - Day 6",
+  "note": "Today is an Endurance ride with BURSTS! Ride the prescribed time in your Endurance Zone. Vary your cadence throughout the ride and work on pedaling form. Practice \"coming over the top\" and \"pulling through the bottom\" of the pedal (pretend there is glass in shoes). Do a burst at FTP every 5 minutes for 15 seconds each! Enjoy the day!! Cadence: 85 - 105.",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.0,
+      "note": "interval 15sec @ 1.00"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "recovery 300sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.0,
+      "note": "interval 15sec @ 1.00"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "recovery 300sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.0,
+      "note": "interval 15sec @ 1.00"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "recovery 300sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.0,
+      "note": "interval 15sec @ 1.00"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "recovery 300sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.0,
+      "note": "interval 15sec @ 1.00"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "recovery 300sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.0,
+      "note": "interval 15sec @ 1.00"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "recovery 300sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.0,
+      "note": "interval 15sec @ 1.00"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "recovery 300sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.0,
+      "note": "interval 15sec @ 1.00"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "recovery 300sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.0,
+      "note": "interval 15sec @ 1.00"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "recovery 300sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.0,
+      "note": "interval 15sec @ 1.00"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "recovery 300sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.0,
+      "note": "interval 15sec @ 1.00"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "recovery 300sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.0,
+      "note": "interval 15sec @ 1.00"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "recovery 300sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.0,
+      "note": "interval 15sec @ 1.00"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "recovery 300sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.0,
+      "note": "interval 15sec @ 1.00"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "recovery 300sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.0,
+      "note": "interval 15sec @ 1.00"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "recovery 300sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.0,
+      "note": "interval 15sec @ 1.00"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "recovery 300sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.0,
+      "note": "interval 15sec @ 1.00"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "recovery 300sec @ 0.50"
+    },
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

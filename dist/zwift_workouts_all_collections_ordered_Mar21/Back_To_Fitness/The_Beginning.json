@@ -1,0 +1,61 @@
+{
+  "name": "Week 1.1 - The Beginning",
+  "note": "This workout contains a block of Zone 3 to gradually help ease you in to the workout, before completing 3 x 2 min Z5 (110% of FTP) efforts. This workout should feel like a challenge yet definitely be achievable so an ideal session for the start of a workout series. (by D.Rowe (Rowe&King))",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.88,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.1,
+      "note": "interval 120sec @ 1.10"
+    },
+    {
+      "duration": 120,
+      "power": 0.4,
+      "note": "recovery 120sec @ 0.40"
+    },
+    {
+      "duration": 120,
+      "power": 1.1,
+      "note": "interval 120sec @ 1.10"
+    },
+    {
+      "duration": 120,
+      "power": 0.4,
+      "note": "recovery 120sec @ 0.40"
+    },
+    {
+      "duration": 120,
+      "power": 1.1,
+      "note": "interval 120sec @ 1.10"
+    },
+    {
+      "duration": 120,
+      "power": 0.4,
+      "note": "recovery 120sec @ 0.40"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

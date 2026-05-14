@@ -1,0 +1,291 @@
+{
+  "name": "40/20's #2",
+  "note": "Building upon your previous 40/20 session, this time we are increasing the number intervals before finishing with a 3min VO2max effort.\n\nWe are challenging your ability to recover from hard work and measuring the final effort produced.\n\nLike last time, observe your heart rate before and after each of the 40/20 intervals.  (by Zwift)",
+  "intervals": [
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.7544999,
+      "note": "interval 10sec @ 1.75"
+    },
+    {
+      "duration": 50,
+      "power": 0.50449997,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.7544999,
+      "note": "interval 10sec @ 1.75"
+    },
+    {
+      "duration": 50,
+      "power": 0.50449997,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.7544999,
+      "note": "interval 10sec @ 1.75"
+    },
+    {
+      "duration": 50,
+      "power": 0.50449997,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.7544999,
+      "note": "interval 10sec @ 1.75"
+    },
+    {
+      "duration": 50,
+      "power": 0.50449997,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 180,
+      "power": 0.70449996,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.90449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.0944999,
+      "note": "interval 40sec @ 1.09"
+    },
+    {
+      "duration": 20,
+      "power": 0.55449998,
+      "note": "recovery 20sec @ 0.55"
+    },
+    {
+      "duration": 40,
+      "power": 1.0944999,
+      "note": "interval 40sec @ 1.09"
+    },
+    {
+      "duration": 20,
+      "power": 0.55449998,
+      "note": "recovery 20sec @ 0.55"
+    },
+    {
+      "duration": 40,
+      "power": 1.0944999,
+      "note": "interval 40sec @ 1.09"
+    },
+    {
+      "duration": 20,
+      "power": 0.55449998,
+      "note": "recovery 20sec @ 0.55"
+    },
+    {
+      "duration": 40,
+      "power": 1.0944999,
+      "note": "interval 40sec @ 1.09"
+    },
+    {
+      "duration": 20,
+      "power": 0.55449998,
+      "note": "recovery 20sec @ 0.55"
+    },
+    {
+      "duration": 40,
+      "power": 1.0944999,
+      "note": "interval 40sec @ 1.09"
+    },
+    {
+      "duration": 20,
+      "power": 0.55449998,
+      "note": "recovery 20sec @ 0.55"
+    },
+    {
+      "duration": 40,
+      "power": 1.0944999,
+      "note": "interval 40sec @ 1.09"
+    },
+    {
+      "duration": 20,
+      "power": 0.55449998,
+      "note": "recovery 20sec @ 0.55"
+    },
+    {
+      "duration": 40,
+      "power": 1.0944999,
+      "note": "interval 40sec @ 1.09"
+    },
+    {
+      "duration": 20,
+      "power": 0.55449998,
+      "note": "recovery 20sec @ 0.55"
+    },
+    {
+      "duration": 40,
+      "power": 1.0944999,
+      "note": "interval 40sec @ 1.09"
+    },
+    {
+      "duration": 20,
+      "power": 0.55449998,
+      "note": "recovery 20sec @ 0.55"
+    },
+    {
+      "duration": 40,
+      "power": 1.0944999,
+      "note": "interval 40sec @ 1.09"
+    },
+    {
+      "duration": 20,
+      "power": 0.55449998,
+      "note": "recovery 20sec @ 0.55"
+    },
+    {
+      "duration": 40,
+      "power": 1.0944999,
+      "note": "interval 40sec @ 1.09"
+    },
+    {
+      "duration": 20,
+      "power": 0.55449998,
+      "note": "recovery 20sec @ 0.55"
+    },
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.0944999,
+      "note": "interval 40sec @ 1.09"
+    },
+    {
+      "duration": 20,
+      "power": 0.55449998,
+      "note": "recovery 20sec @ 0.55"
+    },
+    {
+      "duration": 40,
+      "power": 1.0944999,
+      "note": "interval 40sec @ 1.09"
+    },
+    {
+      "duration": 20,
+      "power": 0.55449998,
+      "note": "recovery 20sec @ 0.55"
+    },
+    {
+      "duration": 40,
+      "power": 1.0944999,
+      "note": "interval 40sec @ 1.09"
+    },
+    {
+      "duration": 20,
+      "power": 0.55449998,
+      "note": "recovery 20sec @ 0.55"
+    },
+    {
+      "duration": 40,
+      "power": 1.0944999,
+      "note": "interval 40sec @ 1.09"
+    },
+    {
+      "duration": 20,
+      "power": 0.55449998,
+      "note": "recovery 20sec @ 0.55"
+    },
+    {
+      "duration": 40,
+      "power": 1.0944999,
+      "note": "interval 40sec @ 1.09"
+    },
+    {
+      "duration": 20,
+      "power": 0.55449998,
+      "note": "recovery 20sec @ 0.55"
+    },
+    {
+      "duration": 40,
+      "power": 1.0944999,
+      "note": "interval 40sec @ 1.09"
+    },
+    {
+      "duration": 20,
+      "power": 0.55449998,
+      "note": "recovery 20sec @ 0.55"
+    },
+    {
+      "duration": 40,
+      "power": 1.0944999,
+      "note": "interval 40sec @ 1.09"
+    },
+    {
+      "duration": 20,
+      "power": 0.55449998,
+      "note": "recovery 20sec @ 0.55"
+    },
+    {
+      "duration": 40,
+      "power": 1.0944999,
+      "note": "interval 40sec @ 1.09"
+    },
+    {
+      "duration": 20,
+      "power": 0.55449998,
+      "note": "recovery 20sec @ 0.55"
+    },
+    {
+      "duration": 40,
+      "power": 1.0944999,
+      "note": "interval 40sec @ 1.09"
+    },
+    {
+      "duration": 20,
+      "power": 0.55449998,
+      "note": "recovery 20sec @ 0.55"
+    },
+    {
+      "duration": 40,
+      "power": 1.0944999,
+      "note": "interval 40sec @ 1.09"
+    },
+    {
+      "duration": 20,
+      "power": 0.55449998,
+      "note": "recovery 20sec @ 0.55"
+    },
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.2544999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    }
+  ]
+}

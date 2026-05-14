@@ -1,0 +1,91 @@
+{
+  "name": "Sir Bradley Wiggins.1 - Fun Sprints and Fast Legs",
+  "note": "This session is all about Fast legs, fast breathing, fast heart rate and getting a quick fix workout in.\n\nThese workouts have been designed and tested by some of the best cyclists in the world. Olympians and World Champions such as Sir Bradley Wiggins, Fabian Cancellara, Dame Sarah Storey and Kristin Armstrong. (by Chris Opie)",
+  "intervals": [
+    {
+      "duration": 180,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 10,
+      "power": 2.25,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 160,
+      "power": 0.88,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 2.25,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 2.25,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 160,
+      "power": 0.88,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 2.25,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 2.25,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 160,
+      "power": 0.88,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 2.25,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 2.25,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 160,
+      "power": 0.88,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 2.25,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

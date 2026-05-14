@@ -1,0 +1,148 @@
+{
+  "name": "Phase 2.2 - Mitochondria #2",
+  "note": "In this session we include short, controlled intervals above threshold with minimal recovery. This type of training provides the perfect stimulus to increase mitochondrial density and sustainable power.\n\nThere is a sting in the tail though. The session finishes with a 10 minute sub-threshold effort. There is no getting away from the benefits of long aerobic intervals. (by Kevin Poulton )",
+  "intervals": [
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.84878415,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.90449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.13,
+      "note": "interval 60sec @ 1.13"
+    },
+    {
+      "duration": 120,
+      "power": 0.65449995,
+      "note": "recovery 120sec @ 0.65"
+    },
+    {
+      "duration": 60,
+      "power": 1.13,
+      "note": "interval 60sec @ 1.13"
+    },
+    {
+      "duration": 120,
+      "power": 0.65449995,
+      "note": "recovery 120sec @ 0.65"
+    },
+    {
+      "duration": 60,
+      "power": 1.13,
+      "note": "interval 60sec @ 1.13"
+    },
+    {
+      "duration": 120,
+      "power": 0.65449995,
+      "note": "recovery 120sec @ 0.65"
+    },
+    {
+      "duration": 60,
+      "power": 1.13,
+      "note": "interval 60sec @ 1.13"
+    },
+    {
+      "duration": 120,
+      "power": 0.65449995,
+      "note": "recovery 120sec @ 0.65"
+    },
+    {
+      "duration": 60,
+      "power": 1.13,
+      "note": "interval 60sec @ 1.13"
+    },
+    {
+      "duration": 120,
+      "power": 0.65449995,
+      "note": "recovery 120sec @ 0.65"
+    },
+    {
+      "duration": 60,
+      "power": 1.13,
+      "note": "interval 60sec @ 1.13"
+    },
+    {
+      "duration": 120,
+      "power": 0.65449995,
+      "note": "recovery 120sec @ 0.65"
+    },
+    {
+      "duration": 60,
+      "power": 1.13,
+      "note": "interval 60sec @ 1.13"
+    },
+    {
+      "duration": 120,
+      "power": 0.65449995,
+      "note": "recovery 120sec @ 0.65"
+    },
+    {
+      "duration": 60,
+      "power": 1.13,
+      "note": "interval 60sec @ 1.13"
+    },
+    {
+      "duration": 120,
+      "power": 0.65449995,
+      "note": "recovery 120sec @ 0.65"
+    },
+    {
+      "duration": 60,
+      "power": 1.13,
+      "note": "interval 60sec @ 1.13"
+    },
+    {
+      "duration": 120,
+      "power": 0.65449995,
+      "note": "recovery 120sec @ 0.65"
+    },
+    {
+      "duration": 60,
+      "power": 1.13,
+      "note": "interval 60sec @ 1.13"
+    },
+    {
+      "duration": 120,
+      "power": 0.65449995,
+      "note": "recovery 120sec @ 0.65"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    }
+  ]
+}

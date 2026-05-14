@@ -1,0 +1,76 @@
+{
+  "name": "Day 6 - Bike",
+  "note": "Bike - 120 min.\n-30 min. warm up\n-6x (5 min. @ 70% FTP, 5 min. @ 85% FTP)\n-30 min. cool @ 65% FTP (by QT2)",
+  "intervals": [
+    {
+      "duration": 1800,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.70449996,
+      "note": "interval 300sec @ 0.70"
+    },
+    {
+      "duration": 300,
+      "power": 0.80449992,
+      "note": "recovery 300sec @ 0.80"
+    },
+    {
+      "duration": 300,
+      "power": 0.70449996,
+      "note": "interval 300sec @ 0.70"
+    },
+    {
+      "duration": 300,
+      "power": 0.80449992,
+      "note": "recovery 300sec @ 0.80"
+    },
+    {
+      "duration": 300,
+      "power": 0.70449996,
+      "note": "interval 300sec @ 0.70"
+    },
+    {
+      "duration": 300,
+      "power": 0.80449992,
+      "note": "recovery 300sec @ 0.80"
+    },
+    {
+      "duration": 300,
+      "power": 0.70449996,
+      "note": "interval 300sec @ 0.70"
+    },
+    {
+      "duration": 300,
+      "power": 0.80449992,
+      "note": "recovery 300sec @ 0.80"
+    },
+    {
+      "duration": 300,
+      "power": 0.70449996,
+      "note": "interval 300sec @ 0.70"
+    },
+    {
+      "duration": 300,
+      "power": 0.80449992,
+      "note": "recovery 300sec @ 0.80"
+    },
+    {
+      "duration": 300,
+      "power": 0.70449996,
+      "note": "interval 300sec @ 0.70"
+    },
+    {
+      "duration": 300,
+      "power": 0.80449992,
+      "note": "recovery 300sec @ 0.80"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

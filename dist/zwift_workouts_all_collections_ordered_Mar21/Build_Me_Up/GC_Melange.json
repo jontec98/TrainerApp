@@ -1,0 +1,221 @@
+{
+  "name": "Melange",
+  "note": "Featuring a blend of work across a range of zones, this is a potent cocktail designed to boost your fitness. (by Shayne Gaffney | GC Coaching)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.0,
+      "note": "interval 120sec @ 1.00"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 1.0,
+      "note": "interval 120sec @ 1.00"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 1.0,
+      "note": "interval 120sec @ 1.00"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 1.0,
+      "note": "interval 120sec @ 1.00"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 1.0,
+      "note": "interval 120sec @ 1.00"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 1.0,
+      "note": "interval 120sec @ 1.00"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 600,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.3,
+      "note": "interval 20sec @ 1.30"
+    },
+    {
+      "duration": 40,
+      "power": 0.55,
+      "note": "recovery 40sec @ 0.55"
+    },
+    {
+      "duration": 20,
+      "power": 1.3,
+      "note": "interval 20sec @ 1.30"
+    },
+    {
+      "duration": 40,
+      "power": 0.55,
+      "note": "recovery 40sec @ 0.55"
+    },
+    {
+      "duration": 20,
+      "power": 1.3,
+      "note": "interval 20sec @ 1.30"
+    },
+    {
+      "duration": 40,
+      "power": 0.55,
+      "note": "recovery 40sec @ 0.55"
+    },
+    {
+      "duration": 20,
+      "power": 1.3,
+      "note": "interval 20sec @ 1.30"
+    },
+    {
+      "duration": 40,
+      "power": 0.55,
+      "note": "recovery 40sec @ 0.55"
+    },
+    {
+      "duration": 20,
+      "power": 1.3,
+      "note": "interval 20sec @ 1.30"
+    },
+    {
+      "duration": 40,
+      "power": 0.55,
+      "note": "recovery 40sec @ 0.55"
+    },
+    {
+      "duration": 20,
+      "power": 1.3,
+      "note": "interval 20sec @ 1.30"
+    },
+    {
+      "duration": 40,
+      "power": 0.55,
+      "note": "recovery 40sec @ 0.55"
+    },
+    {
+      "duration": 20,
+      "power": 1.3,
+      "note": "interval 20sec @ 1.30"
+    },
+    {
+      "duration": 40,
+      "power": 0.55,
+      "note": "recovery 40sec @ 0.55"
+    },
+    {
+      "duration": 20,
+      "power": 1.3,
+      "note": "interval 20sec @ 1.30"
+    },
+    {
+      "duration": 40,
+      "power": 0.55,
+      "note": "recovery 40sec @ 0.55"
+    },
+    {
+      "duration": 600,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "name": "Tom Pidcock: CX Champion",
+  "note": "British professional cyclist, who currently rides for UCI World Team Ineos Grenadiers is part of a new generation of riders that competes in a variety of cycling disciplines. Tom's success spans cyclo-cross, cross country mountain bike and on the road events.\n\n        At the age of 23, Tom has won a MTB Olympic gold, cyclo-cross World Championships, and the Queen stage of the 2022 TDF, becoming the youngest rider to win on Alpe d'Huez.\n             \n       Today's workout blends short attacking efforts of 20 seconds with sustained threshold efforts to provide a cyclo-cross race simulation effort. But that's not all,  to finish  the session you have a series of 30 on, 30 off, to improve your anaerobic capacity.\n        (by KURT BOGAERTS)",
+  "intervals": [
+    {
+      "duration": 480,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 140,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.7,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 140,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.7,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 140,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.7,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 140,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.7,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 140,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.7,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.4,
+      "note": "interval 30sec @ 1.40"
+    },
+    {
+      "duration": 30,
+      "power": 0.65,
+      "note": "recovery 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 1.4,
+      "note": "interval 30sec @ 1.40"
+    },
+    {
+      "duration": 30,
+      "power": 0.65,
+      "note": "recovery 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 1.4,
+      "note": "interval 30sec @ 1.40"
+    },
+    {
+      "duration": 30,
+      "power": 0.65,
+      "note": "recovery 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 1.4,
+      "note": "interval 30sec @ 1.40"
+    },
+    {
+      "duration": 30,
+      "power": 0.65,
+      "note": "recovery 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 1.4,
+      "note": "interval 30sec @ 1.40"
+    },
+    {
+      "duration": 30,
+      "power": 0.65,
+      "note": "recovery 30sec @ 0.65"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

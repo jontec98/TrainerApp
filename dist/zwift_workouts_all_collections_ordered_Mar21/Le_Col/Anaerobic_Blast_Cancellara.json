@@ -1,0 +1,76 @@
+{
+  "name": "Fabian Cancellara.1 - Anaerobic Blasts",
+  "note": "This session is all about increasing your Vo2 Max. Led by Fabian Cancellara, it is guaranteed to get you reaching maximum exertion in a very short period of time!\n\nThese workouts have been designed and tested by some of the best cyclists in the world. Olympians and World Champions such as Sir Bradley Wiggins, Fabian Cancellara, Dame Sarah Storey and Kristin Armstrong. (by Chris Opie)",
+  "intervals": [
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 2.25,
+      "note": "interval 30sec @ 2.25"
+    },
+    {
+      "duration": 210,
+      "power": 0.55,
+      "note": "recovery 210sec @ 0.55"
+    },
+    {
+      "duration": 30,
+      "power": 2.25,
+      "note": "interval 30sec @ 2.25"
+    },
+    {
+      "duration": 210,
+      "power": 0.55,
+      "note": "recovery 210sec @ 0.55"
+    },
+    {
+      "duration": 30,
+      "power": 2.25,
+      "note": "interval 30sec @ 2.25"
+    },
+    {
+      "duration": 210,
+      "power": 0.55,
+      "note": "recovery 210sec @ 0.55"
+    },
+    {
+      "duration": 30,
+      "power": 2.25,
+      "note": "interval 30sec @ 2.25"
+    },
+    {
+      "duration": 210,
+      "power": 0.55,
+      "note": "recovery 210sec @ 0.55"
+    },
+    {
+      "duration": 30,
+      "power": 2.25,
+      "note": "interval 30sec @ 2.25"
+    },
+    {
+      "duration": 210,
+      "power": 0.55,
+      "note": "recovery 210sec @ 0.55"
+    },
+    {
+      "duration": 30,
+      "power": 2.25,
+      "note": "interval 30sec @ 2.25"
+    },
+    {
+      "duration": 90,
+      "power": 0.55,
+      "note": "recovery 90sec @ 0.55"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    }
+  ]
+}

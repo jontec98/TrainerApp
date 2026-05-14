@@ -1,0 +1,31 @@
+{
+  "name": "Week 5.1 - Day 1",
+  "note": "Focus on riding most of the time in Endurance. You will also complete 1 x 40 minute TEMPO effort. Try \"mixing\" your spin cadence during the Tempo effort by trading off between a faster and slower cadence throughout the interval. Cadence: 85 - 105 Endurance, 80 - 90 Tempo",
+  "intervals": [
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 1200,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 2400,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 1200,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

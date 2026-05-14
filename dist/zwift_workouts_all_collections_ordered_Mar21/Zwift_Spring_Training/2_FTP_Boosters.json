@@ -1,0 +1,121 @@
+{
+  "name": "FTP Boosters",
+  "note": "This session is all about increasing your FTP by maintaining a sub FTP baseline intensity with brief surges up and over at Vo2 capacity. A popular and testing workout.\n \n These workouts have been designed and tested by some of the best cyclists in the world. (by Zwift )",
+  "intervals": [
+    {
+      "duration": 480,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 105,
+      "power": 0.93,
+      "note": "interval 105sec @ 0.93"
+    },
+    {
+      "duration": 15,
+      "power": 1.48,
+      "note": "recovery 15sec @ 1.48"
+    },
+    {
+      "duration": 105,
+      "power": 0.93,
+      "note": "interval 105sec @ 0.93"
+    },
+    {
+      "duration": 15,
+      "power": 1.48,
+      "note": "recovery 15sec @ 1.48"
+    },
+    {
+      "duration": 105,
+      "power": 0.93,
+      "note": "interval 105sec @ 0.93"
+    },
+    {
+      "duration": 15,
+      "power": 1.48,
+      "note": "recovery 15sec @ 1.48"
+    },
+    {
+      "duration": 105,
+      "power": 0.93,
+      "note": "interval 105sec @ 0.93"
+    },
+    {
+      "duration": 15,
+      "power": 1.48,
+      "note": "recovery 15sec @ 1.48"
+    },
+    {
+      "duration": 105,
+      "power": 0.93,
+      "note": "interval 105sec @ 0.93"
+    },
+    {
+      "duration": 15,
+      "power": 1.48,
+      "note": "recovery 15sec @ 1.48"
+    },
+    {
+      "duration": 360,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 105,
+      "power": 0.93,
+      "note": "interval 105sec @ 0.93"
+    },
+    {
+      "duration": 15,
+      "power": 1.4,
+      "note": "recovery 15sec @ 1.40"
+    },
+    {
+      "duration": 105,
+      "power": 0.93,
+      "note": "interval 105sec @ 0.93"
+    },
+    {
+      "duration": 15,
+      "power": 1.4,
+      "note": "recovery 15sec @ 1.40"
+    },
+    {
+      "duration": 105,
+      "power": 0.93,
+      "note": "interval 105sec @ 0.93"
+    },
+    {
+      "duration": 15,
+      "power": 1.4,
+      "note": "recovery 15sec @ 1.40"
+    },
+    {
+      "duration": 105,
+      "power": 0.93,
+      "note": "interval 105sec @ 0.93"
+    },
+    {
+      "duration": 15,
+      "power": 1.4,
+      "note": "recovery 15sec @ 1.40"
+    },
+    {
+      "duration": 105,
+      "power": 0.93,
+      "note": "interval 105sec @ 0.93"
+    },
+    {
+      "duration": 15,
+      "power": 1.4,
+      "note": "recovery 15sec @ 1.40"
+    },
+    {
+      "duration": 240,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Week 4.1 - Day 1",
+  "note": "SST Intervals are part of our continued effort to build and maintain base. Warm up with 15 minutes at Endurance with 2 x 1 minute Fast Pedals to wake up your legs (as fast as you can pedal without bouncing in the saddle). Then 2 x 15 minute intervals in the \"Sweet Spot\" zone with 5 minutes recovery in-between. Ride the rest of the time in Level 2 Endurance zone.Cadence: 85 - 105",
+  "intervals": [
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "interval 900sec @ 1.00"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "recovery 300sec @ 0.50"
+    },
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "interval 900sec @ 1.00"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "recovery 300sec @ 0.50"
+    },
+    {
+      "duration": 2400,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

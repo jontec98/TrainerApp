@@ -1,0 +1,161 @@
+{
+  "name": "Zone 2 #2",
+  "note": "An endurance focused session featuring intermittent 15sec surges. These surges are low intensity, where high cadence is the key.\n\nThe majority of the workout is low intensity, with no residual fatigue expected from such a workout.  (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.7,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.35,
+      "note": "interval 10sec @ 1.35"
+    },
+    {
+      "duration": 50,
+      "power": 0.5,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.35,
+      "note": "interval 10sec @ 1.35"
+    },
+    {
+      "duration": 50,
+      "power": 0.5,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.35,
+      "note": "interval 10sec @ 1.35"
+    },
+    {
+      "duration": 50,
+      "power": 0.5,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.35,
+      "note": "interval 10sec @ 1.35"
+    },
+    {
+      "duration": 50,
+      "power": 0.5,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 120,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.06,
+      "note": "interval 15sec @ 1.06"
+    },
+    {
+      "duration": 225,
+      "power": 0.65,
+      "note": "recovery 225sec @ 0.65"
+    },
+    {
+      "duration": 15,
+      "power": 1.06,
+      "note": "interval 15sec @ 1.06"
+    },
+    {
+      "duration": 225,
+      "power": 0.65,
+      "note": "recovery 225sec @ 0.65"
+    },
+    {
+      "duration": 15,
+      "power": 1.06,
+      "note": "interval 15sec @ 1.06"
+    },
+    {
+      "duration": 225,
+      "power": 0.65,
+      "note": "recovery 225sec @ 0.65"
+    },
+    {
+      "duration": 15,
+      "power": 1.06,
+      "note": "interval 15sec @ 1.06"
+    },
+    {
+      "duration": 225,
+      "power": 0.65,
+      "note": "recovery 225sec @ 0.65"
+    },
+    {
+      "duration": 15,
+      "power": 1.06,
+      "note": "interval 15sec @ 1.06"
+    },
+    {
+      "duration": 225,
+      "power": 0.65,
+      "note": "recovery 225sec @ 0.65"
+    },
+    {
+      "duration": 15,
+      "power": 1.06,
+      "note": "interval 15sec @ 1.06"
+    },
+    {
+      "duration": 225,
+      "power": 0.65,
+      "note": "recovery 225sec @ 0.65"
+    },
+    {
+      "duration": 15,
+      "power": 1.06,
+      "note": "interval 15sec @ 1.06"
+    },
+    {
+      "duration": 225,
+      "power": 0.65,
+      "note": "recovery 225sec @ 0.65"
+    },
+    {
+      "duration": 15,
+      "power": 1.06,
+      "note": "interval 15sec @ 1.06"
+    },
+    {
+      "duration": 225,
+      "power": 0.65,
+      "note": "recovery 225sec @ 0.65"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    }
+  ]
+}

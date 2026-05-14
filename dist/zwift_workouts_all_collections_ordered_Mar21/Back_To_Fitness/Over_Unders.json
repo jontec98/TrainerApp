@@ -1,0 +1,86 @@
+{
+  "name": "Week 2.2 - Over - Unders",
+  "note": "This workout is based on the well documented 'over - under' style workout, where you repeatedly tip yourself above and dip below your threshold power. You should get plenty of rest during the 1 minute at 90% of FTP to enable you to manage the 2 minutes spent slightly above your threshold. (by D.Rowe (Rowe&King))",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.05,
+      "note": "interval 120sec @ 1.05"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "recovery 60sec @ 0.90"
+    },
+    {
+      "duration": 120,
+      "power": 1.05,
+      "note": "interval 120sec @ 1.05"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "recovery 60sec @ 0.90"
+    },
+    {
+      "duration": 120,
+      "power": 1.05,
+      "note": "interval 120sec @ 1.05"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "recovery 60sec @ 0.90"
+    },
+    {
+      "duration": 180,
+      "power": 0.51,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.05,
+      "note": "interval 120sec @ 1.05"
+    },
+    {
+      "duration": 60,
+      "power": 0.91,
+      "note": "recovery 60sec @ 0.91"
+    },
+    {
+      "duration": 120,
+      "power": 1.05,
+      "note": "interval 120sec @ 1.05"
+    },
+    {
+      "duration": 60,
+      "power": 0.91,
+      "note": "recovery 60sec @ 0.91"
+    },
+    {
+      "duration": 120,
+      "power": 1.05,
+      "note": "interval 120sec @ 1.05"
+    },
+    {
+      "duration": 60,
+      "power": 0.91,
+      "note": "recovery 60sec @ 0.91"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

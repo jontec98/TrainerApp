@@ -1,0 +1,161 @@
+{
+  "name": "Sevens",
+  "note": "Powerful and efficient, this high-intensity interval workout uses short bursts mixed with recovery periods to build up your energy and strength. In classic HIIT form, you'll do seven sets of 30 seconds of hard effort, and 1 minute of rest in between. Lucky you. (by Shayne Gaffney | GC Coaching)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "interval 30sec @ 1.20"
+    },
+    {
+      "duration": 60,
+      "power": 0.65,
+      "note": "recovery 60sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "interval 30sec @ 1.20"
+    },
+    {
+      "duration": 60,
+      "power": 0.65,
+      "note": "recovery 60sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "interval 30sec @ 1.20"
+    },
+    {
+      "duration": 60,
+      "power": 0.65,
+      "note": "recovery 60sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "interval 30sec @ 1.20"
+    },
+    {
+      "duration": 60,
+      "power": 0.65,
+      "note": "recovery 60sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "interval 30sec @ 1.20"
+    },
+    {
+      "duration": 60,
+      "power": 0.65,
+      "note": "recovery 60sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "interval 30sec @ 1.20"
+    },
+    {
+      "duration": 60,
+      "power": 0.65,
+      "note": "recovery 60sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "interval 30sec @ 1.20"
+    },
+    {
+      "duration": 60,
+      "power": 0.65,
+      "note": "recovery 60sec @ 0.65"
+    },
+    {
+      "duration": 120,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "interval 30sec @ 1.20"
+    },
+    {
+      "duration": 60,
+      "power": 0.65,
+      "note": "recovery 60sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "interval 30sec @ 1.20"
+    },
+    {
+      "duration": 60,
+      "power": 0.65,
+      "note": "recovery 60sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "interval 30sec @ 1.20"
+    },
+    {
+      "duration": 60,
+      "power": 0.65,
+      "note": "recovery 60sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "interval 30sec @ 1.20"
+    },
+    {
+      "duration": 60,
+      "power": 0.65,
+      "note": "recovery 60sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "interval 30sec @ 1.20"
+    },
+    {
+      "duration": 60,
+      "power": 0.65,
+      "note": "recovery 60sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "interval 30sec @ 1.20"
+    },
+    {
+      "duration": 60,
+      "power": 0.65,
+      "note": "recovery 60sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "interval 30sec @ 1.20"
+    },
+    {
+      "duration": 60,
+      "power": 0.65,
+      "note": "recovery 60sec @ 0.65"
+    },
+    {
+      "duration": 120,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "name": "6x2 VO2 Max",
+  "note": "Here we are again with some 2 minutes at upper VO2 zone. This is the hardest sustained efforts we'll complete for this plan, but I think you are ready. It's really important to mentally find a place to go where you can get through these efforts with a good attitude. No way around it, these hurt. Using those fast RPM's will absolutely help here as you just have to keep the trainer from bogging you down here. \nA warm up, and then 6x's 2 minutes at 120% with 2 minutes break between. Be ready, these efforts will feel like they are coming FAST! (by Zwift)",
+  "intervals": [
+    {
+      "duration": 540,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "interval 60sec @ 0.85"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "interval 60sec @ 0.85"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "interval 60sec @ 0.85"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 40,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.2,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.2,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.2,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.2,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.2,
+      "note": "interval 120sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 120,
+      "power": 1.2,
+      "note": "interval 120sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 120,
+      "power": 1.2,
+      "note": "interval 120sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 120,
+      "power": 1.2,
+      "note": "interval 120sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 120,
+      "power": 1.2,
+      "note": "interval 120sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 360,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

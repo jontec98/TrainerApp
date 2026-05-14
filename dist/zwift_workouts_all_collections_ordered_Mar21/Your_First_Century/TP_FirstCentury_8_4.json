@@ -1,0 +1,66 @@
+{
+  "name": "Week 8.4 - Day 4",
+  "note": "This is hard, but you gotta commit! PUSH IT!",
+  "intervals": [
+    {
+      "duration": 1200,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "interval 300sec @ 1.00"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "recovery 300sec @ 0.50"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "interval 300sec @ 1.00"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "recovery 300sec @ 0.50"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "interval 300sec @ 1.00"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "recovery 300sec @ 0.50"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "interval 300sec @ 1.00"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "recovery 300sec @ 0.50"
+    },
+    {
+      "duration": 1800,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

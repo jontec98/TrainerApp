@@ -1,0 +1,111 @@
+{
+  "name": "Week 5.4 - Tempo into Sprints #1",
+  "note": "After a sustained tempo effort to build some fatigue, crank out some high effort sprints. These are relatively long, high power efforts that will be that much harder to the tempo work that preceded them. (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.85449994,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.2045,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 2.0044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.55449998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.85162616,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.2073815,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 2.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

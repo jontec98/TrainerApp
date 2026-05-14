@@ -1,0 +1,141 @@
+{
+  "name": "Nelson Vails - Sprint",
+  "note": "Nelson Vails is the first, and only, African American Cyclist to win an Olympic medal. He took home the Silver medal in the sprint in the 1984 Olympics. Nicknamed \u201cThe Cheetah\u201d, he is known for going from zero to 40+ MPH in the blink of an eye. The track sprint is an equal mental and physical challenge with competitors playing tricks and mind-games on one another before uncorking their sprint\u2026 Be prepared to launch yours when the time is right! (by Shayne Gaffney)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 15,
+      "power": 0.9,
+      "note": "interval 15sec @ 0.90"
+    },
+    {
+      "duration": 45,
+      "power": 0.65,
+      "note": "recovery 45sec @ 0.65"
+    },
+    {
+      "duration": 15,
+      "power": 1.0,
+      "note": "interval 15sec @ 1.00"
+    },
+    {
+      "duration": 45,
+      "power": 0.65,
+      "note": "recovery 45sec @ 0.65"
+    },
+    {
+      "duration": 15,
+      "power": 1.1,
+      "note": "interval 15sec @ 1.10"
+    },
+    {
+      "duration": 45,
+      "power": 0.65,
+      "note": "recovery 45sec @ 0.65"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.5,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 45,
+      "power": 0.65,
+      "note": "recovery 45sec @ 0.65"
+    },
+    {
+      "duration": 15,
+      "power": 1.5,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 45,
+      "power": 0.65,
+      "note": "recovery 45sec @ 0.65"
+    },
+    {
+      "duration": 15,
+      "power": 1.5,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 45,
+      "power": 0.65,
+      "note": "recovery 45sec @ 0.65"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 300,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 300,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

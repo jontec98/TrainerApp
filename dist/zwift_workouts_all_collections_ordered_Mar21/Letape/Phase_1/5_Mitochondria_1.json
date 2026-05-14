@@ -1,0 +1,151 @@
+{
+  "name": "Phase 1.5 - Mitochondria #1",
+  "note": "One of the main aims of our 'Early Base' training phase is to increase your mitochondrial density. In basic terms, these are the power stations in your muscles. \n\nRecent studies have shown that the right amount of High Intensity training can provide the same benefits as traditional Long Slow Distance training.\n\nWith the demands of the L'Etape du Tour event requiring a high proportion of aerobic endurance, this increases the importance of focusing on quality work that increases this Mitochondria. (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.6045,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.65449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.81449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0944999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.90449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.1344999,
+      "note": "interval 60sec @ 1.13"
+    },
+    {
+      "duration": 180,
+      "power": 0.65488493,
+      "note": "recovery 180sec @ 0.65"
+    },
+    {
+      "duration": 60,
+      "power": 1.1344999,
+      "note": "interval 60sec @ 1.13"
+    },
+    {
+      "duration": 180,
+      "power": 0.65488493,
+      "note": "recovery 180sec @ 0.65"
+    },
+    {
+      "duration": 60,
+      "power": 1.1344999,
+      "note": "interval 60sec @ 1.13"
+    },
+    {
+      "duration": 180,
+      "power": 0.65488493,
+      "note": "recovery 180sec @ 0.65"
+    },
+    {
+      "duration": 60,
+      "power": 1.1344999,
+      "note": "interval 60sec @ 1.13"
+    },
+    {
+      "duration": 180,
+      "power": 0.65488493,
+      "note": "recovery 180sec @ 0.65"
+    },
+    {
+      "duration": 60,
+      "power": 1.1344999,
+      "note": "interval 60sec @ 1.13"
+    },
+    {
+      "duration": 180,
+      "power": 0.65488493,
+      "note": "recovery 180sec @ 0.65"
+    },
+    {
+      "duration": 60,
+      "power": 1.1344999,
+      "note": "interval 60sec @ 1.13"
+    },
+    {
+      "duration": 180,
+      "power": 0.65488493,
+      "note": "recovery 180sec @ 0.65"
+    },
+    {
+      "duration": 60,
+      "power": 1.1344999,
+      "note": "interval 60sec @ 1.13"
+    },
+    {
+      "duration": 180,
+      "power": 0.65488493,
+      "note": "recovery 180sec @ 0.65"
+    },
+    {
+      "duration": 60,
+      "power": 1.1344999,
+      "note": "interval 60sec @ 1.13"
+    },
+    {
+      "duration": 180,
+      "power": 0.65488493,
+      "note": "recovery 180sec @ 0.65"
+    },
+    {
+      "duration": 60,
+      "power": 1.1344999,
+      "note": "interval 60sec @ 1.13"
+    },
+    {
+      "duration": 180,
+      "power": 0.65488493,
+      "note": "recovery 180sec @ 0.65"
+    },
+    {
+      "duration": 60,
+      "power": 1.1344999,
+      "note": "interval 60sec @ 1.13"
+    },
+    {
+      "duration": 180,
+      "power": 0.65488493,
+      "note": "recovery 180sec @ 0.65"
+    },
+    {
+      "duration": 240,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    }
+  ]
+}

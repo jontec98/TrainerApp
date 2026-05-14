@@ -1,0 +1,81 @@
+{
+  "name": "Week 5.2 - Hard Starts",
+  "note": "Today's workout is all about recovering after a hard effort. Sometimes you need to respond at the base of a climb, close a gap in the paceline, or move around a dropped rider during a gravel event. This requires a hard surge well over threshold, then a steady effort once you're back on the group again. Today will challenge you. (by Shayne Gaffney)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.5,
+      "note": "interval 10sec @ 1.50"
+    },
+    {
+      "duration": 50,
+      "power": 0.65,
+      "note": "recovery 50sec @ 0.65"
+    },
+    {
+      "duration": 10,
+      "power": 1.5,
+      "note": "interval 10sec @ 1.50"
+    },
+    {
+      "duration": 50,
+      "power": 0.65,
+      "note": "recovery 50sec @ 0.65"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.25,
+      "note": "interval 30sec @ 1.25"
+    },
+    {
+      "duration": 390,
+      "power": 0.9,
+      "note": "recovery 390sec @ 0.90"
+    },
+    {
+      "duration": 180,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.25,
+      "note": "interval 30sec @ 1.25"
+    },
+    {
+      "duration": 390,
+      "power": 0.9,
+      "note": "recovery 390sec @ 0.90"
+    },
+    {
+      "duration": 180,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.25,
+      "note": "interval 30sec @ 1.25"
+    },
+    {
+      "duration": 390,
+      "power": 0.9,
+      "note": "recovery 390sec @ 0.90"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

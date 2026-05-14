@@ -1,0 +1,76 @@
+{
+  "name": "INEOS Pre-Race Warm-up",
+  "note": "Let's get in some intensity today! Do this 20min warm-up, then hop into a Zwift race. Make sure you leave about 5min to get into the pre-race pen and get a spot close to the front! (by Shayne Gaffney)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.7,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 6,
+      "power": 1.5,
+      "note": "interval 6sec @ 1.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 6,
+      "power": 1.75,
+      "note": "interval 6sec @ 1.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 6,
+      "power": 2.0,
+      "note": "interval 6sec @ 2.00"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 102,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "name": "Week 10.2 - Cruise 2 x 25min",
+  "note": "Warm up followed by 2 x 25min efforts @ 96% and 91% respectively, with 3min recovery. Cool down 10min. (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.53,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.56,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.59,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.62,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.64,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.67,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.7,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.73,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.76,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 1500,
+      "power": 0.96,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 1500,
+      "power": 0.91,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.76,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.73,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.7,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.67,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.64,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.62,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.59,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.56,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.53,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    }
+  ]
+}

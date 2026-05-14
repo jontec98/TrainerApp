@@ -1,0 +1,21 @@
+{
+  "name": "Week 6.4 - Day 4",
+  "note": "Today is simple, ride the prescribed time your Endurance Zone. Vary your cadence throughout ride and work on pedaling form. Practice \"coming over the top\" and \"pulling through the bottom\" of the pedal. Enjoy the day!!",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 2400,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

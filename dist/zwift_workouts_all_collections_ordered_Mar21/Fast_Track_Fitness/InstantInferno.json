@@ -1,0 +1,176 @@
+{
+  "name": "Week 1.2 - Instant Inferno",
+  "note": "Let's keep the consistency going with a quick 18-minute high-intensity workout. After the warm-up, the session features 30sec of work, with 30sec of rest at various intensities and recoveries. Let's send some calories into the fiery inferno! (by Zwift)",
+  "intervals": [
+    {
+      "duration": 60,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.76,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.82,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.84,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.74,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.86,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.73,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.88,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.72,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.71,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.92,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.7,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.94,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.69,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.96,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.7,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.94,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.72,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.92,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.74,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.76,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.88,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.78,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.92,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.96,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.82,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.84,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.04,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

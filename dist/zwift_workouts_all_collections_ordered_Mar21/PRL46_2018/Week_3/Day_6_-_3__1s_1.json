@@ -1,0 +1,126 @@
+{
+  "name": "Week 3.6 - 3 & 1's #1",
+  "note": "12min intervals consisting of 3min @ 98% / 1min 62%.\n\nWith the recovery period requiring some pressure on the pedals, monitor your heart rate to see if you are able to bring it back to normal recovery levels over the course of the 12min. (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.75449997,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.75449997,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.90449995,
+      "note": "interval 60sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.90449995,
+      "note": "interval 60sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.98449993,
+      "note": "interval 180sec @ 0.98"
+    },
+    {
+      "duration": 60,
+      "power": 0.62449998,
+      "note": "recovery 60sec @ 0.62"
+    },
+    {
+      "duration": 180,
+      "power": 0.98449993,
+      "note": "interval 180sec @ 0.98"
+    },
+    {
+      "duration": 60,
+      "power": 0.62449998,
+      "note": "recovery 60sec @ 0.62"
+    },
+    {
+      "duration": 180,
+      "power": 0.98449993,
+      "note": "interval 180sec @ 0.98"
+    },
+    {
+      "duration": 60,
+      "power": 0.62449998,
+      "note": "recovery 60sec @ 0.62"
+    },
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.98449993,
+      "note": "interval 180sec @ 0.98"
+    },
+    {
+      "duration": 60,
+      "power": 0.62449998,
+      "note": "recovery 60sec @ 0.62"
+    },
+    {
+      "duration": 180,
+      "power": 0.98449993,
+      "note": "interval 180sec @ 0.98"
+    },
+    {
+      "duration": 60,
+      "power": 0.62449998,
+      "note": "recovery 60sec @ 0.62"
+    },
+    {
+      "duration": 180,
+      "power": 0.98449993,
+      "note": "interval 180sec @ 0.98"
+    },
+    {
+      "duration": 60,
+      "power": 0.62449998,
+      "note": "recovery 60sec @ 0.62"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "name": "Start-Stop",
+  "note": "This session is a progression from the 30 minute Start-Stop workout where you will tackle 3 blocks of 4 efforts, with each block's effort increasing in intensity but decreasing in duration.\n\nEach block roughly equates to the same training stress, but just varying type of stress and effort. (by D.Rowe (Rowe&King))",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.80449992,
+      "note": "interval 60sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 0.40450001,
+      "note": "recovery 60sec @ 0.40"
+    },
+    {
+      "duration": 60,
+      "power": 0.80449992,
+      "note": "interval 60sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 0.40450001,
+      "note": "recovery 60sec @ 0.40"
+    },
+    {
+      "duration": 60,
+      "power": 0.80449992,
+      "note": "interval 60sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 0.40450001,
+      "note": "recovery 60sec @ 0.40"
+    },
+    {
+      "duration": 60,
+      "power": 0.80449992,
+      "note": "interval 60sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 0.40450001,
+      "note": "recovery 60sec @ 0.40"
+    },
+    {
+      "duration": 180,
+      "power": 0.45604166,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 1.0044999,
+      "note": "interval 45sec @ 1.00"
+    },
+    {
+      "duration": 75,
+      "power": 0.40450001,
+      "note": "recovery 75sec @ 0.40"
+    },
+    {
+      "duration": 45,
+      "power": 1.0044999,
+      "note": "interval 45sec @ 1.00"
+    },
+    {
+      "duration": 75,
+      "power": 0.40450001,
+      "note": "recovery 75sec @ 0.40"
+    },
+    {
+      "duration": 45,
+      "power": 1.0044999,
+      "note": "interval 45sec @ 1.00"
+    },
+    {
+      "duration": 75,
+      "power": 0.40450001,
+      "note": "recovery 75sec @ 0.40"
+    },
+    {
+      "duration": 45,
+      "power": 1.0044999,
+      "note": "interval 45sec @ 1.00"
+    },
+    {
+      "duration": 75,
+      "power": 0.40450001,
+      "note": "recovery 75sec @ 0.40"
+    },
+    {
+      "duration": 180,
+      "power": 0.45449999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0545,
+      "note": "interval 30sec @ 1.05"
+    },
+    {
+      "duration": 90,
+      "power": 0.40450001,
+      "note": "recovery 90sec @ 0.40"
+    },
+    {
+      "duration": 30,
+      "power": 1.0545,
+      "note": "interval 30sec @ 1.05"
+    },
+    {
+      "duration": 90,
+      "power": 0.40450001,
+      "note": "recovery 90sec @ 0.40"
+    },
+    {
+      "duration": 30,
+      "power": 1.0545,
+      "note": "interval 30sec @ 1.05"
+    },
+    {
+      "duration": 90,
+      "power": 0.40450001,
+      "note": "recovery 90sec @ 0.40"
+    },
+    {
+      "duration": 30,
+      "power": 1.0545,
+      "note": "interval 30sec @ 1.05"
+    },
+    {
+      "duration": 90,
+      "power": 0.40450001,
+      "note": "recovery 90sec @ 0.40"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "name": "Twelve Spikes",
+  "note": "In today's workout, you will complete 3 x 12 minute blocks of Zone 3, with some surges thrown in for good measure! The Zone 3 riding should feel nice and comfortable, however the surges may sting a little. The surges in each block increase in intensity, but decrease in duration; \nBlock 1 - 100% of FTP for 30 seconds, \nBlock 2 - 110% of FTP for 20 seconds, \nBlock 3 - 115% of FTP for 15 seconds. \n\nAt the end of each 12 minute block, there is a 1 minute 'Free Ride' - depending on your current level of fitness, you can either drop the hammer and give it your max effort, or take some extra recovery. The significant volume of Tempo riding, coupled with the surges will help develop your endurance.  (by M.Rowe (Rowe & King))",
+  "intervals": [
+    {
+      "duration": 480,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 150,
+      "power": 0.7,
+      "note": "recovery 150sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 150,
+      "power": 0.7,
+      "note": "recovery 150sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 150,
+      "power": 0.7,
+      "note": "recovery 150sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 150,
+      "power": 0.7,
+      "note": "recovery 150sec @ 0.70"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.1,
+      "note": "interval 20sec @ 1.10"
+    },
+    {
+      "duration": 160,
+      "power": 0.7,
+      "note": "recovery 160sec @ 0.70"
+    },
+    {
+      "duration": 20,
+      "power": 1.1,
+      "note": "interval 20sec @ 1.10"
+    },
+    {
+      "duration": 160,
+      "power": 0.7,
+      "note": "recovery 160sec @ 0.70"
+    },
+    {
+      "duration": 20,
+      "power": 1.1,
+      "note": "interval 20sec @ 1.10"
+    },
+    {
+      "duration": 160,
+      "power": 0.7,
+      "note": "recovery 160sec @ 0.70"
+    },
+    {
+      "duration": 20,
+      "power": 1.1,
+      "note": "interval 20sec @ 1.10"
+    },
+    {
+      "duration": 160,
+      "power": 0.7,
+      "note": "recovery 160sec @ 0.70"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.15,
+      "note": "interval 15sec @ 1.15"
+    },
+    {
+      "duration": 165,
+      "power": 0.7,
+      "note": "recovery 165sec @ 0.70"
+    },
+    {
+      "duration": 15,
+      "power": 1.15,
+      "note": "interval 15sec @ 1.15"
+    },
+    {
+      "duration": 165,
+      "power": 0.7,
+      "note": "recovery 165sec @ 0.70"
+    },
+    {
+      "duration": 15,
+      "power": 1.15,
+      "note": "interval 15sec @ 1.15"
+    },
+    {
+      "duration": 165,
+      "power": 0.7,
+      "note": "recovery 165sec @ 0.70"
+    },
+    {
+      "duration": 15,
+      "power": 1.15,
+      "note": "interval 15sec @ 1.15"
+    },
+    {
+      "duration": 165,
+      "power": 0.7,
+      "note": "recovery 165sec @ 0.70"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

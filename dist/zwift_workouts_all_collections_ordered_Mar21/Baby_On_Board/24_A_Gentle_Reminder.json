@@ -1,0 +1,211 @@
+{
+  "name": "A Gentle Reminder",
+  "note": "This workout will ebb + flow from Endurance to Tempo 1-minute at a time working from 75-90% of your FTP. You will repeat this 6-minute set 4 times throughout the 40-minute ride. This is a great way to keep your aerobic system going while maintaining a moderate heart rate. (by Kristin Armstrong)",
+  "intervals": [
+    {
+      "duration": 30,
+      "power": 0.35,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.7,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.75,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "recovery 60sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.75,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "recovery 60sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.75,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "recovery 60sec @ 0.90"
+    },
+    {
+      "duration": 90,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.75,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "recovery 60sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.75,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "recovery 60sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.75,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "recovery 60sec @ 0.90"
+    },
+    {
+      "duration": 90,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.75,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "recovery 60sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.75,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "recovery 60sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.75,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "recovery 60sec @ 0.90"
+    },
+    {
+      "duration": 90,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.75,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "recovery 60sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.75,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "recovery 60sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.75,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "recovery 60sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    }
+  ]
+}

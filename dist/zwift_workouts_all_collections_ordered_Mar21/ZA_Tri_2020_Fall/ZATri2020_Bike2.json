@@ -1,0 +1,116 @@
+{
+  "name": "Aerobic Threshold Development",
+  "note": "This session is designed to improve your aerobic threshold, which, for most people, is around long course pace. As such, the intensity is kept lower, but the duration of each rep is longer (15\u201316min in length). We call these sessions up-and-unders, going up above and then under your long course power threshold. This session is just 1 hour 15 min in length, but can be much longer in total duration due to the relatively low intensity. Sometimes, these sessions can build up to nearly 3 hours of total work for the big timers!\n    \n    For WHOOP users \u2014 This workout is good to do on a Yellow or Green Recovery day. These up-and-under intervals have great training impacts with a lower level of strain, which is ideal for days that you haven\u2019t had decent recovery. (by Daniel Plews)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.82,
+      "note": "interval 120sec @ 0.82"
+    },
+    {
+      "duration": 120,
+      "power": 0.75,
+      "note": "recovery 120sec @ 0.75"
+    },
+    {
+      "duration": 120,
+      "power": 0.82,
+      "note": "interval 120sec @ 0.82"
+    },
+    {
+      "duration": 120,
+      "power": 0.75,
+      "note": "recovery 120sec @ 0.75"
+    },
+    {
+      "duration": 120,
+      "power": 0.82,
+      "note": "interval 120sec @ 0.82"
+    },
+    {
+      "duration": 120,
+      "power": 0.75,
+      "note": "recovery 120sec @ 0.75"
+    },
+    {
+      "duration": 120,
+      "power": 0.82,
+      "note": "interval 120sec @ 0.82"
+    },
+    {
+      "duration": 120,
+      "power": 0.75,
+      "note": "recovery 120sec @ 0.75"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.82,
+      "note": "interval 180sec @ 0.82"
+    },
+    {
+      "duration": 120,
+      "power": 0.75,
+      "note": "recovery 120sec @ 0.75"
+    },
+    {
+      "duration": 180,
+      "power": 0.82,
+      "note": "interval 180sec @ 0.82"
+    },
+    {
+      "duration": 120,
+      "power": 0.75,
+      "note": "recovery 120sec @ 0.75"
+    },
+    {
+      "duration": 180,
+      "power": 0.82,
+      "note": "interval 180sec @ 0.82"
+    },
+    {
+      "duration": 120,
+      "power": 0.75,
+      "note": "recovery 120sec @ 0.75"
+    },
+    {
+      "duration": 300,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.82,
+      "note": "interval 240sec @ 0.82"
+    },
+    {
+      "duration": 240,
+      "power": 0.75,
+      "note": "recovery 240sec @ 0.75"
+    },
+    {
+      "duration": 240,
+      "power": 0.82,
+      "note": "interval 240sec @ 0.82"
+    },
+    {
+      "duration": 240,
+      "power": 0.75,
+      "note": "recovery 240sec @ 0.75"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

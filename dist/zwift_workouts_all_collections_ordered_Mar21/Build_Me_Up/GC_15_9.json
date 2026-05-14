@@ -1,0 +1,106 @@
+{
+  "name": "15.9",
+  "note": "Named for the atomic mass of Oxygen, this VO2max workout is designed to help you make better use of that oh-so-precious resource. The workout features two main sets. The first is a block of intervals above threshold, pushing your body to work and recover repeatedly. The second is a sustained sub-threshold effort that asks you to work hard on tired legs. You get to breathe easy - and grab some extra O2 - during the long warm up and cool down. (by Shayne Gaffney | GC Coaching)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.95,
+      "note": "interval 30sec @ 0.95"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "interval 30sec @ 1.05"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "interval 30sec @ 1.15"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 1.15,
+      "note": "interval 150sec @ 1.15"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "recovery 180sec @ 0.55"
+    },
+    {
+      "duration": 150,
+      "power": 1.15,
+      "note": "interval 150sec @ 1.15"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "recovery 180sec @ 0.55"
+    },
+    {
+      "duration": 150,
+      "power": 1.15,
+      "note": "interval 150sec @ 1.15"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "recovery 180sec @ 0.55"
+    },
+    {
+      "duration": 150,
+      "power": 1.15,
+      "note": "interval 150sec @ 1.15"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "recovery 180sec @ 0.55"
+    },
+    {
+      "duration": 150,
+      "power": 1.15,
+      "note": "interval 150sec @ 1.15"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "recovery 180sec @ 0.55"
+    },
+    {
+      "duration": 600,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 450,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

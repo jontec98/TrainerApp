@@ -1,0 +1,121 @@
+{
+  "name": "Stop-Start",
+  "note": "This session is like walking with a 2 year old - constantly stopping and starting. You will complete 2 blocks of 5 x 45 second efforts with a good rest of 60 seconds between each effort. \n\nWhile your heart rate and perceived effort will surge during the 45 seconds of effort, there is ample opportunity to recover well between each effort so a suitable workout for during pregnancy or starting slowly to gain fitness. (by D.Rowe (Rowe&King))",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.45,
+      "note": "interval 60sec @ 0.45"
+    },
+    {
+      "duration": 45,
+      "power": 1.01,
+      "note": "recovery 45sec @ 1.01"
+    },
+    {
+      "duration": 60,
+      "power": 0.45,
+      "note": "interval 60sec @ 0.45"
+    },
+    {
+      "duration": 45,
+      "power": 1.01,
+      "note": "recovery 45sec @ 1.01"
+    },
+    {
+      "duration": 60,
+      "power": 0.45,
+      "note": "interval 60sec @ 0.45"
+    },
+    {
+      "duration": 45,
+      "power": 1.01,
+      "note": "recovery 45sec @ 1.01"
+    },
+    {
+      "duration": 60,
+      "power": 0.45,
+      "note": "interval 60sec @ 0.45"
+    },
+    {
+      "duration": 45,
+      "power": 1.01,
+      "note": "recovery 45sec @ 1.01"
+    },
+    {
+      "duration": 60,
+      "power": 0.45,
+      "note": "interval 60sec @ 0.45"
+    },
+    {
+      "duration": 45,
+      "power": 1.01,
+      "note": "recovery 45sec @ 1.01"
+    },
+    {
+      "duration": 150,
+      "power": 0.46,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.45,
+      "note": "interval 60sec @ 0.45"
+    },
+    {
+      "duration": 45,
+      "power": 1.0,
+      "note": "recovery 45sec @ 1.00"
+    },
+    {
+      "duration": 60,
+      "power": 0.45,
+      "note": "interval 60sec @ 0.45"
+    },
+    {
+      "duration": 45,
+      "power": 1.0,
+      "note": "recovery 45sec @ 1.00"
+    },
+    {
+      "duration": 60,
+      "power": 0.45,
+      "note": "interval 60sec @ 0.45"
+    },
+    {
+      "duration": 45,
+      "power": 1.0,
+      "note": "recovery 45sec @ 1.00"
+    },
+    {
+      "duration": 60,
+      "power": 0.45,
+      "note": "interval 60sec @ 0.45"
+    },
+    {
+      "duration": 45,
+      "power": 1.0,
+      "note": "recovery 45sec @ 1.00"
+    },
+    {
+      "duration": 60,
+      "power": 0.45,
+      "note": "interval 60sec @ 0.45"
+    },
+    {
+      "duration": 45,
+      "power": 1.0,
+      "note": "recovery 45sec @ 1.00"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

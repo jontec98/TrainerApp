@@ -1,0 +1,26 @@
+{
+  "name": "Week 6.6 - Endurance",
+  "note": "We're building endurance today! Warmup followed by 3 sets of fast pedals (as fast as you can pedal without bouncing in the saddle) to open up the legs, followed by a long endurance ride. Focus on staying relaxed on the bike and vary your cadence.",
+  "intervals": [
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 360,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 9000,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

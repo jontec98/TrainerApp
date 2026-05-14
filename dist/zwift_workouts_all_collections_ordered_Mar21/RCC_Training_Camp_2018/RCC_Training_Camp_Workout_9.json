@@ -1,0 +1,241 @@
+{
+  "name": "RCC Training Camp Workout #9",
+  "note": "Welcome back to the Rapha Cycling Club Training Camp for Workout 9 in the series. This session is an Over/Under session, where we ride above and below our threshold. For most Time Trials, climbs or any sort of effort longer than 10 Minutes, your Lactate Threshold / Functional Threshold Power (FTP) is closely correlated to performance. By riding a little bit over threshold, then a little bit below threshold, we train our body to be more efficient at riding with lactic acid in our legs, which importantly improves our Lactate Tolerance and our FTP. In this session we complete 2 x 15 minute blocks of 30 seconds Over @ 105%FTP - 1 minute Under @ 95% FTP. Make sure you are mentally prepared for this session as it is a tough one, but hugely rewarding! \n\nErg mode is recommended for this workout. (by Matt Rowe (Rowe and King))",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.30450001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.2544999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.30450001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0545,
+      "note": "interval 30sec @ 1.05"
+    },
+    {
+      "duration": 60,
+      "power": 0.95449996,
+      "note": "recovery 60sec @ 0.95"
+    },
+    {
+      "duration": 30,
+      "power": 1.0545,
+      "note": "interval 30sec @ 1.05"
+    },
+    {
+      "duration": 60,
+      "power": 0.95449996,
+      "note": "recovery 60sec @ 0.95"
+    },
+    {
+      "duration": 30,
+      "power": 1.0545,
+      "note": "interval 30sec @ 1.05"
+    },
+    {
+      "duration": 60,
+      "power": 0.95449996,
+      "note": "recovery 60sec @ 0.95"
+    },
+    {
+      "duration": 30,
+      "power": 1.0545,
+      "note": "interval 30sec @ 1.05"
+    },
+    {
+      "duration": 60,
+      "power": 0.95449996,
+      "note": "recovery 60sec @ 0.95"
+    },
+    {
+      "duration": 30,
+      "power": 1.0545,
+      "note": "interval 30sec @ 1.05"
+    },
+    {
+      "duration": 60,
+      "power": 0.95449996,
+      "note": "recovery 60sec @ 0.95"
+    },
+    {
+      "duration": 30,
+      "power": 1.0545,
+      "note": "interval 30sec @ 1.05"
+    },
+    {
+      "duration": 60,
+      "power": 0.95449996,
+      "note": "recovery 60sec @ 0.95"
+    },
+    {
+      "duration": 30,
+      "power": 1.0545,
+      "note": "interval 30sec @ 1.05"
+    },
+    {
+      "duration": 60,
+      "power": 0.95449996,
+      "note": "recovery 60sec @ 0.95"
+    },
+    {
+      "duration": 30,
+      "power": 1.0545,
+      "note": "interval 30sec @ 1.05"
+    },
+    {
+      "duration": 60,
+      "power": 0.95449996,
+      "note": "recovery 60sec @ 0.95"
+    },
+    {
+      "duration": 30,
+      "power": 1.0545,
+      "note": "interval 30sec @ 1.05"
+    },
+    {
+      "duration": 60,
+      "power": 0.95449996,
+      "note": "recovery 60sec @ 0.95"
+    },
+    {
+      "duration": 30,
+      "power": 1.0545,
+      "note": "interval 30sec @ 1.05"
+    },
+    {
+      "duration": 60,
+      "power": 0.95449996,
+      "note": "recovery 60sec @ 0.95"
+    },
+    {
+      "duration": 300,
+      "power": 0.30450001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0545,
+      "note": "interval 30sec @ 1.05"
+    },
+    {
+      "duration": 60,
+      "power": 0.95449996,
+      "note": "recovery 60sec @ 0.95"
+    },
+    {
+      "duration": 30,
+      "power": 1.0545,
+      "note": "interval 30sec @ 1.05"
+    },
+    {
+      "duration": 60,
+      "power": 0.95449996,
+      "note": "recovery 60sec @ 0.95"
+    },
+    {
+      "duration": 30,
+      "power": 1.0545,
+      "note": "interval 30sec @ 1.05"
+    },
+    {
+      "duration": 60,
+      "power": 0.95449996,
+      "note": "recovery 60sec @ 0.95"
+    },
+    {
+      "duration": 30,
+      "power": 1.0545,
+      "note": "interval 30sec @ 1.05"
+    },
+    {
+      "duration": 60,
+      "power": 0.95449996,
+      "note": "recovery 60sec @ 0.95"
+    },
+    {
+      "duration": 30,
+      "power": 1.0545,
+      "note": "interval 30sec @ 1.05"
+    },
+    {
+      "duration": 60,
+      "power": 0.95449996,
+      "note": "recovery 60sec @ 0.95"
+    },
+    {
+      "duration": 30,
+      "power": 1.0545,
+      "note": "interval 30sec @ 1.05"
+    },
+    {
+      "duration": 60,
+      "power": 0.95449996,
+      "note": "recovery 60sec @ 0.95"
+    },
+    {
+      "duration": 30,
+      "power": 1.0545,
+      "note": "interval 30sec @ 1.05"
+    },
+    {
+      "duration": 60,
+      "power": 0.95449996,
+      "note": "recovery 60sec @ 0.95"
+    },
+    {
+      "duration": 30,
+      "power": 1.0545,
+      "note": "interval 30sec @ 1.05"
+    },
+    {
+      "duration": 60,
+      "power": 0.95449996,
+      "note": "recovery 60sec @ 0.95"
+    },
+    {
+      "duration": 30,
+      "power": 1.0545,
+      "note": "interval 30sec @ 1.05"
+    },
+    {
+      "duration": 60,
+      "power": 0.95449996,
+      "note": "recovery 60sec @ 0.95"
+    },
+    {
+      "duration": 30,
+      "power": 1.0545,
+      "note": "interval 30sec @ 1.05"
+    },
+    {
+      "duration": 60,
+      "power": 0.95449996,
+      "note": "recovery 60sec @ 0.95"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

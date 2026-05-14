@@ -1,0 +1,151 @@
+{
+  "name": "Week 15.5 - Max Aerobic x 3",
+  "note": "Warm up well including 3 x 6 second accelerations during the 10 minute warm up. Followed by 2 sets of 3 x 5min @ 112%, 109% and 105% respectively, with 5min recovery. Riding between sets is Free Ride. Cool down. (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.56999999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.63,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.69999999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.75999999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.13,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.09,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 900,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 300,
+      "power": 1.13,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.09,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.75999999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.73000002,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.69999999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.67000002,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.63999999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.62,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.58999997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.56,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.52999997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    }
+  ]
+}

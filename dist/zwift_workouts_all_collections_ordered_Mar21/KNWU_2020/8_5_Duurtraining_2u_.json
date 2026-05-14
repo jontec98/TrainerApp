@@ -1,0 +1,16 @@
+{
+  "name": "Week 8.5 - Duurtraining (2u)",
+  "note": "Deze training helpt je langer vol te houden. (by KNWU Fondo)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 6900,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    }
+  ]
+}

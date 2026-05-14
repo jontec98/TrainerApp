@@ -1,0 +1,41 @@
+{
+  "name": "Month 4 - Semifinals.3 - Strength Builder",
+  "note": "This session is designed to build leg strength. Low cadence, high torque efforts will increase your ability to generate force in races. After a 10 min warm-up, begin your first effort, a 16 min interval in Z3 at 65-75 rpm. Recover five minutes between efforts and repeat 2 more times. 3 X 16 min efforts. 15 min cool down.  (by K.Veronneau ZA Leader)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 960,
+      "power": 0.81108946,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.65155643,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 960,
+      "power": 0.81108946,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.65155643,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 960,
+      "power": 0.81108946,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

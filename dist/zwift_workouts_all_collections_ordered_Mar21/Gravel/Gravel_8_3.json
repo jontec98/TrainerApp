@@ -1,0 +1,176 @@
+{
+  "name": "Aerobic Flow",
+  "note": "Yes, another aerobic type effort this week. Cuz, recovery. I do NOT want you pushing the pace here today, and with all other workouts this week you can push the wattage down if feeling fatigued!\n\nSome real easy builds. Nothing fancy, nothing hard. Please keep it easy! (by Zwift)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.7,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.7,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.7,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.7,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.7,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.7,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.6,
+      "note": "interval 240sec @ 0.60"
+    },
+    {
+      "duration": 120,
+      "power": 0.8,
+      "note": "recovery 120sec @ 0.80"
+    },
+    {
+      "duration": 240,
+      "power": 0.6,
+      "note": "interval 240sec @ 0.60"
+    },
+    {
+      "duration": 120,
+      "power": 0.8,
+      "note": "recovery 120sec @ 0.80"
+    },
+    {
+      "duration": 240,
+      "power": 0.6,
+      "note": "interval 240sec @ 0.60"
+    },
+    {
+      "duration": 120,
+      "power": 0.8,
+      "note": "recovery 120sec @ 0.80"
+    },
+    {
+      "duration": 240,
+      "power": 0.6,
+      "note": "interval 240sec @ 0.60"
+    },
+    {
+      "duration": 120,
+      "power": 0.8,
+      "note": "recovery 120sec @ 0.80"
+    },
+    {
+      "duration": 480,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

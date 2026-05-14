@@ -1,0 +1,86 @@
+{
+  "name": "Week 4.3 - Final Sharpen",
+  "note": "One final tune-up to keep the legs sharp and the mind and body fresh before you take on your Fondo! (by Zwift)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.1544999,
+      "note": "interval 15sec @ 1.15"
+    },
+    {
+      "duration": 45,
+      "power": 0.75449997,
+      "note": "recovery 45sec @ 0.75"
+    },
+    {
+      "duration": 15,
+      "power": 1.1544999,
+      "note": "interval 15sec @ 1.15"
+    },
+    {
+      "duration": 45,
+      "power": 0.75449997,
+      "note": "recovery 45sec @ 0.75"
+    },
+    {
+      "duration": 15,
+      "power": 1.1544999,
+      "note": "interval 15sec @ 1.15"
+    },
+    {
+      "duration": 45,
+      "power": 0.75449997,
+      "note": "recovery 45sec @ 0.75"
+    },
+    {
+      "duration": 15,
+      "power": 1.1544999,
+      "note": "interval 15sec @ 1.15"
+    },
+    {
+      "duration": 45,
+      "power": 0.75449997,
+      "note": "recovery 45sec @ 0.75"
+    },
+    {
+      "duration": 180,
+      "power": 0.95449996,
+      "note": "interval 180sec @ 0.95"
+    },
+    {
+      "duration": 180,
+      "power": 0.55449998,
+      "note": "recovery 180sec @ 0.55"
+    },
+    {
+      "duration": 180,
+      "power": 0.95449996,
+      "note": "interval 180sec @ 0.95"
+    },
+    {
+      "duration": 180,
+      "power": 0.55449998,
+      "note": "recovery 180sec @ 0.55"
+    },
+    {
+      "duration": 180,
+      "power": 0.95449996,
+      "note": "interval 180sec @ 0.95"
+    },
+    {
+      "duration": 180,
+      "power": 0.55449998,
+      "note": "recovery 180sec @ 0.55"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "name": "HWBTWTDWH",
+  "note": "Hard Work Beats Talent When Talent Doesn't Work Hard. (by Shayne Gaffney | GC Coaching)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.95,
+      "note": "interval 30sec @ 0.95"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "interval 30sec @ 1.05"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "interval 30sec @ 1.15"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.88,
+      "note": "interval 120sec @ 0.88"
+    },
+    {
+      "duration": 60,
+      "power": 0.93,
+      "note": "recovery 60sec @ 0.93"
+    },
+    {
+      "duration": 120,
+      "power": 0.88,
+      "note": "interval 120sec @ 0.88"
+    },
+    {
+      "duration": 60,
+      "power": 0.93,
+      "note": "recovery 60sec @ 0.93"
+    },
+    {
+      "duration": 120,
+      "power": 0.88,
+      "note": "interval 120sec @ 0.88"
+    },
+    {
+      "duration": 60,
+      "power": 0.93,
+      "note": "recovery 60sec @ 0.93"
+    },
+    {
+      "duration": 120,
+      "power": 0.88,
+      "note": "interval 120sec @ 0.88"
+    },
+    {
+      "duration": 60,
+      "power": 0.93,
+      "note": "recovery 60sec @ 0.93"
+    },
+    {
+      "duration": 120,
+      "power": 0.88,
+      "note": "interval 120sec @ 0.88"
+    },
+    {
+      "duration": 60,
+      "power": 0.93,
+      "note": "recovery 60sec @ 0.93"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.83,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.91,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.91,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.83,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.75,
+      "note": "interval 120sec @ 0.75"
+    },
+    {
+      "duration": 30,
+      "power": 0.75,
+      "note": "recovery 30sec @ 0.75"
+    },
+    {
+      "duration": 120,
+      "power": 0.75,
+      "note": "interval 120sec @ 0.75"
+    },
+    {
+      "duration": 30,
+      "power": 0.75,
+      "note": "recovery 30sec @ 0.75"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 360,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

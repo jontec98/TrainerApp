@@ -1,0 +1,21 @@
+{
+  "name": "Week 5.2 - Cadence Change Efforts",
+  "note": "Start with a 10 minute warm up - Zone 1. Then 40 minutes Zone 2, but for the first 20 seconds of each and every minute, lift your cadence to 110 rpm - whilst maintaining the same power. So lower the resistence/gear and raise your cadence. 10 min cool down (by trainSharp)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 2400,
+      "power": 0.65449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

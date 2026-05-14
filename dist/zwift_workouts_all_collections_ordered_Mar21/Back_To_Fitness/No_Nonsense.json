@@ -1,0 +1,51 @@
+{
+  "name": "Week 3.1 - No Nonsense",
+  "note": "This workout is straight forward - you will spend plenty of time with your chain tight. 3 x 6 minute blocks of Zone 3, will ensure you get a good training stress, without leaving your legs heavy for tomorrow. (by D.Rowe (Rowe&King))",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 360,
+      "power": 0.89,
+      "note": "interval 360sec @ 0.89"
+    },
+    {
+      "duration": 120,
+      "power": 0.51,
+      "note": "recovery 120sec @ 0.51"
+    },
+    {
+      "duration": 360,
+      "power": 0.89,
+      "note": "interval 360sec @ 0.89"
+    },
+    {
+      "duration": 120,
+      "power": 0.51,
+      "note": "recovery 120sec @ 0.51"
+    },
+    {
+      "duration": 360,
+      "power": 0.89,
+      "note": "interval 360sec @ 0.89"
+    },
+    {
+      "duration": 120,
+      "power": 0.51,
+      "note": "recovery 120sec @ 0.51"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

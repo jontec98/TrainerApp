@@ -1,0 +1,91 @@
+{
+  "name": "Annika Langvad Series.7 - Workout 7",
+  "note": "Today's session is another variant of a threshold workout. Added with a 15 sec burst of power at the beginning and end of each block of threshold. \n\nOften referred to as EPD's or Explosive Power Development effort, we make an explosive effort at the start of each effort to produce some lactate, before settling in to 100% of FTP.\n\nImagine accelerating round a hairpin, and then settling in to 12 minutes of threshold through a field! We then finish each effort with a 15 second sprint for position heading in to a technical section. (by Annika Langvad)",
+  "intervals": [
+    {
+      "duration": 420,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0944999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0944999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 2.0044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 720,
+      "power": 1.0044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 2.0044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.40450001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 2.0044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 720,
+      "power": 1.0044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 2.0044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.40450001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 2.0044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 720,
+      "power": 1.0044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 2.0044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    }
+  ]
+}

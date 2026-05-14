@@ -1,0 +1,111 @@
+{
+  "name": "Week 10.1 - Anaerobic #2",
+  "note": "The aim today is to produce repeatable, high power intervals.\n\nWith 2 sets of the 45 second Anaerobic Intensive intervals, note any differences in your heart rate response from the first to the second set.\n\nBetween the Anaerobic Intensive sets, we complete a 10 minute tempo effort to build some fatigue.  (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55449998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 1.8045,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.56059748,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 1.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.56124622,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 1.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.56143874,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 1.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.56152624,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.75449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.56449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 1.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.56152576,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 1.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.56592262,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 1.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5626474,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 1.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.56397861,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

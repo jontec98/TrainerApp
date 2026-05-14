@@ -1,0 +1,116 @@
+{
+  "name": "Tempo With Accelerations #1",
+  "note": "Steady endurance work trains your body to utilize oxygen to metabolise fat as its fuel source.\n\nBy incorporating sprint efforts into a steady state effort, you will recruit additional muscle fibers and extend their ability to work aerobically.\n\nThe sprint efforts increase in duration from 15sec to 20sec and 30sec. (by Zwift)",
+  "intervals": [
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.6045,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.65449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.81449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0944999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.90449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.84449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.7544999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.84449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.7045,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.84449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.5044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.84449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.7544999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.84449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.7045,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.84449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.5044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    }
+  ]
+}

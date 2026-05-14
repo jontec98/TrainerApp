@@ -1,0 +1,121 @@
+{
+  "name": "Month 1.7 - Extended Over Unders",
+  "note": "This is a very tough session, make sure you are fresh and suitably motivated before attempting this session. Try your best to complete the intervals, it is however, designed to take you to your VO2max (limit of your aerobic capacity) and may be tricky to complete. A good warm up is required, I would also recommend a gel and a strong coffee before-hand. \u00a0The main interval, repeated twice, starts with 3 minutes at powers just below your FTP (\"pushing\"), this is the easiest part of the interval, do not go out too hard here, otherwise you will pay the price later on! After 3 minutes lift to powers just above your FTP (\"pulling\"), then back to pushing. Then the intensity increases to your maximal aerobic power (MAP) for 2 minutes, then back to pushing for 3 minutes; try and get your breath here and prepare for the final 2 minutes!\u00a0 (by TrainSharp Cycle Coaching)",
+  "intervals": [
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.51499999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.245,
+      "note": "interval 30sec @ 1.25"
+    },
+    {
+      "duration": 150,
+      "power": 0.49000001,
+      "note": "recovery 150sec @ 0.49"
+    },
+    {
+      "duration": 30,
+      "power": 1.245,
+      "note": "interval 30sec @ 1.25"
+    },
+    {
+      "duration": 150,
+      "power": 0.49000001,
+      "note": "recovery 150sec @ 0.49"
+    },
+    {
+      "duration": 30,
+      "power": 1.245,
+      "note": "interval 30sec @ 1.25"
+    },
+    {
+      "duration": 150,
+      "power": 0.49000001,
+      "note": "recovery 150sec @ 0.49"
+    },
+    {
+      "duration": 300,
+      "power": 0.51499999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.97000003,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.105,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.97000003,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.22,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.97000003,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.22,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.97000003,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.105,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.97000003,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.22,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.97000003,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.22,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

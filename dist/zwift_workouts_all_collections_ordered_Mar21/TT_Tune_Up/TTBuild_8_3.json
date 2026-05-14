@@ -1,0 +1,142 @@
+{
+  "name": "Endurance #4",
+  "note": "Building endurance doesn't just involve long, low power efforts. In this session we challenge your aerobic energy pathways with a range of efforts.\n\nOpening with a Zone 2 effort, we build into a some neuromuscular work, before finishing with a Zone 3 effort that starts at the top of the range and gradually decreases. (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.65,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 0.89,
+      "note": "recovery 30sec @ 0.89"
+    },
+    {
+      "duration": 30,
+      "power": 0.65,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 0.89,
+      "note": "recovery 30sec @ 0.89"
+    },
+    {
+      "duration": 30,
+      "power": 0.65,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 0.89,
+      "note": "recovery 30sec @ 0.89"
+    },
+    {
+      "duration": 30,
+      "power": 0.65,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 0.89,
+      "note": "recovery 30sec @ 0.89"
+    },
+    {
+      "duration": 30,
+      "power": 0.65,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 0.89,
+      "note": "recovery 30sec @ 0.89"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.25,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.5,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 300,
+      "power": 0.76,
+      "note": "recovery 300sec @ 0.76"
+    },
+    {
+      "duration": 15,
+      "power": 1.5,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 300,
+      "power": 0.76,
+      "note": "recovery 300sec @ 0.76"
+    },
+    {
+      "duration": 15,
+      "power": 1.5,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 300,
+      "power": 0.76,
+      "note": "recovery 300sec @ 0.76"
+    },
+    {
+      "duration": 15,
+      "power": 1.5,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 300,
+      "power": 0.76,
+      "note": "recovery 300sec @ 0.76"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.25,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "name": "Norseman workout: Eidfjord",
+  "note": "So you think you have what it takes to take on the Norseman Workout Series? \nEidfjord is where it all begins. It will still be dark when you jump off the back of a car ferry into an icy fjord, you now just need to swim 2.5 miles towards the fire on shore, jump on your bike and start climbing immediately. How hard can this be?\nThis is the first in a series of Norseman workouts and is a classic threshold session with a twist. Each 9 minute threshold effort includes a 45 second burst at high intensity at the start and 4.5 minute mark. This session should be moderately strenuous and work your muscular endurance without costing you too much in terms of recovery time.\n\tThink you have what it takes? Check out all of the Norseman Run and Bike workouts to help you prepare for the Norseman Festival of Climbing July 27th - August 2nd. \n (by Martin Bonnevie-Svendsen)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 1.15,
+      "note": "interval 45sec @ 1.15"
+    },
+    {
+      "duration": 225,
+      "power": 0.9,
+      "note": "recovery 225sec @ 0.90"
+    },
+    {
+      "duration": 45,
+      "power": 1.15,
+      "note": "interval 45sec @ 1.15"
+    },
+    {
+      "duration": 225,
+      "power": 0.9,
+      "note": "recovery 225sec @ 0.90"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 1.15,
+      "note": "interval 45sec @ 1.15"
+    },
+    {
+      "duration": 225,
+      "power": 0.9,
+      "note": "recovery 225sec @ 0.90"
+    },
+    {
+      "duration": 45,
+      "power": 1.15,
+      "note": "interval 45sec @ 1.15"
+    },
+    {
+      "duration": 225,
+      "power": 0.9,
+      "note": "recovery 225sec @ 0.90"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 1.15,
+      "note": "interval 45sec @ 1.15"
+    },
+    {
+      "duration": 225,
+      "power": 0.9,
+      "note": "recovery 225sec @ 0.90"
+    },
+    {
+      "duration": 45,
+      "power": 1.15,
+      "note": "interval 45sec @ 1.15"
+    },
+    {
+      "duration": 225,
+      "power": 0.9,
+      "note": "recovery 225sec @ 0.90"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 1.15,
+      "note": "interval 45sec @ 1.15"
+    },
+    {
+      "duration": 225,
+      "power": 0.9,
+      "note": "recovery 225sec @ 0.90"
+    },
+    {
+      "duration": 45,
+      "power": 1.15,
+      "note": "interval 45sec @ 1.15"
+    },
+    {
+      "duration": 225,
+      "power": 0.9,
+      "note": "recovery 225sec @ 0.90"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

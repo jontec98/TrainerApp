@@ -1,0 +1,151 @@
+{
+  "name": "Week 10.5 - High Intensity/5min",
+  "note": "High intensity efforts focusing on the ability to produce anaerobic power, from an already threshold power.\n\nThe intervals simulate the demands of flat, fast efforts, as well as climbing efforts with a lower cadence. (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0445,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 1.2145,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.55449998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.4044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 0.94999999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.4044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 0.94999999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 0.94999999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 0.94999999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 0.95449996,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.55449998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0445,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 1.2145,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 0.95449996,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 0.94999999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 0.94999999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 0.94999999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 0.94999999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

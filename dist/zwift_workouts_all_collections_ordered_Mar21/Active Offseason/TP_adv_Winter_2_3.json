@@ -1,0 +1,186 @@
+{
+  "name": "Week 2.3 - Over-Gear",
+  "note": "The goal today is to get in low rpm, high strength work. If you can't use the gearing suggested, that's OK! Go by the cadence and follow the spirit of the workout.",
+  "intervals": [
+    {
+      "duration": 960,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 900,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 8,
+      "power": 1.0,
+      "note": "interval 8sec @ 1.00"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 8,
+      "power": 1.0,
+      "note": "interval 8sec @ 1.00"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 8,
+      "power": 1.0,
+      "note": "interval 8sec @ 1.00"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 8,
+      "power": 1.0,
+      "note": "interval 8sec @ 1.00"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 8,
+      "power": 1.0,
+      "note": "interval 8sec @ 1.00"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 8,
+      "power": 1.0,
+      "note": "interval 8sec @ 1.00"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 8,
+      "power": 1.0,
+      "note": "interval 8sec @ 1.00"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 8,
+      "power": 1.0,
+      "note": "interval 8sec @ 1.00"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 8,
+      "power": 1.0,
+      "note": "interval 8sec @ 1.00"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 8,
+      "power": 1.0,
+      "note": "interval 8sec @ 1.00"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 8,
+      "power": 1.0,
+      "note": "interval 8sec @ 1.00"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 8,
+      "power": 1.0,
+      "note": "interval 8sec @ 1.00"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 8,
+      "power": 1.0,
+      "note": "interval 8sec @ 1.00"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 8,
+      "power": 1.0,
+      "note": "interval 8sec @ 1.00"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 8,
+      "power": 1.0,
+      "note": "interval 8sec @ 1.00"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 8,
+      "power": 1.0,
+      "note": "interval 8sec @ 1.00"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

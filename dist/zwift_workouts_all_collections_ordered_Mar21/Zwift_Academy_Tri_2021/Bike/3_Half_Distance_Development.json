@@ -1,0 +1,186 @@
+{
+  "name": "70.3 Development",
+  "note": "Looking for some brick work? You can pair today's session with run workout 3. Progressive Tempo, or run workout 2. Full-Distance Specific VO2 Max.\n\t\t\n\tThis session is typically known as an up-and-under session, where you perform periods of time slightly over and then slightly under 70.3 race pace power. This is a great way to get more comfortable at your 70.3 pace, while also improving that number. Here, you will be doing 8-minute reps \u2014 two rounds of 2 minutes above (around 90% FTP) and two rounds of 2 minutes below (around 80% FTP) 70.3 race pace. From a physiological perspective, these sessions help promote fat oxidation and structural changes at a muscular level. \n\n\tFor WHOOP users \u2014 This workout is good to do on a Yellow or Green Recovery day. These up-and-under intervals have great training impacts with a lower level of strain, which is ideal for days that you haven\u2019t had decent recovery.\n\t (by Dan Plews)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "recovery 30sec @ 0.55"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "recovery 30sec @ 0.55"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "recovery 30sec @ 0.55"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "recovery 30sec @ 0.55"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "recovery 30sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 0.9,
+      "note": "interval 120sec @ 0.90"
+    },
+    {
+      "duration": 120,
+      "power": 0.8,
+      "note": "recovery 120sec @ 0.80"
+    },
+    {
+      "duration": 120,
+      "power": 0.9,
+      "note": "interval 120sec @ 0.90"
+    },
+    {
+      "duration": 120,
+      "power": 0.8,
+      "note": "recovery 120sec @ 0.80"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.9,
+      "note": "interval 120sec @ 0.90"
+    },
+    {
+      "duration": 120,
+      "power": 0.8,
+      "note": "recovery 120sec @ 0.80"
+    },
+    {
+      "duration": 120,
+      "power": 0.9,
+      "note": "interval 120sec @ 0.90"
+    },
+    {
+      "duration": 120,
+      "power": 0.8,
+      "note": "recovery 120sec @ 0.80"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.9,
+      "note": "interval 120sec @ 0.90"
+    },
+    {
+      "duration": 120,
+      "power": 0.8,
+      "note": "recovery 120sec @ 0.80"
+    },
+    {
+      "duration": 120,
+      "power": 0.9,
+      "note": "interval 120sec @ 0.90"
+    },
+    {
+      "duration": 120,
+      "power": 0.8,
+      "note": "recovery 120sec @ 0.80"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.9,
+      "note": "interval 120sec @ 0.90"
+    },
+    {
+      "duration": 120,
+      "power": 0.8,
+      "note": "recovery 120sec @ 0.80"
+    },
+    {
+      "duration": 120,
+      "power": 0.9,
+      "note": "interval 120sec @ 0.90"
+    },
+    {
+      "duration": 120,
+      "power": 0.8,
+      "note": "recovery 120sec @ 0.80"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.9,
+      "note": "interval 120sec @ 0.90"
+    },
+    {
+      "duration": 120,
+      "power": 0.8,
+      "note": "recovery 120sec @ 0.80"
+    },
+    {
+      "duration": 120,
+      "power": 0.9,
+      "note": "interval 120sec @ 0.90"
+    },
+    {
+      "duration": 120,
+      "power": 0.8,
+      "note": "recovery 120sec @ 0.80"
+    },
+    {
+      "duration": 120,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

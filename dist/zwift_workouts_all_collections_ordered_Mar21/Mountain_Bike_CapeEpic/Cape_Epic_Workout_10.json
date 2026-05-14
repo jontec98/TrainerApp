@@ -1,0 +1,91 @@
+{
+  "name": "Annika Langvad Series.10 - Workout 10",
+  "note": "Today's workout again focuses on helping to develop our endurance and aerobic capacity - both key attributes for mountain biking. \n\nLong days in the saddle, with some tricky terrain that requires a bursts of power to get through - this is where being able to produce spikes in power output, repeatedly for a few minutes at a time is critical for success. These efforts are not all out max efforts, but surges above threshold, but still a controlled, aerobic effort. \n\nWe are completing two blocks of Zone 3 effort at the start of this session to generate some fatigue and give the 3 minute Zone 5 efforts much more of a 'race feel' vs doing them fresh. \n\nThe 3 minutes Z5 efforts are to be completed as much as possible, out of the saddle as we imitate a very steep single track section! (by Annika Langvad)",
+  "intervals": [
+    {
+      "duration": 420,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0944999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0944999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 900,
+      "power": 0.85449994,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 900,
+      "power": 0.85449994,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.1544999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.30450001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.1544999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.30450001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.1544999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.30450001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.1544999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    }
+  ]
+}

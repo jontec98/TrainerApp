@@ -1,0 +1,21 @@
+{
+  "name": "Week 11.7 - Endurance",
+  "note": "Endurance ride. Set a pace at Endurance power and hold this pace for the prescribed workout time. Focus on riding smooth and staying relaxed. Vary your cadence.",
+  "intervals": [
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 7200,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

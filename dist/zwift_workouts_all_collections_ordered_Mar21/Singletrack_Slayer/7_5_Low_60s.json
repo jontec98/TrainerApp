@@ -1,0 +1,191 @@
+{
+  "name": "Low 60's",
+  "note": "When we complete short steep climbs, the lower cadence results in high crank torque, which in turn recruits more of your fast twitch fibers. With this in mind, it's important that our training meets the demands of this movement.\n\nToday we are performing lower cadence intervals but with power just above threshold. (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.64999998,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 0.80000001,
+      "note": "recovery 30sec @ 0.80"
+    },
+    {
+      "duration": 30,
+      "power": 0.64999998,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 0.80000001,
+      "note": "recovery 30sec @ 0.80"
+    },
+    {
+      "duration": 30,
+      "power": 0.64999998,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 0.80000001,
+      "note": "recovery 30sec @ 0.80"
+    },
+    {
+      "duration": 30,
+      "power": 0.64999998,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 0.80000001,
+      "note": "recovery 30sec @ 0.80"
+    },
+    {
+      "duration": 30,
+      "power": 0.64999998,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 0.80000001,
+      "note": "recovery 30sec @ 0.80"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.80000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.75449997,
+      "note": "interval 120sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 1.0445,
+      "note": "recovery 60sec @ 1.04"
+    },
+    {
+      "duration": 120,
+      "power": 0.75449997,
+      "note": "interval 120sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 1.0445,
+      "note": "recovery 60sec @ 1.04"
+    },
+    {
+      "duration": 120,
+      "power": 0.75449997,
+      "note": "interval 120sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 1.0445,
+      "note": "recovery 60sec @ 1.04"
+    },
+    {
+      "duration": 120,
+      "power": 0.75449997,
+      "note": "interval 120sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 1.0445,
+      "note": "recovery 60sec @ 1.04"
+    },
+    {
+      "duration": 120,
+      "power": 0.75449997,
+      "note": "interval 120sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 1.0445,
+      "note": "recovery 60sec @ 1.04"
+    },
+    {
+      "duration": 120,
+      "power": 0.75449997,
+      "note": "interval 120sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 1.0445,
+      "note": "recovery 60sec @ 1.04"
+    },
+    {
+      "duration": 120,
+      "power": 0.75449997,
+      "note": "interval 120sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 1.0445,
+      "note": "recovery 60sec @ 1.04"
+    },
+    {
+      "duration": 120,
+      "power": 0.75449997,
+      "note": "interval 120sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 1.0445,
+      "note": "recovery 60sec @ 1.04"
+    },
+    {
+      "duration": 120,
+      "power": 0.75449997,
+      "note": "interval 120sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 1.0445,
+      "note": "recovery 60sec @ 1.04"
+    },
+    {
+      "duration": 120,
+      "power": 0.75449997,
+      "note": "interval 120sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 1.0445,
+      "note": "recovery 60sec @ 1.04"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.80000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    }
+  ]
+}

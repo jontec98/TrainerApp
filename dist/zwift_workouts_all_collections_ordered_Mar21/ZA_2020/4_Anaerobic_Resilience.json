@@ -1,0 +1,166 @@
+{
+  "name": "Anaerobic Resilience",
+  "note": "Anaerobic power is what you need for short explosive efforts up a hill or when attacking a group. In this workout, we find out how strong your system is, and whether you can repeat these high-intensity efforts.\n\n\tSome riders have naturally good short-term power capabilities, and some need to focus on it if they want to improve that EXPLOSIVE power. If you want to attack on the Innsbruckring' Leg-Snapper' climb with the style of Philippe Gilbert, then we need to work on these high power sessions. \n\t\t\n\tWe are stressing your maximal glycolytic system today with some BIG anaerobic power efforts. We start with a solid warm-up, incorporating high-force efforts that require lots of muscular strength. These short efforts will have you primed and ready for action.\n\t\t\n\tThe session starts with a maximal 1min FULL GAS effort to allow you to set a peak power effort and set a benchmark to guide you for the rest of the Academy. In this effort, start close to maximal capacity, which is just about sustainable for 30sec and then hold your power as high as possible during the last 10-20sec.\n\t\t\n\tThe last three anaerobic efforts are aimed at stressing your anaerobic endurance. We do this by starting at a high power output in the first rep and gradually increasing the duration of efforts while decreasing the wattage target. All these efforts will max out your anaerobic energy pathways with high lactate concentrations. \n\t\t\n\tWe finish the ride with a 6min aerobic effort. This will not be as easy! You may have depleted all of your anaerobic energy, plus the high power efforts will have impacted your muscular strength by now. Both components combined will leave this sub-threshold effort feeling harder than normal. (by Zwift Academy Coaches)",
+  "intervals": [
+    {
+      "duration": 540,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.95,
+      "note": "interval 30sec @ 0.95"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 30,
+      "power": 0.95,
+      "note": "interval 30sec @ 0.95"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 20,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.2,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.3,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 30,
+      "power": 0.3,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 330,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.3,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.7,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.3,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 330,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.3,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 1.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.3,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 330,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.3,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.3,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.3,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 360,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 360,
+      "power": 0.87,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

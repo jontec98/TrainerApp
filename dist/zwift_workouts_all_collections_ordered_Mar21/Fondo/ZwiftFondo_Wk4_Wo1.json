@@ -1,0 +1,96 @@
+{
+  "name": "Week 4.1 - Taper Time",
+  "note": "The hard work is done! It is time to TAPER! Keep your muscles firing as we back off the load to let you recover and freshen up for the big day! (by Zwift)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 270,
+      "power": 0.75449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.2544999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 0.65449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 270,
+      "power": 0.80449992,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.2544999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 0.65449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 270,
+      "power": 0.85449994,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.25,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 0.55449998,
+      "note": "interval 150sec @ 0.55"
+    },
+    {
+      "duration": 150,
+      "power": 0.90449995,
+      "note": "recovery 150sec @ 0.90"
+    },
+    {
+      "duration": 150,
+      "power": 0.55449998,
+      "note": "interval 150sec @ 0.55"
+    },
+    {
+      "duration": 150,
+      "power": 0.90449995,
+      "note": "recovery 150sec @ 0.90"
+    },
+    {
+      "duration": 150,
+      "power": 0.55449998,
+      "note": "interval 150sec @ 0.55"
+    },
+    {
+      "duration": 150,
+      "power": 0.90449995,
+      "note": "recovery 150sec @ 0.90"
+    },
+    {
+      "duration": 150,
+      "power": 0.55449998,
+      "note": "interval 150sec @ 0.55"
+    },
+    {
+      "duration": 150,
+      "power": 0.90449995,
+      "note": "recovery 150sec @ 0.90"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

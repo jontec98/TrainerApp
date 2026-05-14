@@ -1,0 +1,151 @@
+{
+  "name": "Hill Attacks",
+  "note": "Prepare the mind and body for hill attacks.  You are attacking up the hill at the front of the peloton and inflicting devastation upon the peloton.  Attack after attack, the peloton is getting blown apart by your relentless attacks.  \nWarm-up for 10minutes and do 3 x 1minute fast pedaling drills>110rpm. A nice tempo pace for 5minutes and then do (10) x 1minute hill attacks.   Rest for 2 minutes between each.  Cool-down.  (by GCN)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.75449997,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.75449997,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.75449997,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 300,
+      "power": 0.81449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.4044999,
+      "note": "interval 60sec @ 1.40"
+    },
+    {
+      "duration": 120,
+      "power": 0.50449997,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 1.4044999,
+      "note": "interval 60sec @ 1.40"
+    },
+    {
+      "duration": 120,
+      "power": 0.50449997,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 1.4044999,
+      "note": "interval 60sec @ 1.40"
+    },
+    {
+      "duration": 120,
+      "power": 0.50449997,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 1.4044999,
+      "note": "interval 60sec @ 1.40"
+    },
+    {
+      "duration": 120,
+      "power": 0.50449997,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 1.4044999,
+      "note": "interval 60sec @ 1.40"
+    },
+    {
+      "duration": 120,
+      "power": 0.50449997,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 1.4044999,
+      "note": "interval 60sec @ 1.40"
+    },
+    {
+      "duration": 120,
+      "power": 0.50449997,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 1.4044999,
+      "note": "interval 60sec @ 1.40"
+    },
+    {
+      "duration": 120,
+      "power": 0.50449997,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 1.4044999,
+      "note": "interval 60sec @ 1.40"
+    },
+    {
+      "duration": 120,
+      "power": 0.50449997,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 1.4044999,
+      "note": "interval 60sec @ 1.40"
+    },
+    {
+      "duration": 120,
+      "power": 0.50449997,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 1.4044999,
+      "note": "interval 60sec @ 1.40"
+    },
+    {
+      "duration": 120,
+      "power": 0.50449997,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

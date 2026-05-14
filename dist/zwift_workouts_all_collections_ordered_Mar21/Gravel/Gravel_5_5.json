@@ -1,0 +1,21 @@
+{
+  "name": "Free Ride",
+  "note": "Just an easy base ride on tap for you today. I'm gonna leave you to your own devices but I want you to ride easy not going over zone 2 if the terrain allows. We need to mix our intensities in training and it cannot be hard all the time. So, today is that easy riding. Enjoy. (by Zwift)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 5100,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

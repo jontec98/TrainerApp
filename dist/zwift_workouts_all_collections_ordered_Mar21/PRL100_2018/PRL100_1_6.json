@@ -1,0 +1,101 @@
+{
+  "name": "Week 1.6 - AC Maintenance #1",
+  "note": "Complete 8 x 1 Min Anaerobic Capacity Intervals, before finishing with a 25 Min zone 2 effort. Observe your Heart Rate response during the 25 Min effort. How much does it increase throughout the effort? (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.1945,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 75,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.1989731,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 75,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.1972048,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 75,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.1975026,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 75,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.197433,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 75,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.1945,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 75,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.1962765,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 75,
+      "power": 0.55449998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.1977476,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 1500,
+      "power": 0.77449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

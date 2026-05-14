@@ -1,0 +1,201 @@
+{
+  "name": "The Kwiatkowski",
+  "note": "Michal Kwiatkowski is a powerhouse cyclist who has a huge range of abilities that helps win races. Sprinting, time trialing, climbing\u2014he can do it all! Today's workout is a great example of what it takes to win a race that comes down to a finishing sprint. Get ready to give it your all in the final 15sec! (by Shayne Gaffney)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.08,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.08,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.08,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 120,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.08,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 120,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.08,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 120,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.08,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

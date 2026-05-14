@@ -1,0 +1,136 @@
+{
+  "name": "Pacing #2",
+  "note": "A low intensity endurance session today focusing on your ability to judge your pacing. By completing some steady state intervals under threshold power, you will develop the ability to gauge your effort based on \"feel\" without having to look at the data for feedback. \n\nThis session also serves the purpose of effectively building endurance. (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.81,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.09,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.68,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.71,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.74,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.77,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.71,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.74,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.77,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.83,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.77,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.83,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.86,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.89,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    }
+  ]
+}

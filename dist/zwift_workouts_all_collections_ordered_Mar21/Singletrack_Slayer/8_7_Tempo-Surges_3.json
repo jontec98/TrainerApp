@@ -1,0 +1,171 @@
+{
+  "name": "Tempo-Surges #3",
+  "note": "Completing long tempo efforts with short, high intensity surges, is another way to increase threshold power. \n\nWith the constant high power, the body is forced to process the lactate produced from the above threshold surges. \n\nWe mix up the tempo work with some long anaerobic efforts for an added stress. (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.65,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 0.8,
+      "note": "recovery 30sec @ 0.80"
+    },
+    {
+      "duration": 30,
+      "power": 0.65,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 0.8,
+      "note": "recovery 30sec @ 0.80"
+    },
+    {
+      "duration": 30,
+      "power": 0.65,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 0.8,
+      "note": "recovery 30sec @ 0.80"
+    },
+    {
+      "duration": 30,
+      "power": 0.65,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 0.8,
+      "note": "recovery 30sec @ 0.80"
+    },
+    {
+      "duration": 30,
+      "power": 0.65,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 0.8,
+      "note": "recovery 30sec @ 0.80"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.25,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.25,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.91,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.25,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.25,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.76,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.25,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.25,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.91,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.25,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.25,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.76,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.25,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

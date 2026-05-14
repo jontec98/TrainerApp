@@ -1,0 +1,46 @@
+{
+  "name": "Month 4 - Semifinals.2 - Split Zone 2/3",
+  "note": "This session is designed to get you used to delivering power at a range of cadences. The low cadence work focuses on leg strength and the higher cadence trains your heart and lungs. \n     (by K.Veronneau ZA Leader)",
+  "intervals": [
+    {
+      "duration": 1200,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.65155643,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.49980545,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.81108946,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.81108946,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.81108946,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.81108946,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

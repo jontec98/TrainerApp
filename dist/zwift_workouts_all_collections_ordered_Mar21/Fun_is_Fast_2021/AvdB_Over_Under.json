@@ -1,0 +1,176 @@
+{
+  "name": "Fun is Staying Cool",
+  "note": "Anna van der Breggen is arguably one of the most versatile riders of her generation. She excels by staying cool when others crumble under pressure. So, what better way to challenge your ability to embrace your inner Anna van der Breggen by doing some over/unders! Over/unders are great for improving your ability to surge hard again and again but not recovering fully in between. A perfect workout for one-day classics and stage race specialists - like Anna! (by Shayne Gaffney)",
+  "intervals": [
+    {
+      "duration": 500,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.176125,
+      "note": "interval 60sec @ 1.18"
+    },
+    {
+      "duration": 60,
+      "power": 0.95112503,
+      "note": "recovery 60sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 1.176125,
+      "note": "interval 60sec @ 1.18"
+    },
+    {
+      "duration": 60,
+      "power": 0.95112503,
+      "note": "recovery 60sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 1.176125,
+      "note": "interval 60sec @ 1.18"
+    },
+    {
+      "duration": 60,
+      "power": 0.95112503,
+      "note": "recovery 60sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 1.176125,
+      "note": "interval 60sec @ 1.18"
+    },
+    {
+      "duration": 60,
+      "power": 0.95112503,
+      "note": "recovery 60sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 1.176125,
+      "note": "interval 60sec @ 1.18"
+    },
+    {
+      "duration": 60,
+      "power": 0.95112503,
+      "note": "recovery 60sec @ 0.95"
+    },
+    {
+      "duration": 420,
+      "power": 0.50612498,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.251125,
+      "note": "interval 30sec @ 1.25"
+    },
+    {
+      "duration": 30,
+      "power": 0.87612504,
+      "note": "recovery 30sec @ 0.88"
+    },
+    {
+      "duration": 30,
+      "power": 1.251125,
+      "note": "interval 30sec @ 1.25"
+    },
+    {
+      "duration": 30,
+      "power": 0.87612504,
+      "note": "recovery 30sec @ 0.88"
+    },
+    {
+      "duration": 30,
+      "power": 1.251125,
+      "note": "interval 30sec @ 1.25"
+    },
+    {
+      "duration": 30,
+      "power": 0.87612504,
+      "note": "recovery 30sec @ 0.88"
+    },
+    {
+      "duration": 30,
+      "power": 1.251125,
+      "note": "interval 30sec @ 1.25"
+    },
+    {
+      "duration": 30,
+      "power": 0.87612504,
+      "note": "recovery 30sec @ 0.88"
+    },
+    {
+      "duration": 30,
+      "power": 1.251125,
+      "note": "interval 30sec @ 1.25"
+    },
+    {
+      "duration": 30,
+      "power": 0.87612504,
+      "note": "recovery 30sec @ 0.88"
+    },
+    {
+      "duration": 30,
+      "power": 1.251125,
+      "note": "interval 30sec @ 1.25"
+    },
+    {
+      "duration": 30,
+      "power": 0.87612504,
+      "note": "recovery 30sec @ 0.88"
+    },
+    {
+      "duration": 30,
+      "power": 1.251125,
+      "note": "interval 30sec @ 1.25"
+    },
+    {
+      "duration": 30,
+      "power": 0.87612504,
+      "note": "recovery 30sec @ 0.88"
+    },
+    {
+      "duration": 30,
+      "power": 1.251125,
+      "note": "interval 30sec @ 1.25"
+    },
+    {
+      "duration": 30,
+      "power": 0.87612504,
+      "note": "recovery 30sec @ 0.88"
+    },
+    {
+      "duration": 30,
+      "power": 1.251125,
+      "note": "interval 30sec @ 1.25"
+    },
+    {
+      "duration": 30,
+      "power": 0.87612504,
+      "note": "recovery 30sec @ 0.88"
+    },
+    {
+      "duration": 30,
+      "power": 1.251125,
+      "note": "interval 30sec @ 1.25"
+    },
+    {
+      "duration": 30,
+      "power": 0.87612504,
+      "note": "recovery 30sec @ 0.88"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

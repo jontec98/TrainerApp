@@ -1,0 +1,131 @@
+{
+  "name": "Capacity Reloaded",
+  "note": "This final session for the 2018 Zwift Academy was another favorite from 2017! This time with a little extra...\n\nLast year we went up to the 4/1minute rep, this year we take it over the top and back down again! The main intervals are 7 x 5 minutes with 3 minutes easy spinning between efforts, starting just above threshold then settling into high Zone 3 (comfortably hard, but hardly comfortable).\n\nThis is pushing your threshold up. Working up the pyramid isn't too difficult, it is the return-leg when it starts to bite! Hang in and try and keep the power where it needs to be. (by Zwift Academy Coaches)",
+  "intervals": [
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.7,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.87,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.87,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.87,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.87,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.87,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.87,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Week 8.1 - Endurance / Free Ride",
+  "note": "A steady endurance ride today. Ride as you feel aiming to keep power within Z2-3. Don't forget it's fine to miss a day if you have to. Just move onto the next planned session. (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 2700,
+      "power": 0.5,
+      "note": "Free ride"
+    }
+  ]
+}

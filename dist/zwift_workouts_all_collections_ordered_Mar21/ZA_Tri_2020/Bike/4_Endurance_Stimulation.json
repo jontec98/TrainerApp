@@ -1,0 +1,96 @@
+{
+  "name": "Endurance Stimulation",
+  "note": "This session is designed to get you accustomed to holding your ultra-distance (112mi / 180km) power under fatigue and to build basic endurance. The last quarter of the bike section in an ultra is critical to overall success. That means holding good form, staying efficient and not dropping power. Easier said than done right? As we only have 75 min to play with, the aim of this session will be to quickly build up fatigue in the legs before settling back down to your ultra-distance race power. (by Coach Dan Plews)",
+  "intervals": [
+    {
+      "duration": 360,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.94999999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.94999999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 480,
+      "power": 0.98000002,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 720,
+      "power": 0.85000002,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 1500,
+      "power": 0.77999997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

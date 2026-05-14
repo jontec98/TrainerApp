@@ -1,0 +1,221 @@
+{
+  "name": "Micro Into Threshold",
+  "note": "Another high intensity workout today. The stochastic nature of MTB riding requires you to turn the power on and then off in quick succession. Quite often leading into a threshold type of effort. Sustaining threshold power for long periods is a hard workout. Performing micro intervals leading into this effort gives the session another element of specificity. (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 420,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "interval 60sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.7,
+      "note": "recovery 60sec @ 0.70"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "interval 60sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.7,
+      "note": "recovery 60sec @ 0.70"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "interval 60sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.7,
+      "note": "recovery 60sec @ 0.70"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "interval 60sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.7,
+      "note": "recovery 60sec @ 0.70"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "interval 60sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.7,
+      "note": "recovery 60sec @ 0.70"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.88,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 0.45,
+      "note": "interval 15sec @ 0.45"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "recovery 30sec @ 1.20"
+    },
+    {
+      "duration": 15,
+      "power": 0.45,
+      "note": "interval 15sec @ 0.45"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "recovery 30sec @ 1.20"
+    },
+    {
+      "duration": 15,
+      "power": 0.45,
+      "note": "interval 15sec @ 0.45"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "recovery 30sec @ 1.20"
+    },
+    {
+      "duration": 15,
+      "power": 0.45,
+      "note": "interval 15sec @ 0.45"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "recovery 30sec @ 1.20"
+    },
+    {
+      "duration": 15,
+      "power": 0.45,
+      "note": "interval 15sec @ 0.45"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "recovery 30sec @ 1.20"
+    },
+    {
+      "duration": 15,
+      "power": 0.45,
+      "note": "interval 15sec @ 0.45"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "recovery 30sec @ 1.20"
+    },
+    {
+      "duration": 420,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 0.45,
+      "note": "interval 15sec @ 0.45"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "recovery 30sec @ 1.20"
+    },
+    {
+      "duration": 15,
+      "power": 0.45,
+      "note": "interval 15sec @ 0.45"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "recovery 30sec @ 1.20"
+    },
+    {
+      "duration": 15,
+      "power": 0.45,
+      "note": "interval 15sec @ 0.45"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "recovery 30sec @ 1.20"
+    },
+    {
+      "duration": 15,
+      "power": 0.45,
+      "note": "interval 15sec @ 0.45"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "recovery 30sec @ 1.20"
+    },
+    {
+      "duration": 15,
+      "power": 0.45,
+      "note": "interval 15sec @ 0.45"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "recovery 30sec @ 1.20"
+    },
+    {
+      "duration": 15,
+      "power": 0.45,
+      "note": "interval 15sec @ 0.45"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "recovery 30sec @ 1.20"
+    },
+    {
+      "duration": 420,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    }
+  ]
+}

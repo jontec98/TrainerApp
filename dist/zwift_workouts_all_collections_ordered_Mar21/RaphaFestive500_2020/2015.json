@@ -1,0 +1,93 @@
+{
+  "name": "2015",
+  "note": "In today's workout, you will complete a 15 minute 'Free Ride', 5 x short blocks of Threshold (Zone 4) before finishing with a ramped effort right up to Zone 6. \n\nRapha Cycling Club (RCC) was founded in 2015.\n\nThis is a really varied workout to keep your mind engaged and body working hard. The key block is the 15 minute free ride - will you push hard, or take it steady? Your answer should depend on how much you want the Festive 500? If you want it - go hard, to give yourself a big training stress in this final workout. (by Matt Rowe (Rowe & King))",
+  "intervals": [
+    {
+      "duration": 480,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 1800,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "note": "interval 180sec @ 1.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.75,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "note": "interval 180sec @ 1.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.75,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "note": "interval 180sec @ 1.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.75,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "note": "interval 180sec @ 1.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.75,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "note": "interval 180sec @ 1.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.75,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 240,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 360,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.25,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

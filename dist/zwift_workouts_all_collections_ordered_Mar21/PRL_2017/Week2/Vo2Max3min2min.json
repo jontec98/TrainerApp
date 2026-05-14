@@ -1,0 +1,101 @@
+{
+  "name": "Week 2.3 - Vo2 Max 3min & 2min",
+  "note": "Working through the range of Zone 5 today.\n\nThe opening 3 minute intervals are at the lower end of Zone 5. While the final intervals are 2 minutes in duration at the top end of Zone 5. (by Zwift)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.98449993,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.0645,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55449998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.0647324,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.0645,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.1845,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.1891148,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.1894611,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.1845,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

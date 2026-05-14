@@ -1,0 +1,76 @@
+{
+  "name": "Week 8.2 - Day 2",
+  "note": "Hill Power Builders!",
+  "intervals": [
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 1.0,
+      "note": "interval 90sec @ 1.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "recovery 180sec @ 0.50"
+    },
+    {
+      "duration": 90,
+      "power": 1.0,
+      "note": "interval 90sec @ 1.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "recovery 180sec @ 0.50"
+    },
+    {
+      "duration": 90,
+      "power": 1.0,
+      "note": "interval 90sec @ 1.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "recovery 180sec @ 0.50"
+    },
+    {
+      "duration": 90,
+      "power": 1.0,
+      "note": "interval 90sec @ 1.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "recovery 180sec @ 0.50"
+    },
+    {
+      "duration": 90,
+      "power": 1.0,
+      "note": "interval 90sec @ 1.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "recovery 180sec @ 0.50"
+    },
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

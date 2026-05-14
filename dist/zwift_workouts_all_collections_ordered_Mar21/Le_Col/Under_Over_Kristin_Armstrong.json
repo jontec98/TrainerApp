@@ -1,0 +1,81 @@
+{
+  "name": "Kristin Armstrong.3 - Under Over",
+  "note": "This session is about maximising your sustainable power output. Your muscular endurance, led by Time Trial Specialist, Kristin Armstrong.\n\nThese workouts have been designed and tested by some of the best cyclists in the world. Olympians and World Champions such as Sir Bradley Wiggins, Fabian Cancellara, Dame Sarah Storey and Kristin Armstrong. (by Chris Opie)",
+  "intervals": [
+    {
+      "duration": 180,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.96,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.04,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.96,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.04,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.96,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.04,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.96,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.04,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.96,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.04,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.96,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.04,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

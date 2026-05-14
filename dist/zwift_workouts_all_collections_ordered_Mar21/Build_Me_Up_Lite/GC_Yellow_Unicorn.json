@@ -1,0 +1,126 @@
+{
+  "name": "Yellow Unicorn Lite",
+  "note": "Another week, another unicorn workout! Today, we'll keep the under portion the same as last week but progress the over portion by 30sec! So, after a warm-up, we'll do 6x (2min under and 1min over), then cool down. Get ready to push yourself a bit more today, but you are strong! (by Shayne Gaffney | GC Coaching)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.83,
+      "note": "interval 120sec @ 0.83"
+    },
+    {
+      "duration": 60,
+      "power": 1.05,
+      "note": "recovery 60sec @ 1.05"
+    },
+    {
+      "duration": 120,
+      "power": 0.83,
+      "note": "interval 120sec @ 0.83"
+    },
+    {
+      "duration": 60,
+      "power": 1.05,
+      "note": "recovery 60sec @ 1.05"
+    },
+    {
+      "duration": 120,
+      "power": 0.83,
+      "note": "interval 120sec @ 0.83"
+    },
+    {
+      "duration": 60,
+      "power": 1.05,
+      "note": "recovery 60sec @ 1.05"
+    },
+    {
+      "duration": 120,
+      "power": 0.83,
+      "note": "interval 120sec @ 0.83"
+    },
+    {
+      "duration": 60,
+      "power": 1.05,
+      "note": "recovery 60sec @ 1.05"
+    },
+    {
+      "duration": 120,
+      "power": 0.83,
+      "note": "interval 120sec @ 0.83"
+    },
+    {
+      "duration": 60,
+      "power": 1.05,
+      "note": "recovery 60sec @ 1.05"
+    },
+    {
+      "duration": 120,
+      "power": 0.83,
+      "note": "interval 120sec @ 0.83"
+    },
+    {
+      "duration": 60,
+      "power": 1.05,
+      "note": "recovery 60sec @ 1.05"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

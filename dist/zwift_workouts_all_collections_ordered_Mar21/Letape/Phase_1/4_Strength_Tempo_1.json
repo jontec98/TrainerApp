@@ -1,0 +1,157 @@
+{
+  "name": "Phase 1.4 - Strength Tempo #1",
+  "note": "Continuing the focus on Early Base training, this session again incorporates high crank torque, interval work. However, this time we are increasing the power during the interval, while maintaining the same cadence.\n\nThe session then includes some Zone 2 aerobic work with short high cadence surges. (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.80000001,
+      "note": "interval 60sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.80000001,
+      "note": "interval 60sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.98000002,
+      "note": "interval 60sec @ 0.98"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.98000002,
+      "note": "interval 60sec @ 0.98"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "interval 180sec @ 0.75"
+    },
+    {
+      "duration": 15,
+      "power": 1.6044999,
+      "note": "recovery 15sec @ 1.60"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "interval 180sec @ 0.75"
+    },
+    {
+      "duration": 15,
+      "power": 1.6044999,
+      "note": "recovery 15sec @ 1.60"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "interval 180sec @ 0.75"
+    },
+    {
+      "duration": 15,
+      "power": 1.6044999,
+      "note": "recovery 15sec @ 1.60"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "interval 180sec @ 0.75"
+    },
+    {
+      "duration": 15,
+      "power": 1.6044999,
+      "note": "recovery 15sec @ 1.60"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "interval 180sec @ 0.75"
+    },
+    {
+      "duration": 15,
+      "power": 1.6044999,
+      "note": "recovery 15sec @ 1.60"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "interval 180sec @ 0.75"
+    },
+    {
+      "duration": 15,
+      "power": 1.6044999,
+      "note": "recovery 15sec @ 1.60"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    }
+  ]
+}

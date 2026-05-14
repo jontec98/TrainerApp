@@ -1,0 +1,186 @@
+{
+  "name": "Week 6.2 - Chase the Chaise",
+  "note": "The couch, or chaise, photo is a cultural highlight surrounding UNBOUND and is always a treat to get to during the ride. Plus, some of the photos taken can be hilarious. Today's session will prepare you to get to the chaise, and more specifically, this session is typically known as an up-and-under session, where you perform periods of time slightly over and then slightly under your long-distance power. This is a great way to get more comfortable at that pace, while also improving that number. Here, you will be doing 8-minute reps \u2014 two rounds of 2 minutes above (around 90% FTP) and two rounds of 2 minutes below (around 80% FTP). From a physiological perspective, these sessions help promote fat oxidation and structural changes at a muscular level. UNBOUND Gravel is a grassroots event, organized and managed by folks who are passionate about cycling, and have done so for the primary purpose of providing life-enriching cycling experiences for event participants. (by Shayne Gaffney)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "recovery 30sec @ 0.55"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "recovery 30sec @ 0.55"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "recovery 30sec @ 0.55"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "recovery 30sec @ 0.55"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "recovery 30sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 0.9,
+      "note": "interval 120sec @ 0.90"
+    },
+    {
+      "duration": 120,
+      "power": 0.8,
+      "note": "recovery 120sec @ 0.80"
+    },
+    {
+      "duration": 120,
+      "power": 0.9,
+      "note": "interval 120sec @ 0.90"
+    },
+    {
+      "duration": 120,
+      "power": 0.8,
+      "note": "recovery 120sec @ 0.80"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.9,
+      "note": "interval 120sec @ 0.90"
+    },
+    {
+      "duration": 120,
+      "power": 0.8,
+      "note": "recovery 120sec @ 0.80"
+    },
+    {
+      "duration": 120,
+      "power": 0.9,
+      "note": "interval 120sec @ 0.90"
+    },
+    {
+      "duration": 120,
+      "power": 0.8,
+      "note": "recovery 120sec @ 0.80"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.9,
+      "note": "interval 120sec @ 0.90"
+    },
+    {
+      "duration": 120,
+      "power": 0.8,
+      "note": "recovery 120sec @ 0.80"
+    },
+    {
+      "duration": 120,
+      "power": 0.9,
+      "note": "interval 120sec @ 0.90"
+    },
+    {
+      "duration": 120,
+      "power": 0.8,
+      "note": "recovery 120sec @ 0.80"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.9,
+      "note": "interval 120sec @ 0.90"
+    },
+    {
+      "duration": 120,
+      "power": 0.8,
+      "note": "recovery 120sec @ 0.80"
+    },
+    {
+      "duration": 120,
+      "power": 0.9,
+      "note": "interval 120sec @ 0.90"
+    },
+    {
+      "duration": 120,
+      "power": 0.8,
+      "note": "recovery 120sec @ 0.80"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.9,
+      "note": "interval 120sec @ 0.90"
+    },
+    {
+      "duration": 120,
+      "power": 0.8,
+      "note": "recovery 120sec @ 0.80"
+    },
+    {
+      "duration": 120,
+      "power": 0.9,
+      "note": "interval 120sec @ 0.90"
+    },
+    {
+      "duration": 120,
+      "power": 0.8,
+      "note": "recovery 120sec @ 0.80"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

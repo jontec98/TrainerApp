@@ -1,0 +1,171 @@
+{
+  "name": "FTP w/ Bursts",
+  "note": "Riding at FTP, close to the edge of destruction, then having to attack with a little burst will make you stronger and ready for all that the spring classics have in store for you!   Warm-up 10 minutes with 3 x 1minute fast pedaling drills >110rpm and then ride at Sweetspot 100% of FTP for 35 minutes and every two minutes, do a 10 second bursts at 130% of FTP, and recover back to sweetspot.  Get ready for these!   Cool-down. (by GCN)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.75449997,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.75449997,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.75449997,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 120,
+      "power": 1.0044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.3045,
+      "note": "interval 10sec @ 1.30"
+    },
+    {
+      "duration": 120,
+      "power": 1.0044999,
+      "note": "recovery 120sec @ 1.00"
+    },
+    {
+      "duration": 10,
+      "power": 1.3045,
+      "note": "interval 10sec @ 1.30"
+    },
+    {
+      "duration": 120,
+      "power": 1.0044999,
+      "note": "recovery 120sec @ 1.00"
+    },
+    {
+      "duration": 10,
+      "power": 1.3045,
+      "note": "interval 10sec @ 1.30"
+    },
+    {
+      "duration": 120,
+      "power": 1.0044999,
+      "note": "recovery 120sec @ 1.00"
+    },
+    {
+      "duration": 10,
+      "power": 1.3045,
+      "note": "interval 10sec @ 1.30"
+    },
+    {
+      "duration": 120,
+      "power": 1.0044999,
+      "note": "recovery 120sec @ 1.00"
+    },
+    {
+      "duration": 10,
+      "power": 1.3045,
+      "note": "interval 10sec @ 1.30"
+    },
+    {
+      "duration": 120,
+      "power": 1.0044999,
+      "note": "recovery 120sec @ 1.00"
+    },
+    {
+      "duration": 10,
+      "power": 1.3045,
+      "note": "interval 10sec @ 1.30"
+    },
+    {
+      "duration": 120,
+      "power": 1.0044999,
+      "note": "recovery 120sec @ 1.00"
+    },
+    {
+      "duration": 10,
+      "power": 1.3045,
+      "note": "interval 10sec @ 1.30"
+    },
+    {
+      "duration": 120,
+      "power": 1.0044999,
+      "note": "recovery 120sec @ 1.00"
+    },
+    {
+      "duration": 10,
+      "power": 1.3045,
+      "note": "interval 10sec @ 1.30"
+    },
+    {
+      "duration": 120,
+      "power": 1.0044999,
+      "note": "recovery 120sec @ 1.00"
+    },
+    {
+      "duration": 10,
+      "power": 1.3045,
+      "note": "interval 10sec @ 1.30"
+    },
+    {
+      "duration": 120,
+      "power": 1.0044999,
+      "note": "recovery 120sec @ 1.00"
+    },
+    {
+      "duration": 10,
+      "power": 1.3045,
+      "note": "interval 10sec @ 1.30"
+    },
+    {
+      "duration": 120,
+      "power": 1.0044999,
+      "note": "recovery 120sec @ 1.00"
+    },
+    {
+      "duration": 10,
+      "power": 1.3045,
+      "note": "interval 10sec @ 1.30"
+    },
+    {
+      "duration": 120,
+      "power": 1.0044999,
+      "note": "recovery 120sec @ 1.00"
+    },
+    {
+      "duration": 10,
+      "power": 1.3045,
+      "note": "interval 10sec @ 1.30"
+    },
+    {
+      "duration": 120,
+      "power": 1.0044999,
+      "note": "recovery 120sec @ 1.00"
+    },
+    {
+      "duration": 540,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "name": "FTP Development",
+  "note": "We know how critical it is to have a high FTP power for cycling performance. This is a session I like to call \"FTP+\", this is because the intensity of the intervals sits somewhere between FTP power and VO2max power. Yes, this is a challenging session! :)\n\nThe intervals in this session are all classified as \"long intervals\" ranging from 3 to 5 minutes but, as the duration comes down, the intensity goes up! By hanging out for prolonged periods at just above your FTP, you will increase your FTP value, and also have a great workout. (by Coach Dan Plews)",
+  "intervals": [
+    {
+      "duration": 540,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.80000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.04,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0599999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.08,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.03,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.44999999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.03,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.44999999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.44999999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.44999999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.0700001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.44999999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.0700001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.40000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

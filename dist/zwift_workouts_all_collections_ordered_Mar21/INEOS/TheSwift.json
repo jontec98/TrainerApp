@@ -1,0 +1,91 @@
+{
+  "name": "The Swift",
+  "note": "Sprinter Ben Swift can generate massive power at the end of a long race to beat almost anyone to the line. To develop that kind of explosive power, you need to accelerate against resistance\u2014which means starting out going slow in a big gear and powering up to high speed. Today's workout intervals will feature exactly that! (by Shayne Gaffney)",
+  "intervals": [
+    {
+      "duration": 480,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.2,
+      "note": "interval 15sec @ 1.20"
+    },
+    {
+      "duration": 45,
+      "power": 0.55,
+      "note": "recovery 45sec @ 0.55"
+    },
+    {
+      "duration": 15,
+      "power": 1.5,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 105,
+      "power": 0.55,
+      "note": "recovery 105sec @ 0.55"
+    },
+    {
+      "duration": 10,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 220,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 220,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 220,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 220,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 220,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

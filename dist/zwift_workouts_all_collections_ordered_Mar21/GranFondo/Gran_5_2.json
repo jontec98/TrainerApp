@@ -1,0 +1,66 @@
+{
+  "name": "Tempo Over-Under",
+  "note": "This is a workout where topography can present a real challenge to effective execution outdoors. The speeds at race effort for elite athletes can likewise present a problem for more elite athletes. The purpose of this workout is to sustain work at a specific race-pace with recovery at a relatively high-intensity that nevertheless is easy enough to be sustainable. (by Zwift)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.91449994,
+      "note": "interval 240sec @ 0.91"
+    },
+    {
+      "duration": 240,
+      "power": 0.80449992,
+      "note": "recovery 240sec @ 0.80"
+    },
+    {
+      "duration": 240,
+      "power": 0.91449994,
+      "note": "interval 240sec @ 0.91"
+    },
+    {
+      "duration": 240,
+      "power": 0.80449992,
+      "note": "recovery 240sec @ 0.80"
+    },
+    {
+      "duration": 240,
+      "power": 0.91449994,
+      "note": "interval 240sec @ 0.91"
+    },
+    {
+      "duration": 240,
+      "power": 0.80449992,
+      "note": "recovery 240sec @ 0.80"
+    },
+    {
+      "duration": 240,
+      "power": 0.91449994,
+      "note": "interval 240sec @ 0.91"
+    },
+    {
+      "duration": 240,
+      "power": 0.80449992,
+      "note": "recovery 240sec @ 0.80"
+    },
+    {
+      "duration": 240,
+      "power": 0.91449994,
+      "note": "interval 240sec @ 0.91"
+    },
+    {
+      "duration": 240,
+      "power": 0.80449992,
+      "note": "recovery 240sec @ 0.80"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "Free ride"
+    }
+  ]
+}

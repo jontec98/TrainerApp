@@ -1,0 +1,56 @@
+{
+  "name": "Pre-Race With Spin-Ups",
+  "note": "It's finally come! You're ready for the last workout before the big event. Nice and easy stuff today. Do this one 2 days or one day before the day to open the legs back up. NOT meant to be hard.\n\nReal good day to rid outside or at the very least try out the rig on Zwift free ride. The only efforts will be for 10 seconds to build some RPM\"S and that's it. (by Zwift)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 360,
+      "power": 0.7,
+      "note": "interval 360sec @ 0.70"
+    },
+    {
+      "duration": 10,
+      "power": 1.2,
+      "note": "recovery 10sec @ 1.20"
+    },
+    {
+      "duration": 360,
+      "power": 0.7,
+      "note": "interval 360sec @ 0.70"
+    },
+    {
+      "duration": 10,
+      "power": 1.2,
+      "note": "recovery 10sec @ 1.20"
+    },
+    {
+      "duration": 360,
+      "power": 0.7,
+      "note": "interval 360sec @ 0.70"
+    },
+    {
+      "duration": 10,
+      "power": 1.2,
+      "note": "recovery 10sec @ 1.20"
+    },
+    {
+      "duration": 360,
+      "power": 0.7,
+      "note": "interval 360sec @ 0.70"
+    },
+    {
+      "duration": 10,
+      "power": 1.2,
+      "note": "recovery 10sec @ 1.20"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

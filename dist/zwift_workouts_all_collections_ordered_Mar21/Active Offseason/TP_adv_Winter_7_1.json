@@ -1,0 +1,86 @@
+{
+  "name": "Week 7.1 - Threshold",
+  "note": "Today is a day to push yourself! During the workout try to keep your cadence above 100 rpm for the hard efforts, dropping to an easy spin during the rests.Warm up to Tempo, followed up by 5 minutes at FTP. Next up, 5 x 1 intervals at V02 Max for a one minute out of the saddle effort with 1 minute rest. Follow up with 10 minutes at Tempo,and some one legged efforts. Which leg is stronger? Which leg is smoother? Finish up with an easy cooldown in the 39x17 gear at Active Recovery.",
+  "intervals": [
+    {
+      "duration": 420,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "note": "interval 60sec @ 1.00"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "note": "interval 60sec @ 1.00"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "note": "interval 60sec @ 1.00"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "note": "interval 60sec @ 1.00"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "note": "interval 60sec @ 1.00"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Free Ride",
+  "note": "Easy days here today with some aerobic free riding. A short one today as it's \"recovery week\", and if you feel great I'll let you add 15-30 minutes here, but please do not go above the watts prescribed. Really want you to just ride Z1-Z2 here today. Ez please!!! (by Zwift)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 2400,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

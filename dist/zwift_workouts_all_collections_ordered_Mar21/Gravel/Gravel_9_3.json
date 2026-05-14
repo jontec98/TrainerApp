@@ -1,0 +1,201 @@
+{
+  "name": "Race Simulation",
+  "note": "Yup. You've most definitely done this workout before, and I want to see how you've progressed. Well, I can't see it, but I want YOU to see how you progressed. Keep in mind if you've adjusted your FTP since then it may adjust your results, obviously. \n\nThe point of this set is to stretch your limits and push you right up to a race effort here on Zwift. This really is how a race could go down in the heat of the battle, so working yourself here will help you prepare for it as well. \n\nThe main set will act like 3 climbs up over a steep section over 100%FTP and back down the other side. Then a nice block build to finish at a summit. Go get em yo! (by Zwift)",
+  "intervals": [
+    {
+      "duration": 480,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 15,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 270,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.2,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.2,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 450,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

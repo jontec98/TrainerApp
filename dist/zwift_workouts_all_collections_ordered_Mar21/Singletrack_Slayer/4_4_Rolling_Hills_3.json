@@ -1,0 +1,176 @@
+{
+  "name": "Rolling Hills #3",
+  "note": "This endurance session focuses on replicating the demands of rolling hills. Just like outdoors, we have a targeted lower cadence for the hills, but the power is well under threshold. The body of this workout involves repeated medium intensity efforts ranging in length from 90sec to 3min. (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.75,
+      "note": "interval 30sec @ 0.75"
+    },
+    {
+      "duration": 30,
+      "power": 0.9,
+      "note": "recovery 30sec @ 0.90"
+    },
+    {
+      "duration": 30,
+      "power": 0.75,
+      "note": "interval 30sec @ 0.75"
+    },
+    {
+      "duration": 30,
+      "power": 0.9,
+      "note": "recovery 30sec @ 0.90"
+    },
+    {
+      "duration": 30,
+      "power": 0.75,
+      "note": "interval 30sec @ 0.75"
+    },
+    {
+      "duration": 30,
+      "power": 0.9,
+      "note": "recovery 30sec @ 0.90"
+    },
+    {
+      "duration": 30,
+      "power": 0.75,
+      "note": "interval 30sec @ 0.75"
+    },
+    {
+      "duration": 30,
+      "power": 0.9,
+      "note": "recovery 30sec @ 0.90"
+    },
+    {
+      "duration": 30,
+      "power": 0.75,
+      "note": "interval 30sec @ 0.75"
+    },
+    {
+      "duration": 30,
+      "power": 0.9,
+      "note": "recovery 30sec @ 0.90"
+    },
+    {
+      "duration": 120,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.8,
+      "note": "interval 90sec @ 0.80"
+    },
+    {
+      "duration": 120,
+      "power": 0.6,
+      "note": "recovery 120sec @ 0.60"
+    },
+    {
+      "duration": 90,
+      "power": 0.8,
+      "note": "interval 90sec @ 0.80"
+    },
+    {
+      "duration": 120,
+      "power": 0.6,
+      "note": "recovery 120sec @ 0.60"
+    },
+    {
+      "duration": 90,
+      "power": 0.8,
+      "note": "interval 90sec @ 0.80"
+    },
+    {
+      "duration": 120,
+      "power": 0.6,
+      "note": "recovery 120sec @ 0.60"
+    },
+    {
+      "duration": 90,
+      "power": 0.8,
+      "note": "interval 90sec @ 0.80"
+    },
+    {
+      "duration": 120,
+      "power": 0.6,
+      "note": "recovery 120sec @ 0.60"
+    },
+    {
+      "duration": 90,
+      "power": 0.8,
+      "note": "interval 90sec @ 0.80"
+    },
+    {
+      "duration": 120,
+      "power": 0.6,
+      "note": "recovery 120sec @ 0.60"
+    },
+    {
+      "duration": 90,
+      "power": 0.8,
+      "note": "interval 90sec @ 0.80"
+    },
+    {
+      "duration": 120,
+      "power": 0.6,
+      "note": "recovery 120sec @ 0.60"
+    },
+    {
+      "duration": 90,
+      "power": 0.8,
+      "note": "interval 90sec @ 0.80"
+    },
+    {
+      "duration": 120,
+      "power": 0.6,
+      "note": "recovery 120sec @ 0.60"
+    },
+    {
+      "duration": 180,
+      "power": 0.85,
+      "note": "interval 180sec @ 0.85"
+    },
+    {
+      "duration": 120,
+      "power": 0.6,
+      "note": "recovery 120sec @ 0.60"
+    },
+    {
+      "duration": 180,
+      "power": 0.85,
+      "note": "interval 180sec @ 0.85"
+    },
+    {
+      "duration": 120,
+      "power": 0.6,
+      "note": "recovery 120sec @ 0.60"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "name": "Half-Distance Power Development",
+  "note": "This session is designed to develop your half-distance triathlon power. For most people half-distance triathlon power is at around 83% of FTP, and we will aim to improve this power by working slightly above and slightly below this power target for extended periods. \n\nThis is a pyramid set, 1 x 8 mins, 1 x 6 mins, 2 x 4 mins, 1 x 6 mins and 1 x 8 mins, with 36 minutes of total work. (by Coach Dan Plews)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.64999998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.64999998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.88,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.80000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.88,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.80000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.89999998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.76999998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.89999998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.76999998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.91000003,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.91000003,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.91000003,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.91000003,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.89999998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.76999998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.89999998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.76999998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.88,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.80000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.88,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.80000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 420,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

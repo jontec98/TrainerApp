@@ -1,0 +1,206 @@
+{
+  "name": "Lauren Kitchen - HIT Intervals",
+  "note": "Today's workout features 2 sets of short and sharp intervals. Lauren describes it as: \"I love power style workouts in order to prepare for hard one day races. This High intensity interval (HIT) session gets my blood pumping and legs burning and when I can complete it and not be 'dead' then I know I'm ready to race. This is a great work out for preparing for the classics and more sprint style races. My coach Cedric Barre is the brains behind the pain!\". (by Lauren Kitchen)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "interval 30sec @ 1.20"
+    },
+    {
+      "duration": 30,
+      "power": 0.4,
+      "note": "recovery 30sec @ 0.40"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "interval 30sec @ 1.20"
+    },
+    {
+      "duration": 30,
+      "power": 0.4,
+      "note": "recovery 30sec @ 0.40"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "interval 30sec @ 1.20"
+    },
+    {
+      "duration": 30,
+      "power": 0.4,
+      "note": "recovery 30sec @ 0.40"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "interval 30sec @ 1.20"
+    },
+    {
+      "duration": 30,
+      "power": 0.4,
+      "note": "recovery 30sec @ 0.40"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "interval 30sec @ 1.20"
+    },
+    {
+      "duration": 30,
+      "power": 0.4,
+      "note": "recovery 30sec @ 0.40"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "interval 30sec @ 1.20"
+    },
+    {
+      "duration": 30,
+      "power": 0.4,
+      "note": "recovery 30sec @ 0.40"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "interval 30sec @ 1.20"
+    },
+    {
+      "duration": 30,
+      "power": 0.4,
+      "note": "recovery 30sec @ 0.40"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "interval 30sec @ 1.20"
+    },
+    {
+      "duration": 30,
+      "power": 0.4,
+      "note": "recovery 30sec @ 0.40"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "interval 30sec @ 1.20"
+    },
+    {
+      "duration": 30,
+      "power": 0.4,
+      "note": "recovery 30sec @ 0.40"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "interval 30sec @ 1.20"
+    },
+    {
+      "duration": 30,
+      "power": 0.4,
+      "note": "recovery 30sec @ 0.40"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 1.2,
+      "note": "interval 45sec @ 1.20"
+    },
+    {
+      "duration": 45,
+      "power": 0.4,
+      "note": "recovery 45sec @ 0.40"
+    },
+    {
+      "duration": 45,
+      "power": 1.2,
+      "note": "interval 45sec @ 1.20"
+    },
+    {
+      "duration": 45,
+      "power": 0.4,
+      "note": "recovery 45sec @ 0.40"
+    },
+    {
+      "duration": 45,
+      "power": 1.2,
+      "note": "interval 45sec @ 1.20"
+    },
+    {
+      "duration": 45,
+      "power": 0.4,
+      "note": "recovery 45sec @ 0.40"
+    },
+    {
+      "duration": 45,
+      "power": 1.2,
+      "note": "interval 45sec @ 1.20"
+    },
+    {
+      "duration": 45,
+      "power": 0.4,
+      "note": "recovery 45sec @ 0.40"
+    },
+    {
+      "duration": 45,
+      "power": 1.2,
+      "note": "interval 45sec @ 1.20"
+    },
+    {
+      "duration": 45,
+      "power": 0.4,
+      "note": "recovery 45sec @ 0.40"
+    },
+    {
+      "duration": 45,
+      "power": 1.2,
+      "note": "interval 45sec @ 1.20"
+    },
+    {
+      "duration": 45,
+      "power": 0.4,
+      "note": "recovery 45sec @ 0.40"
+    },
+    {
+      "duration": 45,
+      "power": 1.2,
+      "note": "interval 45sec @ 1.20"
+    },
+    {
+      "duration": 45,
+      "power": 0.4,
+      "note": "recovery 45sec @ 0.40"
+    },
+    {
+      "duration": 45,
+      "power": 1.2,
+      "note": "interval 45sec @ 1.20"
+    },
+    {
+      "duration": 45,
+      "power": 0.4,
+      "note": "recovery 45sec @ 0.40"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

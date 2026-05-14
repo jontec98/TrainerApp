@@ -1,0 +1,21 @@
+{
+  "name": "Free Ride",
+  "note": "Aerobic riding on tap today after some real good work this week. This workout may be ranked a little lower in order of importance, but a very important ingredient in the overall recipe. Stay in Z1-Z2 and just ride for the fun of riding. \n\nGreat day to venture out into that unknown paradise know as the outside, or find some paradise on Zwift free ride. DO NOT test your fitness though today. It's about going easy here. Please. (by Zwift)",
+  "intervals": [
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 7200,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

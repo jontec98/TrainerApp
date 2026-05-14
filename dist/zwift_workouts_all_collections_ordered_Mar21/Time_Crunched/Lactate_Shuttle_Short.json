@@ -1,0 +1,106 @@
+{
+  "name": "Lactate Shuttle Short",
+  "note": "Ever heard of lactic acid? People associate it with burning muscles, but it's actually critical for performance during endurance sports. This workout improves your ability to use lactic acid as energy. In other words, if it burns, it's working! (by Shayne Gaffney | GC Coaching)",
+  "intervals": [
+    {
+      "duration": 480,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.2,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.7,
+      "note": "interval 60sec @ 0.70"
+    },
+    {
+      "duration": 60,
+      "power": 1.1,
+      "note": "recovery 60sec @ 1.10"
+    },
+    {
+      "duration": 60,
+      "power": 0.7,
+      "note": "interval 60sec @ 0.70"
+    },
+    {
+      "duration": 60,
+      "power": 1.1,
+      "note": "recovery 60sec @ 1.10"
+    },
+    {
+      "duration": 60,
+      "power": 0.7,
+      "note": "interval 60sec @ 0.70"
+    },
+    {
+      "duration": 60,
+      "power": 1.1,
+      "note": "recovery 60sec @ 1.10"
+    },
+    {
+      "duration": 60,
+      "power": 0.7,
+      "note": "interval 60sec @ 0.70"
+    },
+    {
+      "duration": 60,
+      "power": 1.1,
+      "note": "recovery 60sec @ 1.10"
+    },
+    {
+      "duration": 60,
+      "power": 0.7,
+      "note": "interval 60sec @ 0.70"
+    },
+    {
+      "duration": 60,
+      "power": 1.1,
+      "note": "recovery 60sec @ 1.10"
+    },
+    {
+      "duration": 60,
+      "power": 0.7,
+      "note": "interval 60sec @ 0.70"
+    },
+    {
+      "duration": 60,
+      "power": 1.1,
+      "note": "recovery 60sec @ 1.10"
+    },
+    {
+      "duration": 60,
+      "power": 0.7,
+      "note": "interval 60sec @ 0.70"
+    },
+    {
+      "duration": 60,
+      "power": 1.1,
+      "note": "recovery 60sec @ 1.10"
+    },
+    {
+      "duration": 60,
+      "power": 0.7,
+      "note": "interval 60sec @ 0.70"
+    },
+    {
+      "duration": 60,
+      "power": 1.1,
+      "note": "recovery 60sec @ 1.10"
+    },
+    {
+      "duration": 60,
+      "power": 1.2,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    }
+  ]
+}

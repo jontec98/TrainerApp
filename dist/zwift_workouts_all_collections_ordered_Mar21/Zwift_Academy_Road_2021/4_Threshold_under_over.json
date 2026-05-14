@@ -1,0 +1,153 @@
+{
+  "name": "Threshold Under/Overs",
+  "note": "High efforts. Long durations. Together, these can wipe out some of the most skilled cyclists. But today's workout ensures that you'll be ready for whatever climb, hilly ride, or terrain-shifting road comes next. \n\n    Starting today, we'll start to build sustained power into your repertoire after increasing your VO2 Max. How? By performing longer efforts around your FTP, with a cadence element addition designed to enhance your muscular responsiveness to gradient changes\u2013which you'll likely encounter on longer segments.\n    \n    Coach's Tip: Zwift Academy Road was developed with structure in mind. For best results, complete the workouts in order.\n    \n    This training program was designed by Stephen Gallagher and Dan Fleeman from Dig Deep Coaching. Their complete coaching approach ensures every Zwift Academy athlete learns the building blocks for successful training. (by Stephen Gallagher)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.95,
+      "note": "interval 60sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 1.02,
+      "note": "recovery 60sec @ 1.02"
+    },
+    {
+      "duration": 60,
+      "power": 0.95,
+      "note": "interval 60sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 1.02,
+      "note": "recovery 60sec @ 1.02"
+    },
+    {
+      "duration": 60,
+      "power": 0.95,
+      "note": "interval 60sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 1.02,
+      "note": "recovery 60sec @ 1.02"
+    },
+    {
+      "duration": 60,
+      "power": 0.95,
+      "note": "interval 60sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 1.02,
+      "note": "recovery 60sec @ 1.02"
+    },
+    {
+      "duration": 60,
+      "power": 0.95,
+      "note": "interval 60sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 1.02,
+      "note": "recovery 60sec @ 1.02"
+    },
+    {
+      "duration": 60,
+      "power": 0.95,
+      "note": "interval 60sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 1.02,
+      "note": "recovery 60sec @ 1.02"
+    },
+    {
+      "duration": 360,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.95,
+      "note": "interval 60sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 1.02,
+      "note": "recovery 60sec @ 1.02"
+    },
+    {
+      "duration": 60,
+      "power": 0.95,
+      "note": "interval 60sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 1.02,
+      "note": "recovery 60sec @ 1.02"
+    },
+    {
+      "duration": 60,
+      "power": 0.95,
+      "note": "interval 60sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 1.02,
+      "note": "recovery 60sec @ 1.02"
+    },
+    {
+      "duration": 60,
+      "power": 0.95,
+      "note": "interval 60sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 1.02,
+      "note": "recovery 60sec @ 1.02"
+    },
+    {
+      "duration": 60,
+      "power": 0.95,
+      "note": "interval 60sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 1.02,
+      "note": "recovery 60sec @ 1.02"
+    },
+    {
+      "duration": 60,
+      "power": 0.95,
+      "note": "interval 60sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 1.02,
+      "note": "recovery 60sec @ 1.02"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

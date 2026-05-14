@@ -1,0 +1,136 @@
+{
+  "name": "Sleepless",
+  "note": "This workout takes on a pyramid style structure, where the efforts progress from 10 seconds up to 1 minute then after a recovery period reduce back down from 1 minute to 10 seconds. The rest mirrors the effort throughout. (by D.Rowe (Rowe&King))",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 130,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 50,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 50,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 50,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 50,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

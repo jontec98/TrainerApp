@@ -1,0 +1,81 @@
+{
+  "name": "Semi-Finals.4 - 2 x 12min Test",
+  "note": "This will be the final test effort of the 2018 Zwift Academy! You can use this test to gauge any improvements you may have made; take the average power of the two intervals, this correlates well to a traditional 20 minute effort. Use the average power from the first 12 minutes as a target to push your 20 minute power to within the next 2 - 4 months of training. \n\nTreat each 12 minute interval as if it were the only effort. We generally expect the first interval to be ~20 Watts higher than the second. Give it FULL-GAS! (by Zwift Academy Coaches)",
+  "intervals": [
+    {
+      "duration": 180,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.69999999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.85000002,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.5,
+      "note": "interval 30sec @ 1.50"
+    },
+    {
+      "duration": 90,
+      "power": 0.44999999,
+      "note": "recovery 90sec @ 0.45"
+    },
+    {
+      "duration": 30,
+      "power": 1.5,
+      "note": "interval 30sec @ 1.50"
+    },
+    {
+      "duration": 90,
+      "power": 0.44999999,
+      "note": "recovery 90sec @ 0.45"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 720,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 600,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 720,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 300,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    }
+  ]
+}

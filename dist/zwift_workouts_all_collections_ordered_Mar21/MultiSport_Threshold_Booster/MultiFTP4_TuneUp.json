@@ -1,0 +1,51 @@
+{
+  "name": "Test Week Tune-Up",
+  "note": "A short OPTIONAL workout designed to keep the legs firing and get the internal systems ready for a big effort like a race or test effort. If you prefer rest leading into a big day, that is fine too. This workout is for people who like to keep moving, and it's designed to help keep you sharp without taking your race or test-effort legs out of you. (by Zwift)",
+  "intervals": [
+    {
+      "duration": 240,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 480,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

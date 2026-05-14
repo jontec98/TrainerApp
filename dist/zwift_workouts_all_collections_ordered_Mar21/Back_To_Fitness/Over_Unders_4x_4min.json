@@ -1,0 +1,241 @@
+{
+  "name": "Week 8.2 - Over Under's 4x 4min",
+  "note": "This ride is what we refer to as \"Over Under's\". Over Under is when you go above FTP (100%) to below FTP (<100%). During this ride you will perform 4 sets of 30 seconds over your threshold at 105% of your FTP followed by 30 seconds under your threshold at 85% of your FTP for 4-minutes. Imagine going back and forth from Vo2 to Sweet Spot. Between each set you will have 2 minutes of recovery. (by Kristin Armstrong)",
+  "intervals": [
+    {
+      "duration": 180,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.7,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "interval 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.1,
+      "note": "recovery 30sec @ 1.10"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "interval 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.1,
+      "note": "recovery 30sec @ 1.10"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "interval 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.1,
+      "note": "recovery 30sec @ 1.10"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "interval 30sec @ 1.05"
+    },
+    {
+      "duration": 30,
+      "power": 0.85,
+      "note": "recovery 30sec @ 0.85"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "interval 30sec @ 1.05"
+    },
+    {
+      "duration": 30,
+      "power": 0.85,
+      "note": "recovery 30sec @ 0.85"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "interval 30sec @ 1.05"
+    },
+    {
+      "duration": 30,
+      "power": 0.85,
+      "note": "recovery 30sec @ 0.85"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "interval 30sec @ 1.05"
+    },
+    {
+      "duration": 30,
+      "power": 0.85,
+      "note": "recovery 30sec @ 0.85"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.1,
+      "note": "interval 30sec @ 1.10"
+    },
+    {
+      "duration": 30,
+      "power": 0.85,
+      "note": "recovery 30sec @ 0.85"
+    },
+    {
+      "duration": 30,
+      "power": 1.1,
+      "note": "interval 30sec @ 1.10"
+    },
+    {
+      "duration": 30,
+      "power": 0.85,
+      "note": "recovery 30sec @ 0.85"
+    },
+    {
+      "duration": 30,
+      "power": 1.1,
+      "note": "interval 30sec @ 1.10"
+    },
+    {
+      "duration": 30,
+      "power": 0.85,
+      "note": "recovery 30sec @ 0.85"
+    },
+    {
+      "duration": 30,
+      "power": 1.1,
+      "note": "interval 30sec @ 1.10"
+    },
+    {
+      "duration": 30,
+      "power": 0.85,
+      "note": "recovery 30sec @ 0.85"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "interval 30sec @ 1.15"
+    },
+    {
+      "duration": 30,
+      "power": 0.85,
+      "note": "recovery 30sec @ 0.85"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "interval 30sec @ 1.15"
+    },
+    {
+      "duration": 30,
+      "power": 0.85,
+      "note": "recovery 30sec @ 0.85"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "interval 30sec @ 1.15"
+    },
+    {
+      "duration": 30,
+      "power": 0.85,
+      "note": "recovery 30sec @ 0.85"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "interval 30sec @ 1.15"
+    },
+    {
+      "duration": 30,
+      "power": 0.85,
+      "note": "recovery 30sec @ 0.85"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "interval 30sec @ 1.20"
+    },
+    {
+      "duration": 30,
+      "power": 0.85,
+      "note": "recovery 30sec @ 0.85"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "interval 30sec @ 1.20"
+    },
+    {
+      "duration": 30,
+      "power": 0.85,
+      "note": "recovery 30sec @ 0.85"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "interval 30sec @ 1.20"
+    },
+    {
+      "duration": 30,
+      "power": 0.85,
+      "note": "recovery 30sec @ 0.85"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "interval 30sec @ 1.20"
+    },
+    {
+      "duration": 30,
+      "power": 0.85,
+      "note": "recovery 30sec @ 0.85"
+    },
+    {
+      "duration": 270,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    }
+  ]
+}

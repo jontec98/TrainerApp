@@ -1,0 +1,146 @@
+{
+  "name": "The Long Ride - SST Long",
+  "note": "Sweet Spot Training (or SST for short) will give great bang for buck as you can spend quite a bit of time in the Sweet Spot of your power curve without building up undue amounts of training stress. (by Zwift)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.94999999,
+      "note": "interval 300sec @ 0.95"
+    },
+    {
+      "duration": 300,
+      "power": 0.85500002,
+      "note": "recovery 300sec @ 0.86"
+    },
+    {
+      "duration": 300,
+      "power": 0.94999999,
+      "note": "interval 300sec @ 0.95"
+    },
+    {
+      "duration": 300,
+      "power": 0.85500002,
+      "note": "recovery 300sec @ 0.86"
+    },
+    {
+      "duration": 300,
+      "power": 0.94999999,
+      "note": "interval 300sec @ 0.95"
+    },
+    {
+      "duration": 300,
+      "power": 0.85500002,
+      "note": "recovery 300sec @ 0.86"
+    },
+    {
+      "duration": 780,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.94999999,
+      "note": "interval 300sec @ 0.95"
+    },
+    {
+      "duration": 300,
+      "power": 0.85500002,
+      "note": "recovery 300sec @ 0.86"
+    },
+    {
+      "duration": 300,
+      "power": 0.94999999,
+      "note": "interval 300sec @ 0.95"
+    },
+    {
+      "duration": 300,
+      "power": 0.85500002,
+      "note": "recovery 300sec @ 0.86"
+    },
+    {
+      "duration": 300,
+      "power": 0.94999999,
+      "note": "interval 300sec @ 0.95"
+    },
+    {
+      "duration": 300,
+      "power": 0.85500002,
+      "note": "recovery 300sec @ 0.86"
+    },
+    {
+      "duration": 780,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.94999999,
+      "note": "interval 300sec @ 0.95"
+    },
+    {
+      "duration": 300,
+      "power": 0.85500002,
+      "note": "recovery 300sec @ 0.86"
+    },
+    {
+      "duration": 300,
+      "power": 0.94999999,
+      "note": "interval 300sec @ 0.95"
+    },
+    {
+      "duration": 300,
+      "power": 0.85500002,
+      "note": "recovery 300sec @ 0.86"
+    },
+    {
+      "duration": 300,
+      "power": 0.94999999,
+      "note": "interval 300sec @ 0.95"
+    },
+    {
+      "duration": 300,
+      "power": 0.85500002,
+      "note": "recovery 300sec @ 0.86"
+    },
+    {
+      "duration": 300,
+      "power": 0.94999999,
+      "note": "interval 300sec @ 0.95"
+    },
+    {
+      "duration": 300,
+      "power": 0.85500002,
+      "note": "recovery 300sec @ 0.86"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

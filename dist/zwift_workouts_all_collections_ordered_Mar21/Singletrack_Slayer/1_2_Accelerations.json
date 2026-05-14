@@ -1,0 +1,176 @@
+{
+  "name": "Accelerations",
+  "note": "The ability to accelerate into corners and to be better placed for the start of a climb is an important factor in any MTB race. But quite often these accelerations occur from an already high, steady power.\n\nIn this session, we replicate this demand by completing a series of sprints that are preceded by a steady state effort.\n\n (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.7,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.75,
+      "note": "interval 10sec @ 1.75"
+    },
+    {
+      "duration": 50,
+      "power": 0.5,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.75,
+      "note": "interval 10sec @ 1.75"
+    },
+    {
+      "duration": 50,
+      "power": 0.5,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.75,
+      "note": "interval 10sec @ 1.75"
+    },
+    {
+      "duration": 50,
+      "power": 0.5,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.75,
+      "note": "interval 10sec @ 1.75"
+    },
+    {
+      "duration": 50,
+      "power": 0.5,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 100,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 100,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 100,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 300,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 100,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 100,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 100,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 100,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    }
+  ]
+}

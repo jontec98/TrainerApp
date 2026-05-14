@@ -1,0 +1,141 @@
+{
+  "name": "Week 4.2 - Over-Under's, MTB Style",
+  "note": "Todays workout is a very famous 'Over - Under' session, where we repeatedly ride over and under our threshold.\n\nWe will complete 2 x 15 minute blocks, each alternating between 'over' Zone 3 (80% of FTP) and 'under' Zone 4 (102% of FTP). \n\nCritically, the over sections are to be completed at a relatively low cadence of 70rpm. This is to give the session a strength endurance focus - ensuring we get used to producing not only high power, but also high crank torque, to support us in those sections of a mountain bike race where we have to momentarily freewheel, and are asked to produce huge crank torque from 0rpm!\n\nWe stimulate lactic acid production during the 'over' efforts, and we then try to recover, whilst still producing a moderate effort during the 'under' phase. Think of the 'over' as a technical part of a climb, whilst the under is climbing on a fire road or through a field! (by Matt Rowe)",
+  "intervals": [
+    {
+      "duration": 420,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0944999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0944999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.80449992,
+      "note": "interval 120sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 1.0244999,
+      "note": "recovery 60sec @ 1.02"
+    },
+    {
+      "duration": 120,
+      "power": 0.80449992,
+      "note": "interval 120sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 1.0244999,
+      "note": "recovery 60sec @ 1.02"
+    },
+    {
+      "duration": 120,
+      "power": 0.80449992,
+      "note": "interval 120sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 1.0244999,
+      "note": "recovery 60sec @ 1.02"
+    },
+    {
+      "duration": 120,
+      "power": 0.80449992,
+      "note": "interval 120sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 1.0244999,
+      "note": "recovery 60sec @ 1.02"
+    },
+    {
+      "duration": 120,
+      "power": 0.80449992,
+      "note": "interval 120sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 1.0244999,
+      "note": "recovery 60sec @ 1.02"
+    },
+    {
+      "duration": 360,
+      "power": 0.40450001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.80449992,
+      "note": "interval 120sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 1.0244999,
+      "note": "recovery 60sec @ 1.02"
+    },
+    {
+      "duration": 120,
+      "power": 0.80449992,
+      "note": "interval 120sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 1.0244999,
+      "note": "recovery 60sec @ 1.02"
+    },
+    {
+      "duration": 120,
+      "power": 0.80449992,
+      "note": "interval 120sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 1.0244999,
+      "note": "recovery 60sec @ 1.02"
+    },
+    {
+      "duration": 120,
+      "power": 0.80449992,
+      "note": "interval 120sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 1.0244999,
+      "note": "recovery 60sec @ 1.02"
+    },
+    {
+      "duration": 120,
+      "power": 0.80449992,
+      "note": "interval 120sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 1.0244999,
+      "note": "recovery 60sec @ 1.02"
+    },
+    {
+      "duration": 480,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    }
+  ]
+}

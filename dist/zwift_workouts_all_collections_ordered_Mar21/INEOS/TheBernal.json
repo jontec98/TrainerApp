@@ -1,0 +1,106 @@
+{
+  "name": "The Bernal",
+  "note": "Egan Bernal, the first Colombian to ever win the Tour de France in 2019 and 2021 Giro d'Italia champion, is one of the best climbers of his generation. Today's workout features over/unders, specific efforts that helped shape his fitness to world-champ level. Over/unders are defined as doing 'x' time 'under' FTP, then 'x' time 'over' FTP. We'll also add a cadence twist today\u2014aiming for high cadence during the under and low cadence during the over. Doing this will improve your force production capability. (by Shayne Gaffney)",
+  "intervals": [
+    {
+      "duration": 480,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "interval 30sec @ 1.15"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "recovery 30sec @ 0.55"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "interval 30sec @ 1.15"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "recovery 30sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.9,
+      "note": "interval 120sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 1.05,
+      "note": "recovery 60sec @ 1.05"
+    },
+    {
+      "duration": 120,
+      "power": 0.9,
+      "note": "interval 120sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 1.05,
+      "note": "recovery 60sec @ 1.05"
+    },
+    {
+      "duration": 120,
+      "power": 0.9,
+      "note": "interval 120sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 1.05,
+      "note": "recovery 60sec @ 1.05"
+    },
+    {
+      "duration": 300,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.9,
+      "note": "interval 120sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 1.05,
+      "note": "recovery 60sec @ 1.05"
+    },
+    {
+      "duration": 120,
+      "power": 0.9,
+      "note": "interval 120sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 1.05,
+      "note": "recovery 60sec @ 1.05"
+    },
+    {
+      "duration": 120,
+      "power": 0.9,
+      "note": "interval 120sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 1.05,
+      "note": "recovery 60sec @ 1.05"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

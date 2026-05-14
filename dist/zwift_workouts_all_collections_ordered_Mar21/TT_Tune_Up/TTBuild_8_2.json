@@ -1,0 +1,126 @@
+{
+  "name": "Cruise Intervals #6",
+  "note": "Today's session consists of three long cruise intervals. However, each long interval includes a short surge to begin the effort and mid way through. Being able to return to threshold power after surging is an important aspect of fitness. Focus on controlled breathing and pedaling at a cadence similar to your time trial cadence. (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 180,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.81,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.09,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.25,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 280,
+      "power": 1.04,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.25,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 280,
+      "power": 1.04,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 135,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.25,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 280,
+      "power": 0.99,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.25,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 280,
+      "power": 0.99,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 135,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.25,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 280,
+      "power": 0.94,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.25,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 280,
+      "power": 0.94,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 135,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

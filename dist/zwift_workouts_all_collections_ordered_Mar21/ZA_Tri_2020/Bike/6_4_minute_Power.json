@@ -1,0 +1,91 @@
+{
+  "name": "4 Minute Power ",
+  "note": "Although the intensity of a maximal 4-minute effort is far higher than ultra-distance power, it still has a direct relationship with performance. This is because the maximal power attained over 4 minutes is an excellent indicator of your maximal aerobic engine. \n\nThis session comes with a twist! We're also interested in your best 4-minute power under fatigue. This gives us an idea of both aerobic capacity and your overall endurance. Both critical for ultra-distance triathlon of course! (by Coach Dan Plews)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.80000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.94999999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.09,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.94999999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.80000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 1.09,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.83449996,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.73000002,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.82999998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.73000002,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 360,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 30,
+      "power": 0.30000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 270,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

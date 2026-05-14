@@ -1,0 +1,231 @@
+{
+  "name": "Week 11.4 - 3x15min Crisscross",
+  "note": "3 x 15 minute Crisscross intervals. A \"crisscross\" interval is an interval where you vary your efforts to really teach your body to clear lactate. ",
+  "intervals": [
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "interval 300sec @ 1.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "recovery 180sec @ 0.50"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "interval 300sec @ 1.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "recovery 180sec @ 0.50"
+    },
+    {
+      "duration": 840,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

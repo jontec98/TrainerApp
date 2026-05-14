@@ -1,0 +1,206 @@
+{
+  "name": "Openers",
+  "note": "Look who get's to do some \"openers\" today! You do, I was talking to you. This is good stuff and I think you'll like it. These are not max effort \"sprints\" but rather building efforts from out of the saddle meant to \"open\" the legs. \n\n3 rounds of 20 second efforts at 120% with a focus on good high RPM's. I'd like you to start these efforts seated and \"sprint\" out of the saddle about 10 seconds in and finish standing. Not meant to be deeply difficult, but opening the legs up! (by Zwift)",
+  "intervals": [
+    {
+      "duration": 480,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "interval 60sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "interval 60sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "interval 60sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 0.9,
+      "note": "interval 120sec @ 0.90"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 0.9,
+      "note": "interval 120sec @ 0.90"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 0.9,
+      "note": "interval 120sec @ 0.90"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 20,
+      "power": 1.2,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 100,
+      "power": 0.55,
+      "note": "recovery 100sec @ 0.55"
+    },
+    {
+      "duration": 20,
+      "power": 1.2,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 100,
+      "power": 0.55,
+      "note": "recovery 100sec @ 0.55"
+    },
+    {
+      "duration": 20,
+      "power": 1.2,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 100,
+      "power": 0.55,
+      "note": "recovery 100sec @ 0.55"
+    },
+    {
+      "duration": 20,
+      "power": 1.2,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 100,
+      "power": 0.55,
+      "note": "recovery 100sec @ 0.55"
+    },
+    {
+      "duration": 210,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.2,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 100,
+      "power": 0.55,
+      "note": "recovery 100sec @ 0.55"
+    },
+    {
+      "duration": 20,
+      "power": 1.2,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 100,
+      "power": 0.55,
+      "note": "recovery 100sec @ 0.55"
+    },
+    {
+      "duration": 20,
+      "power": 1.2,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 100,
+      "power": 0.55,
+      "note": "recovery 100sec @ 0.55"
+    },
+    {
+      "duration": 20,
+      "power": 1.2,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 100,
+      "power": 0.55,
+      "note": "recovery 100sec @ 0.55"
+    },
+    {
+      "duration": 210,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.2,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 100,
+      "power": 0.55,
+      "note": "recovery 100sec @ 0.55"
+    },
+    {
+      "duration": 20,
+      "power": 1.2,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 100,
+      "power": 0.55,
+      "note": "recovery 100sec @ 0.55"
+    },
+    {
+      "duration": 20,
+      "power": 1.2,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 100,
+      "power": 0.55,
+      "note": "recovery 100sec @ 0.55"
+    },
+    {
+      "duration": 20,
+      "power": 1.2,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 100,
+      "power": 0.55,
+      "note": "recovery 100sec @ 0.55"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

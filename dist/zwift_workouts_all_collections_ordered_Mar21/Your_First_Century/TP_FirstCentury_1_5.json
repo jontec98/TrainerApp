@@ -1,0 +1,21 @@
+{
+  "name": "Week 1.5 - Day 5",
+  "note": "Today is simple, ride the prescribed time your Endurance Zone (Power Z2, HR Z2, RPE 2-3). Vary your cadence throughout ride and work on pedaling form. Practice \"coming over the top\" and \"pulling through the bottom\" of the pedal (pretend there is glass in shoes). Enjoy the day!! Terrain: Flat to Rolling; Cadence: 85 - 105.",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 7200,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

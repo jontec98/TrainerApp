@@ -1,0 +1,84 @@
+{
+  "name": "Tantrum",
+  "note": "This workout contains 4 x 3 minute ramps with a 15 second surge on the end to sting the legs a little.  \nThe ramped part of the efforts should feel controlled and with a 2 minute rest after each surge, your heart rate should not get too high. (by D.Rowe (Rowe&King))",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.40450001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.40450001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.40450001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.40450001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

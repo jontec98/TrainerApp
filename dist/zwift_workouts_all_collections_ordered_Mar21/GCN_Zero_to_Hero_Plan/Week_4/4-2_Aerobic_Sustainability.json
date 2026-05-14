@@ -1,0 +1,116 @@
+{
+  "name": "Week 4.2 - Aerobic Sustainability",
+  "note": "We start this program with some basic aerobic endurance intervals. Small\n30 sec spikes to load the legs up every 3.5 mins throughout the interval. A chance to climb out of the saddle.\n4 x 12 min aerobic efforts with 3min recovery.  (by Shayne Gaffney)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.90449995,
+      "note": "interval 30sec @ 0.90"
+    },
+    {
+      "duration": 210,
+      "power": 0.74449998,
+      "note": "recovery 210sec @ 0.74"
+    },
+    {
+      "duration": 30,
+      "power": 0.90449995,
+      "note": "interval 30sec @ 0.90"
+    },
+    {
+      "duration": 210,
+      "power": 0.74449998,
+      "note": "recovery 210sec @ 0.74"
+    },
+    {
+      "duration": 30,
+      "power": 0.90449995,
+      "note": "interval 30sec @ 0.90"
+    },
+    {
+      "duration": 210,
+      "power": 0.74449998,
+      "note": "recovery 210sec @ 0.74"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.90018797,
+      "note": "interval 30sec @ 0.90"
+    },
+    {
+      "duration": 210,
+      "power": 0.74981201,
+      "note": "recovery 210sec @ 0.75"
+    },
+    {
+      "duration": 30,
+      "power": 0.90018797,
+      "note": "interval 30sec @ 0.90"
+    },
+    {
+      "duration": 210,
+      "power": 0.74981201,
+      "note": "recovery 210sec @ 0.75"
+    },
+    {
+      "duration": 30,
+      "power": 0.90018797,
+      "note": "interval 30sec @ 0.90"
+    },
+    {
+      "duration": 210,
+      "power": 0.74981201,
+      "note": "recovery 210sec @ 0.75"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.90828753,
+      "note": "interval 30sec @ 0.91"
+    },
+    {
+      "duration": 210,
+      "power": 0.75,
+      "note": "recovery 210sec @ 0.75"
+    },
+    {
+      "duration": 30,
+      "power": 0.90828753,
+      "note": "interval 30sec @ 0.91"
+    },
+    {
+      "duration": 210,
+      "power": 0.75,
+      "note": "recovery 210sec @ 0.75"
+    },
+    {
+      "duration": 30,
+      "power": 0.90828753,
+      "note": "interval 30sec @ 0.91"
+    },
+    {
+      "duration": 210,
+      "power": 0.75,
+      "note": "recovery 210sec @ 0.75"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

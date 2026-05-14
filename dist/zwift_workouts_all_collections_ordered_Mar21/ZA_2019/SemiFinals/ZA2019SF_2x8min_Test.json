@@ -1,0 +1,81 @@
+{
+  "name": "Semi-Finals.4 - 2 x 8min Test",
+  "note": "Can you produce high aerobic power and repeat it? Today we are testing your ability to repeat high intensity aerobic efforts with 2 x 8min intervals. An athlete with a well developed aerobic engine will be within 5% of their first interval. We will also play with the numbers a little to estimate your FTP. 8min Power can be used to check your FTP, but not normally used to set your FTP. Treat each 8 minute interval as if it were the only effort. Give it FULL-GAS! (by Zwift Academy Coaches)",
+  "intervals": [
+    {
+      "duration": 180,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.69999999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.85000002,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.5,
+      "note": "interval 30sec @ 1.50"
+    },
+    {
+      "duration": 90,
+      "power": 0.44999999,
+      "note": "recovery 90sec @ 0.45"
+    },
+    {
+      "duration": 30,
+      "power": 1.5,
+      "note": "interval 30sec @ 1.50"
+    },
+    {
+      "duration": 90,
+      "power": 0.44999999,
+      "note": "recovery 90sec @ 0.45"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 480,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 600,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 480,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    }
+  ]
+}

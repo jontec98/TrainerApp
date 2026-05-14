@@ -1,0 +1,101 @@
+{
+  "name": "Full-Distance Build",
+  "note": "This session is designed to improve the aerobic threshold, which for most people is around full-distance pace. However, to make this session as specific to long-distance triathlon as possible, there are some specific higher intensity efforts meant to induce extra fatigue before settling back into full-distance pace. This session also aims to make you more proficient at removing lactate and using it as a fuel during lower intensity efforts, as well as improving your gross efficiency. (by Daniel Plews)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.979381,
+      "note": "interval 30sec @ 0.98"
+    },
+    {
+      "duration": 30,
+      "power": 0.563574,
+      "note": "recovery 30sec @ 0.56"
+    },
+    {
+      "duration": 30,
+      "power": 0.979381,
+      "note": "interval 30sec @ 0.98"
+    },
+    {
+      "duration": 30,
+      "power": 0.563574,
+      "note": "recovery 30sec @ 0.56"
+    },
+    {
+      "duration": 30,
+      "power": 0.979381,
+      "note": "interval 30sec @ 0.98"
+    },
+    {
+      "duration": 30,
+      "power": 0.563574,
+      "note": "recovery 30sec @ 0.56"
+    },
+    {
+      "duration": 60,
+      "power": 0.458333,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.091667,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.897222,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.458333,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.763889,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.458333,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.091667,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.897222,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.458333,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.763889,
+      "note": "SteadyState interval"
+    }
+  ]
+}

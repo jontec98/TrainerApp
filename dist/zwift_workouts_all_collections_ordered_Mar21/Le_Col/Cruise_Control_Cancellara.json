@@ -1,0 +1,116 @@
+{
+  "name": "Fabian Cancellara.3 - Cruise Control",
+  "note": "This session is about maximizing your sustainable power output. Your muscular endurance, led by classics specialist Fabian Cancellara.\n\nThese workouts have been designed and tested by some of the best cyclists in the world. Olympians and World Champions such as Sir Bradley Wiggins, Fabian Cancellara, Dame Sarah Storey and Kristin Armstrong. (by Chris Opie )",
+  "intervals": [
+    {
+      "duration": 180,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.84,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.93,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.84,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.93,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.84,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.93,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.84,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.93,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.84,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.93,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.84,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.93,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Week 4.5 - Endurance",
+  "note": "A steady endurance ride today.\n\nDon't forget it's fine to miss a day if you have to. Just move onto the next planned session.\n\nRide as you feel aiming to keep power within Zone 2. (by Zwift)",
+  "intervals": [
+    {
+      "duration": 3600,
+      "power": 0.5,
+      "note": "Free ride"
+    }
+  ]
+}

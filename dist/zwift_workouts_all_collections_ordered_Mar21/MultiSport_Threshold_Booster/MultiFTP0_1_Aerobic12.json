@@ -1,0 +1,171 @@
+{
+  "name": "Aerobic 12s #2",
+  "note": "Aerobic endurance workouts are aimed at improving your efficiency at lower intensity levels. Training your muscles to access fat as its main fuel source and preserve your precious glycogen stores for the finale. After warming up, you will be completing a series of long aerobic efforts with short recovery. Keep an eye on your heart rate response to the sustained power. Are you achieving the same heart rate in the third effort as the first? (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.7,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.9,
+      "note": "interval 30sec @ 0.90"
+    },
+    {
+      "duration": 210,
+      "power": 0.75,
+      "note": "recovery 210sec @ 0.75"
+    },
+    {
+      "duration": 30,
+      "power": 0.9,
+      "note": "interval 30sec @ 0.90"
+    },
+    {
+      "duration": 210,
+      "power": 0.75,
+      "note": "recovery 210sec @ 0.75"
+    },
+    {
+      "duration": 30,
+      "power": 0.9,
+      "note": "interval 30sec @ 0.90"
+    },
+    {
+      "duration": 210,
+      "power": 0.75,
+      "note": "recovery 210sec @ 0.75"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.9,
+      "note": "interval 30sec @ 0.90"
+    },
+    {
+      "duration": 210,
+      "power": 0.75,
+      "note": "recovery 210sec @ 0.75"
+    },
+    {
+      "duration": 30,
+      "power": 0.9,
+      "note": "interval 30sec @ 0.90"
+    },
+    {
+      "duration": 210,
+      "power": 0.75,
+      "note": "recovery 210sec @ 0.75"
+    },
+    {
+      "duration": 30,
+      "power": 0.9,
+      "note": "interval 30sec @ 0.90"
+    },
+    {
+      "duration": 210,
+      "power": 0.75,
+      "note": "recovery 210sec @ 0.75"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.9,
+      "note": "interval 30sec @ 0.90"
+    },
+    {
+      "duration": 210,
+      "power": 0.75,
+      "note": "recovery 210sec @ 0.75"
+    },
+    {
+      "duration": 30,
+      "power": 0.9,
+      "note": "interval 30sec @ 0.90"
+    },
+    {
+      "duration": 210,
+      "power": 0.75,
+      "note": "recovery 210sec @ 0.75"
+    },
+    {
+      "duration": 30,
+      "power": 0.9,
+      "note": "interval 30sec @ 0.90"
+    },
+    {
+      "duration": 210,
+      "power": 0.75,
+      "note": "recovery 210sec @ 0.75"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.9,
+      "note": "interval 30sec @ 0.90"
+    },
+    {
+      "duration": 210,
+      "power": 0.75,
+      "note": "recovery 210sec @ 0.75"
+    },
+    {
+      "duration": 30,
+      "power": 0.9,
+      "note": "interval 30sec @ 0.90"
+    },
+    {
+      "duration": 210,
+      "power": 0.75,
+      "note": "recovery 210sec @ 0.75"
+    },
+    {
+      "duration": 30,
+      "power": 0.9,
+      "note": "interval 30sec @ 0.90"
+    },
+    {
+      "duration": 210,
+      "power": 0.75,
+      "note": "recovery 210sec @ 0.75"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

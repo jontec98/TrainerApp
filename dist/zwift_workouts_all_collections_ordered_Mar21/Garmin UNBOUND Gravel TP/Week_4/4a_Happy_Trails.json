@@ -1,0 +1,56 @@
+{
+  "name": "Week 4 - Recovery.1 - Happy Trails",
+  "note": "Welcome to the recovery week! You made it through the first 3 weeks, and we have nothing but happy trails ahead. Today, we have a low-key zone 2 workout with alternating intervals of comfortable and fast cadence. UNBOUND Gravel is a grassroots event, organized and managed by folks who are passionate about cycling, and have done so for the primary purpose of providing life-enriching cycling experiences for event participants. (by Shayne Gaffney)",
+  "intervals": [
+    {
+      "duration": 480,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.65,
+      "note": "interval 300sec @ 0.65"
+    },
+    {
+      "duration": 300,
+      "power": 0.65,
+      "note": "recovery 300sec @ 0.65"
+    },
+    {
+      "duration": 300,
+      "power": 0.65,
+      "note": "interval 300sec @ 0.65"
+    },
+    {
+      "duration": 300,
+      "power": 0.65,
+      "note": "recovery 300sec @ 0.65"
+    },
+    {
+      "duration": 300,
+      "power": 0.65,
+      "note": "interval 300sec @ 0.65"
+    },
+    {
+      "duration": 300,
+      "power": 0.65,
+      "note": "recovery 300sec @ 0.65"
+    },
+    {
+      "duration": 300,
+      "power": 0.65,
+      "note": "interval 300sec @ 0.65"
+    },
+    {
+      "duration": 300,
+      "power": 0.65,
+      "note": "recovery 300sec @ 0.65"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

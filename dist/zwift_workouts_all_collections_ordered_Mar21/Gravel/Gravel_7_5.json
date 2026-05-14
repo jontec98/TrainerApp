@@ -1,0 +1,21 @@
+{
+  "name": "Free Ride",
+  "note": "A long base type ride for you today. Aerobic work FTW. Seriously though, you definitely need aerobic fitness as well as hard riding fitness to win in gravel. So, this might not seem like as important of a type of ride to do, but I promise you it is!\n\nToday would be a good ride to do outside, or on the current Zwift course as you wish. BUT, please do not go into Z3 if you can help it. Just smooth, smooth riding in \"the zone\". (by Zwift)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 6000,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

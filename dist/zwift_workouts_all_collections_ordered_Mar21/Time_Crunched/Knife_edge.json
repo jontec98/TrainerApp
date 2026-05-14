@@ -1,0 +1,56 @@
+{
+  "name": "Knife-edge",
+  "note": "You'll be right on the knife's edge from start to finish with this workout, which kicks things off with a very spicy 1-minute effort. The intervals back down from there, but you won't have much time to recover. Make it through to the finish, and you'll be well sharpened for your next ride! (by Shayne Gaffney | GC Coaching)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.25,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.98,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.08,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.92,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 120,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "name": "Week 1.2 - HIT 45sec #1",
+  "note": "With repeated anaerobic bouts of 45sec, you will be improving your ability to process lactate and recover from hard efforts.\n\nYou will also be using up vital carbohydrate stores prior to the final 5min sub-threshold interval. This is where the adaptation occurs!  (by Zwift)",
+  "intervals": [
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.75449997,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.75449997,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.90449995,
+      "note": "interval 60sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.90449995,
+      "note": "interval 60sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 1.7544999,
+      "note": "interval 45sec @ 1.75"
+    },
+    {
+      "duration": 255,
+      "power": 0.6045,
+      "note": "recovery 255sec @ 0.60"
+    },
+    {
+      "duration": 45,
+      "power": 1.7544999,
+      "note": "interval 45sec @ 1.75"
+    },
+    {
+      "duration": 255,
+      "power": 0.6045,
+      "note": "recovery 255sec @ 0.60"
+    },
+    {
+      "duration": 45,
+      "power": 1.7544999,
+      "note": "interval 45sec @ 1.75"
+    },
+    {
+      "duration": 255,
+      "power": 0.6045,
+      "note": "recovery 255sec @ 0.60"
+    },
+    {
+      "duration": 45,
+      "power": 1.7544999,
+      "note": "interval 45sec @ 1.75"
+    },
+    {
+      "duration": 255,
+      "power": 0.6045,
+      "note": "recovery 255sec @ 0.60"
+    },
+    {
+      "duration": 45,
+      "power": 1.7544999,
+      "note": "interval 45sec @ 1.75"
+    },
+    {
+      "duration": 255,
+      "power": 0.6045,
+      "note": "recovery 255sec @ 0.60"
+    },
+    {
+      "duration": 45,
+      "power": 1.7544999,
+      "note": "interval 45sec @ 1.75"
+    },
+    {
+      "duration": 255,
+      "power": 0.6045,
+      "note": "recovery 255sec @ 0.60"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.95449996,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    }
+  ]
+}

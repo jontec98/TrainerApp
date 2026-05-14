@@ -1,0 +1,66 @@
+{
+  "name": "Week 2.2 - Time Trial Ramp",
+  "note": "This session is one that you feel like you have completely under control until the final few intervals...and then the wheels have the potential to fall off. As the duration of the interval decreases, the power increases, so by the end of the session you will have 20min of work done. I call this \"The Creep\"...it sneaks up on you...and then...boof! Bites you hard in the final! (by Shayne Gaffney)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 110,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.25,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.40450001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 480,
+      "power": 0.95449996,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.45449999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 360,
+      "power": 1.0044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.45449999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 1.0545,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.1044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

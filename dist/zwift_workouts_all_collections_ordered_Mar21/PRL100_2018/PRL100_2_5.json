@@ -1,0 +1,356 @@
+{
+  "name": "Week 2.5 - Power Surges #1",
+  "note": "Steady endurance work trains your body to utilize oxygen to metabolise fat as its fuel source. By incorporating sprint efforts into a steady state effort, you will recruit additional muscle fibres and extend their ability to work aerobically. (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.81449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.81449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.65449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.55449998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.55449998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.55449998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

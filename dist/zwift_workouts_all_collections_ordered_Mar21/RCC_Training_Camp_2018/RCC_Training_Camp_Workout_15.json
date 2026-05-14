@@ -1,0 +1,21 @@
+{
+  "name": "RCC Training Camp Workout #15",
+  "note": "Welcome to the 15th and final session of the Rapha Cycling Club Training Camp. This session is a casual ride, for you to ride on feel. Fartlek means 'speed play' in Swedish, and is the focus of todays session - just vary your effort / speed as you feel. If you feel fresh and want to go for a timed climb or sprint in game, then go for it. If you want to cruise - just chill out! I will suggest a few varied efforts throughout the session - take on the challenges as you feel up for them! (by Matt Rowe (Rowe and King))",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 3600,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

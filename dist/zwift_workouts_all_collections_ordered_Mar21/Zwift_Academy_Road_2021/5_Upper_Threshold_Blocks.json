@@ -1,0 +1,83 @@
+{
+  "name": "Upper Threshold Blocks",
+  "note": "How do you turn into a Time Trial rider? This workout gives you all the tools you need to help you smash sustained efforts lasting 15\u201330min. \n\n    This session has you performing 30min of work near your FTP. Starting the first set at a higher intensity means lactate levels will increase slightly at the beginning without time to fully clear. Conversely, starting easy in the last set before building the intensity towards the end means you'll have to generate hard efforts at the end of nearly 50min of work and cumulative fatigue.\n    \n    Tiring, we know. But totally worth it. This work helps build fatigue resistance along with sustainable aerobic power, crucial when hitting longer segments to the best of your ability.\n    \n    Coach's Tip: Zwift Academy Road was developed with structure in mind. For best results, complete the workouts in order.\n    \n    This training program was designed by Stephen Gallagher and Dan Fleeman from Dig Deep Coaching. Their complete coaching approach ensures every Zwift Academy athlete learns the building blocks for successful training. (by Stephen Gallagher)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 360,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

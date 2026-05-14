@@ -1,0 +1,136 @@
+{
+  "name": "Week 6.2 - Progressive 6min #3",
+  "note": "Strength endurance work, building up over 6min. Starting with a cadence of 60 for 2min, this is increased by 5rpm every 2min.\n\nAfter some endurance building 'free riding' you will complete a 5min sub-threshold effort with cadence self selected. (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.65449995,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 0.80449992,
+      "note": "recovery 30sec @ 0.80"
+    },
+    {
+      "duration": 30,
+      "power": 0.65449995,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 0.80449992,
+      "note": "recovery 30sec @ 0.80"
+    },
+    {
+      "duration": 30,
+      "power": 0.65449995,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 0.80449992,
+      "note": "recovery 30sec @ 0.80"
+    },
+    {
+      "duration": 30,
+      "power": 0.65449995,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 0.80449992,
+      "note": "recovery 30sec @ 0.80"
+    },
+    {
+      "duration": 30,
+      "power": 0.65449995,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 0.80449992,
+      "note": "recovery 30sec @ 0.80"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.88759226,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.88927376,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.88971162,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.88983381,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.88697845,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.88950127,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.88557166,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.88677961,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.88523799,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 300,
+      "power": 0.95449996,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Month 2.8 - Pushing and Pulling",
+  "note": "This is a tough session so don't be tempted to overdo it on the \"pushing\" interval as the \"pulling\" efforts are hard!\n\n\nDo these at whatever cadence you're most comfortable with. (by Jon Sharples)",
+  "intervals": [
+    {
+      "duration": 1200,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.40450001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 900,
+      "power": 0.92449993,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.40450001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 1.0540278,
+      "note": "interval 240sec @ 1.05"
+    },
+    {
+      "duration": 240,
+      "power": 0.40402776,
+      "note": "recovery 240sec @ 0.40"
+    },
+    {
+      "duration": 240,
+      "power": 1.0540278,
+      "note": "interval 240sec @ 1.05"
+    },
+    {
+      "duration": 240,
+      "power": 0.40402776,
+      "note": "recovery 240sec @ 0.40"
+    },
+    {
+      "duration": 240,
+      "power": 1.0540278,
+      "note": "interval 240sec @ 1.05"
+    },
+    {
+      "duration": 240,
+      "power": 0.40402776,
+      "note": "recovery 240sec @ 0.40"
+    },
+    {
+      "duration": 300,
+      "power": 0.40450001,
+      "note": "SteadyState interval"
+    }
+  ]
+}

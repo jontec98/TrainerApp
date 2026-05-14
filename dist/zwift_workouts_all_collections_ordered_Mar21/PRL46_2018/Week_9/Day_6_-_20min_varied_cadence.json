@@ -1,0 +1,111 @@
+{
+  "name": "Week 9.6 - 20min varied cadence",
+  "note": "After warming up you will complete 2 x 20min efforts that vary in cadence and power.\n\n5min higher power / lower cadence\n5min lower power / higher cadence\n\nTake note of your heart rate at the beginning and end of each 30min interval. (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.8132023,
+      "note": "interval 10sec @ 1.81"
+    },
+    {
+      "duration": 50,
+      "power": 0.50449997,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.8132023,
+      "note": "interval 10sec @ 1.81"
+    },
+    {
+      "duration": 50,
+      "power": 0.50449997,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.8132023,
+      "note": "interval 10sec @ 1.81"
+    },
+    {
+      "duration": 50,
+      "power": 0.50449997,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.8132023,
+      "note": "interval 10sec @ 1.81"
+    },
+    {
+      "duration": 50,
+      "power": 0.50449997,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 180,
+      "power": 0.70449996,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.95449996,
+      "note": "interval 300sec @ 0.95"
+    },
+    {
+      "duration": 300,
+      "power": 0.81449997,
+      "note": "recovery 300sec @ 0.81"
+    },
+    {
+      "duration": 300,
+      "power": 0.95449996,
+      "note": "interval 300sec @ 0.95"
+    },
+    {
+      "duration": 300,
+      "power": 0.81449997,
+      "note": "recovery 300sec @ 0.81"
+    },
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.95449996,
+      "note": "interval 300sec @ 0.95"
+    },
+    {
+      "duration": 300,
+      "power": 0.81449997,
+      "note": "recovery 300sec @ 0.81"
+    },
+    {
+      "duration": 300,
+      "power": 0.95449996,
+      "note": "interval 300sec @ 0.95"
+    },
+    {
+      "duration": 300,
+      "power": 0.81449997,
+      "note": "recovery 300sec @ 0.81"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

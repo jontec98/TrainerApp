@@ -1,0 +1,190 @@
+{
+  "name": "Tractor Pulls",
+  "note": "This is a specific workout to improve your muscular strength so that you will have the strength needed for the steep climbs.  At the finish of the workout, you are going to do (3) gradual hills of 3 minutes each in order to address your Vo2max.  Make sure you do the \"Tractor Pulls\" from a slow speed, with your hands in the drops and strong core.  Stay seated the entire time and with a low cadence from the beginning of the effort, keep your cadence below 60rpm for as long as you can and try to prevent the cadence from raising above 90rpm.  Watts are from 200-300% of your FTP.\n     (by GCN)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.75449997,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.75449997,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.75449997,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 120,
+      "power": 0.70449996,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 2.0044999,
+      "note": "interval 30sec @ 2.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.70449996,
+      "note": "recovery 120sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 2.0044999,
+      "note": "interval 30sec @ 2.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.70449996,
+      "note": "recovery 120sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 2.0044999,
+      "note": "interval 30sec @ 2.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.70449996,
+      "note": "recovery 120sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 2.0044999,
+      "note": "interval 30sec @ 2.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.70449996,
+      "note": "recovery 120sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 2.0044999,
+      "note": "interval 30sec @ 2.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.70449996,
+      "note": "recovery 120sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 2.0044999,
+      "note": "interval 30sec @ 2.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.70449996,
+      "note": "recovery 120sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 2.0044999,
+      "note": "interval 30sec @ 2.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.70449996,
+      "note": "recovery 120sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 2.0044999,
+      "note": "interval 30sec @ 2.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.70449996,
+      "note": "recovery 120sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 2.0044999,
+      "note": "interval 30sec @ 2.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.70449996,
+      "note": "recovery 120sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 2.0044999,
+      "note": "interval 30sec @ 2.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.70449996,
+      "note": "recovery 120sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 2.0044999,
+      "note": "interval 30sec @ 2.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.70449996,
+      "note": "recovery 120sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 2.0044999,
+      "note": "interval 30sec @ 2.00"
+    },
+    {
+      "duration": 120,
+      "power": 0.70449996,
+      "note": "recovery 120sec @ 0.70"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.70449996,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 480,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

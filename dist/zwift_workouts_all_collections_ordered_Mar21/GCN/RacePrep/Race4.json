@@ -1,0 +1,231 @@
+{
+  "name": "SweetSpot w/ Bursts",
+  "note": "Once you have mastered the \"Tempo with bursts\" workout, then you are ready to up the ante a little and ride at Sweetspot and then do the bursts!   \nWarm-up for 10minutes and then do 3 x 1 minute fast pedaling drills >110rpm,  then do 40minutes at Sweetspot 90% of FTP, and every two minutes, do a burst for 20 seconds to 120% of FTP and resume at 90% of FTP.  Cool down.  (by GCN)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.75449997,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.75449997,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.75449997,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 120,
+      "power": 0.90449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.2045,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.90449995,
+      "note": "recovery 120sec @ 0.90"
+    },
+    {
+      "duration": 20,
+      "power": 1.2045,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.90449995,
+      "note": "recovery 120sec @ 0.90"
+    },
+    {
+      "duration": 20,
+      "power": 1.2045,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.90449995,
+      "note": "recovery 120sec @ 0.90"
+    },
+    {
+      "duration": 20,
+      "power": 1.2045,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.90449995,
+      "note": "recovery 120sec @ 0.90"
+    },
+    {
+      "duration": 20,
+      "power": 1.2045,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.90449995,
+      "note": "recovery 120sec @ 0.90"
+    },
+    {
+      "duration": 20,
+      "power": 1.2045,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.90449995,
+      "note": "recovery 120sec @ 0.90"
+    },
+    {
+      "duration": 20,
+      "power": 1.2045,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.90449995,
+      "note": "recovery 120sec @ 0.90"
+    },
+    {
+      "duration": 20,
+      "power": 1.2045,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.90449995,
+      "note": "recovery 120sec @ 0.90"
+    },
+    {
+      "duration": 20,
+      "power": 1.2045,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.90449995,
+      "note": "recovery 120sec @ 0.90"
+    },
+    {
+      "duration": 20,
+      "power": 1.2045,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.90449995,
+      "note": "recovery 120sec @ 0.90"
+    },
+    {
+      "duration": 20,
+      "power": 1.2045,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.90449995,
+      "note": "recovery 120sec @ 0.90"
+    },
+    {
+      "duration": 20,
+      "power": 1.2045,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.90449995,
+      "note": "recovery 120sec @ 0.90"
+    },
+    {
+      "duration": 20,
+      "power": 1.2045,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.90449995,
+      "note": "recovery 120sec @ 0.90"
+    },
+    {
+      "duration": 20,
+      "power": 1.2045,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.90449995,
+      "note": "recovery 120sec @ 0.90"
+    },
+    {
+      "duration": 20,
+      "power": 1.2045,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.90449995,
+      "note": "recovery 120sec @ 0.90"
+    },
+    {
+      "duration": 20,
+      "power": 1.2045,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.90449995,
+      "note": "recovery 120sec @ 0.90"
+    },
+    {
+      "duration": 20,
+      "power": 1.2045,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.90449995,
+      "note": "recovery 120sec @ 0.90"
+    },
+    {
+      "duration": 20,
+      "power": 1.2045,
+      "note": "interval 20sec @ 1.20"
+    },
+    {
+      "duration": 120,
+      "power": 0.90449995,
+      "note": "recovery 120sec @ 0.90"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

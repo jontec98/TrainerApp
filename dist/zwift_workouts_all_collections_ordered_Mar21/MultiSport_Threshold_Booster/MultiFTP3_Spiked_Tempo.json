@@ -1,0 +1,86 @@
+{
+  "name": "Spiked Tempo",
+  "note": "Looking to extend your time to exhaustion in this session, by extending the length of the interval and including some time spent near threshold.\n\nThe intensity is low enough that the interval can be completed comfortably, yet still creating enough of a stress to improve aerobic capabilities.\n\nThe aim is to record the same HR response for both intervals. (by Zwift)",
+  "intervals": [
+    {
+      "duration": 360,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0944999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.90449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 420,
+      "power": 0.83449996,
+      "note": "interval 420sec @ 0.83"
+    },
+    {
+      "duration": 180,
+      "power": 0.95449996,
+      "note": "recovery 180sec @ 0.95"
+    },
+    {
+      "duration": 420,
+      "power": 0.83449996,
+      "note": "interval 420sec @ 0.83"
+    },
+    {
+      "duration": 180,
+      "power": 0.95449996,
+      "note": "recovery 180sec @ 0.95"
+    },
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 420,
+      "power": 0.83449996,
+      "note": "interval 420sec @ 0.83"
+    },
+    {
+      "duration": 180,
+      "power": 0.95449996,
+      "note": "recovery 180sec @ 0.95"
+    },
+    {
+      "duration": 420,
+      "power": 0.83449996,
+      "note": "interval 420sec @ 0.83"
+    },
+    {
+      "duration": 180,
+      "power": 0.95449996,
+      "note": "recovery 180sec @ 0.95"
+    },
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    }
+  ]
+}

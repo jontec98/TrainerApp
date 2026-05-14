@@ -1,0 +1,111 @@
+{
+  "name": "Week 6.5 - Sweet Spot 12",
+  "note": "There is no getting away from the benefit of longer steady efforts. To improve the stimulus of this type of training even further, these are the perfect prelude to finish with repeated, high power, short efforts.\n\nToday we have 2 x 12min Sweet Spot efforts finished with 4 x 1min high cadence, threshold intervals. (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 180,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.81,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.09,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 720,
+      "power": 0.88,
+      "note": "interval 720sec @ 0.88"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "recovery 180sec @ 0.50"
+    },
+    {
+      "duration": 720,
+      "power": 0.88,
+      "note": "interval 720sec @ 0.88"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "recovery 180sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.98,
+      "note": "interval 60sec @ 0.98"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.98,
+      "note": "interval 60sec @ 0.98"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.98,
+      "note": "interval 60sec @ 0.98"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.98,
+      "note": "interval 60sec @ 0.98"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "recovery 120sec @ 0.50"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

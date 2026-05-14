@@ -1,0 +1,36 @@
+{
+  "name": "Week 7.3 - Tempo-duurtraining (1u)",
+  "note": "Met deze training verhoog je je basissnelheid. (by KNWU Fondo)",
+  "intervals": [
+    {
+      "duration": 1200,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.83,
+      "note": "interval 600sec @ 0.83"
+    },
+    {
+      "duration": 300,
+      "power": 0.65,
+      "note": "recovery 300sec @ 0.65"
+    },
+    {
+      "duration": 600,
+      "power": 0.83,
+      "note": "interval 600sec @ 0.83"
+    },
+    {
+      "duration": 300,
+      "power": 0.65,
+      "note": "recovery 300sec @ 0.65"
+    },
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

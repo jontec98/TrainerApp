@@ -1,0 +1,171 @@
+{
+  "name": "Week 3.5 - Threshold and Vo2 Max!",
+  "note": "Just to make sure you are being honest and getting in your threshold and Vo2 Max work.",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.95,
+      "note": "interval 60sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "recovery 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.95,
+      "note": "interval 60sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "recovery 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.95,
+      "note": "interval 60sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "recovery 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.95,
+      "note": "interval 60sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "recovery 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.95,
+      "note": "interval 60sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "recovery 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.95,
+      "note": "interval 60sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "recovery 60sec @ 0.87"
+    },
+    {
+      "duration": 300,
+      "power": 0.72,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.87,
+      "note": "interval 120sec @ 0.87"
+    },
+    {
+      "duration": 30,
+      "power": 0.95,
+      "note": "recovery 30sec @ 0.95"
+    },
+    {
+      "duration": 120,
+      "power": 0.87,
+      "note": "interval 120sec @ 0.87"
+    },
+    {
+      "duration": 30,
+      "power": 0.95,
+      "note": "recovery 30sec @ 0.95"
+    },
+    {
+      "duration": 120,
+      "power": 0.87,
+      "note": "interval 120sec @ 0.87"
+    },
+    {
+      "duration": 30,
+      "power": 0.95,
+      "note": "recovery 30sec @ 0.95"
+    },
+    {
+      "duration": 120,
+      "power": 0.87,
+      "note": "interval 120sec @ 0.87"
+    },
+    {
+      "duration": 30,
+      "power": 0.95,
+      "note": "recovery 30sec @ 0.95"
+    },
+    {
+      "duration": 300,
+      "power": 0.87,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.87,
+      "note": "interval 120sec @ 0.87"
+    },
+    {
+      "duration": 30,
+      "power": 0.95,
+      "note": "recovery 30sec @ 0.95"
+    },
+    {
+      "duration": 120,
+      "power": 0.87,
+      "note": "interval 120sec @ 0.87"
+    },
+    {
+      "duration": 30,
+      "power": 0.95,
+      "note": "recovery 30sec @ 0.95"
+    },
+    {
+      "duration": 120,
+      "power": 0.87,
+      "note": "interval 120sec @ 0.87"
+    },
+    {
+      "duration": 30,
+      "power": 0.95,
+      "note": "recovery 30sec @ 0.95"
+    },
+    {
+      "duration": 120,
+      "power": 0.87,
+      "note": "interval 120sec @ 0.87"
+    },
+    {
+      "duration": 30,
+      "power": 0.95,
+      "note": "recovery 30sec @ 0.95"
+    },
+    {
+      "duration": 300,
+      "power": 0.87,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

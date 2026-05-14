@@ -1,0 +1,21 @@
+{
+  "name": "Free Ride",
+  "note": "Easy, easy , easy today. And short. Did I mention easy? Recovery weeks are important, so please remember to ride easy within them when prescribed!\n\nNice Z1-Z2 effort today please. Great day for an easy outside ride including some skills practice or a free ride Zwift day. Whatever you choose, choose to ride easy!!! (by Zwift)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 3300,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

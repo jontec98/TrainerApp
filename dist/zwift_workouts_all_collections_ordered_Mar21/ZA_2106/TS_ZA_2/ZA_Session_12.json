@@ -1,0 +1,56 @@
+{
+  "name": "Month 2.3 - Hill Reps",
+  "note": "This session will feel like a gym workout on the bike as you work your cycling specific leg strength. Focus on keeping your upper body still and letting your legs and glutes do all the work.\n\nCadence during the efforts should be 60 to 70 RPM and 90+ during recovery.\n\nThis workout builds POWER! (by Jon Sharples)",
+  "intervals": [
+    {
+      "duration": 1200,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.40450001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.92449993,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.40450001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.92449993,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.40450001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.92449993,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.40450001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.92449993,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.40450001,
+      "note": "SteadyState interval"
+    }
+  ]
+}

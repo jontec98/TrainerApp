@@ -1,0 +1,166 @@
+{
+  "name": "Carlos Verona: Climber",
+  "note": "Carlos Verona has a a stage win in the 2022 Crit\u00e9rium du Dauphin\u00e9, and you don't earn that without putting the work in during training. Today we have one of his favorites a HIDIT (high intensity decremental interval training) interval set with the primary goal of maximizing time spent at VO2max. This workout will improve capacity and power in your top end and is one of the Movistar team's key sessions. (by Shayne Gaffney)",
+  "intervals": [
+    {
+      "duration": 540,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.15,
+      "note": "interval 120sec @ 1.15"
+    },
+    {
+      "duration": 90,
+      "power": 0.5,
+      "note": "recovery 90sec @ 0.50"
+    },
+    {
+      "duration": 90,
+      "power": 1.15,
+      "note": "interval 90sec @ 1.15"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 1.15,
+      "note": "interval 60sec @ 1.15"
+    },
+    {
+      "duration": 40,
+      "power": 0.5,
+      "note": "recovery 40sec @ 0.50"
+    },
+    {
+      "duration": 40,
+      "power": 1.15,
+      "note": "interval 40sec @ 1.15"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 40,
+      "power": 1.15,
+      "note": "interval 40sec @ 1.15"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 40,
+      "power": 1.15,
+      "note": "interval 40sec @ 1.15"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 40,
+      "power": 1.15,
+      "note": "interval 40sec @ 1.15"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 300,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.15,
+      "note": "interval 120sec @ 1.15"
+    },
+    {
+      "duration": 90,
+      "power": 0.5,
+      "note": "recovery 90sec @ 0.50"
+    },
+    {
+      "duration": 90,
+      "power": 1.15,
+      "note": "interval 90sec @ 1.15"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 1.15,
+      "note": "interval 60sec @ 1.15"
+    },
+    {
+      "duration": 40,
+      "power": 0.5,
+      "note": "recovery 40sec @ 0.50"
+    },
+    {
+      "duration": 40,
+      "power": 1.15,
+      "note": "interval 40sec @ 1.15"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 40,
+      "power": 1.15,
+      "note": "interval 40sec @ 1.15"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 40,
+      "power": 1.15,
+      "note": "interval 40sec @ 1.15"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 40,
+      "power": 1.15,
+      "note": "interval 40sec @ 1.15"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

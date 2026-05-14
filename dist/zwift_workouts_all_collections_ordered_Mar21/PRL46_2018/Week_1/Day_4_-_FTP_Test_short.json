@@ -1,0 +1,56 @@
+{
+  "name": "Week 1.4 - FTP Test (short)",
+  "note": "The short variation of the standard FTP test starts off with a short warmup, a quick leg opening ramp, and a 5 minute hard effort to get the legs pumping.  After a brief rest it's time to give it your all and go as hard as you can for 20 solid minutes.  Pace yourself and try to go as hard as you can sustain for the entire 20 minutes - you will be scored on the final 20 minute segment.  \n\nUpon saving your ride, you will be notified if your FTP improved. (by Zwift)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.89999998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.3,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.6045,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.2,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 360,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 1200,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

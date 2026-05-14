@@ -1,0 +1,111 @@
+{
+  "name": "Women's Team Workout",
+  "note": "For the first day of training camp with UCI WorldTour team Movistar we are going to start with low torque efforts, to build cycling specific strength contrasted with high cadence recoveries to get improvements in your pedal stroke. The Main set is 2 rounds, the 1st round is 4 x 2 min low cadence efforts at 80% of FTP followed by 4 min recovery at 100 rpms. The 2nd round is 4 x 3 min low cadence efforts at 80% of FTP, followed by 4 min at 100 rpms for recovery. (by Sean Jefferson)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.8,
+      "note": "interval 120sec @ 0.80"
+    },
+    {
+      "duration": 40,
+      "power": 0.45,
+      "note": "recovery 40sec @ 0.45"
+    },
+    {
+      "duration": 120,
+      "power": 0.8,
+      "note": "interval 120sec @ 0.80"
+    },
+    {
+      "duration": 40,
+      "power": 0.45,
+      "note": "recovery 40sec @ 0.45"
+    },
+    {
+      "duration": 120,
+      "power": 0.8,
+      "note": "interval 120sec @ 0.80"
+    },
+    {
+      "duration": 40,
+      "power": 0.45,
+      "note": "recovery 40sec @ 0.45"
+    },
+    {
+      "duration": 120,
+      "power": 0.8,
+      "note": "interval 120sec @ 0.80"
+    },
+    {
+      "duration": 40,
+      "power": 0.45,
+      "note": "recovery 40sec @ 0.45"
+    },
+    {
+      "duration": 240,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.8,
+      "note": "interval 180sec @ 0.80"
+    },
+    {
+      "duration": 40,
+      "power": 0.45,
+      "note": "recovery 40sec @ 0.45"
+    },
+    {
+      "duration": 180,
+      "power": 0.8,
+      "note": "interval 180sec @ 0.80"
+    },
+    {
+      "duration": 40,
+      "power": 0.45,
+      "note": "recovery 40sec @ 0.45"
+    },
+    {
+      "duration": 180,
+      "power": 0.8,
+      "note": "interval 180sec @ 0.80"
+    },
+    {
+      "duration": 40,
+      "power": 0.45,
+      "note": "recovery 40sec @ 0.45"
+    },
+    {
+      "duration": 180,
+      "power": 0.8,
+      "note": "interval 180sec @ 0.80"
+    },
+    {
+      "duration": 40,
+      "power": 0.45,
+      "note": "recovery 40sec @ 0.45"
+    },
+    {
+      "duration": 240,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

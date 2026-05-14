@@ -1,0 +1,276 @@
+{
+  "name": "Week 3.2 - The Rollercoaster",
+  "note": "This Rollercoaster session aims to replicate the demands of a mountain bike ride / event. \n\nMountain biking generally involves far more variations in effort compared with road riding - so plenty of surges and time spent being over geared!\n\nWe touch upon all of these aspects in todays session, as we complete two blocks of alternating intensity, with top end Zone 6 surges thrown in there to replicate the demands of having to get up and over a steep bank or technical section. Feel free to get out of the saddle during the max efforts if you need to.\n\nWe also have a 12 minute Sweet Spot effort in the middle, to help continue to develop our endurance. (by Matt Rowe (Rowe & King))",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.0944999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0044999,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 30,
+      "power": 0.70449996,
+      "note": "recovery 30sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 1.0044999,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 30,
+      "power": 0.70449996,
+      "note": "recovery 30sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 1.0044999,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 30,
+      "power": 0.70449996,
+      "note": "recovery 30sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 1.0044999,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 30,
+      "power": 0.70449996,
+      "note": "recovery 30sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 1.0044999,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 30,
+      "power": 0.70449996,
+      "note": "recovery 30sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 1.2544999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0044999,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 30,
+      "power": 0.70449996,
+      "note": "recovery 30sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 1.0044999,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 30,
+      "power": 0.70449996,
+      "note": "recovery 30sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 1.0044999,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 30,
+      "power": 0.70449996,
+      "note": "recovery 30sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 1.0044999,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 30,
+      "power": 0.70449996,
+      "note": "recovery 30sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 1.0044999,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 30,
+      "power": 0.70449996,
+      "note": "recovery 30sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 1.2544999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.40450001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 720,
+      "power": 0.88449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.40450001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0044999,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 30,
+      "power": 0.70449996,
+      "note": "recovery 30sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 1.0044999,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 30,
+      "power": 0.70449996,
+      "note": "recovery 30sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 1.0044999,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 30,
+      "power": 0.70449996,
+      "note": "recovery 30sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 1.0044999,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 30,
+      "power": 0.70449996,
+      "note": "recovery 30sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 1.0044999,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 30,
+      "power": 0.70449996,
+      "note": "recovery 30sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 1.2544999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0044999,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 30,
+      "power": 0.70449996,
+      "note": "recovery 30sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 1.0044999,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 30,
+      "power": 0.70449996,
+      "note": "recovery 30sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 1.0044999,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 30,
+      "power": 0.70449996,
+      "note": "recovery 30sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 1.0044999,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 30,
+      "power": 0.70449996,
+      "note": "recovery 30sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 1.0044999,
+      "note": "interval 30sec @ 1.00"
+    },
+    {
+      "duration": 30,
+      "power": 0.70449996,
+      "note": "recovery 30sec @ 0.70"
+    },
+    {
+      "duration": 30,
+      "power": 1.2544999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 410,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

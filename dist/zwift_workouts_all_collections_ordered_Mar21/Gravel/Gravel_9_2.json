@@ -1,0 +1,176 @@
+{
+  "name": "Over Unders",
+  "note": "The good friend that is the Over Under. It feels good, but not all at the same time. Very important type of effort for gravel racing. Get used to this feeling!\n3x (9 minutes as 2 at 85, 1 at 110, 2 at 85 1 at 110, 2 at 85 1 at 110) 5 easy between.\neasy cool down (by Zwift)",
+  "intervals": [
+    {
+      "duration": 720,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.8,
+      "note": "interval 120sec @ 0.80"
+    },
+    {
+      "duration": 120,
+      "power": 0.6,
+      "note": "recovery 120sec @ 0.60"
+    },
+    {
+      "duration": 120,
+      "power": 0.8,
+      "note": "interval 120sec @ 0.80"
+    },
+    {
+      "duration": 120,
+      "power": 0.6,
+      "note": "recovery 120sec @ 0.60"
+    },
+    {
+      "duration": 120,
+      "power": 0.8,
+      "note": "interval 120sec @ 0.80"
+    },
+    {
+      "duration": 120,
+      "power": 0.6,
+      "note": "recovery 120sec @ 0.60"
+    },
+    {
+      "duration": 120,
+      "power": 0.8,
+      "note": "interval 120sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 1.1,
+      "note": "recovery 60sec @ 1.10"
+    },
+    {
+      "duration": 120,
+      "power": 0.8,
+      "note": "interval 120sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 1.1,
+      "note": "recovery 60sec @ 1.10"
+    },
+    {
+      "duration": 120,
+      "power": 0.8,
+      "note": "interval 120sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 1.1,
+      "note": "recovery 60sec @ 1.10"
+    },
+    {
+      "duration": 300,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.8,
+      "note": "interval 120sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 1.1,
+      "note": "recovery 60sec @ 1.10"
+    },
+    {
+      "duration": 120,
+      "power": 0.8,
+      "note": "interval 120sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 1.1,
+      "note": "recovery 60sec @ 1.10"
+    },
+    {
+      "duration": 120,
+      "power": 0.8,
+      "note": "interval 120sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 1.1,
+      "note": "recovery 60sec @ 1.10"
+    },
+    {
+      "duration": 300,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.8,
+      "note": "interval 120sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 1.1,
+      "note": "recovery 60sec @ 1.10"
+    },
+    {
+      "duration": 120,
+      "power": 0.8,
+      "note": "interval 120sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 1.1,
+      "note": "recovery 60sec @ 1.10"
+    },
+    {
+      "duration": 120,
+      "power": 0.8,
+      "note": "interval 120sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 1.1,
+      "note": "recovery 60sec @ 1.10"
+    },
+    {
+      "duration": 120,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Lionel Sanders' Yellow Day Workout",
+  "note": "Lionel Sanders says 'These days make up most of my days just because of my training volume. I would certainly not plan on a yellow day to do something crazy high intensity. You certainly can do a bit of your low intensity stuff, as well and your technical stuff, like you do on a red day - but you also have to work a bit, so it's a great day to do more of your race pace specific work, which isn't super crazy taxing but also isn't super easy. I think it's a good day to plan more sweet spot or mid type intensity workout if you have an intense workout plan for that week.' (by Shayne Gaffney)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.75449994,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.75449994,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.75449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

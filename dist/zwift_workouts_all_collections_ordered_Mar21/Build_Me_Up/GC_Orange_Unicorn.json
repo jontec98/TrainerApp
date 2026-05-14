@@ -1,0 +1,321 @@
+{
+  "name": "Orange Unicorn",
+  "note": "All the Unicorn workouts are based off of the visual spectrum (Red, Orange, Yellow, Green, Blue, Indigo, Violet (purple)) with the same order of easiest to hardest.  So, Red Unicorn features the least training load, Orange Unicorn the second, etc. (by Shayne Gaffney | GC Coaching)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.85,
+      "note": "interval 120sec @ 0.85"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "recovery 30sec @ 1.05"
+    },
+    {
+      "duration": 120,
+      "power": 0.85,
+      "note": "interval 120sec @ 0.85"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "recovery 30sec @ 1.05"
+    },
+    {
+      "duration": 120,
+      "power": 0.85,
+      "note": "interval 120sec @ 0.85"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "recovery 30sec @ 1.05"
+    },
+    {
+      "duration": 120,
+      "power": 0.85,
+      "note": "interval 120sec @ 0.85"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "recovery 30sec @ 1.05"
+    },
+    {
+      "duration": 120,
+      "power": 0.85,
+      "note": "interval 120sec @ 0.85"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "recovery 30sec @ 1.05"
+    },
+    {
+      "duration": 120,
+      "power": 0.85,
+      "note": "interval 120sec @ 0.85"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "recovery 30sec @ 1.05"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.85,
+      "note": "interval 120sec @ 0.85"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "recovery 30sec @ 1.05"
+    },
+    {
+      "duration": 120,
+      "power": 0.85,
+      "note": "interval 120sec @ 0.85"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "recovery 30sec @ 1.05"
+    },
+    {
+      "duration": 120,
+      "power": 0.85,
+      "note": "interval 120sec @ 0.85"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "recovery 30sec @ 1.05"
+    },
+    {
+      "duration": 120,
+      "power": 0.85,
+      "note": "interval 120sec @ 0.85"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "recovery 30sec @ 1.05"
+    },
+    {
+      "duration": 120,
+      "power": 0.85,
+      "note": "interval 120sec @ 0.85"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "recovery 30sec @ 1.05"
+    },
+    {
+      "duration": 120,
+      "power": 0.85,
+      "note": "interval 120sec @ 0.85"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "recovery 30sec @ 1.05"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.85,
+      "note": "interval 120sec @ 0.85"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "recovery 30sec @ 1.05"
+    },
+    {
+      "duration": 120,
+      "power": 0.85,
+      "note": "interval 120sec @ 0.85"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "recovery 30sec @ 1.05"
+    },
+    {
+      "duration": 120,
+      "power": 0.85,
+      "note": "interval 120sec @ 0.85"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "recovery 30sec @ 1.05"
+    },
+    {
+      "duration": 120,
+      "power": 0.85,
+      "note": "interval 120sec @ 0.85"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "recovery 30sec @ 1.05"
+    },
+    {
+      "duration": 120,
+      "power": 0.85,
+      "note": "interval 120sec @ 0.85"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "recovery 30sec @ 1.05"
+    },
+    {
+      "duration": 120,
+      "power": 0.85,
+      "note": "interval 120sec @ 0.85"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "recovery 30sec @ 1.05"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.85,
+      "note": "interval 120sec @ 0.85"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "recovery 30sec @ 1.05"
+    },
+    {
+      "duration": 120,
+      "power": 0.85,
+      "note": "interval 120sec @ 0.85"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "recovery 30sec @ 1.05"
+    },
+    {
+      "duration": 120,
+      "power": 0.85,
+      "note": "interval 120sec @ 0.85"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "recovery 30sec @ 1.05"
+    },
+    {
+      "duration": 120,
+      "power": 0.85,
+      "note": "interval 120sec @ 0.85"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "recovery 30sec @ 1.05"
+    },
+    {
+      "duration": 120,
+      "power": 0.85,
+      "note": "interval 120sec @ 0.85"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "recovery 30sec @ 1.05"
+    },
+    {
+      "duration": 120,
+      "power": 0.85,
+      "note": "interval 120sec @ 0.85"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "recovery 30sec @ 1.05"
+    },
+    {
+      "duration": 240,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Week 2.4 - Hill Reps",
+  "note": "warm up - 15 min...4 x 5 min reps with 5mins recovery between each rep.\nremain seated whilst climbing. . Idea for today is to not raise heart rates too high but concentrate pressing down hardfrom tops of thighs, keeping a strict style working the core. Keep the burning sensations going. strengthening your ankles, knees and hips. Kind of a GYM session on the bike.  Perhaps do the last one at full speed to flood your body with the lactate. (by trainSharp)",
+  "intervals": [
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.8545,
+      "note": "interval 300sec @ 0.85"
+    },
+    {
+      "duration": 300,
+      "power": 0.50450003,
+      "note": "recovery 300sec @ 0.50"
+    },
+    {
+      "duration": 300,
+      "power": 0.8545,
+      "note": "interval 300sec @ 0.85"
+    },
+    {
+      "duration": 300,
+      "power": 0.50450003,
+      "note": "recovery 300sec @ 0.50"
+    },
+    {
+      "duration": 300,
+      "power": 0.8545,
+      "note": "interval 300sec @ 0.85"
+    },
+    {
+      "duration": 300,
+      "power": 0.50450003,
+      "note": "recovery 300sec @ 0.50"
+    },
+    {
+      "duration": 300,
+      "power": 0.8545,
+      "note": "interval 300sec @ 0.85"
+    },
+    {
+      "duration": 300,
+      "power": 0.50450003,
+      "note": "recovery 300sec @ 0.50"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

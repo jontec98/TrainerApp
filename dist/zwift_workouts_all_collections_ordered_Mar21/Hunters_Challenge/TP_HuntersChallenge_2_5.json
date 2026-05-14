@@ -1,0 +1,96 @@
+{
+  "name": "Week 2.5 - CrissCross Crushers",
+  "note": "This is a solid workout at just below your threshold and then doing short, but hard little bursts above!",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.6,
+      "note": "interval 30sec @ 1.60"
+    },
+    {
+      "duration": 210,
+      "power": 0.87,
+      "note": "recovery 210sec @ 0.87"
+    },
+    {
+      "duration": 30,
+      "power": 1.6,
+      "note": "interval 30sec @ 1.60"
+    },
+    {
+      "duration": 210,
+      "power": 0.87,
+      "note": "recovery 210sec @ 0.87"
+    },
+    {
+      "duration": 30,
+      "power": 1.6,
+      "note": "interval 30sec @ 1.60"
+    },
+    {
+      "duration": 210,
+      "power": 0.87,
+      "note": "recovery 210sec @ 0.87"
+    },
+    {
+      "duration": 30,
+      "power": 1.6,
+      "note": "interval 30sec @ 1.60"
+    },
+    {
+      "duration": 210,
+      "power": 0.87,
+      "note": "recovery 210sec @ 0.87"
+    },
+    {
+      "duration": 30,
+      "power": 1.6,
+      "note": "interval 30sec @ 1.60"
+    },
+    {
+      "duration": 210,
+      "power": 0.87,
+      "note": "recovery 210sec @ 0.87"
+    },
+    {
+      "duration": 300,
+      "power": 0.87,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.14,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.72,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.14,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.72,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.14,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

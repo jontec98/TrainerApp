@@ -1,0 +1,91 @@
+{
+  "name": "Week 9.1 - Strength Endurance + REV for :15 seconds",
+  "note": "Today's workout is about gaining strength, you will spend much of your time in Zone 3, TEMPO, 85% of your FTP - however you want to look at it. During today's workout it is important to be aware of your RPM's - focus on being between 60-65.  If you have knee or back issues increase this to 60-70 RPM's. Keep smooth pedal strokes, no rocking of the hips or mashing from left to right pedal :) At the end of the 5 minutes we will be increasing our cadence and power as much as we can for :15 seconds.  You will want to shift up one or two cogs - feeling the torque but able to ramp it up within the :30 seconds.\n\n (by Kristin Armstrong)",
+  "intervals": [
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.7,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 330,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    }
+  ]
+}

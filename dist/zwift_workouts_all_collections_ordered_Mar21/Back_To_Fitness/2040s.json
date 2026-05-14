@@ -1,0 +1,236 @@
+{
+  "name": "Week 4.2 - 20-40's",
+  "note": "This workout really gets your Type II (Fast Twitch) muscle fibers firing, by completing 20 x 20-second sprint efforts. There are huge gains to be made through sprint training, even if your target event doesn't involve sprinting - you will love being more powerful and explosive on the bike. (by D.Rowe (Rowe&King))",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.6,
+      "note": "interval 20sec @ 1.60"
+    },
+    {
+      "duration": 40,
+      "power": 0.4,
+      "note": "recovery 40sec @ 0.40"
+    },
+    {
+      "duration": 20,
+      "power": 1.6,
+      "note": "interval 20sec @ 1.60"
+    },
+    {
+      "duration": 40,
+      "power": 0.4,
+      "note": "recovery 40sec @ 0.40"
+    },
+    {
+      "duration": 20,
+      "power": 1.6,
+      "note": "interval 20sec @ 1.60"
+    },
+    {
+      "duration": 40,
+      "power": 0.4,
+      "note": "recovery 40sec @ 0.40"
+    },
+    {
+      "duration": 20,
+      "power": 1.6,
+      "note": "interval 20sec @ 1.60"
+    },
+    {
+      "duration": 40,
+      "power": 0.4,
+      "note": "recovery 40sec @ 0.40"
+    },
+    {
+      "duration": 20,
+      "power": 1.6,
+      "note": "interval 20sec @ 1.60"
+    },
+    {
+      "duration": 40,
+      "power": 0.4,
+      "note": "recovery 40sec @ 0.40"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.6,
+      "note": "interval 20sec @ 1.60"
+    },
+    {
+      "duration": 40,
+      "power": 0.4,
+      "note": "recovery 40sec @ 0.40"
+    },
+    {
+      "duration": 20,
+      "power": 1.6,
+      "note": "interval 20sec @ 1.60"
+    },
+    {
+      "duration": 40,
+      "power": 0.4,
+      "note": "recovery 40sec @ 0.40"
+    },
+    {
+      "duration": 20,
+      "power": 1.6,
+      "note": "interval 20sec @ 1.60"
+    },
+    {
+      "duration": 40,
+      "power": 0.4,
+      "note": "recovery 40sec @ 0.40"
+    },
+    {
+      "duration": 20,
+      "power": 1.6,
+      "note": "interval 20sec @ 1.60"
+    },
+    {
+      "duration": 40,
+      "power": 0.4,
+      "note": "recovery 40sec @ 0.40"
+    },
+    {
+      "duration": 20,
+      "power": 1.6,
+      "note": "interval 20sec @ 1.60"
+    },
+    {
+      "duration": 40,
+      "power": 0.4,
+      "note": "recovery 40sec @ 0.40"
+    },
+    {
+      "duration": 180,
+      "power": 0.51,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.6,
+      "note": "interval 20sec @ 1.60"
+    },
+    {
+      "duration": 40,
+      "power": 0.4,
+      "note": "recovery 40sec @ 0.40"
+    },
+    {
+      "duration": 20,
+      "power": 1.6,
+      "note": "interval 20sec @ 1.60"
+    },
+    {
+      "duration": 40,
+      "power": 0.4,
+      "note": "recovery 40sec @ 0.40"
+    },
+    {
+      "duration": 20,
+      "power": 1.6,
+      "note": "interval 20sec @ 1.60"
+    },
+    {
+      "duration": 40,
+      "power": 0.4,
+      "note": "recovery 40sec @ 0.40"
+    },
+    {
+      "duration": 20,
+      "power": 1.6,
+      "note": "interval 20sec @ 1.60"
+    },
+    {
+      "duration": 40,
+      "power": 0.4,
+      "note": "recovery 40sec @ 0.40"
+    },
+    {
+      "duration": 20,
+      "power": 1.6,
+      "note": "interval 20sec @ 1.60"
+    },
+    {
+      "duration": 40,
+      "power": 0.4,
+      "note": "recovery 40sec @ 0.40"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.6,
+      "note": "interval 20sec @ 1.60"
+    },
+    {
+      "duration": 40,
+      "power": 0.4,
+      "note": "recovery 40sec @ 0.40"
+    },
+    {
+      "duration": 20,
+      "power": 1.6,
+      "note": "interval 20sec @ 1.60"
+    },
+    {
+      "duration": 40,
+      "power": 0.4,
+      "note": "recovery 40sec @ 0.40"
+    },
+    {
+      "duration": 20,
+      "power": 1.6,
+      "note": "interval 20sec @ 1.60"
+    },
+    {
+      "duration": 40,
+      "power": 0.4,
+      "note": "recovery 40sec @ 0.40"
+    },
+    {
+      "duration": 20,
+      "power": 1.6,
+      "note": "interval 20sec @ 1.60"
+    },
+    {
+      "duration": 40,
+      "power": 0.4,
+      "note": "recovery 40sec @ 0.40"
+    },
+    {
+      "duration": 20,
+      "power": 1.6,
+      "note": "interval 20sec @ 1.60"
+    },
+    {
+      "duration": 40,
+      "power": 0.4,
+      "note": "recovery 40sec @ 0.40"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Week 5.3 - Day 3",
+  "note": "SST intervals are part of a continued effort to build and maintain base. Warm up in Endurance with 2 x 1 minute Fast Pedals (fast as you can pedal without bouncing in the saddle) to wake up your legs. Complete 2 x 17 minute intervals in the \"Sweet Spot\" zone with 5 minutes recovery in-between. Ride all other time in Endurance. Cadence: 85 - 105 rpm.",
+  "intervals": [
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 1080,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 1020,
+      "power": 1.0,
+      "note": "interval 1020sec @ 1.00"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "recovery 300sec @ 0.50"
+    },
+    {
+      "duration": 1020,
+      "power": 1.0,
+      "note": "interval 1020sec @ 1.00"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "recovery 300sec @ 0.50"
+    },
+    {
+      "duration": 1080,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

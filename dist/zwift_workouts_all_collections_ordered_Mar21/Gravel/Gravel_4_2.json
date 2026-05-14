@@ -1,0 +1,166 @@
+{
+  "name": "Turn Up The AC (2x4x2min)",
+  "note": "Y'all wanna do some anaerobic work? No? Well, you're gonna do it anyways. You would be correct to think this kind of effort isn't as important in gravel racing, but you'd be wrong to think it still wont benefit you. And besides, it's fun. \n\nThis is possibly a higher watt than you are used to hitting on the trainer, so please set yourself up to be successful by being ready with high RPM's and a positive attitude! (by Zwift)",
+  "intervals": [
+    {
+      "duration": 480,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.9,
+      "note": "interval 120sec @ 0.90"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 0.9,
+      "note": "interval 120sec @ 0.90"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 0.9,
+      "note": "interval 120sec @ 0.90"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 30,
+      "power": 1.6,
+      "note": "interval 30sec @ 1.60"
+    },
+    {
+      "duration": 90,
+      "power": 0.5,
+      "note": "recovery 90sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.6,
+      "note": "interval 30sec @ 1.60"
+    },
+    {
+      "duration": 90,
+      "power": 0.5,
+      "note": "recovery 90sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.6,
+      "note": "interval 30sec @ 1.60"
+    },
+    {
+      "duration": 90,
+      "power": 0.5,
+      "note": "recovery 90sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.6,
+      "note": "interval 30sec @ 1.60"
+    },
+    {
+      "duration": 90,
+      "power": 0.5,
+      "note": "recovery 90sec @ 0.50"
+    },
+    {
+      "duration": 210,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.6,
+      "note": "interval 30sec @ 1.60"
+    },
+    {
+      "duration": 90,
+      "power": 0.5,
+      "note": "recovery 90sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.6,
+      "note": "interval 30sec @ 1.60"
+    },
+    {
+      "duration": 90,
+      "power": 0.5,
+      "note": "recovery 90sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.6,
+      "note": "interval 30sec @ 1.60"
+    },
+    {
+      "duration": 90,
+      "power": 0.5,
+      "note": "recovery 90sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.6,
+      "note": "interval 30sec @ 1.60"
+    },
+    {
+      "duration": 90,
+      "power": 0.5,
+      "note": "recovery 90sec @ 0.50"
+    },
+    {
+      "duration": 210,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

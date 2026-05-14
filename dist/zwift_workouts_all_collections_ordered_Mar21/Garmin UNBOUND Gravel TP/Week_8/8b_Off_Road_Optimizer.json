@@ -1,0 +1,76 @@
+{
+  "name": "Week 8 - Taper.2 - Off Road Optimizer",
+  "note": "Nothing else left to do but to optimize your recovery for off-road performance! This workout features a series of openers to prime the pump for a big effort. Enjoy this short and sharp workout designed to get you ready for whatever UNBOUND will throw at you. UNBOUND Gravel is a grassroots event, organized and managed by folks who are passionate about cycling, and have done so for the primary purpose of providing life-enriching cycling experiences for event participants. (by Shayne Gaffney)",
+  "intervals": [
+    {
+      "duration": 240,
+      "power": 0.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.53,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.67,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.15,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "interval 30sec @ 1.20"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "recovery 30sec @ 0.55"
+    },
+    {
+      "duration": 30,
+      "power": 1.2,
+      "note": "interval 30sec @ 1.20"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "recovery 30sec @ 0.55"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

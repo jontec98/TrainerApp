@@ -1,0 +1,211 @@
+{
+  "name": "Week 13.5 - SST 3 x 20min",
+  "note": "Warm up then complete 3 x 20min SST efforts @ 88-94%. Start each interval with 3 x 15sec max sprints with 30sec recovery. Following the 3rd sprint do not rest. Straight into the SST effort. 5min recovery between intervals. Cool down. (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.53,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.56,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.59,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.62,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.64,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.67,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.7,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.73,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.76,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 1200,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 1200,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.4,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 1200,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.76,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.73,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.7,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.67,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.64,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.62,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.59,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.56,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.53,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    }
+  ]
+}

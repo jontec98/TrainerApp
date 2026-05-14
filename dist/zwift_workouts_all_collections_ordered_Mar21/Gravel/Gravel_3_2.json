@@ -1,0 +1,156 @@
+{
+  "name": "6x2 VO2 Max",
+  "note": "Today's ride is a little bit of work above threshold to get us used to some voyages into the pain cave during our gravel rides this summer. It's important to train this zone above threshold for any race on a bike, but in gravel not only will our competitors force us here, but the terrain will as well. \n\nOnly 2 minutes at a time spent at 110% but equal rest and 6 rounds will make it sting by the end. Really focus on using good RPM's in the hard stuff to stay \"on top\" of the gear and be as relaxed in your upper body as you can while being active in your core to maintain stability. (by Zwift)",
+  "intervals": [
+    {
+      "duration": 540,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 40,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.1,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.1,
+      "note": "interval 120sec @ 1.10"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 1.1,
+      "note": "interval 120sec @ 1.10"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 1.1,
+      "note": "interval 120sec @ 1.10"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 1.1,
+      "note": "interval 120sec @ 1.10"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 1.1,
+      "note": "interval 120sec @ 1.10"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 1.1,
+      "note": "interval 120sec @ 1.10"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 480,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

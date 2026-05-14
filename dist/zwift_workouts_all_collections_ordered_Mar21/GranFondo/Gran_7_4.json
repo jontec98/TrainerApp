@@ -1,0 +1,101 @@
+{
+  "name": "The Long Ride - 6x20min Tempo",
+  "note": "A set of long intervals focused on endurance in Zone 2. Nothing fancy here, just long bouts of solid work here. This is your last long ride, and is designed to help keep rhythm but without adding any significant fatigue. You should have the fitness by now to execute this and recover fully. (by Zwift)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.64999998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.91000003,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 1200,
+      "power": 0.75999999,
+      "note": "interval 1200sec @ 0.76"
+    },
+    {
+      "duration": 600,
+      "power": 0.50449997,
+      "note": "recovery 600sec @ 0.50"
+    },
+    {
+      "duration": 1200,
+      "power": 0.75999999,
+      "note": "interval 1200sec @ 0.76"
+    },
+    {
+      "duration": 600,
+      "power": 0.50449997,
+      "note": "recovery 600sec @ 0.50"
+    },
+    {
+      "duration": 1200,
+      "power": 0.75999999,
+      "note": "interval 1200sec @ 0.76"
+    },
+    {
+      "duration": 600,
+      "power": 0.50449997,
+      "note": "recovery 600sec @ 0.50"
+    },
+    {
+      "duration": 1200,
+      "power": 0.75999999,
+      "note": "interval 1200sec @ 0.76"
+    },
+    {
+      "duration": 600,
+      "power": 0.50449997,
+      "note": "recovery 600sec @ 0.50"
+    },
+    {
+      "duration": 1200,
+      "power": 0.75999999,
+      "note": "interval 1200sec @ 0.76"
+    },
+    {
+      "duration": 600,
+      "power": 0.50449997,
+      "note": "recovery 600sec @ 0.50"
+    },
+    {
+      "duration": 1200,
+      "power": 0.75999999,
+      "note": "interval 1200sec @ 0.76"
+    },
+    {
+      "duration": 600,
+      "power": 0.50449997,
+      "note": "recovery 600sec @ 0.50"
+    },
+    {
+      "duration": 120,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

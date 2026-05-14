@@ -1,0 +1,236 @@
+{
+  "name": "Big Bear",
+  "note": "This workout will see you complete 21 efforts in total. 7 of which are 45 seconds at zone 3, sandwiched by 14 shorter (30 second) zone 6 efforts. \n\nThe zone 6 efforts are short enough to ensure your heart rate never gets close to max. (by D.Rowe (Rowe&King))",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.40604165,
+      "note": "interval 45sec @ 0.41"
+    },
+    {
+      "duration": 30,
+      "power": 1.1560417,
+      "note": "recovery 30sec @ 1.16"
+    },
+    {
+      "duration": 45,
+      "power": 0.40604165,
+      "note": "interval 45sec @ 0.41"
+    },
+    {
+      "duration": 30,
+      "power": 1.1560417,
+      "note": "recovery 30sec @ 1.16"
+    },
+    {
+      "duration": 45,
+      "power": 0.40604165,
+      "note": "interval 45sec @ 0.41"
+    },
+    {
+      "duration": 30,
+      "power": 1.1560417,
+      "note": "recovery 30sec @ 1.16"
+    },
+    {
+      "duration": 45,
+      "power": 0.40604165,
+      "note": "interval 45sec @ 0.41"
+    },
+    {
+      "duration": 30,
+      "power": 1.1560417,
+      "note": "recovery 30sec @ 1.16"
+    },
+    {
+      "duration": 45,
+      "power": 0.40604165,
+      "note": "interval 45sec @ 0.41"
+    },
+    {
+      "duration": 30,
+      "power": 1.1560417,
+      "note": "recovery 30sec @ 1.16"
+    },
+    {
+      "duration": 45,
+      "power": 0.40604165,
+      "note": "interval 45sec @ 0.41"
+    },
+    {
+      "duration": 30,
+      "power": 1.1560417,
+      "note": "recovery 30sec @ 1.16"
+    },
+    {
+      "duration": 45,
+      "power": 0.40604165,
+      "note": "interval 45sec @ 0.41"
+    },
+    {
+      "duration": 30,
+      "power": 1.1560417,
+      "note": "recovery 30sec @ 1.16"
+    },
+    {
+      "duration": 165,
+      "power": 0.45449999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.76449996,
+      "note": "interval 45sec @ 0.76"
+    },
+    {
+      "duration": 15,
+      "power": 0.40450001,
+      "note": "recovery 15sec @ 0.40"
+    },
+    {
+      "duration": 45,
+      "power": 0.76449996,
+      "note": "interval 45sec @ 0.76"
+    },
+    {
+      "duration": 15,
+      "power": 0.40450001,
+      "note": "recovery 15sec @ 0.40"
+    },
+    {
+      "duration": 45,
+      "power": 0.76449996,
+      "note": "interval 45sec @ 0.76"
+    },
+    {
+      "duration": 15,
+      "power": 0.40450001,
+      "note": "recovery 15sec @ 0.40"
+    },
+    {
+      "duration": 45,
+      "power": 0.76449996,
+      "note": "interval 45sec @ 0.76"
+    },
+    {
+      "duration": 15,
+      "power": 0.40450001,
+      "note": "recovery 15sec @ 0.40"
+    },
+    {
+      "duration": 45,
+      "power": 0.76449996,
+      "note": "interval 45sec @ 0.76"
+    },
+    {
+      "duration": 15,
+      "power": 0.40450001,
+      "note": "recovery 15sec @ 0.40"
+    },
+    {
+      "duration": 45,
+      "power": 0.76449996,
+      "note": "interval 45sec @ 0.76"
+    },
+    {
+      "duration": 15,
+      "power": 0.40450001,
+      "note": "recovery 15sec @ 0.40"
+    },
+    {
+      "duration": 45,
+      "power": 0.76449996,
+      "note": "interval 45sec @ 0.76"
+    },
+    {
+      "duration": 15,
+      "power": 0.40450001,
+      "note": "recovery 15sec @ 0.40"
+    },
+    {
+      "duration": 165,
+      "power": 0.45449999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 45,
+      "power": 0.40604165,
+      "note": "interval 45sec @ 0.41"
+    },
+    {
+      "duration": 30,
+      "power": 1.1560417,
+      "note": "recovery 30sec @ 1.16"
+    },
+    {
+      "duration": 45,
+      "power": 0.40604165,
+      "note": "interval 45sec @ 0.41"
+    },
+    {
+      "duration": 30,
+      "power": 1.1560417,
+      "note": "recovery 30sec @ 1.16"
+    },
+    {
+      "duration": 45,
+      "power": 0.40604165,
+      "note": "interval 45sec @ 0.41"
+    },
+    {
+      "duration": 30,
+      "power": 1.1560417,
+      "note": "recovery 30sec @ 1.16"
+    },
+    {
+      "duration": 45,
+      "power": 0.40604165,
+      "note": "interval 45sec @ 0.41"
+    },
+    {
+      "duration": 30,
+      "power": 1.1560417,
+      "note": "recovery 30sec @ 1.16"
+    },
+    {
+      "duration": 45,
+      "power": 0.40604165,
+      "note": "interval 45sec @ 0.41"
+    },
+    {
+      "duration": 30,
+      "power": 1.1560417,
+      "note": "recovery 30sec @ 1.16"
+    },
+    {
+      "duration": 45,
+      "power": 0.40604165,
+      "note": "interval 45sec @ 0.41"
+    },
+    {
+      "duration": 30,
+      "power": 1.1560417,
+      "note": "recovery 30sec @ 1.16"
+    },
+    {
+      "duration": 45,
+      "power": 0.40604165,
+      "note": "interval 45sec @ 0.41"
+    },
+    {
+      "duration": 30,
+      "power": 1.1560417,
+      "note": "recovery 30sec @ 1.16"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "name": "Week 5.2 - 6 Bombs to Drop",
+  "note": "This workout can be likened to a mountain bike race with a hard start - a steady middle and a hard finish as we complete 2 blocks of efforts at 110% of FTP (Zone 5 - Vo2 Max), with an 8 minute block of Zone 3 (80% of FTP) in the middle. \n\nWe are going to complete the first block of the Zone 5 efforts at a low cadence (65rpm) to simulate being stuck on a really steep section, where you are having to navigate around rocks.\n\nWe will complete the second block of efforts at your chosen cadence, which should feel a lot easier, and certainly less demanding of your muscular strength!\n (by Matt Rowe)",
+  "intervals": [
+    {
+      "duration": 420,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0944999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0944999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 1.1044999,
+      "note": "interval 150sec @ 1.10"
+    },
+    {
+      "duration": 150,
+      "power": 0.30450001,
+      "note": "recovery 150sec @ 0.30"
+    },
+    {
+      "duration": 150,
+      "power": 1.1044999,
+      "note": "interval 150sec @ 1.10"
+    },
+    {
+      "duration": 150,
+      "power": 0.30450001,
+      "note": "recovery 150sec @ 0.30"
+    },
+    {
+      "duration": 150,
+      "power": 1.1044999,
+      "note": "interval 150sec @ 1.10"
+    },
+    {
+      "duration": 150,
+      "power": 0.30450001,
+      "note": "recovery 150sec @ 0.30"
+    },
+    {
+      "duration": 480,
+      "power": 0.80449992,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 1.1044999,
+      "note": "interval 150sec @ 1.10"
+    },
+    {
+      "duration": 150,
+      "power": 0.30450001,
+      "note": "recovery 150sec @ 0.30"
+    },
+    {
+      "duration": 150,
+      "power": 1.1044999,
+      "note": "interval 150sec @ 1.10"
+    },
+    {
+      "duration": 150,
+      "power": 0.30450001,
+      "note": "recovery 150sec @ 0.30"
+    },
+    {
+      "duration": 150,
+      "power": 1.1044999,
+      "note": "interval 150sec @ 1.10"
+    },
+    {
+      "duration": 150,
+      "power": 0.30450001,
+      "note": "recovery 150sec @ 0.30"
+    },
+    {
+      "duration": 360,
+      "power": 0.40450001,
+      "note": "SteadyState interval"
+    }
+  ]
+}

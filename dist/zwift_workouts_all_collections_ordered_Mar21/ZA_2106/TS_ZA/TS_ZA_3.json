@@ -1,0 +1,66 @@
+{
+  "name": "Month 1.3\n  - Low Cadence Zone 3 Steps",
+  "note": "Warm up for 10 minutes, Zone 1, progressing into mid Zone 2. Then perform blocks of the following, with 4 minutes easy spinning in between efforts So Zone 3 at 8/10/12/10/8 minutes (4 minute recovery between each effort). Keep good form on the bike focusing on smooth, fluid power! Finish with 10 minutes easy Zone 1. This session is designed to work on your ability to generate power through torque - low cadence, high power efforts are something that every rider will benefit from.\n   (by trainSharp)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 480,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 720,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 480,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "name": "Week 1.1 - Brisk Burn",
+  "note": "Every journey starts with a single step, and we'll start this fitness journey with a 16min workout. The only focus for you today is to have fun working through the power zones! We'll start with a quick warm-up, then get into the workout intervals, which feature various lengths and intensities. All aboard the train going down the fast track to fitness! (by Zwift)",
+  "intervals": [
+    {
+      "duration": 120,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 40,
+      "power": 0.88,
+      "note": "interval 40sec @ 0.88"
+    },
+    {
+      "duration": 20,
+      "power": 0.72,
+      "note": "recovery 20sec @ 0.72"
+    },
+    {
+      "duration": 40,
+      "power": 0.88,
+      "note": "interval 40sec @ 0.88"
+    },
+    {
+      "duration": 20,
+      "power": 0.72,
+      "note": "recovery 20sec @ 0.72"
+    },
+    {
+      "duration": 40,
+      "power": 0.88,
+      "note": "interval 40sec @ 0.88"
+    },
+    {
+      "duration": 20,
+      "power": 0.72,
+      "note": "recovery 20sec @ 0.72"
+    },
+    {
+      "duration": 60,
+      "power": 0.78,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.92,
+      "note": "interval 30sec @ 0.92"
+    },
+    {
+      "duration": 30,
+      "power": 0.72,
+      "note": "recovery 30sec @ 0.72"
+    },
+    {
+      "duration": 30,
+      "power": 0.92,
+      "note": "interval 30sec @ 0.92"
+    },
+    {
+      "duration": 30,
+      "power": 0.72,
+      "note": "recovery 30sec @ 0.72"
+    },
+    {
+      "duration": 30,
+      "power": 0.92,
+      "note": "interval 30sec @ 0.92"
+    },
+    {
+      "duration": 30,
+      "power": 0.72,
+      "note": "recovery 30sec @ 0.72"
+    },
+    {
+      "duration": 60,
+      "power": 0.78,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.96,
+      "note": "interval 20sec @ 0.96"
+    },
+    {
+      "duration": 40,
+      "power": 0.72,
+      "note": "recovery 40sec @ 0.72"
+    },
+    {
+      "duration": 20,
+      "power": 0.96,
+      "note": "interval 20sec @ 0.96"
+    },
+    {
+      "duration": 40,
+      "power": 0.72,
+      "note": "recovery 40sec @ 0.72"
+    },
+    {
+      "duration": 20,
+      "power": 0.96,
+      "note": "interval 20sec @ 0.96"
+    },
+    {
+      "duration": 40,
+      "power": 0.72,
+      "note": "recovery 40sec @ 0.72"
+    },
+    {
+      "duration": 10,
+      "power": 1.25,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 50,
+      "power": 0.72,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.25,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 50,
+      "power": 0.72,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.25,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 50,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

@@ -1,0 +1,656 @@
+{
+  "name": "Microbursts",
+  "note": "On and Off bursts designed to improve your neuromuscular power and FTP at the same time. \n10 minute warm-up level 2 with 3 x 1 minute fast pedals >110rpm.\nDo 3 x 10 minutes, Micro-bursts,  15 seconds ON at 150% of FTP and 15 seconds OFF at 50% of FTP.  Repeat for entire 10minutes, rest for 5minutes between each set.  It's important that you maintain 90 rpm for both the ON and the OFF periods. \nCool-down.  (by GCN)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.75449997,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.75449997,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.75449997,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 15,
+      "power": 1.5044999,
+      "note": "interval 15sec @ 1.50"
+    },
+    {
+      "duration": 15,
+      "power": 0.50449997,
+      "note": "recovery 15sec @ 0.50"
+    },
+    {
+      "duration": 240,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

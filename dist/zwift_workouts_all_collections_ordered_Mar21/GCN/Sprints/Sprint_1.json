@@ -1,0 +1,151 @@
+{
+  "name": "Power",
+  "note": "Warm-up ramping up to the top of Z2 at 10 minutes.\n Then do 3x1 minute fast pedaling drills.  The goal here is to increase your cadence to 110-120 rpm and hold it there for the full minute, normal cadence of 80rpm between each one.  The wattages are low for both the fast pedaing and recovery. \nNow ride for 5minutes at tempo pace, and prepare for your first sprint.  You are going to do 10 sprints for 20 seconds each to start.  These aren't all out sprints, but the top of Zone 6. Ride at 90 rpm between each in Zone 2. \nCool-down for remaining time  (by GCN)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.75449997,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.75449997,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.75449997,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 300,
+      "power": 0.81449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 2.0044999,
+      "note": "interval 20sec @ 2.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 20,
+      "power": 2.0044999,
+      "note": "interval 20sec @ 2.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 20,
+      "power": 2.0044999,
+      "note": "interval 20sec @ 2.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 20,
+      "power": 2.0044999,
+      "note": "interval 20sec @ 2.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 20,
+      "power": 2.0044999,
+      "note": "interval 20sec @ 2.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 20,
+      "power": 2.0044999,
+      "note": "interval 20sec @ 2.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 20,
+      "power": 2.0044999,
+      "note": "interval 20sec @ 2.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 20,
+      "power": 2.0044999,
+      "note": "interval 20sec @ 2.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 20,
+      "power": 2.0044999,
+      "note": "interval 20sec @ 2.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 20,
+      "power": 2.0044999,
+      "note": "interval 20sec @ 2.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 340,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

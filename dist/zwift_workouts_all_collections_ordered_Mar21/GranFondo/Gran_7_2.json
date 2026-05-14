@@ -1,0 +1,61 @@
+{
+  "name": "5x3min Progressive MAP (Max Aerobic)",
+  "note": "5x3min at \"Best Possible Average.\" This is a MAP (Maximal Aerobic Power) workout. The goal is to hit the same power for each - roughly 125% of FTP - 3min interval. But in this case, it's less about hitting a given power than it is about being consistent throughout. If you blow out the first one and blow up on the last, that is less ideal than five evenly paced intervals. Likewise, within each interval, try to hit the target power and hang-on. \n    \n   The preference do this workout with ERG mode OFF since some fade is almost inevitable, and it is about doing the best you can rather than hitting a specific power. (by Zwift)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.0545,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.33181816,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.1044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.33181816,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.1544999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.33181816,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.2045,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.33181816,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.2544999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "Free ride"
+    }
+  ]
+}

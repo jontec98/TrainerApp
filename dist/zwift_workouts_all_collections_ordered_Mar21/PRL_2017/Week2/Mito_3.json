@@ -1,0 +1,251 @@
+{
+  "name": "Week 2.2 - Mitochondria #3",
+  "note": "After warming up you will complete the main set of 20 x 30sec @ 113%FTP with 2.5min recovery. These are controlled accelerations, NOT max sprints.\n\nToday the endurance part comes at the end. \n\nObserve your heart rate throughout the 'Mito' set. Is it returning to normal resting values after each 30sec surge? (by Zwift)",
+  "intervals": [
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.6045,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.65449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.81449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0944999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.90449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.1344999,
+      "note": "interval 30sec @ 1.13"
+    },
+    {
+      "duration": 150,
+      "power": 0.50449997,
+      "note": "recovery 150sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.1344999,
+      "note": "interval 30sec @ 1.13"
+    },
+    {
+      "duration": 150,
+      "power": 0.50449997,
+      "note": "recovery 150sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.1344999,
+      "note": "interval 30sec @ 1.13"
+    },
+    {
+      "duration": 150,
+      "power": 0.50449997,
+      "note": "recovery 150sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.1344999,
+      "note": "interval 30sec @ 1.13"
+    },
+    {
+      "duration": 150,
+      "power": 0.50449997,
+      "note": "recovery 150sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.1344999,
+      "note": "interval 30sec @ 1.13"
+    },
+    {
+      "duration": 150,
+      "power": 0.50449997,
+      "note": "recovery 150sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.1344999,
+      "note": "interval 30sec @ 1.13"
+    },
+    {
+      "duration": 150,
+      "power": 0.50449997,
+      "note": "recovery 150sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.1344999,
+      "note": "interval 30sec @ 1.13"
+    },
+    {
+      "duration": 150,
+      "power": 0.50449997,
+      "note": "recovery 150sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.1344999,
+      "note": "interval 30sec @ 1.13"
+    },
+    {
+      "duration": 150,
+      "power": 0.50449997,
+      "note": "recovery 150sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.1344999,
+      "note": "interval 30sec @ 1.13"
+    },
+    {
+      "duration": 150,
+      "power": 0.50449997,
+      "note": "recovery 150sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.1344999,
+      "note": "interval 30sec @ 1.13"
+    },
+    {
+      "duration": 150,
+      "power": 0.50449997,
+      "note": "recovery 150sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.1344999,
+      "note": "interval 30sec @ 1.13"
+    },
+    {
+      "duration": 150,
+      "power": 0.50449997,
+      "note": "recovery 150sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.1344999,
+      "note": "interval 30sec @ 1.13"
+    },
+    {
+      "duration": 150,
+      "power": 0.50449997,
+      "note": "recovery 150sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.1344999,
+      "note": "interval 30sec @ 1.13"
+    },
+    {
+      "duration": 150,
+      "power": 0.50449997,
+      "note": "recovery 150sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.1344999,
+      "note": "interval 30sec @ 1.13"
+    },
+    {
+      "duration": 150,
+      "power": 0.50449997,
+      "note": "recovery 150sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.1344999,
+      "note": "interval 30sec @ 1.13"
+    },
+    {
+      "duration": 150,
+      "power": 0.50449997,
+      "note": "recovery 150sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.1344999,
+      "note": "interval 30sec @ 1.13"
+    },
+    {
+      "duration": 150,
+      "power": 0.50449997,
+      "note": "recovery 150sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.1344999,
+      "note": "interval 30sec @ 1.13"
+    },
+    {
+      "duration": 150,
+      "power": 0.50449997,
+      "note": "recovery 150sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.1344999,
+      "note": "interval 30sec @ 1.13"
+    },
+    {
+      "duration": 150,
+      "power": 0.50449997,
+      "note": "recovery 150sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.1344999,
+      "note": "interval 30sec @ 1.13"
+    },
+    {
+      "duration": 150,
+      "power": 0.50449997,
+      "note": "recovery 150sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.1344999,
+      "note": "interval 30sec @ 1.13"
+    },
+    {
+      "duration": 150,
+      "power": 0.50449997,
+      "note": "recovery 150sec @ 0.50"
+    },
+    {
+      "duration": 900,
+      "power": 0.5,
+      "note": "Free ride"
+    }
+  ]
+}

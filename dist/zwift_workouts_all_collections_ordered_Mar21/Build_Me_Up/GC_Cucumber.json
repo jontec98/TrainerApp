@@ -1,0 +1,171 @@
+{
+  "name": "Cucumber",
+  "note": "This workout improves your ability to deal with lactate and stay cool under pressure, AKA \"Cool as a cucumber.\" (by Shayne Gaffney | GC Coaching)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.3,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.67,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.67,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 200,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 200,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 200,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.67,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.3,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.67,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.3,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 255,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

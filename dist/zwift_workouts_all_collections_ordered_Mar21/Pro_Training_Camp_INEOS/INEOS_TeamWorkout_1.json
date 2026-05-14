@@ -1,0 +1,241 @@
+{
+  "name": "INEOS Grenadiers: Anaerobic Capacity",
+  "note": "What are anaerobic capacity efforts? Today you will find out. Simply put, it's short intense sprint efforts that build large amounts of lactate. Today you have 2 rounds of 10 x 20 seconds on, 40 seconds off. Do this workout if you want to improve your anaerobic capacity. (by ADRI\u00c1N L\u00d3PEZ)",
+  "intervals": [
+    {
+      "duration": 480,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 420,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "interval 20sec @ 1.40"
+    },
+    {
+      "duration": 40,
+      "power": 0.55,
+      "note": "recovery 40sec @ 0.55"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "interval 20sec @ 1.40"
+    },
+    {
+      "duration": 40,
+      "power": 0.55,
+      "note": "recovery 40sec @ 0.55"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "interval 20sec @ 1.40"
+    },
+    {
+      "duration": 40,
+      "power": 0.55,
+      "note": "recovery 40sec @ 0.55"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "interval 20sec @ 1.40"
+    },
+    {
+      "duration": 40,
+      "power": 0.55,
+      "note": "recovery 40sec @ 0.55"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "interval 20sec @ 1.40"
+    },
+    {
+      "duration": 40,
+      "power": 0.55,
+      "note": "recovery 40sec @ 0.55"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "interval 20sec @ 1.40"
+    },
+    {
+      "duration": 40,
+      "power": 0.55,
+      "note": "recovery 40sec @ 0.55"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "interval 20sec @ 1.40"
+    },
+    {
+      "duration": 40,
+      "power": 0.55,
+      "note": "recovery 40sec @ 0.55"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "interval 20sec @ 1.40"
+    },
+    {
+      "duration": 40,
+      "power": 0.55,
+      "note": "recovery 40sec @ 0.55"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "interval 20sec @ 1.40"
+    },
+    {
+      "duration": 40,
+      "power": 0.55,
+      "note": "recovery 40sec @ 0.55"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "interval 20sec @ 1.40"
+    },
+    {
+      "duration": 40,
+      "power": 0.55,
+      "note": "recovery 40sec @ 0.55"
+    },
+    {
+      "duration": 360,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "interval 20sec @ 1.40"
+    },
+    {
+      "duration": 40,
+      "power": 0.55,
+      "note": "recovery 40sec @ 0.55"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "interval 20sec @ 1.40"
+    },
+    {
+      "duration": 40,
+      "power": 0.55,
+      "note": "recovery 40sec @ 0.55"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "interval 20sec @ 1.40"
+    },
+    {
+      "duration": 40,
+      "power": 0.55,
+      "note": "recovery 40sec @ 0.55"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "interval 20sec @ 1.40"
+    },
+    {
+      "duration": 40,
+      "power": 0.55,
+      "note": "recovery 40sec @ 0.55"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "interval 20sec @ 1.40"
+    },
+    {
+      "duration": 40,
+      "power": 0.55,
+      "note": "recovery 40sec @ 0.55"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "interval 20sec @ 1.40"
+    },
+    {
+      "duration": 40,
+      "power": 0.55,
+      "note": "recovery 40sec @ 0.55"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "interval 20sec @ 1.40"
+    },
+    {
+      "duration": 40,
+      "power": 0.55,
+      "note": "recovery 40sec @ 0.55"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "interval 20sec @ 1.40"
+    },
+    {
+      "duration": 40,
+      "power": 0.55,
+      "note": "recovery 40sec @ 0.55"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "interval 20sec @ 1.40"
+    },
+    {
+      "duration": 40,
+      "power": 0.55,
+      "note": "recovery 40sec @ 0.55"
+    },
+    {
+      "duration": 20,
+      "power": 1.4,
+      "note": "interval 20sec @ 1.40"
+    },
+    {
+      "duration": 40,
+      "power": 0.55,
+      "note": "recovery 40sec @ 0.55"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

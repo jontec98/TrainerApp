@@ -1,0 +1,163 @@
+{
+  "name": "Over, Under and Beyond",
+  "note": "Over-Under intervals help build top end capacity, quickly. This type of workout is efficient and highly effective. Adding a couple of accurate sessions like this to your weekly training will pay dividends when you take your riding outside.\n    When the hammer is down this summer and you need to hold the wheel in front of you or stay away from the bunch during a breakaway, you will be glad you've completed this session.\n     (by Zwift)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.06,
+      "note": "interval 40sec @ 1.06"
+    },
+    {
+      "duration": 60,
+      "power": 0.88,
+      "note": "recovery 60sec @ 0.88"
+    },
+    {
+      "duration": 40,
+      "power": 1.06,
+      "note": "interval 40sec @ 1.06"
+    },
+    {
+      "duration": 60,
+      "power": 0.88,
+      "note": "recovery 60sec @ 0.88"
+    },
+    {
+      "duration": 40,
+      "power": 1.06,
+      "note": "interval 40sec @ 1.06"
+    },
+    {
+      "duration": 60,
+      "power": 0.88,
+      "note": "recovery 60sec @ 0.88"
+    },
+    {
+      "duration": 150,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.08,
+      "note": "interval 40sec @ 1.08"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "recovery 60sec @ 0.90"
+    },
+    {
+      "duration": 40,
+      "power": 1.08,
+      "note": "interval 40sec @ 1.08"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "recovery 60sec @ 0.90"
+    },
+    {
+      "duration": 40,
+      "power": 1.08,
+      "note": "interval 40sec @ 1.08"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "recovery 60sec @ 0.90"
+    },
+    {
+      "duration": 150,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.09,
+      "note": "interval 40sec @ 1.09"
+    },
+    {
+      "duration": 60,
+      "power": 0.91,
+      "note": "recovery 60sec @ 0.91"
+    },
+    {
+      "duration": 40,
+      "power": 1.09,
+      "note": "interval 40sec @ 1.09"
+    },
+    {
+      "duration": 60,
+      "power": 0.91,
+      "note": "recovery 60sec @ 0.91"
+    },
+    {
+      "duration": 40,
+      "power": 1.09,
+      "note": "interval 40sec @ 1.09"
+    },
+    {
+      "duration": 60,
+      "power": 0.91,
+      "note": "recovery 60sec @ 0.91"
+    },
+    {
+      "duration": 150,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.1,
+      "note": "interval 40sec @ 1.10"
+    },
+    {
+      "duration": 60,
+      "power": 0.92,
+      "note": "recovery 60sec @ 0.92"
+    },
+    {
+      "duration": 40,
+      "power": 1.1,
+      "note": "interval 40sec @ 1.10"
+    },
+    {
+      "duration": 60,
+      "power": 0.92,
+      "note": "recovery 60sec @ 0.92"
+    },
+    {
+      "duration": 40,
+      "power": 1.1,
+      "note": "interval 40sec @ 1.10"
+    },
+    {
+      "duration": 60,
+      "power": 0.92,
+      "note": "recovery 60sec @ 0.92"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

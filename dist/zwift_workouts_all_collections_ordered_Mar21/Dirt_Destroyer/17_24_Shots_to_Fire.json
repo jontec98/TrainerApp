@@ -1,0 +1,286 @@
+{
+  "name": "Week 5.1 - 24 Shots to Fire",
+  "note": "This workout really works your top end - your anaerobic capacity, which is your ability to make really hard efforts.\n\nIn mountain biking, to get up a short steep climb, or to get through some mud or over roots, the best way is to do it quickly - lots of power for a short period of time.\n\nThis session gets our anaerobic energy systems firing, as we make repeated 30 second efforts which increase in intensity through the blocks.\n\nDon't be discouraged if your power drops throughout the blocks. You'll burn a lot of matches as you progress through the session, so just try and hold on as long as you can as you will still benefit from the effort.\n\nIn the same fashion - don't go out too hard! This is a fairly long session, so in the first block, just do what you need to do, 140% of FTP and no more.\n (by Matt Rowe)",
+  "intervals": [
+    {
+      "duration": 420,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0944999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0944999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.4044999,
+      "note": "interval 30sec @ 1.40"
+    },
+    {
+      "duration": 30,
+      "power": 0.50449997,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.4044999,
+      "note": "interval 30sec @ 1.40"
+    },
+    {
+      "duration": 30,
+      "power": 0.50449997,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.4044999,
+      "note": "interval 30sec @ 1.40"
+    },
+    {
+      "duration": 30,
+      "power": 0.50449997,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.4044999,
+      "note": "interval 30sec @ 1.40"
+    },
+    {
+      "duration": 30,
+      "power": 0.50449997,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.4044999,
+      "note": "interval 30sec @ 1.40"
+    },
+    {
+      "duration": 30,
+      "power": 0.50449997,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.4044999,
+      "note": "interval 30sec @ 1.40"
+    },
+    {
+      "duration": 30,
+      "power": 0.50449997,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.4044999,
+      "note": "interval 30sec @ 1.40"
+    },
+    {
+      "duration": 30,
+      "power": 0.50449997,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.4044999,
+      "note": "interval 30sec @ 1.40"
+    },
+    {
+      "duration": 30,
+      "power": 0.50449997,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.4545,
+      "note": "interval 30sec @ 1.45"
+    },
+    {
+      "duration": 30,
+      "power": 0.50449997,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.4545,
+      "note": "interval 30sec @ 1.45"
+    },
+    {
+      "duration": 30,
+      "power": 0.50449997,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.4545,
+      "note": "interval 30sec @ 1.45"
+    },
+    {
+      "duration": 30,
+      "power": 0.50449997,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.4545,
+      "note": "interval 30sec @ 1.45"
+    },
+    {
+      "duration": 30,
+      "power": 0.50449997,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.4545,
+      "note": "interval 30sec @ 1.45"
+    },
+    {
+      "duration": 30,
+      "power": 0.50449997,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.4545,
+      "note": "interval 30sec @ 1.45"
+    },
+    {
+      "duration": 30,
+      "power": 0.50449997,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.4545,
+      "note": "interval 30sec @ 1.45"
+    },
+    {
+      "duration": 30,
+      "power": 0.50449997,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.4545,
+      "note": "interval 30sec @ 1.45"
+    },
+    {
+      "duration": 30,
+      "power": 0.50449997,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.5044999,
+      "note": "interval 30sec @ 1.50"
+    },
+    {
+      "duration": 30,
+      "power": 0.50449997,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.5044999,
+      "note": "interval 30sec @ 1.50"
+    },
+    {
+      "duration": 30,
+      "power": 0.50449997,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.5044999,
+      "note": "interval 30sec @ 1.50"
+    },
+    {
+      "duration": 30,
+      "power": 0.50449997,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.5044999,
+      "note": "interval 30sec @ 1.50"
+    },
+    {
+      "duration": 30,
+      "power": 0.50449997,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.5044999,
+      "note": "interval 30sec @ 1.50"
+    },
+    {
+      "duration": 30,
+      "power": 0.50449997,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.5044999,
+      "note": "interval 30sec @ 1.50"
+    },
+    {
+      "duration": 30,
+      "power": 0.50449997,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.5044999,
+      "note": "interval 30sec @ 1.50"
+    },
+    {
+      "duration": 30,
+      "power": 0.50449997,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.5044999,
+      "note": "interval 30sec @ 1.50"
+    },
+    {
+      "duration": 30,
+      "power": 0.50449997,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    }
+  ]
+}

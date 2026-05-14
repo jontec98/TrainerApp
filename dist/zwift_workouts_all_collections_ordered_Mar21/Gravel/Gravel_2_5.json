@@ -1,0 +1,21 @@
+{
+  "name": "Free Ride",
+  "note": "Sometimes ya just gotta ride your bike. Get on the current course for the day and ride mixed terrain. I would like to see you riding Z1-Z2 throughout the ride, but some very low Z3 is clearly ok if the terrain demands it. \n\nToday is NOT about going hard though, I just want to see some good aerobic deposits! (by Zwift)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 4200,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

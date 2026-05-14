@@ -1,0 +1,280 @@
+{
+  "name": "Week 3.6 - LONG day",
+  "note": "GO long! This will challenge you mentally and physically! It's an indoor 3 hour session with major efforts and a ton of great work! Make sure you have plenty of water set up beside you, food to eat and all the remote controls, telephones near by, so you can access them without getting off the bike. I recommend getting off the bike for at least 5-7 minutes every hour and stretching out a bit and taking a bathroom break as well.",
+  "intervals": [
+    {
+      "duration": 2100,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "recovery 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "recovery 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "recovery 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "recovery 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "recovery 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "recovery 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "recovery 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "recovery 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "recovery 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "recovery 60sec @ 0.87"
+    },
+    {
+      "duration": 300,
+      "power": 0.72,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.72,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.72,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "recovery 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "recovery 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "recovery 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "recovery 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "recovery 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "recovery 60sec @ 0.87"
+    },
+    {
+      "duration": 300,
+      "power": 1.14,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.72,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 720,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.72,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 720,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 1080,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.72,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.6,
+      "note": "interval 30sec @ 1.60"
+    },
+    {
+      "duration": 90,
+      "power": 0.72,
+      "note": "recovery 90sec @ 0.72"
+    },
+    {
+      "duration": 30,
+      "power": 1.6,
+      "note": "interval 30sec @ 1.60"
+    },
+    {
+      "duration": 90,
+      "power": 0.72,
+      "note": "recovery 90sec @ 0.72"
+    },
+    {
+      "duration": 30,
+      "power": 1.6,
+      "note": "interval 30sec @ 1.60"
+    },
+    {
+      "duration": 90,
+      "power": 0.72,
+      "note": "recovery 90sec @ 0.72"
+    },
+    {
+      "duration": 30,
+      "power": 1.6,
+      "note": "interval 30sec @ 1.60"
+    },
+    {
+      "duration": 90,
+      "power": 0.72,
+      "note": "recovery 90sec @ 0.72"
+    },
+    {
+      "duration": 480,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

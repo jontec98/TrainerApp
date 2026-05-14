@@ -1,0 +1,56 @@
+{
+  "name": "Day 2 - Bike",
+  "note": "Bike - 110 min.\n-30 min. warm up\n-2x (10 min. @ 98%, 4 min. @ 50%)\n-2x (5 min. @ 105% FTP, 3 min. @ 60% FTP)\n-36 min. @ 60% FTP (by QT2)",
+  "intervals": [
+    {
+      "duration": 1800,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.98449993,
+      "note": "interval 600sec @ 0.98"
+    },
+    {
+      "duration": 240,
+      "power": 0.50449997,
+      "note": "recovery 240sec @ 0.50"
+    },
+    {
+      "duration": 600,
+      "power": 0.98449993,
+      "note": "interval 600sec @ 0.98"
+    },
+    {
+      "duration": 240,
+      "power": 0.50449997,
+      "note": "recovery 240sec @ 0.50"
+    },
+    {
+      "duration": 300,
+      "power": 1.0545,
+      "note": "interval 300sec @ 1.05"
+    },
+    {
+      "duration": 180,
+      "power": 0.6045,
+      "note": "recovery 180sec @ 0.60"
+    },
+    {
+      "duration": 300,
+      "power": 1.0545,
+      "note": "interval 300sec @ 1.05"
+    },
+    {
+      "duration": 180,
+      "power": 0.6045,
+      "note": "recovery 180sec @ 0.60"
+    },
+    {
+      "duration": 2160,
+      "power": 0.6045,
+      "note": "SteadyState interval"
+    }
+  ]
+}

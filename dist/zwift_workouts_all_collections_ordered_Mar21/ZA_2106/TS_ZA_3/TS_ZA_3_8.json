@@ -1,0 +1,146 @@
+{
+  "name": "Month 3.8 - Capacity Pyramids",
+  "note": "Recovery period is only short, so make sure you make the most of it, keep the legs spinning (but back off the power as much as possible), try not to slump over the bars, remain upright and ensure you have a good airflow and full bottle of drink for this one! (by Jon Sharples)",
+  "intervals": [
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.65449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0544997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.81449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.65449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.0540147,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.81449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.65449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.052071,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.81449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.65449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 1.0545,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.81449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.65449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0545,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.65449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 1.0545,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.81449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.65449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.0540144,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.81449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.65449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.0545,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.81449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.65449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0545,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.81449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "name": "Week 11.6 - Endurance With Max Sprints",
+  "note": "Endurance ride. Set a pace at Endurance and hold this pace for the next 2.5 hours. Throughout the ride, do a 10x 10 second out-of-the-saddle bursts into your Neuromusclar Power Zone (MAX). Make sure cadence stays high",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.0,
+      "note": "interval 10sec @ 1.00"
+    },
+    {
+      "duration": 770,
+      "power": 0.5,
+      "note": "recovery 770sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.0,
+      "note": "interval 10sec @ 1.00"
+    },
+    {
+      "duration": 770,
+      "power": 0.5,
+      "note": "recovery 770sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.0,
+      "note": "interval 10sec @ 1.00"
+    },
+    {
+      "duration": 770,
+      "power": 0.5,
+      "note": "recovery 770sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.0,
+      "note": "interval 10sec @ 1.00"
+    },
+    {
+      "duration": 770,
+      "power": 0.5,
+      "note": "recovery 770sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.0,
+      "note": "interval 10sec @ 1.00"
+    },
+    {
+      "duration": 770,
+      "power": 0.5,
+      "note": "recovery 770sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.0,
+      "note": "interval 10sec @ 1.00"
+    },
+    {
+      "duration": 770,
+      "power": 0.5,
+      "note": "recovery 770sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.0,
+      "note": "interval 10sec @ 1.00"
+    },
+    {
+      "duration": 770,
+      "power": 0.5,
+      "note": "recovery 770sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.0,
+      "note": "interval 10sec @ 1.00"
+    },
+    {
+      "duration": 770,
+      "power": 0.5,
+      "note": "recovery 770sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.0,
+      "note": "interval 10sec @ 1.00"
+    },
+    {
+      "duration": 770,
+      "power": 0.5,
+      "note": "recovery 770sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.0,
+      "note": "interval 10sec @ 1.00"
+    },
+    {
+      "duration": 770,
+      "power": 0.5,
+      "note": "recovery 770sec @ 0.50"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

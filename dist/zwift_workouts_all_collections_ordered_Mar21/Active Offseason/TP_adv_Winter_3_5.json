@@ -1,0 +1,21 @@
+{
+  "name": "Week 3.5 - Endurance",
+  "note": "Endurance ride. Ride for 2.5 hours at an endurance pace. Vary cadence while focusing on riding smoothly and staying relaxed.",
+  "intervals": [
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 9000,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

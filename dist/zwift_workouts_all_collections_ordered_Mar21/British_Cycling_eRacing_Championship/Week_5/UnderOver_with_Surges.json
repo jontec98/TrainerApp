@@ -1,0 +1,311 @@
+{
+  "name": "Week 5.1 -  Under/Over with Surges",
+  "note": "Try to schedule this as early in the week as possible to maximise recovery. It's your final tough workout of the plan and another race specific session. Float just below threshold, push above it and then deliver a group shattering surge. Recovering from the surge at near threshold intensity takes real mental and physical toughness but it'll prepare you for whatever race day throws at you. (by British Cycling)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 6,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 6,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 6,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 162,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.2,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.2,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.2,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.2,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.2,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.2,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.2,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.2,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.2,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.2,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.2,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.2,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.2,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.2,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 90,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.2,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

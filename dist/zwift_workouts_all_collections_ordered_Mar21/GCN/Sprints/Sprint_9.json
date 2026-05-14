@@ -1,0 +1,151 @@
+{
+  "name": "Sprint!",
+  "note": "Bring it on! You are going to do 10 sprints for 20 seconds each to start.  These aren't all out sprints, but the top of Zone 6. Ride at 90 rpm between each in Zone 2.\n (by GCN)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.75150001,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.50150001,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.75150001,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.50150001,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 0.75150001,
+      "note": "interval 60sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.50150001,
+      "note": "recovery 60sec @ 0.50"
+    },
+    {
+      "duration": 300,
+      "power": 0.81449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 2.0044999,
+      "note": "interval 20sec @ 2.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 20,
+      "power": 2.0044999,
+      "note": "interval 20sec @ 2.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 20,
+      "power": 2.0044999,
+      "note": "interval 20sec @ 2.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 20,
+      "power": 2.0044999,
+      "note": "interval 20sec @ 2.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 20,
+      "power": 2.0044999,
+      "note": "interval 20sec @ 2.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 20,
+      "power": 2.0044999,
+      "note": "interval 20sec @ 2.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 20,
+      "power": 2.0044999,
+      "note": "interval 20sec @ 2.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 20,
+      "power": 2.0044999,
+      "note": "interval 20sec @ 2.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 20,
+      "power": 2.0044999,
+      "note": "interval 20sec @ 2.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 20,
+      "power": 2.0044999,
+      "note": "interval 20sec @ 2.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 340,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "name": "Week 10.5 - Day 5",
+  "note": "PCG classic tune-up - The day before your big ride, you need some little short efforts to make sure your legs will feel good tomorrow. They are so short that they will not adversely impact you for tomorrow, but actually make your legs feel better. Eat extra carbs again today! Not too much standing on the feet today!",
+  "intervals": [
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.2045,
+      "note": "interval 60sec @ 1.20"
+    },
+    {
+      "duration": 300,
+      "power": 0.50450003,
+      "note": "recovery 300sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 1.2045,
+      "note": "interval 60sec @ 1.20"
+    },
+    {
+      "duration": 300,
+      "power": 0.50450003,
+      "note": "recovery 300sec @ 0.50"
+    },
+    {
+      "duration": 60,
+      "power": 1.2045,
+      "note": "interval 60sec @ 1.20"
+    },
+    {
+      "duration": 300,
+      "power": 0.50450003,
+      "note": "recovery 300sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.0545,
+      "note": "interval 30sec @ 1.05"
+    },
+    {
+      "duration": 300,
+      "power": 0.50450003,
+      "note": "recovery 300sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.0545,
+      "note": "interval 30sec @ 1.05"
+    },
+    {
+      "duration": 300,
+      "power": 0.50450003,
+      "note": "recovery 300sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.0545,
+      "note": "interval 30sec @ 1.05"
+    },
+    {
+      "duration": 300,
+      "power": 0.50450003,
+      "note": "recovery 300sec @ 0.50"
+    },
+    {
+      "duration": 1830,
+      "power": 0.65449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

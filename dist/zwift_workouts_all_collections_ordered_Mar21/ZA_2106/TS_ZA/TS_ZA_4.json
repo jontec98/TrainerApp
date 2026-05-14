@@ -1,0 +1,36 @@
+{
+  "name": "Month 1.4 - Split Zone 2/3",
+  "note": "This session is designed to get you used to delivering power at a range of cadences. The low cadence efforts put the onus on your leg strength (through the high torque effort), the higher cadence efforts work your cardiopulmonary (heart and lungs) system. By training the extremities of the cadence ranges, you will be better adapt at riding to your self-selected range. \n   (by trainSharp)",
+  "intervals": [
+    {
+      "duration": 1200,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 1800,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

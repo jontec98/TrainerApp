@@ -1,0 +1,148 @@
+{
+  "name": "Phase 1.2 - Strength Endurance Rotations #1",
+  "note": "This early phase of training for L'Etape du Tour is about building a base for higher intensity work later in the plan. It's also the phase where we look to extend our endurance capabilities. One such method to achieve this is through Strength Endurance work. Strength Endurance intervals on the bike are targeted around achieving high crank torque. To do this, we produce high power with low cadence.\n\nThis high crank torque engages more of your fast twitch fibers, which allows you to gain endurance. However, the target power is below your FTP, allowing you to extend the effort. (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 180,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.64999998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.81,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.09,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "interval 180sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.95449996,
+      "note": "recovery 60sec @ 0.95"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "interval 180sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.95449996,
+      "note": "recovery 60sec @ 0.95"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "interval 180sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.95449996,
+      "note": "recovery 60sec @ 0.95"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "interval 180sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.95449996,
+      "note": "recovery 60sec @ 0.95"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "interval 180sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.95449996,
+      "note": "recovery 60sec @ 0.95"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "interval 180sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.95449996,
+      "note": "recovery 60sec @ 0.95"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "interval 180sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.95449996,
+      "note": "recovery 60sec @ 0.95"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "interval 180sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.95449996,
+      "note": "recovery 60sec @ 0.95"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "interval 180sec @ 0.75"
+    },
+    {
+      "duration": 60,
+      "power": 0.95449996,
+      "note": "recovery 60sec @ 0.95"
+    },
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    }
+  ]
+}

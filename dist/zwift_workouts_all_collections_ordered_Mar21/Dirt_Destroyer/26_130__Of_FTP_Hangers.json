@@ -1,0 +1,166 @@
+{
+  "name": "Week 6.5 - 130% of FTP Hangers",
+  "note": "Congratulations on reaching the final workout in the Dirt Destroyer. \n\nThis sessions aims to develop your Anaerobic Capacity - your ability to produce a lot of power for a short period of time. We complete efforts at 135% of FTP, whilst reducing the amount of rest we get between each effort - meaning each effort will get progressively harder.\n\nIf you look at the demands of Mountain Biking, you are frequently making efforts up around 135%+ of your FTP, to tackle obstacles and get up steep climbs. The effort durations vary significantly, which is what we are looking to train today - your ability to produce big power, once already fatigued, on limited recovery!\n  (by M.Rowe (Rowe & King))",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.40450001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.3045,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 0.30450001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.3045,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.30450001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.3045,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.30450001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 50,
+      "power": 1.3045,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 0.30450001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.3045,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.40450001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.3045,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 0.30450001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.3045,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.30450001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.3045,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.30450001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 50,
+      "power": 1.3045,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 0.30450001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.3045,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.40450001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.3045,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 0.30450001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.3045,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.30450001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.3045,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.30450001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 50,
+      "power": 1.3045,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 0.30450001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.3045,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

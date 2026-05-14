@@ -1,0 +1,140 @@
+{
+  "name": "Phase 4.3 - Depleting 4's",
+  "note": "After completing a good warmup, the session is focused on two areas.\n\nCompleting 2 x 5min Sub-threshold intervals, and 3 x 4min VO2max efforts.\nHowever, with the 4min efforts coming after the first 5min Sub-threshold interval, we are aiming to deplete your intramuscular glycogen stores and see what effect this has on the second 5min interval.\n\nIs the second 5min interval as comfortable as the first? (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 240,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.65449995,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 0.85477173,
+      "note": "recovery 30sec @ 0.85"
+    },
+    {
+      "duration": 30,
+      "power": 0.65449995,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 0.85477173,
+      "note": "recovery 30sec @ 0.85"
+    },
+    {
+      "duration": 30,
+      "power": 0.65449995,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 0.85477173,
+      "note": "recovery 30sec @ 0.85"
+    },
+    {
+      "duration": 30,
+      "power": 0.65449995,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 0.85477173,
+      "note": "recovery 30sec @ 0.85"
+    },
+    {
+      "duration": 30,
+      "power": 0.65449995,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 0.85477173,
+      "note": "recovery 30sec @ 0.85"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.85449994,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0244999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 1.0545,
+      "note": "interval 240sec @ 1.05"
+    },
+    {
+      "duration": 240,
+      "power": 0.65449995,
+      "note": "recovery 240sec @ 0.65"
+    },
+    {
+      "duration": 240,
+      "power": 1.0545,
+      "note": "interval 240sec @ 1.05"
+    },
+    {
+      "duration": 240,
+      "power": 0.65449995,
+      "note": "recovery 240sec @ 0.65"
+    },
+    {
+      "duration": 240,
+      "power": 1.0545,
+      "note": "interval 240sec @ 1.05"
+    },
+    {
+      "duration": 240,
+      "power": 0.65449995,
+      "note": "recovery 240sec @ 0.65"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    }
+  ]
+}

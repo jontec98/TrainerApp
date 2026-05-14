@@ -1,0 +1,111 @@
+{
+  "name": "Week 1.1 - SST Bursts 6",
+  "note": "Today's workout features loads of time at sweet spot (SST) again, but today we're increasing the intensity a bit by introducing some big gear surges into the steady state effort. (by Shayne Gaffney)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "interval 30sec @ 1.05"
+    },
+    {
+      "duration": 30,
+      "power": 0.65,
+      "note": "recovery 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "interval 30sec @ 1.05"
+    },
+    {
+      "duration": 30,
+      "power": 0.65,
+      "note": "recovery 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "interval 30sec @ 1.05"
+    },
+    {
+      "duration": 30,
+      "power": 0.65,
+      "note": "recovery 30sec @ 0.65"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.92,
+      "note": "interval 120sec @ 0.92"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "recovery 30sec @ 1.15"
+    },
+    {
+      "duration": 120,
+      "power": 0.92,
+      "note": "interval 120sec @ 0.92"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "recovery 30sec @ 1.15"
+    },
+    {
+      "duration": 120,
+      "power": 0.9,
+      "note": "interval 120sec @ 0.90"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "recovery 30sec @ 1.15"
+    },
+    {
+      "duration": 120,
+      "power": 0.9,
+      "note": "interval 120sec @ 0.90"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "recovery 30sec @ 1.15"
+    },
+    {
+      "duration": 120,
+      "power": 0.88,
+      "note": "interval 120sec @ 0.88"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "recovery 30sec @ 1.15"
+    },
+    {
+      "duration": 120,
+      "power": 0.88,
+      "note": "interval 120sec @ 0.88"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "recovery 30sec @ 1.15"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

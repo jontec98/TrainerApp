@@ -1,0 +1,26 @@
+{
+  "name": "Week 3.1 - Day 1",
+  "note": "Long ride with group or alone, focus on riding most time in Endurance (Power Z2, HR Z2, RPE 2-3). Also complete 1 x 30-minute TEMPO effort, focusing on keeping watts at Tempo (Power Z3, HR Z3, RPE 3-4). Try \"mixing\" your spin cadence during the Tempo effort by trading off between a faster and slower cadence throughout the interval. ",
+  "intervals": [
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 3600,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 1800,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

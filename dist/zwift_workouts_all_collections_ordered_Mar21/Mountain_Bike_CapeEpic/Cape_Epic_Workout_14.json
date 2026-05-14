@@ -1,0 +1,196 @@
+{
+  "name": "Annika Langvad Series.14 - Workout 14",
+  "note": "In this session, we really give our Type 2 muscle fibres a huge hit, as we hit Zone 6 and complete some Anaerobic Capacity efforts!\n\nThroughout the session, we will complete 15 minutes worth of riding @ 121% of FTP - which is split up in to 3 blocks of 1 minute on, one minute off. These intervals aim to stimulate the demand of riding up short, punchy climbs - which mountain biking is renowned for! \n\nYou can use whatever cadence you like for the efforts - a mix of cadences is ideal, so aim to grind a few efforts out and really rev a few to the max - 110rpm +  (by Annika Langvad)",
+  "intervals": [
+    {
+      "duration": 420,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0944999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0944999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.2145,
+      "note": "interval 60sec @ 1.21"
+    },
+    {
+      "duration": 60,
+      "power": 0.30450001,
+      "note": "recovery 60sec @ 0.30"
+    },
+    {
+      "duration": 60,
+      "power": 1.2145,
+      "note": "interval 60sec @ 1.21"
+    },
+    {
+      "duration": 60,
+      "power": 0.30450001,
+      "note": "recovery 60sec @ 0.30"
+    },
+    {
+      "duration": 60,
+      "power": 1.2145,
+      "note": "interval 60sec @ 1.21"
+    },
+    {
+      "duration": 60,
+      "power": 0.30450001,
+      "note": "recovery 60sec @ 0.30"
+    },
+    {
+      "duration": 60,
+      "power": 1.2145,
+      "note": "interval 60sec @ 1.21"
+    },
+    {
+      "duration": 60,
+      "power": 0.30450001,
+      "note": "recovery 60sec @ 0.30"
+    },
+    {
+      "duration": 60,
+      "power": 1.2145,
+      "note": "interval 60sec @ 1.21"
+    },
+    {
+      "duration": 60,
+      "power": 0.30450001,
+      "note": "recovery 60sec @ 0.30"
+    },
+    {
+      "duration": 480,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.2145,
+      "note": "interval 60sec @ 1.21"
+    },
+    {
+      "duration": 60,
+      "power": 0.30450001,
+      "note": "recovery 60sec @ 0.30"
+    },
+    {
+      "duration": 60,
+      "power": 1.2145,
+      "note": "interval 60sec @ 1.21"
+    },
+    {
+      "duration": 60,
+      "power": 0.30450001,
+      "note": "recovery 60sec @ 0.30"
+    },
+    {
+      "duration": 60,
+      "power": 1.2145,
+      "note": "interval 60sec @ 1.21"
+    },
+    {
+      "duration": 60,
+      "power": 0.30450001,
+      "note": "recovery 60sec @ 0.30"
+    },
+    {
+      "duration": 60,
+      "power": 1.2145,
+      "note": "interval 60sec @ 1.21"
+    },
+    {
+      "duration": 60,
+      "power": 0.30450001,
+      "note": "recovery 60sec @ 0.30"
+    },
+    {
+      "duration": 60,
+      "power": 1.2145,
+      "note": "interval 60sec @ 1.21"
+    },
+    {
+      "duration": 60,
+      "power": 0.30450001,
+      "note": "recovery 60sec @ 0.30"
+    },
+    {
+      "duration": 480,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.2145,
+      "note": "interval 60sec @ 1.21"
+    },
+    {
+      "duration": 55,
+      "power": 0.30450001,
+      "note": "recovery 55sec @ 0.30"
+    },
+    {
+      "duration": 60,
+      "power": 1.2145,
+      "note": "interval 60sec @ 1.21"
+    },
+    {
+      "duration": 55,
+      "power": 0.30450001,
+      "note": "recovery 55sec @ 0.30"
+    },
+    {
+      "duration": 60,
+      "power": 1.2145,
+      "note": "interval 60sec @ 1.21"
+    },
+    {
+      "duration": 55,
+      "power": 0.30450001,
+      "note": "recovery 55sec @ 0.30"
+    },
+    {
+      "duration": 60,
+      "power": 1.2145,
+      "note": "interval 60sec @ 1.21"
+    },
+    {
+      "duration": 55,
+      "power": 0.30450001,
+      "note": "recovery 55sec @ 0.30"
+    },
+    {
+      "duration": 60,
+      "power": 1.2145,
+      "note": "interval 60sec @ 1.21"
+    },
+    {
+      "duration": 55,
+      "power": 0.30450001,
+      "note": "recovery 55sec @ 0.30"
+    },
+    {
+      "duration": 600,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "name": "2x(5x2min) Threshold Fun",
+  "note": "Todays effort is going to be a little into the threshold zone, but nothing too crazy. Broken up into rounds even with some building built in, all in all a very tame workout in that FTP effort. Warm up 7 minutes super easy and then 10 minutes of 1 minute build to fast rpm's into 1 minute easy rpm. \n5 minutes easy into 2 rounds of 4x2 minutes building from to threshold effort (80-100%FTP build) then 2nd round straight at Threshold with 2 minutes between. (by Zwift)",
+  "intervals": [
+    {
+      "duration": 420,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "interval 60sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "interval 60sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "interval 60sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 60,
+      "power": 0.8,
+      "note": "interval 60sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 240,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.05,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.0,
+      "note": "interval 120sec @ 1.00"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 1.0,
+      "note": "interval 120sec @ 1.00"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 1.0,
+      "note": "interval 120sec @ 1.00"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 1.0,
+      "note": "interval 120sec @ 1.00"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 1.0,
+      "note": "interval 120sec @ 1.00"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 420,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

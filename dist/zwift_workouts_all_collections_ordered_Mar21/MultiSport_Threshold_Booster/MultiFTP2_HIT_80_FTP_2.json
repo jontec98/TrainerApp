@@ -1,0 +1,111 @@
+{
+  "name": "HIIT 80% FTP #2",
+  "note": "Building upon your earlier HIIT 80% session, today we are increasing the number of intervals with 5 x 5min moderate intensity efforts. \n\nTraining at the top end of the Tempo range will improve your aerobic capabilities by increasing muscle glycogen stores. Take note of your HR during the intervals.\n\nWith only a short recovery period of 1min, the aim is to bring heart rate back to normal recovery levels after each effort. (by Zwift)",
+  "intervals": [
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.7544999,
+      "note": "interval 10sec @ 1.75"
+    },
+    {
+      "duration": 50,
+      "power": 0.50449997,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.7544999,
+      "note": "interval 10sec @ 1.75"
+    },
+    {
+      "duration": 50,
+      "power": 0.50449997,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.7544999,
+      "note": "interval 10sec @ 1.75"
+    },
+    {
+      "duration": 50,
+      "power": 0.50449997,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.7544999,
+      "note": "interval 10sec @ 1.75"
+    },
+    {
+      "duration": 50,
+      "power": 0.50449997,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 120,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.90449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.80449992,
+      "note": "interval 300sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 0.61449999,
+      "note": "recovery 60sec @ 0.61"
+    },
+    {
+      "duration": 300,
+      "power": 0.80449992,
+      "note": "interval 300sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 0.61449999,
+      "note": "recovery 60sec @ 0.61"
+    },
+    {
+      "duration": 300,
+      "power": 0.80449992,
+      "note": "interval 300sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 0.61449999,
+      "note": "recovery 60sec @ 0.61"
+    },
+    {
+      "duration": 300,
+      "power": 0.80449992,
+      "note": "interval 300sec @ 0.80"
+    },
+    {
+      "duration": 60,
+      "power": 0.61449999,
+      "note": "recovery 60sec @ 0.61"
+    },
+    {
+      "duration": 240,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    }
+  ]
+}

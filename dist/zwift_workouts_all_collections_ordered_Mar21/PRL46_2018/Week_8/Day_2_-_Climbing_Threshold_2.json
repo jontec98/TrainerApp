@@ -1,0 +1,56 @@
+{
+  "name": "Week 8.2 - Climbing Threshold #2",
+  "note": "Today's session focuses on simulating the demands of extended climbing.\n\nRiding at the higher end of your Zone 4 threshold power, you will be targeting a cadence similar to climbing.\n\nWhen performing the 4 x 8min intervals, position yourself on the bike as you would climbing seated. (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 480,
+      "power": 1.0445,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 480,
+      "power": 1.0445,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 480,
+      "power": 1.0445,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 480,
+      "power": 1.0445,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

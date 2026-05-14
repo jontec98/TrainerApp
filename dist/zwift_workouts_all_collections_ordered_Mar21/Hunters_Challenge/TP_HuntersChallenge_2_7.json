@@ -1,0 +1,81 @@
+{
+  "name": "Week 2.7 - Pointy Pyramid",
+  "note": "This is a serious effort. Wait until the last couple of weeks in your plan to try this one.",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.72,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.14,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.72,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.14,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.72,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.72,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.14,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.72,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.14,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.72,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.72,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

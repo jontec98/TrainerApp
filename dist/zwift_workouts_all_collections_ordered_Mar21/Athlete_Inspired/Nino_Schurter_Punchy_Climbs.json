@@ -1,0 +1,121 @@
+{
+  "name": "Nino Schurter - Punchy Climbs",
+  "note": "Nino Schurter is arguably the greatest male cross-country mountain bike rider of all time. He completed the 2017 World Cup season with 6 consecutive wins, something no one else has ever achieved before, won the gold medal in mountain biking at the 2016 Olympics, the silver medal at the 2012 Olympics, and the bronze medal at the 2008 Olympics. Surging over threshold and returning to it repeatedly is a crucial skill for any great mountain biker. This workout will help develop that ability. (by Shayne Gaffney)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.93,
+      "note": "interval 120sec @ 0.93"
+    },
+    {
+      "duration": 30,
+      "power": 1.08,
+      "note": "recovery 30sec @ 1.08"
+    },
+    {
+      "duration": 120,
+      "power": 0.93,
+      "note": "interval 120sec @ 0.93"
+    },
+    {
+      "duration": 30,
+      "power": 1.08,
+      "note": "recovery 30sec @ 1.08"
+    },
+    {
+      "duration": 120,
+      "power": 0.93,
+      "note": "interval 120sec @ 0.93"
+    },
+    {
+      "duration": 30,
+      "power": 1.08,
+      "note": "recovery 30sec @ 1.08"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.93,
+      "note": "interval 120sec @ 0.93"
+    },
+    {
+      "duration": 30,
+      "power": 1.08,
+      "note": "recovery 30sec @ 1.08"
+    },
+    {
+      "duration": 120,
+      "power": 0.93,
+      "note": "interval 120sec @ 0.93"
+    },
+    {
+      "duration": 30,
+      "power": 1.08,
+      "note": "recovery 30sec @ 1.08"
+    },
+    {
+      "duration": 120,
+      "power": 0.93,
+      "note": "interval 120sec @ 0.93"
+    },
+    {
+      "duration": 30,
+      "power": 1.08,
+      "note": "recovery 30sec @ 1.08"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.93,
+      "note": "interval 120sec @ 0.93"
+    },
+    {
+      "duration": 30,
+      "power": 1.08,
+      "note": "recovery 30sec @ 1.08"
+    },
+    {
+      "duration": 120,
+      "power": 0.93,
+      "note": "interval 120sec @ 0.93"
+    },
+    {
+      "duration": 30,
+      "power": 1.08,
+      "note": "recovery 30sec @ 1.08"
+    },
+    {
+      "duration": 120,
+      "power": 0.93,
+      "note": "interval 120sec @ 0.93"
+    },
+    {
+      "duration": 30,
+      "power": 1.08,
+      "note": "recovery 30sec @ 1.08"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

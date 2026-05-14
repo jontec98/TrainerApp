@@ -1,0 +1,71 @@
+{
+  "name": "Week 3.3 - Day 3",
+  "note": " Long ride with group or alone, focus on riding most time in Endurance (Power Z2, HR Z2, RPE 2-3). Also complete 1 x 30-minute TEMPO effort, focusing on keeping watts at Tempo (Power Z3, HR Z3, RPE 3-4). Try \"mixing\" your spin cadence during the Tempo effort by trading off between a faster and slower cadence throughout the interval. \nTerrian: Mixed. During the TEMPO interval add 5 x 20 second BURSTS at FTP (Power Z4, HR Z4, RPE 4-5). Complete a burst every 5 minutes. ",
+  "intervals": [
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 3600,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.0,
+      "note": "interval 20sec @ 1.00"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "recovery 300sec @ 0.50"
+    },
+    {
+      "duration": 20,
+      "power": 1.0,
+      "note": "interval 20sec @ 1.00"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "recovery 300sec @ 0.50"
+    },
+    {
+      "duration": 20,
+      "power": 1.0,
+      "note": "interval 20sec @ 1.00"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "recovery 300sec @ 0.50"
+    },
+    {
+      "duration": 20,
+      "power": 1.0,
+      "note": "interval 20sec @ 1.00"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "recovery 300sec @ 0.50"
+    },
+    {
+      "duration": 20,
+      "power": 1.0,
+      "note": "interval 20sec @ 1.00"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "recovery 300sec @ 0.50"
+    },
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

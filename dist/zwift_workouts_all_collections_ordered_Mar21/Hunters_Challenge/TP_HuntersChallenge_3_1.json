@@ -1,0 +1,221 @@
+{
+  "name": "Week 3.1 - Cadence drills",
+  "note": "Don't worry too much with watts or HR in this one. Just make it a fun and challenging trainer ride.",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.72,
+      "note": "interval 60sec @ 0.72"
+    },
+    {
+      "duration": 60,
+      "power": 0.72,
+      "note": "recovery 60sec @ 0.72"
+    },
+    {
+      "duration": 60,
+      "power": 0.72,
+      "note": "interval 60sec @ 0.72"
+    },
+    {
+      "duration": 60,
+      "power": 0.72,
+      "note": "recovery 60sec @ 0.72"
+    },
+    {
+      "duration": 60,
+      "power": 0.72,
+      "note": "interval 60sec @ 0.72"
+    },
+    {
+      "duration": 60,
+      "power": 0.72,
+      "note": "recovery 60sec @ 0.72"
+    },
+    {
+      "duration": 60,
+      "power": 0.72,
+      "note": "interval 60sec @ 0.72"
+    },
+    {
+      "duration": 60,
+      "power": 0.72,
+      "note": "recovery 60sec @ 0.72"
+    },
+    {
+      "duration": 60,
+      "power": 0.72,
+      "note": "interval 60sec @ 0.72"
+    },
+    {
+      "duration": 60,
+      "power": 0.72,
+      "note": "recovery 60sec @ 0.72"
+    },
+    {
+      "duration": 60,
+      "power": 0.72,
+      "note": "interval 60sec @ 0.72"
+    },
+    {
+      "duration": 60,
+      "power": 0.72,
+      "note": "recovery 60sec @ 0.72"
+    },
+    {
+      "duration": 60,
+      "power": 0.72,
+      "note": "interval 60sec @ 0.72"
+    },
+    {
+      "duration": 60,
+      "power": 0.72,
+      "note": "recovery 60sec @ 0.72"
+    },
+    {
+      "duration": 60,
+      "power": 0.72,
+      "note": "interval 60sec @ 0.72"
+    },
+    {
+      "duration": 60,
+      "power": 0.72,
+      "note": "recovery 60sec @ 0.72"
+    },
+    {
+      "duration": 60,
+      "power": 0.72,
+      "note": "interval 60sec @ 0.72"
+    },
+    {
+      "duration": 60,
+      "power": 0.72,
+      "note": "recovery 60sec @ 0.72"
+    },
+    {
+      "duration": 60,
+      "power": 0.72,
+      "note": "interval 60sec @ 0.72"
+    },
+    {
+      "duration": 60,
+      "power": 0.72,
+      "note": "recovery 60sec @ 0.72"
+    },
+    {
+      "duration": 1200,
+      "power": 0.87,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "recovery 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "recovery 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "recovery 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "recovery 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "recovery 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "recovery 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "recovery 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "recovery 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "recovery 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "recovery 60sec @ 0.87"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

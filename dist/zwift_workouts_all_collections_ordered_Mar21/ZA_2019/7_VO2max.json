@@ -1,0 +1,113 @@
+{
+  "name": "VO2max Development",
+  "note": "Training to develop our VO2max requires high intensity intervals where the majority (but not all) of the power produced comes from aerobic energy pathways.\n\nAthletes who excel in this area are generally able to climb and Time Trial well. On its own, VO2max interval training is an effective method to increase fitness. It also serves as a good indication of an athlete's potential. (by Zwift Academy Coaches)",
+  "intervals": [
+    {
+      "duration": 360,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0944999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.90449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.0845,
+      "note": "interval 120sec @ 1.08"
+    },
+    {
+      "duration": 120,
+      "power": 0.6045,
+      "note": "recovery 120sec @ 0.60"
+    },
+    {
+      "duration": 120,
+      "power": 1.0845,
+      "note": "interval 120sec @ 1.08"
+    },
+    {
+      "duration": 120,
+      "power": 0.6045,
+      "note": "recovery 120sec @ 0.60"
+    },
+    {
+      "duration": 180,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.0845,
+      "note": "interval 180sec @ 1.08"
+    },
+    {
+      "duration": 90,
+      "power": 0.6045,
+      "note": "recovery 90sec @ 0.60"
+    },
+    {
+      "duration": 180,
+      "power": 1.0845,
+      "note": "interval 180sec @ 1.08"
+    },
+    {
+      "duration": 90,
+      "power": 0.6045,
+      "note": "recovery 90sec @ 0.60"
+    },
+    {
+      "duration": 210,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 1.0845,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "name": "Week 2.1 - Long Tempo",
+  "note": "Long tempo intervals here to get you used to sustained higher effort that will help power you up and over the longer climbs. (by Zwift)",
+  "intervals": [
+    {
+      "duration": 420,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.90449995,
+      "note": "interval 180sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.55449999,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 180,
+      "power": 0.90449995,
+      "note": "interval 180sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.55449999,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 180,
+      "power": 0.90449995,
+      "note": "interval 180sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.55449999,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 180,
+      "power": 0.90449995,
+      "note": "interval 180sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.55449999,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 180,
+      "power": 0.90449995,
+      "note": "interval 180sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.55449999,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 180,
+      "power": 0.90449995,
+      "note": "interval 180sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.55449999,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 180,
+      "power": 0.90449995,
+      "note": "interval 180sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.55449999,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 180,
+      "power": 0.90449995,
+      "note": "interval 180sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.55449999,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 180,
+      "power": 0.90449995,
+      "note": "interval 180sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.55449999,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 180,
+      "power": 0.90449995,
+      "note": "interval 180sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.55449999,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

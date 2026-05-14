@@ -1,0 +1,131 @@
+{
+  "name": "Week 2.1 - SST Bursts 8",
+  "note": "Today, we'll stick with our focus of high torque during the burst efforts to keep it specific to gravel grinding. (by Shayne Gaffney)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "interval 30sec @ 1.05"
+    },
+    {
+      "duration": 30,
+      "power": 0.65,
+      "note": "recovery 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "interval 30sec @ 1.05"
+    },
+    {
+      "duration": 30,
+      "power": 0.65,
+      "note": "recovery 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "interval 30sec @ 1.05"
+    },
+    {
+      "duration": 30,
+      "power": 0.65,
+      "note": "recovery 30sec @ 0.65"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.95,
+      "note": "interval 120sec @ 0.95"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "recovery 30sec @ 1.15"
+    },
+    {
+      "duration": 120,
+      "power": 0.95,
+      "note": "interval 120sec @ 0.95"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "recovery 30sec @ 1.15"
+    },
+    {
+      "duration": 120,
+      "power": 0.92,
+      "note": "interval 120sec @ 0.92"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "recovery 30sec @ 1.15"
+    },
+    {
+      "duration": 120,
+      "power": 0.92,
+      "note": "interval 120sec @ 0.92"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "recovery 30sec @ 1.15"
+    },
+    {
+      "duration": 120,
+      "power": 0.9,
+      "note": "interval 120sec @ 0.90"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "recovery 30sec @ 1.15"
+    },
+    {
+      "duration": 120,
+      "power": 0.9,
+      "note": "interval 120sec @ 0.90"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "recovery 30sec @ 1.15"
+    },
+    {
+      "duration": 120,
+      "power": 0.88,
+      "note": "interval 120sec @ 0.88"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "recovery 30sec @ 1.15"
+    },
+    {
+      "duration": 120,
+      "power": 0.88,
+      "note": "interval 120sec @ 0.88"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "recovery 30sec @ 1.15"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

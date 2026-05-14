@@ -1,0 +1,86 @@
+{
+  "name": "Week 7.5 - Endurance + 4x1min",
+  "note": "After warming up, the aim today is to complete 4 x 1 minute maximal efforts. \n\nThe body of the session is all 'free-ride', however you will be prompted when to perform the 1 minutes efforts. \n (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 360,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.56449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0944999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.56673717,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.90449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.56622946,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 420,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 420,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 420,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 420,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 240,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 240,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

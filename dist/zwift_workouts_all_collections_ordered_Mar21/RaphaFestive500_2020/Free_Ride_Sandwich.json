@@ -1,0 +1,46 @@
+{
+  "name": "Free Ride Sandwich",
+  "note": "In today's workout, you will complete 3 x 10 minute blocks of effort. The first and third block are at 88% of FTP (top-end of Zone 3), with the middle block a Free Ride, so you can ride as hard or easy as you like (target being to complete another Zone 3 block).\n\nThis is another purist way to develop your endurance - no free wheeling and consistent muscle tension.  (by Matt Rowe)",
+  "intervals": [
+    {
+      "duration": 480,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.45,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.88,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 240,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.88,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

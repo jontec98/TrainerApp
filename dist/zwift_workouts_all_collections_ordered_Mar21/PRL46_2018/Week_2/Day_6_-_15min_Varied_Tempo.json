@@ -1,0 +1,96 @@
+{
+  "name": "Week 2.6 - 15min Varied Tempo",
+  "note": "Working in your Tempo zone, today we are varying the cadence and power. \n\nObserve your Heart Rate during the 15 minute interval and look for changes in Heart Rate when your cadence change (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 1.8099999,
+      "note": "interval 10sec @ 1.81"
+    },
+    {
+      "duration": 50,
+      "power": 0.5,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.8099999,
+      "note": "interval 10sec @ 1.81"
+    },
+    {
+      "duration": 50,
+      "power": 0.5,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.8099999,
+      "note": "interval 10sec @ 1.81"
+    },
+    {
+      "duration": 50,
+      "power": 0.5,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 10,
+      "power": 1.8099999,
+      "note": "interval 10sec @ 1.81"
+    },
+    {
+      "duration": 50,
+      "power": 0.5,
+      "note": "recovery 50sec @ 0.50"
+    },
+    {
+      "duration": 180,
+      "power": 0.69999999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.56999999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.89999998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.56,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.89449996,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.88999999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.89449996,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.56,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

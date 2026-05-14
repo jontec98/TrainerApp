@@ -1,0 +1,86 @@
+{
+  "name": "Week 6.4 - Tempo into VO2 Max #1",
+  "note": "After a long tempo effort to deplete your energy reserves, take on a series of sustained VO2max intervals. VO2max is a hard zone to work in any time, but it is that much harder for the tempo work that preceded it. (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 180,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.9,
+      "note": "interval 30sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.6,
+      "note": "recovery 60sec @ 0.60"
+    },
+    {
+      "duration": 30,
+      "power": 0.9,
+      "note": "interval 30sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.6,
+      "note": "recovery 60sec @ 0.60"
+    },
+    {
+      "duration": 30,
+      "power": 0.9,
+      "note": "interval 30sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.6,
+      "note": "recovery 60sec @ 0.60"
+    },
+    {
+      "duration": 150,
+      "power": 0.72,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 1800,
+      "power": 0.82,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.17,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.17,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.17,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

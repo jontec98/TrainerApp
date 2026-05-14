@@ -1,0 +1,166 @@
+{
+  "name": "5x8 Building Base",
+  "note": "Base effort riding! Longer ride for you today with some smooth builds to keep it interesting. Nothing crazy at all but just 1 minute blocks at 85% being the hardest you'll have. Today iss a good day for an outside ride in Z1-2 if you are so inclined, but also a free-ride on the Zwift optional day as well. (by Zwift)",
+  "intervals": [
+    {
+      "duration": 840,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "interval 60sec @ 0.85"
+    },
+    {
+      "duration": 120,
+      "power": 0.6,
+      "note": "recovery 120sec @ 0.60"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "interval 60sec @ 0.85"
+    },
+    {
+      "duration": 120,
+      "power": 0.6,
+      "note": "recovery 120sec @ 0.60"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "interval 60sec @ 0.85"
+    },
+    {
+      "duration": 120,
+      "power": 0.6,
+      "note": "recovery 120sec @ 0.60"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "interval 60sec @ 0.85"
+    },
+    {
+      "duration": 120,
+      "power": 0.6,
+      "note": "recovery 120sec @ 0.60"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "interval 60sec @ 0.85"
+    },
+    {
+      "duration": 120,
+      "power": 0.6,
+      "note": "recovery 120sec @ 0.60"
+    },
+    {
+      "duration": 240,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.75,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.8,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 660,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

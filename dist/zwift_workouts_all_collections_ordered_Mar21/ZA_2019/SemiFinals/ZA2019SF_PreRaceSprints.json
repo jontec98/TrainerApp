@@ -1,0 +1,146 @@
+{
+  "name": "Semi-Finals.2 - Phosphate Sprints",
+  "note": "This is a good 'pre-race' ride, perfect activation ahead of an event, test, race, or just to open the legs! The session includes a steady priming effort close to your FTP and some phosphate sprints to prime the neuromuscular system without fatiguing the body too much. The day after this session you should be ready to race! It is better to do this session with ERG Mode OFF.  (by Zwift Academy Coaches)",
+  "intervals": [
+    {
+      "duration": 180,
+      "power": 0.60000002,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.68000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.82999998,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.93449992,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 360,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 2.0044999,
+      "note": "interval 10sec @ 2.00"
+    },
+    {
+      "duration": 50,
+      "power": 0.55449998,
+      "note": "recovery 50sec @ 0.55"
+    },
+    {
+      "duration": 10,
+      "power": 2.0044999,
+      "note": "interval 10sec @ 2.00"
+    },
+    {
+      "duration": 50,
+      "power": 0.55449998,
+      "note": "recovery 50sec @ 0.55"
+    },
+    {
+      "duration": 10,
+      "power": 2.0044999,
+      "note": "interval 10sec @ 2.00"
+    },
+    {
+      "duration": 50,
+      "power": 0.55449998,
+      "note": "recovery 50sec @ 0.55"
+    },
+    {
+      "duration": 10,
+      "power": 2.0044999,
+      "note": "interval 10sec @ 2.00"
+    },
+    {
+      "duration": 50,
+      "power": 0.55449998,
+      "note": "recovery 50sec @ 0.55"
+    },
+    {
+      "duration": 10,
+      "power": 2.0044999,
+      "note": "interval 10sec @ 2.00"
+    },
+    {
+      "duration": 50,
+      "power": 0.55449998,
+      "note": "recovery 50sec @ 0.55"
+    },
+    {
+      "duration": 420,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 10,
+      "power": 2.0,
+      "note": "interval 10sec @ 2.00"
+    },
+    {
+      "duration": 50,
+      "power": 0.55000001,
+      "note": "recovery 50sec @ 0.55"
+    },
+    {
+      "duration": 10,
+      "power": 2.0,
+      "note": "interval 10sec @ 2.00"
+    },
+    {
+      "duration": 50,
+      "power": 0.55000001,
+      "note": "recovery 50sec @ 0.55"
+    },
+    {
+      "duration": 10,
+      "power": 2.0,
+      "note": "interval 10sec @ 2.00"
+    },
+    {
+      "duration": 50,
+      "power": 0.55000001,
+      "note": "recovery 50sec @ 0.55"
+    },
+    {
+      "duration": 10,
+      "power": 2.0,
+      "note": "interval 10sec @ 2.00"
+    },
+    {
+      "duration": 50,
+      "power": 0.55000001,
+      "note": "recovery 50sec @ 0.55"
+    },
+    {
+      "duration": 10,
+      "power": 2.0,
+      "note": "interval 10sec @ 2.00"
+    },
+    {
+      "duration": 50,
+      "power": 0.55000001,
+      "note": "recovery 50sec @ 0.55"
+    },
+    {
+      "duration": 300,
+      "power": 0.55000001,
+      "note": "SteadyState interval"
+    }
+  ]
+}

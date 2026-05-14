@@ -1,0 +1,83 @@
+{
+  "name": "Lawson Craddock: All-rounder",
+  "note": "Lawson Craddock is an American professional cyclist racing for UCI WorldTeam Team BikeExchange-Jayco. This workout is a great session to build all-around fitness and build cycling specific strength. The main session is 3 min 30 seconds at 88% of FTP and 60 RPM's, right into 30 seconds at 105% of FTP and 100+ RPM's. (by Marco Pinotti)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 210,
+      "power": 0.88,
+      "note": "interval 210sec @ 0.88"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "recovery 30sec @ 1.05"
+    },
+    {
+      "duration": 180,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 210,
+      "power": 0.88,
+      "note": "interval 210sec @ 0.88"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "recovery 30sec @ 1.05"
+    },
+    {
+      "duration": 180,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 210,
+      "power": 0.88,
+      "note": "interval 210sec @ 0.88"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "recovery 30sec @ 1.05"
+    },
+    {
+      "duration": 180,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 210,
+      "power": 0.88,
+      "note": "interval 210sec @ 0.88"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "recovery 30sec @ 1.05"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

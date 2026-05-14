@@ -1,0 +1,46 @@
+{
+  "name": "Strength Baby ",
+  "note": "This workout offers an introduction to developing your strength by completing 3 blocks of 4 minute at zone 3 but critically at a low cadence of 60rpm.\n\nFocus on keeping your upper body still and allowing your legs to generate all the power. (by D.Rowe (Rowe&King))",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.46,
+      "note": "interval 180sec @ 0.46"
+    },
+    {
+      "duration": 240,
+      "power": 0.79,
+      "note": "recovery 240sec @ 0.79"
+    },
+    {
+      "duration": 180,
+      "power": 0.46,
+      "note": "interval 180sec @ 0.46"
+    },
+    {
+      "duration": 240,
+      "power": 0.79,
+      "note": "recovery 240sec @ 0.79"
+    },
+    {
+      "duration": 180,
+      "power": 0.46,
+      "note": "interval 180sec @ 0.46"
+    },
+    {
+      "duration": 240,
+      "power": 0.79,
+      "note": "recovery 240sec @ 0.79"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

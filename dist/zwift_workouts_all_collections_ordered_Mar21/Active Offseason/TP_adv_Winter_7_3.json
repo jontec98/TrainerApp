@@ -1,0 +1,71 @@
+{
+  "name": "Week 7.3 - 3x15min FTP",
+  "note": "15 minute warmup working into Endurance with 3 x 1 minute fast pedals to wake up legs followed by FTP builder intervals. Complete 3 x 15 minutes at FTP with 5 minute recovery between each effort at Endurance. Keep your cadence at 85 - 105 rpm. Once complete ride easy for 10 minutes. Complete 2 x 3 minutes in your VO2Max with 3 minutes of rest between intervals. Finish with 10 minute cool down.",
+  "intervals": [
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "interval 900sec @ 1.00"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "recovery 300sec @ 0.50"
+    },
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "interval 900sec @ 1.00"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "recovery 300sec @ 0.50"
+    },
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "interval 900sec @ 1.00"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "recovery 300sec @ 0.50"
+    },
+    {
+      "duration": 600,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "note": "interval 180sec @ 1.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "recovery 180sec @ 0.50"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "note": "interval 180sec @ 1.00"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "recovery 180sec @ 0.50"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

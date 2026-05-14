@@ -1,0 +1,36 @@
+{
+  "name": "Week 7.1 - VO\u2082Max-training",
+  "note": "Van deze training wordt je sneller. (by KNWU Fondo)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.1,
+      "note": "interval 300sec @ 1.10"
+    },
+    {
+      "duration": 900,
+      "power": 0.65,
+      "note": "recovery 900sec @ 0.65"
+    },
+    {
+      "duration": 300,
+      "power": 1.1,
+      "note": "interval 300sec @ 1.10"
+    },
+    {
+      "duration": 900,
+      "power": 0.65,
+      "note": "recovery 900sec @ 0.65"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

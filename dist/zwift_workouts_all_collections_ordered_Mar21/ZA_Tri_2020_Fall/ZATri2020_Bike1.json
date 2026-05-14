@@ -1,0 +1,131 @@
+{
+  "name": "Endurance Strength Development",
+  "note": "Welcome to the first bike workout in your Zwift Academy Tri journey! Specific strength is a critical component for long course triathlon. This session aims to produce large amounts of muscular force with limited disturbance to the cardiovascular systems.\n    \n    Many professional and top long course triathletes include regular endurance strength work in their training routines, and for good reason. Research has shown that training at a lower cadence produces significant power benefits compared to training at a higher cadence.\n    \n    These types of sessions are great if you\u2019ve got tired legs but still want a quality workout. This session in particular is made up of 9x4 minute reps where the cadence is kept low (65\u201355 rpm) and at a moderate intensity (between 70.3 and long course effort). If you\u2019ve ever done \"drop-sets\" in the gym, this is the cycling-specific equivalent. \n    \n    For WHOOP users \u2014 This workout is good to do on a Yellow or Green Recovery day. Due to its lower training demands, expect a lower level of strain from this session, which is ideal for days where you aren\u2019t fully recovered. (by Daniel Plews)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 40,
+      "power": 0.8,
+      "note": "interval 40sec @ 0.80"
+    },
+    {
+      "duration": 20,
+      "power": 0.55,
+      "note": "recovery 20sec @ 0.55"
+    },
+    {
+      "duration": 40,
+      "power": 0.8,
+      "note": "interval 40sec @ 0.80"
+    },
+    {
+      "duration": 20,
+      "power": 0.55,
+      "note": "recovery 20sec @ 0.55"
+    },
+    {
+      "duration": 60,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 0.83,
+      "note": "interval 240sec @ 0.83"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 240,
+      "power": 0.83,
+      "note": "interval 240sec @ 0.83"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 240,
+      "power": 0.83,
+      "note": "interval 240sec @ 0.83"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 240,
+      "power": 0.83,
+      "note": "interval 240sec @ 0.83"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 240,
+      "power": 0.83,
+      "note": "interval 240sec @ 0.83"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 240,
+      "power": 0.83,
+      "note": "interval 240sec @ 0.83"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 240,
+      "power": 0.83,
+      "note": "interval 240sec @ 0.83"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 240,
+      "power": 0.83,
+      "note": "interval 240sec @ 0.83"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 240,
+      "power": 0.83,
+      "note": "interval 240sec @ 0.83"
+    },
+    {
+      "duration": 120,
+      "power": 0.55,
+      "note": "recovery 120sec @ 0.55"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

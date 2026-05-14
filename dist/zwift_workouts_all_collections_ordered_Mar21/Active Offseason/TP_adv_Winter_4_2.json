@@ -1,0 +1,11 @@
+{
+  "name": "Week 4.2 - Active Recovery",
+  "note": "Today is an Active Recovery day. Focus on relaxing on the bike and enjoying the ride.",
+  "intervals": [
+    {
+      "duration": 3600,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Month 5 - Semifinals.3 - Crit Power Test",
+  "note": "The efforts starts with a 20 second all out sprint (the idea is to ride this 20s as hard as you can and ignore the fact that you have to continue riding for a further 2min 40sec). as you begin to fade on the sprint, you will need to gradually reduce your gearing to maintain a cadence of around 90rpm, all whilst pushing as much power as you possibly can!. this will feel like a very long 3 minutes. the key is to not bail on the effort! regardless of how much your power fades throughout the effort, you MUST finish it. (by Zwift Academy)",
+  "intervals": [
+    {
+      "duration": 1200,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 120,
+      "power": 1.0048306,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 600,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    }
+  ]
+}

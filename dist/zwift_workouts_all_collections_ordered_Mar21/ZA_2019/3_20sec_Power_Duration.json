@@ -1,0 +1,201 @@
+{
+  "name": "20sec Power Duration",
+  "note": "To accurately assess the strengths of each Zwift Academy participant, some of the sessions are focused on allowing you to fill out your Power Duration curve. Today's session is all about producing your best 20 second power.\n\nPrior to completing this maximal effort, the session includes a range of intervals that will allow you to get a feel for your target 20 second maximal power. (by Zwift Academy Coaches)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.85449994,
+      "note": "interval 30sec @ 0.85"
+    },
+    {
+      "duration": 30,
+      "power": 0.6045,
+      "note": "recovery 30sec @ 0.60"
+    },
+    {
+      "duration": 30,
+      "power": 0.85449994,
+      "note": "interval 30sec @ 0.85"
+    },
+    {
+      "duration": 30,
+      "power": 0.6045,
+      "note": "recovery 30sec @ 0.60"
+    },
+    {
+      "duration": 30,
+      "power": 0.85449994,
+      "note": "interval 30sec @ 0.85"
+    },
+    {
+      "duration": 30,
+      "power": 0.6045,
+      "note": "recovery 30sec @ 0.60"
+    },
+    {
+      "duration": 30,
+      "power": 0.85449994,
+      "note": "interval 30sec @ 0.85"
+    },
+    {
+      "duration": 30,
+      "power": 0.6045,
+      "note": "recovery 30sec @ 0.60"
+    },
+    {
+      "duration": 30,
+      "power": 0.85449994,
+      "note": "interval 30sec @ 0.85"
+    },
+    {
+      "duration": 30,
+      "power": 0.6045,
+      "note": "recovery 30sec @ 0.60"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.85449994,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0244999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.1544999,
+      "note": "interval 15sec @ 1.15"
+    },
+    {
+      "duration": 45,
+      "power": 0.63449997,
+      "note": "recovery 45sec @ 0.63"
+    },
+    {
+      "duration": 15,
+      "power": 1.1544999,
+      "note": "interval 15sec @ 1.15"
+    },
+    {
+      "duration": 45,
+      "power": 0.63449997,
+      "note": "recovery 45sec @ 0.63"
+    },
+    {
+      "duration": 15,
+      "power": 1.1544999,
+      "note": "interval 15sec @ 1.15"
+    },
+    {
+      "duration": 45,
+      "power": 0.63449997,
+      "note": "recovery 45sec @ 0.63"
+    },
+    {
+      "duration": 15,
+      "power": 1.1544999,
+      "note": "interval 15sec @ 1.15"
+    },
+    {
+      "duration": 45,
+      "power": 0.63449997,
+      "note": "recovery 45sec @ 0.63"
+    },
+    {
+      "duration": 360,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.0745,
+      "note": "interval 30sec @ 1.07"
+    },
+    {
+      "duration": 180,
+      "power": 0.63449997,
+      "note": "recovery 180sec @ 0.63"
+    },
+    {
+      "duration": 30,
+      "power": 1.0745,
+      "note": "interval 30sec @ 1.07"
+    },
+    {
+      "duration": 180,
+      "power": 0.63449997,
+      "note": "recovery 180sec @ 0.63"
+    },
+    {
+      "duration": 30,
+      "power": 1.0745,
+      "note": "interval 30sec @ 1.07"
+    },
+    {
+      "duration": 180,
+      "power": 0.63449997,
+      "note": "recovery 180sec @ 0.63"
+    },
+    {
+      "duration": 360,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 25,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.63449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 25,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 60,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 360,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

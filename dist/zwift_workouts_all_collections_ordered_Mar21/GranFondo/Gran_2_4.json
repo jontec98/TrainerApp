@@ -1,0 +1,161 @@
+{
+  "name": "The Long Ride - Spiked Base Progressive VO2",
+  "note": "This week's long ride features some sweet-spot intervals to start before going into a long Zone 2 endurance block to finish. But punctuating that long, steady base work, we will surge for 5min four times throughout. The last 5min surge takes you up and into the VO2max range of work. When you are tired and just want to relax, that is when you need to be able to push. (by Zwift)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.75449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.95449996,
+      "note": "interval 120sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 0.55449998,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 0.95449996,
+      "note": "interval 120sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 0.55449998,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 0.95449996,
+      "note": "interval 120sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 0.55449998,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 0.95449996,
+      "note": "interval 120sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 0.55449998,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 0.95449996,
+      "note": "interval 120sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 0.55449998,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 0.95449996,
+      "note": "interval 120sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 0.55449998,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 0.95449996,
+      "note": "interval 120sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 0.55449998,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 0.95449996,
+      "note": "interval 120sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 0.55449998,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 0.95449996,
+      "note": "interval 120sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 0.55449998,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 0.95449996,
+      "note": "interval 120sec @ 0.95"
+    },
+    {
+      "duration": 60,
+      "power": 0.55449998,
+      "note": "recovery 60sec @ 0.55"
+    },
+    {
+      "duration": 600,
+      "power": 0.75449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.90449995,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.75449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.95449996,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.75449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0044999,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.75449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0545,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

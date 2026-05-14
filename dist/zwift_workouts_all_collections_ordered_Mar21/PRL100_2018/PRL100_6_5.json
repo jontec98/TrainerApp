@@ -1,0 +1,156 @@
+{
+  "name": "Week 6.5 - 40/20's into FTP #1",
+  "note": "After a series of short, hard intervals, take on a sustained block of FTP. Opposite of some of the previous workouts where a sustained sub-threshold effort was followed by high-power intervals, in this workout we build some fatigue with the intervals before tackling the sustained threshold effort.\n (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 180,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.94,
+      "note": "interval 30sec @ 0.94"
+    },
+    {
+      "duration": 60,
+      "power": 0.61,
+      "note": "recovery 60sec @ 0.61"
+    },
+    {
+      "duration": 30,
+      "power": 0.94,
+      "note": "interval 30sec @ 0.94"
+    },
+    {
+      "duration": 60,
+      "power": 0.61,
+      "note": "recovery 60sec @ 0.61"
+    },
+    {
+      "duration": 30,
+      "power": 0.94,
+      "note": "interval 30sec @ 0.94"
+    },
+    {
+      "duration": 60,
+      "power": 0.61,
+      "note": "recovery 60sec @ 0.61"
+    },
+    {
+      "duration": 150,
+      "power": 0.71,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 40,
+      "power": 1.21,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 20,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

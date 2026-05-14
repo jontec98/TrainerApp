@@ -1,0 +1,71 @@
+{
+  "name": "Week 9.6 - Endurance & FTP",
+  "note": "Building Endurance today! Once warmed up, ride in your ENDURANCE zone. Focus on staying relaxed on the bike and spinning circles while keeping cadence between 90-100. During the last hour of the ride complete 5 FORCE reps of 3-5 minutes each (5 minutes rest in-between) at Threshold Power. Force Reps are a big gear, low cadence effort targeting a cadence of 55-65 RPM.",
+  "intervals": [
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 3900,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 240,
+      "power": 1.0,
+      "note": "interval 240sec @ 1.00"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "recovery 300sec @ 0.50"
+    },
+    {
+      "duration": 240,
+      "power": 1.0,
+      "note": "interval 240sec @ 1.00"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "recovery 300sec @ 0.50"
+    },
+    {
+      "duration": 240,
+      "power": 1.0,
+      "note": "interval 240sec @ 1.00"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "recovery 300sec @ 0.50"
+    },
+    {
+      "duration": 240,
+      "power": 1.0,
+      "note": "interval 240sec @ 1.00"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "recovery 300sec @ 0.50"
+    },
+    {
+      "duration": 240,
+      "power": 1.0,
+      "note": "interval 240sec @ 1.00"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "recovery 300sec @ 0.50"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

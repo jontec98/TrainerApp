@@ -1,0 +1,116 @@
+{
+  "name": "10x1min MAP (Max Aerobic)",
+  "note": "10x1min hard (Z5) with 4min recovery at steady base aerobic power. The idea here is getting comfortable with power output in the near-MAP (Maximal Aerobic Power) range but with good full recovery. The interval duration is too long to be a sprint - and you should stay seated for the entire interval - but not so long as to be overly taxing, especially with the long recovery. Keep the power up at a reasonable intensity during the recovery - it's not coasting.  (by Zwift)",
+  "intervals": [
+    {
+      "duration": 420,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.1720386,
+      "note": "interval 60sec @ 1.17"
+    },
+    {
+      "duration": 180,
+      "power": 0.55220383,
+      "note": "recovery 180sec @ 0.55"
+    },
+    {
+      "duration": 60,
+      "power": 1.1720386,
+      "note": "interval 60sec @ 1.17"
+    },
+    {
+      "duration": 180,
+      "power": 0.55220383,
+      "note": "recovery 180sec @ 0.55"
+    },
+    {
+      "duration": 60,
+      "power": 1.1720386,
+      "note": "interval 60sec @ 1.17"
+    },
+    {
+      "duration": 180,
+      "power": 0.55220383,
+      "note": "recovery 180sec @ 0.55"
+    },
+    {
+      "duration": 60,
+      "power": 1.1720386,
+      "note": "interval 60sec @ 1.17"
+    },
+    {
+      "duration": 180,
+      "power": 0.55220383,
+      "note": "recovery 180sec @ 0.55"
+    },
+    {
+      "duration": 60,
+      "power": 1.1720386,
+      "note": "interval 60sec @ 1.17"
+    },
+    {
+      "duration": 180,
+      "power": 0.55220383,
+      "note": "recovery 180sec @ 0.55"
+    },
+    {
+      "duration": 60,
+      "power": 1.1720386,
+      "note": "interval 60sec @ 1.17"
+    },
+    {
+      "duration": 180,
+      "power": 0.55220383,
+      "note": "recovery 180sec @ 0.55"
+    },
+    {
+      "duration": 60,
+      "power": 1.1720386,
+      "note": "interval 60sec @ 1.17"
+    },
+    {
+      "duration": 180,
+      "power": 0.55220383,
+      "note": "recovery 180sec @ 0.55"
+    },
+    {
+      "duration": 60,
+      "power": 1.1720386,
+      "note": "interval 60sec @ 1.17"
+    },
+    {
+      "duration": 180,
+      "power": 0.55220383,
+      "note": "recovery 180sec @ 0.55"
+    },
+    {
+      "duration": 60,
+      "power": 1.1720386,
+      "note": "interval 60sec @ 1.17"
+    },
+    {
+      "duration": 180,
+      "power": 0.55220383,
+      "note": "recovery 180sec @ 0.55"
+    },
+    {
+      "duration": 60,
+      "power": 1.1720386,
+      "note": "interval 60sec @ 1.17"
+    },
+    {
+      "duration": 180,
+      "power": 0.55220383,
+      "note": "recovery 180sec @ 0.55"
+    },
+    {
+      "duration": 120,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

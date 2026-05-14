@@ -1,0 +1,136 @@
+{
+  "name": "Novanta Lite",
+  "note": "The sweet spot zone training zone is between 84% to 97% of FTP. The sweet spot workouts in this plan thread the needle at 90% FTP. Today we'll continue to progress our sweet spot-focused workout. After a warm-up, we'll go into 2, 12min long sweet spot intervals with 4min of rest in between, then cool down. This is another 2min more than last week. Look at you go! (by Shayne Gaffney | GC Coaching)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.95,
+      "note": "interval 30sec @ 0.95"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "interval 30sec @ 1.05"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "interval 30sec @ 1.15"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.9,
+      "note": "interval 300sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "recovery 60sec @ 0.90"
+    },
+    {
+      "duration": 300,
+      "power": 0.9,
+      "note": "interval 300sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "recovery 60sec @ 0.90"
+    },
+    {
+      "duration": 180,
+      "power": 0.55,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "interval 60sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "recovery 60sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "interval 60sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "recovery 60sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "interval 60sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "recovery 60sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "interval 60sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "recovery 60sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "interval 60sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "recovery 60sec @ 0.90"
+    },
+    {
+      "duration": 60,
+      "power": 0.9,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

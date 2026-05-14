@@ -1,0 +1,243 @@
+{
+  "name": "Amalgam",
+  "note": "5 different interval \"Amalgams\" for your fitness pleasure! We will be mixing it up with on-bike position changes as well as working on pedaling fluidity. Then 10 minutes right at FTP... You can do it! Follow that up with some short and sharp efforts... #Power! And then a series of \"Shark Teeth!\" Finish off today with ANOTHER 10 minutes right at FTP! Even though you'll be tired, I know you can do it! #MentalStrength (by Shayne Gaffney | GC Coaching)",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.95,
+      "note": "interval 30sec @ 0.95"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.05,
+      "note": "interval 30sec @ 1.05"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 30,
+      "power": 1.15,
+      "note": "interval 30sec @ 1.15"
+    },
+    {
+      "duration": 30,
+      "power": 0.5,
+      "note": "recovery 30sec @ 0.50"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "interval 60sec @ 0.85"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "recovery 60sec @ 0.85"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "interval 60sec @ 0.85"
+    },
+    {
+      "duration": 60,
+      "power": 0.85,
+      "note": "recovery 60sec @ 0.85"
+    },
+    {
+      "duration": 300,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 150,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 15,
+      "power": 1.1,
+      "note": "interval 15sec @ 1.10"
+    },
+    {
+      "duration": 45,
+      "power": 0.45,
+      "note": "recovery 45sec @ 0.45"
+    },
+    {
+      "duration": 15,
+      "power": 1.1,
+      "note": "interval 15sec @ 1.10"
+    },
+    {
+      "duration": 45,
+      "power": 0.45,
+      "note": "recovery 45sec @ 0.45"
+    },
+    {
+      "duration": 15,
+      "power": 1.1,
+      "note": "interval 15sec @ 1.10"
+    },
+    {
+      "duration": 45,
+      "power": 0.45,
+      "note": "recovery 45sec @ 0.45"
+    },
+    {
+      "duration": 15,
+      "power": 1.1,
+      "note": "interval 15sec @ 1.10"
+    },
+    {
+      "duration": 45,
+      "power": 0.45,
+      "note": "recovery 45sec @ 0.45"
+    },
+    {
+      "duration": 15,
+      "power": 1.1,
+      "note": "interval 15sec @ 1.10"
+    },
+    {
+      "duration": 45,
+      "power": 0.45,
+      "note": "recovery 45sec @ 0.45"
+    },
+    {
+      "duration": 15,
+      "power": 1.1,
+      "note": "interval 15sec @ 1.10"
+    },
+    {
+      "duration": 45,
+      "power": 0.45,
+      "note": "recovery 45sec @ 0.45"
+    },
+    {
+      "duration": 300,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 60,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 150,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.65,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

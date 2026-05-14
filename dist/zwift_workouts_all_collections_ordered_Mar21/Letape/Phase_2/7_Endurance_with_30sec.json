@@ -1,0 +1,143 @@
+{
+  "name": "Phase 2.7 - Endurance With 30sec",
+  "note": "A lower intensity endurance session today that incorporates 30 second surges. \n\nHowever, with ample recovery you should be hitting each effort refreshed.  (by Kevin Poulton)",
+  "intervals": [
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 30,
+      "power": 0.64999998,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 0.88999999,
+      "note": "recovery 30sec @ 0.89"
+    },
+    {
+      "duration": 30,
+      "power": 0.64999998,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 0.88999999,
+      "note": "recovery 30sec @ 0.89"
+    },
+    {
+      "duration": 30,
+      "power": 0.64999998,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 0.88999999,
+      "note": "recovery 30sec @ 0.89"
+    },
+    {
+      "duration": 30,
+      "power": 0.64999998,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 0.88999999,
+      "note": "recovery 30sec @ 0.89"
+    },
+    {
+      "duration": 30,
+      "power": 0.64999998,
+      "note": "interval 30sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 0.88999999,
+      "note": "recovery 30sec @ 0.89"
+    },
+    {
+      "duration": 120,
+      "power": 0.50449997,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "power_start": 0.5,
+      "type": "ramp",
+      "note": "Ramp interval"
+    },
+    {
+      "duration": 120,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.2592388,
+      "note": "interval 30sec @ 1.26"
+    },
+    {
+      "duration": 270,
+      "power": 0.65264916,
+      "note": "recovery 270sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 1.2592388,
+      "note": "interval 30sec @ 1.26"
+    },
+    {
+      "duration": 270,
+      "power": 0.65264916,
+      "note": "recovery 270sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 1.2592388,
+      "note": "interval 30sec @ 1.26"
+    },
+    {
+      "duration": 270,
+      "power": 0.65264916,
+      "note": "recovery 270sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 1.2592388,
+      "note": "interval 30sec @ 1.26"
+    },
+    {
+      "duration": 270,
+      "power": 0.65264916,
+      "note": "recovery 270sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 1.2592388,
+      "note": "interval 30sec @ 1.26"
+    },
+    {
+      "duration": 270,
+      "power": 0.65264916,
+      "note": "recovery 270sec @ 0.65"
+    },
+    {
+      "duration": 30,
+      "power": 1.2592388,
+      "note": "interval 30sec @ 1.26"
+    },
+    {
+      "duration": 270,
+      "power": 0.65264916,
+      "note": "recovery 270sec @ 0.65"
+    },
+    {
+      "duration": 300,
+      "power": 0.5,
+      "note": "SteadyState interval"
+    }
+  ]
+}

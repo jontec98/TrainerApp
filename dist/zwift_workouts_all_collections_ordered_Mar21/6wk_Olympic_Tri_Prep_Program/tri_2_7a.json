@@ -1,0 +1,96 @@
+{
+  "name": "Day 7 - Bike",
+  "note": "Bike - 65 min.-20 min. warm up\n-8x (20 sec. @ 135% FTP @ 85-90 rpm, 30 sec. total rest)\n-35 min. cooldown (by QT2)",
+  "intervals": [
+    {
+      "duration": 1200,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 20,
+      "power": 1.3544999,
+      "note": "interval 20sec @ 1.35"
+    },
+    {
+      "duration": 30,
+      "power": 0.1045,
+      "note": "recovery 30sec @ 0.10"
+    },
+    {
+      "duration": 20,
+      "power": 1.3544999,
+      "note": "interval 20sec @ 1.35"
+    },
+    {
+      "duration": 30,
+      "power": 0.1045,
+      "note": "recovery 30sec @ 0.10"
+    },
+    {
+      "duration": 20,
+      "power": 1.3544999,
+      "note": "interval 20sec @ 1.35"
+    },
+    {
+      "duration": 30,
+      "power": 0.1045,
+      "note": "recovery 30sec @ 0.10"
+    },
+    {
+      "duration": 20,
+      "power": 1.3544999,
+      "note": "interval 20sec @ 1.35"
+    },
+    {
+      "duration": 30,
+      "power": 0.1045,
+      "note": "recovery 30sec @ 0.10"
+    },
+    {
+      "duration": 20,
+      "power": 1.3544999,
+      "note": "interval 20sec @ 1.35"
+    },
+    {
+      "duration": 30,
+      "power": 0.1045,
+      "note": "recovery 30sec @ 0.10"
+    },
+    {
+      "duration": 20,
+      "power": 1.3544999,
+      "note": "interval 20sec @ 1.35"
+    },
+    {
+      "duration": 30,
+      "power": 0.1045,
+      "note": "recovery 30sec @ 0.10"
+    },
+    {
+      "duration": 20,
+      "power": 1.3544999,
+      "note": "interval 20sec @ 1.35"
+    },
+    {
+      "duration": 30,
+      "power": 0.1045,
+      "note": "recovery 30sec @ 0.10"
+    },
+    {
+      "duration": 20,
+      "power": 1.3544999,
+      "note": "interval 20sec @ 1.35"
+    },
+    {
+      "duration": 30,
+      "power": 0.1045,
+      "note": "recovery 30sec @ 0.10"
+    },
+    {
+      "duration": 2100,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

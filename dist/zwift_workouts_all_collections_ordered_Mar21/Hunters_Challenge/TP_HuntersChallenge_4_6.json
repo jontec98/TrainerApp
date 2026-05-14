@@ -1,0 +1,46 @@
+{
+  "name": "Week 4.6 - Mini Mega",
+  "note": "It's not the MEGA. but it's a mini version of the mega.",
+  "intervals": [
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 300,
+      "power": 1.14,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.72,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 1200,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.72,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 1200,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 900,
+      "power": 0.72,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

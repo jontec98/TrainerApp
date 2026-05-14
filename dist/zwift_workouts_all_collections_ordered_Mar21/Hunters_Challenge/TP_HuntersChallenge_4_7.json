@@ -1,0 +1,266 @@
+{
+  "name": "Week 4.7 - THE. MEGA.",
+  "note": "Are you ready punk? Think you can do THE. MEGA? I doubt it.",
+  "intervals": [
+    {
+      "duration": 2100,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.83,
+      "note": "recovery 60sec @ 0.83"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.83,
+      "note": "recovery 60sec @ 0.83"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.83,
+      "note": "recovery 60sec @ 0.83"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.83,
+      "note": "recovery 60sec @ 0.83"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.83,
+      "note": "recovery 60sec @ 0.83"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.83,
+      "note": "recovery 60sec @ 0.83"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.83,
+      "note": "recovery 60sec @ 0.83"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.83,
+      "note": "recovery 60sec @ 0.83"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.83,
+      "note": "recovery 60sec @ 0.83"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.83,
+      "note": "recovery 60sec @ 0.83"
+    },
+    {
+      "duration": 300,
+      "power": 0.72,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 180,
+      "power": 0.72,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.83,
+      "note": "recovery 60sec @ 0.83"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.83,
+      "note": "recovery 60sec @ 0.83"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.83,
+      "note": "recovery 60sec @ 0.83"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.83,
+      "note": "recovery 60sec @ 0.83"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.83,
+      "note": "recovery 60sec @ 0.83"
+    },
+    {
+      "duration": 60,
+      "power": 0.87,
+      "note": "interval 60sec @ 0.87"
+    },
+    {
+      "duration": 60,
+      "power": 0.83,
+      "note": "recovery 60sec @ 0.83"
+    },
+    {
+      "duration": 300,
+      "power": 1.14,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.72,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 720,
+      "power": 0.87,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.72,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 720,
+      "power": 0.87,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.72,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 1080,
+      "power": 0.95,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 600,
+      "power": 0.72,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.72,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.72,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 30,
+      "power": 1.6,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 300,
+      "power": 0.72,
+      "note": "SteadyState interval"
+    },
+    {
+      "duration": 900,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}

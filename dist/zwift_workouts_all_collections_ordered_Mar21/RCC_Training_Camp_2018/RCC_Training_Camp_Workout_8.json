@@ -1,0 +1,96 @@
+{
+  "name": "RCC Training Camp Workout #8",
+  "note": "Welcome to the Rapha Cycling Club Training Camp Workout 8. This session is a casual endurance ride, for you to ride on feel. We will do 2 x 40 minute 'Free Ride' blocks of Fartlek. Fartlek means speed-play in Swedish, and is the focus of todays session - just vary your effort / speed as you feel. If you feel fresh and want to go for a timed climb or sprint in game, then go for it. If you want to cruise - just chill out and let the duration of the session take care of the training stress.\n\nA few varied efforts will be suggested throughout the session - take on the challenges as you feel up for them! Sandwiched between the two 40 minute Fartlek blocks is a 24 minute 30 second block of Over (120% FTP for 30 seconds) - Unders (75% FTP 3 minutes) - some relaxed structure, to keep the mind occupied, and ensure we stress all of our energy systems and muscle types. \n\nERG mode is NOT recommended. (by Matt Rowe (Rowe and King))",
+  "intervals": [
+    {
+      "duration": 600,
+      "power": 1.0,
+      "note": "Warmup interval"
+    },
+    {
+      "duration": 2400,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 30,
+      "power": 1.2045,
+      "note": "interval 30sec @ 1.20"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 30,
+      "power": 1.2045,
+      "note": "interval 30sec @ 1.20"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 30,
+      "power": 1.2045,
+      "note": "interval 30sec @ 1.20"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 30,
+      "power": 1.2045,
+      "note": "interval 30sec @ 1.20"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 30,
+      "power": 1.2045,
+      "note": "interval 30sec @ 1.20"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 30,
+      "power": 1.2045,
+      "note": "interval 30sec @ 1.20"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 30,
+      "power": 1.2045,
+      "note": "interval 30sec @ 1.20"
+    },
+    {
+      "duration": 180,
+      "power": 0.75449997,
+      "note": "recovery 180sec @ 0.75"
+    },
+    {
+      "duration": 2430,
+      "power": 0.5,
+      "note": "Free ride"
+    },
+    {
+      "duration": 300,
+      "power": 1.0,
+      "note": "Cooldown interval"
+    }
+  ]
+}
