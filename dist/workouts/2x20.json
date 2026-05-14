@@ -1,0 +1,13 @@
+{
+  "name": "2x20 FTP intervals",
+  "note": "Two 20-minute blocks at 100% FTP.",
+  "intervals": [
+    { "duration": 600, "power": 0.85, "type": "ramp", "note": "ramp warmup" },
+    { "duration": 300, "power": 0.5, "note": "chill" },
+    { "duration": 1200, "power": 1.00, "note": "block 1 — FTP" },
+    { "duration": 600, "power": 0.50, "note": "recovery" },
+    { "duration": 1200, "power": 1.00, "note": "block 2 — FTP" },
+    { "duration": 30, "power": 0.75, "note": "cool-down" },
+    { "duration": 900, "power": 0.48, "type": "ramp", "note": "cool-down" }
+  ]
+}

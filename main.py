@@ -47,35 +47,69 @@ _ZONES = [
 ]
 
 
-def parse_power(data: bytearray) -> tuple[int, tuple[int, int] | None]:
+def parse_power_debug(data: bytearray) -> tuple[int, tuple[int, int] | None, dict[str, str]]:
+    debug: dict[str, str] = {
+        "flags": "",
+        "length": str(len(data)),
+        "power_bytes": "",
+        "expected_length": "",
+        "valid": "no",
+        "note": "",
+    }
     if len(data) < 4:
-        return 0, None
+        debug["note"] = "packet too short"
+        return 0, None, debug
+
     flags = int.from_bytes(data[0:2], "little")
+    power_bytes = data[2:4].hex().upper()
+    debug["flags"] = f"0x{flags:04X}"
+    debug["power_bytes"] = power_bytes
+
     (power,) = struct.unpack_from("<h", data, 2)
     offset = 4
     cadence_info: tuple[int, int] | None = None
 
-    # Bit 0: Pedal Power Balance Present → 1 byte
+    expected_length = 4
     if flags & 0x01:
-        offset += 1
-    # Bit 1: Pedal Power Balance Reference → no data
-    # Bit 2: Accumulated Torque Present → 2 bytes
+        expected_length += 1
     if flags & 0x04:
-        offset += 2
-    # Bit 3: Accumulated Torque Source → no data
-    # Bit 4: Wheel Revolution Data Present → uint32 + uint16 = 6 bytes
+        expected_length += 2
     if flags & 0x10:
-        if len(data) >= offset + 6:
-            offset += 6
-        else:
-            return power, None
-    # Bit 5: Crank Revolution Data Present → uint16 + uint16 = 4 bytes
+        expected_length += 6
     if flags & 0x20:
-        if len(data) >= offset + 4:
-            cumulative_crank_revs = struct.unpack_from("<H", data, offset)[0]
-            last_crank_event_time = struct.unpack_from("<H", data, offset + 2)[0]
-            cadence_info = (cumulative_crank_revs, last_crank_event_time)
+        expected_length += 4
+    debug["expected_length"] = str(expected_length)
 
+    if flags & 0x01:
+        if len(data) < offset + 1:
+            debug["note"] = "missing pedal balance byte"
+            return power, None, debug
+        offset += 1
+    if flags & 0x04:
+        if len(data) < offset + 2:
+            debug["note"] = "missing accumulated torque"
+            return power, None, debug
+        offset += 2
+    if flags & 0x10:
+        if len(data) < offset + 6:
+            debug["note"] = "missing wheel revolution data"
+            return power, None, debug
+        offset += 6
+    if flags & 0x20:
+        if len(data) < offset + 4:
+            debug["note"] = "missing crank revolution data"
+            return power, None, debug
+        cumulative_crank_revs = struct.unpack_from("<H", data, offset)[0]
+        last_crank_event_time = struct.unpack_from("<H", data, offset + 2)[0]
+        cadence_info = (cumulative_crank_revs, last_crank_event_time)
+
+    debug["valid"] = "yes"
+    debug["note"] = "parsed OK"
+    return power, cadence_info, debug
+
+
+def parse_power(data: bytearray) -> tuple[int, tuple[int, int] | None]:
+    power, cadence_info, _ = parse_power_debug(data)
     return power, cadence_info
 
 
@@ -432,6 +466,30 @@ async def ftms_reset(client: BleakClient) -> None:
 # ── Pre-app BLE scan ──────────────────────────────────────────────────────────
 
 
+def _pick_device_by_name(devices: list, name_hint: str) -> str | None:
+    hint = name_hint.upper()
+    for d in devices:
+        if d.name and hint in d.name.upper():
+            return d.address
+    return None
+
+
+def _pick_device_by_preferences(devices: list, preferences: list[str]) -> str | None:
+    upper_names = [(d.name or "").upper() for d in devices]
+    # Prefer exact matches first, then substring matches.
+    for pref in preferences:
+        pref_upper = pref.upper()
+        for idx, d in enumerate(devices):
+            if upper_names[idx] == pref_upper:
+                return d.address
+    for pref in preferences:
+        pref_upper = pref.upper()
+        for idx, d in enumerate(devices):
+            if pref_upper in upper_names[idx]:
+                return d.address
+    return None
+
+
 async def find_trainer() -> str | None:
     console.print(
         "[bold cyan]Scanning for trainer (FTMS / Cycling Power)...[/bold cyan]"
@@ -448,6 +506,12 @@ async def find_trainer() -> str | None:
         d = devices[0]
         console.print(f"[green]Found:[/green] {d.name} ({d.address})")
         return d.address
+
+    trainer = _pick_device_by_preferences(devices, ["KICKR MOVE", "KICKR", "MOVE"])
+    if trainer is not None:
+        selected = next((d.name for d in devices if d.address == trainer), "trainer")
+        console.print(f"[green]Auto-selected trainer:[/green] {selected}")
+        return trainer
 
     console.print("\n[bold]Multiple devices found:[/bold]")
     for i, d in enumerate(devices):
@@ -484,6 +548,34 @@ async def find_cadence_sensor() -> str | None:
     """Try to find a dedicated cadence sensor. Return None if using trainer's built-in cadence."""
     console.print("[dim]Cadence will be read from the trainer's power sensor.[/dim]")
     return None
+
+
+async def find_power_meter(primary_address: str | None = None) -> str | None:
+    console.print("[bold cyan]Scanning for a secondary power source...[/bold cyan]")
+    devices = await BleakScanner.discover(
+        timeout=10.0,
+        service_uuids=[CYCLING_POWER_SERVICE],
+    )
+    other = [d for d in devices if d.address != primary_address]
+    if not other:
+        return None
+
+    if len(other) == 1:
+        d = other[0]
+        console.print(f"[green]Secondary power source found:[/green] {d.name or 'Unknown'} ({d.address})")
+        return d.address
+
+    stages = _pick_device_by_preferences(other, ["STAGES 3648", "STAGES"])
+    if stages is not None:
+        selected = next((d.name for d in other if d.address == stages), "Stages 3648")
+        console.print(f"[green]Auto-selected secondary power source:[/green] {selected}")
+        return stages
+
+    console.print("\n[bold]Multiple secondary power sources found:[/bold]")
+    for i, d in enumerate(other):
+        console.print(f"  [{i}] {d.name or 'Unknown'} ({d.address})")
+    choice = int(input("Select secondary power source number: "))
+    return other[choice].address
 
 
 # ── Textual app ───────────────────────────────────────────────────────────────
@@ -702,15 +794,28 @@ class WahooApp(App):
         hr_address: str | None = None,
         cadence_address: str | None = None,
         ftp: int = FTP_DEFAULT,
+        power_address: str | None = None,
     ) -> None:
         super().__init__()
         self._address = address
         self._hr_address = hr_address
         self._cadence_address = cadence_address
+        self._power_address = power_address
         self._workout = workout
         self._ftp = ftp if ftp else FTP_DEFAULT
         self._client: BleakClient | None = None
         self._has_ftms = False
+        self._power_meter_connected = False
+        self._power_meter_last_watts = 0
+        self._power_meter_last_seen: float | None = None
+        self._trainer_power = 0
+        self._power_meter_power = 0
+        self._power_meter_smooth = 0
+        self._power_meter_bias = 1.0
+        self._trainer_raw = ""
+        self._power_meter_raw = ""
+        self._trainer_debug = ""
+        self._power_meter_debug = ""
         self._target = (
             _power_from_ftp(workout.intervals[0].power, self._ftp) if workout else 200
         )
@@ -727,6 +832,7 @@ class WahooApp(App):
         self._erg_enabled = True
         self._hr = 0
         self._cadence = 0
+        self._cadence_seen = False
         # Crank tracking for power sensor
         self._last_crank_revs: int | None = None
         self._last_crank_event_time: int | None = None
@@ -735,6 +841,117 @@ class WahooApp(App):
         self._csc_last_crank_event_time: int | None = None
         self._session_start: datetime.datetime | None = None
         self._trackpoints: list[tuple[datetime.datetime, int, int, int, float]] = []
+
+    def _handle_power_measurement(
+        self,
+        watts: int,
+        crank_data: tuple[int, int] | None,
+        source: str,
+        raw_data: bytes,
+    ) -> None:
+        actual_value = watts
+        if source == "power_meter":
+            self._power_meter_connected = True
+            self._power_meter_power = watts
+            self._power_meter_last_watts = watts
+            self._power_meter_last_seen = time.monotonic()
+            self._power_meter_raw = raw_data.hex().upper()
+            _, _, debug = parse_power_debug(bytearray(raw_data))
+            self._power_meter_debug = (
+                f"flags={debug['flags']} len={debug['length']} exp={debug['expected_length']} {debug['note']}"
+            )
+            if self._power_meter_smooth == 0:
+                self._power_meter_smooth = watts
+            else:
+                self._power_meter_smooth = int(
+                    self._power_meter_smooth * 0.85 + watts * 0.15
+                )
+            if self._trainer_power > 0 and watts > 0:
+                ratio = self._trainer_power / watts
+                self._power_meter_bias = (
+                    self._power_meter_bias * 0.9 + ratio * 0.1
+                )
+            actual_value = int(self._power_meter_smooth * self._power_meter_bias)
+
+        if source == "trainer":
+            self._trainer_power = watts
+            self._trainer_raw = raw_data.hex().upper()
+            _, _, debug = parse_power_debug(bytearray(raw_data))
+            self._trainer_debug = (
+                f"flags={debug['flags']} len={debug['length']} exp={debug['expected_length']} {debug['note']}"
+            )
+            if self._power_meter_power > 0 and watts > 0:
+                ratio = watts / self._power_meter_power
+                self._power_meter_bias = (
+                    self._power_meter_bias * 0.9 + ratio * 0.1
+                )
+
+        if source == "trainer" and self._power_address and self._power_meter_connected:
+            if (
+                self._power_meter_last_seen is not None
+                and (time.monotonic() - self._power_meter_last_seen) < 5.0
+                and self._power_meter_last_watts > 0
+            ):
+                return
+
+        self._actual = actual_value
+        if not self._is_paused:
+            self._history.append(watts)
+            if len(self._history) > 300:
+                self._history.pop(0)
+
+        if crank_data is not None:
+            cumulative_crank_revs, last_crank_event_time = crank_data
+            if (
+                self._last_crank_revs is not None
+                and self._last_crank_event_time is not None
+            ):
+                delta_revs = (cumulative_crank_revs - self._last_crank_revs) & 0xFFFF
+                delta_time = (
+                    last_crank_event_time - self._last_crank_event_time
+                ) & 0xFFFF
+                if delta_time > 0:
+                    cadence = int(60.0 * delta_revs / (delta_time / 1024.0))
+                    if 0 < cadence < 250:
+                        self._cadence = cadence
+                        self._cadence_seen = True
+            self._last_crank_revs = cumulative_crank_revs
+            self._last_crank_event_time = last_crank_event_time
+
+        now = time.monotonic()
+        if watts == 0:
+            self._cadence = 0
+            self._cadence_seen = False
+            if self._zero_since is None:
+                self._zero_since = now
+            elif (
+                not self._auto_paused
+                and (now - self._zero_since) >= 3.0
+            ):
+                self._auto_paused = True
+                if self._pause_start is None:
+                    self._pause_start = now
+        else:
+            if self._auto_paused:
+                if self._pause_start is not None:
+                    self._paused_elapsed += now - self._pause_start
+                    self._pause_start = None
+                self._auto_paused = False
+                self._zero_since = None
+                self._send_power()
+            else:
+                self._zero_since = None
+
+        if not self._is_paused:
+            self._trackpoints.append(
+                (
+                    datetime.datetime.now(datetime.timezone.utc),
+                    watts,
+                    self._hr,
+                    self._cadence,
+                    physics_speed(watts),
+                )
+            )
 
     @property
     def _is_paused(self) -> bool:
@@ -762,6 +979,14 @@ class WahooApp(App):
                     yield Label("FTP", classes="tile-title")
                     yield Digits("---", id="ftp-val")
                     yield Label("W", classes="tile-unit")
+                with Vertical(id="power-source-tile", classes="tile"):
+                    yield Label("SOURCE POWER", classes="tile-title")
+                    yield Label("Trainer", classes="tile-unit")
+                    yield Digits("---", id="trainer-power-val")
+                    yield Label("Secondary", classes="tile-unit")
+                    yield Digits("---", id="power-meter-power-val")
+                    yield Label("Bias", classes="tile-unit")
+                    yield Label("---", id="power-bias-val")
                 with Vertical(id="mode-tile"):
                     yield Label("⚡ ERG  ON", id="mode-label")
             with Vertical(id="left"):
@@ -804,6 +1029,8 @@ class WahooApp(App):
             asyncio.create_task(self._hr_loop())
         if self._cadence_address:
             asyncio.create_task(self._cadence_loop())
+        if self._power_address:
+            asyncio.create_task(self._power_loop())
         self.set_interval(0.25, self._refresh)
 
     def _refresh(self) -> None:
@@ -848,6 +1075,19 @@ class WahooApp(App):
 
         # FTP display
         self.query_one("#ftp-val", Digits).update(str(self._ftp))
+
+        # Power source display
+        self.query_one("#trainer-power-val", Digits).update(
+            str(self._trainer_power) if self._trainer_power > 0 else "---"
+        )
+        self.query_one("#power-meter-power-val", Digits).update(
+            str(self._power_meter_power) if self._power_meter_power > 0 else "---"
+        )
+        self.query_one("#power-bias-val", Label).update(
+            f"{self._power_meter_bias:.3f}"
+            if self._power_meter_connected
+            else "---"
+        )
 
         # ERG mode tile
         mode_lbl = self.query_one("#mode-label", Label)
@@ -1005,63 +1245,9 @@ class WahooApp(App):
 
         def on_measurement(char: BleakGATTCharacteristic, data: bytearray) -> None:
             watts, crank_data = parse_power(data)
-            self._actual = watts
-            if not self._is_paused:
-                self._history.append(watts)
-                if len(self._history) > 300:
-                    self._history.pop(0)
-
-            if crank_data is not None:
-                cumulative_crank_revs, last_crank_event_time = crank_data
-                if (
-                    self._last_crank_revs is not None
-                    and self._last_crank_event_time is not None
-                ):
-                    delta_revs = (
-                        cumulative_crank_revs - self._last_crank_revs
-                    ) & 0xFFFF
-                    delta_time = (
-                        last_crank_event_time - self._last_crank_event_time
-                    ) & 0xFFFF
-                    if delta_time > 0:
-                        self._cadence = int(60.0 * delta_revs / (delta_time / 1024.0))
-                self._last_crank_revs = cumulative_crank_revs
-                self._last_crank_event_time = last_crank_event_time
-
-            now = time.monotonic()
-            if watts == 0:
-                if self._zero_since is None:
-                    self._zero_since = now
-                elif (
-                    not self._auto_paused
-                    and (now - self._zero_since) >= _AUTO_PAUSE_GRACE
-                ):
-                    # auto-pause: freeze workout clock
-                    self._auto_paused = True
-                    if self._pause_start is None:
-                        self._pause_start = now
-            else:
-                if self._auto_paused:
-                    # auto-resume
-                    if self._pause_start is not None:
-                        self._paused_elapsed += now - self._pause_start
-                        self._pause_start = None
-                    self._auto_paused = False
-                    self._zero_since = None
-                    self._send_power()
-                else:
-                    self._zero_since = None
-
-            if not self._is_paused:
-                self._trackpoints.append(
-                    (
-                        datetime.datetime.now(datetime.timezone.utc),
-                        watts,
-                        self._hr,
-                        self._cadence,
-                        physics_speed(watts),
-                    )
-                )
+            self._handle_power_measurement(
+                watts, crank_data, source="trainer", raw_data=bytes(data)
+            )
 
         async with BleakClient(self._address) as client:
             self._client = client
@@ -1089,8 +1275,9 @@ class WahooApp(App):
                         char: BleakGATTCharacteristic, data: bytearray
                     ) -> None:
                         _, cad = parse_indoor_bike_data(data)
-                        if cad is not None:
+                        if cad is not None and 0 < cad < 250 and self._actual > 0:
                             self._cadence = cad
+                            self._cadence_seen = True
 
                     await client.start_notify(FTMS_INDOOR_BIKE_DATA, on_indoor_bike)
 
@@ -1114,6 +1301,36 @@ class WahooApp(App):
                 await client.stop_notify(HR_MEASUREMENT)
         except Exception:
             pass  # HR is optional; don't crash the app
+
+    async def _power_loop(self) -> None:
+        assert self._power_address is not None
+        self._power_meter_connected = False
+        try:
+            console.print(
+                f"[dim]Connecting to secondary power source at {self._power_address}...[/dim]"
+            )
+            async with BleakClient(self._power_address) as client:
+
+                def on_measurement(
+                    char: BleakGATTCharacteristic, data: bytearray
+                ) -> None:
+                    watts, crank_data = parse_power(data)
+                    self._handle_power_measurement(
+                        watts,
+                        crank_data,
+                        source="power_meter",
+                        raw_data=bytes(data),
+                    )
+
+                await client.start_notify(CYCLING_POWER_MEASUREMENT, on_measurement)
+                self._power_meter_connected = True
+                console.print(f"[green]Secondary power source connected![/green]")
+                await self._quit_event.wait()
+                await client.stop_notify(CYCLING_POWER_MEASUREMENT)
+        except Exception as e:
+            console.print(f"[yellow]Secondary power source connection failed: {e}[/yellow]")
+        finally:
+            self._power_meter_connected = False
 
     async def _cadence_loop(self) -> None:
         assert self._cadence_address is not None
@@ -1269,7 +1486,15 @@ def main() -> None:
     if address:
         hr_address = asyncio.run(find_hr_monitor())
         cadence_address = asyncio.run(find_cadence_sensor())
-        WahooApp(address, workout, hr_address, cadence_address, ftp).run()
+        power_address = asyncio.run(find_power_meter(address))
+        WahooApp(
+            address,
+            workout,
+            hr_address,
+            cadence_address,
+            ftp,
+            power_address,
+        ).run()
 
 
 if __name__ == "__main__":

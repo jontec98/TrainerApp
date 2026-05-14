@@ -2,13 +2,12 @@
   "name": "3x15",
   "note": "3x15 @ 100% FTP.",
   "intervals": [
-    { "duration": 400, "power": 0.5, "note": "warm-up ramp" },
+    { "duration": 400, "power": 0.75, "type": "ramp", "note": "warm-up ramp" },
     { "duration": 900, "power": 1.0, "note": "15-min block" },
     { "duration": 300, "power": 0.5, "note": "5-min rest" },
     { "duration": 900, "power": 1.0, "note": "15-min block" },
     { "duration": 300, "power": 0.5, "note": "5-min rest" },
     { "duration": 900, "power": 1.0, "note": "15-min block" },
-    { "duration": 300, "power": 0.5, "note": "5-min rest" },
-    { "duration": 400, "power": 0.5, "note": "cool-down" }
+    { "duration": 300, "power": 0.5, "note": "5-min rest" }
   ]
 }

@@ -2,7 +2,7 @@
   "name": "30/30 Intervals",
   "note": "3 sets of 10 reps. Combines aerobic and neuromuscular demand.",
   "intervals": [
-    { "duration": 600, "power": 0.60, "note": "warm-up" },
+    { "duration": 400, "power": 0.60, "note": "warm-up" },
     { "duration": 120, "power": 0.96, "type": "ramp", "note": "ramp up" },
 
     { "duration":  30, "power": 1.28, "note": "set 1 rep 1" },
@@ -77,7 +77,7 @@
     { "duration":  30, "power": 0.40 },
     { "duration":  30, "power": 1.28 },
     { "duration":  30, "power": 0.40 },
-
-    { "duration": 600, "power": 0.48, "type": "ramp", "note": "cool-down" }
+    { "duration":  10, "power": 0.80 },
+    { "duration": 300, "power": 0.40, "type": "ramp", "note": "cool-down" }
   ]
 }
