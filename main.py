@@ -1257,8 +1257,6 @@ class WahooApp(App):
                 try:
                     await ftms_request_control(client)
                     await ftms_start(client)
-                    if self._erg_enabled:
-                        await ftms_set_power(client, self._target)
                 except Exception:
                     self._has_ftms = False
 
