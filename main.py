@@ -816,9 +816,16 @@ class WahooApp(App):
         self._power_meter_raw = ""
         self._trainer_debug = ""
         self._power_meter_debug = ""
-        self._target = (
-            _power_from_ftp(workout.intervals[0].power, self._ftp) if workout else 200
-        )
+        if workout:
+            interval = workout.intervals[0]
+            interval_power = _power_from_ftp(interval.power, self._ftp)
+            prev_power_watts = _power_from_ftp(0.5, self._ftp)  # default for first interval
+            if interval.ramp:
+                self._target = prev_power_watts
+            else:
+                self._target = interval_power
+        else:
+            self._target = 130
         self._actual = 0
         self._history: list[int] = []
         self._offset = 0
@@ -1257,6 +1264,8 @@ class WahooApp(App):
                 try:
                     await ftms_request_control(client)
                     await ftms_start(client)
+                    if self._erg_enabled:
+                        await ftms_set_power(client, 0)  # Start with no resistance
                 except Exception:
                     self._has_ftms = False
 
