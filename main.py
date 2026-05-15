@@ -810,8 +810,6 @@ class WahooApp(App):
         self._power_meter_last_seen: float | None = None
         self._trainer_power = 0
         self._power_meter_power = 0
-        self._power_meter_smooth = 0
-        self._power_meter_bias = 1.0
         self._trainer_raw = ""
         self._power_meter_raw = ""
         self._trainer_debug = ""
@@ -825,7 +823,7 @@ class WahooApp(App):
             else:
                 self._target = interval_power
         else:
-            self._target = 130
+            self._target = 100
         self._actual = 0
         self._history: list[int] = []
         self._offset = 0
@@ -867,18 +865,7 @@ class WahooApp(App):
             self._power_meter_debug = (
                 f"flags={debug['flags']} len={debug['length']} exp={debug['expected_length']} {debug['note']}"
             )
-            if self._power_meter_smooth == 0:
-                self._power_meter_smooth = watts
-            else:
-                self._power_meter_smooth = int(
-                    self._power_meter_smooth * 0.85 + watts * 0.15
-                )
-            if self._trainer_power > 0 and watts > 0:
-                ratio = self._trainer_power / watts
-                self._power_meter_bias = (
-                    self._power_meter_bias * 0.9 + ratio * 0.1
-                )
-            actual_value = int(self._power_meter_smooth * self._power_meter_bias)
+            actual_value = self._trainer_power
 
         if source == "trainer":
             self._trainer_power = watts
@@ -887,19 +874,6 @@ class WahooApp(App):
             self._trainer_debug = (
                 f"flags={debug['flags']} len={debug['length']} exp={debug['expected_length']} {debug['note']}"
             )
-            if self._power_meter_power > 0 and watts > 0:
-                ratio = watts / self._power_meter_power
-                self._power_meter_bias = (
-                    self._power_meter_bias * 0.9 + ratio * 0.1
-                )
-
-        if source == "trainer" and self._power_address and self._power_meter_connected:
-            if (
-                self._power_meter_last_seen is not None
-                and (time.monotonic() - self._power_meter_last_seen) < 5.0
-                and self._power_meter_last_watts > 0
-            ):
-                return
 
         self._actual = actual_value
         if not self._is_paused:
@@ -986,14 +960,6 @@ class WahooApp(App):
                     yield Label("FTP", classes="tile-title")
                     yield Digits("---", id="ftp-val")
                     yield Label("W", classes="tile-unit")
-                with Vertical(id="power-source-tile", classes="tile"):
-                    yield Label("SOURCE POWER", classes="tile-title")
-                    yield Label("Trainer", classes="tile-unit")
-                    yield Digits("---", id="trainer-power-val")
-                    yield Label("Secondary", classes="tile-unit")
-                    yield Digits("---", id="power-meter-power-val")
-                    yield Label("Bias", classes="tile-unit")
-                    yield Label("---", id="power-bias-val")
                 with Vertical(id="mode-tile"):
                     yield Label("⚡ ERG  ON", id="mode-label")
             with Vertical(id="left"):
@@ -1005,6 +971,10 @@ class WahooApp(App):
                     with Vertical(id="actual-tile", classes="power-tile"):
                         yield Label("ACTUAL", classes="tile-title")
                         yield Digits("---", id="actual-val")
+                        yield Label("W", classes="tile-unit")
+                    with Vertical(id="secondary-tile", classes="power-tile"):
+                        yield Label("SECONDARY", classes="tile-title")
+                        yield Digits("---", id="secondary-val")
                         yield Label("W", classes="tile-unit")
                 with Vertical(id="metrics-tile", classes="tile"):
                     yield Label("POWER", classes="tile-title")
@@ -1083,17 +1053,8 @@ class WahooApp(App):
         # FTP display
         self.query_one("#ftp-val", Digits).update(str(self._ftp))
 
-        # Power source display
-        self.query_one("#trainer-power-val", Digits).update(
-            str(self._trainer_power) if self._trainer_power > 0 else "---"
-        )
-        self.query_one("#power-meter-power-val", Digits).update(
+        self.query_one("#secondary-val", Digits).update(
             str(self._power_meter_power) if self._power_meter_power > 0 else "---"
-        )
-        self.query_one("#power-bias-val", Label).update(
-            f"{self._power_meter_bias:.3f}"
-            if self._power_meter_connected
-            else "---"
         )
 
         # ERG mode tile
